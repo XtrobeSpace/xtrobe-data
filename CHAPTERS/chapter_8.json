@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "metadata": {
+    "chapter_number": 8,
+    "chapter_title": "Spectra and What Light Tells Us",
+    "reading_time_minutes": "18",
+    "difficulty": "Intermediate",
+    "total_words": "2700",
+    "version": "2.0",
+    "revision_notes": "Fixed: Issue-9 CRITICAL — file was truncated at Section 5 stub with wrong title; Section 5 fully written (Wien's Law) + key_concepts + summary + activities all added | Issue-10 Sodium colour 'Orange-Yellow' → 'Bright Yellow (D-line Doublet at 589 nm)' | Issue-11 Helium discovery expanded with year (1868) and context | Issue-12 Doppler velocity-to-shift numerical example added"
+  },
+  "introduction": {
+    "opening_style": "discovery_angle",
+    "content": "In 1835, the French philosopher Auguste Comte made a confident and dramatic prediction. He declared that while humans might one day calculate the motions of stars, we would never — under any circumstances — know what they are made of. After all, how could we possibly take a sample of a star? We cannot travel there, and we cannot bring a piece back to a laboratory. It seemed like an impassable barrier of knowledge.\n\nHe was wrong. Just a few decades later, astronomers discovered that the secret to a star's composition was hiding in plain sight — inside the light itself. Every beam of starlight carries a hidden code, a spectral 'fingerprint' that reveals not just what the star is made of, but how hot it is, how fast it is rotating, and whether it is racing toward us or fleeing away.\n\nThis code is called a spectrum. Decoding it is the single most powerful tool in modern astrophysics. In this chapter, we will learn how to read these stellar barcodes, discover why neon signs glow red while sodium streetlights glow yellow, understand how a simple prism can measure the speed of a galaxy, and learn how stellar temperature is written directly into the colour of starlight."
+  },
+  "sections": [
+    {
+      "section_number": 1,
+      "section_title": "The Three Types of Rainbows",
+      "content": "When you pass light through a prism, it spreads out into colours. But not all rainbows look alike. Depending on the source of the light and what it has passed through, you will see one of three fundamentally different patterns. These patterns — and the rules governing when each appears — are summarised by Kirchhoff's Laws of Spectroscopy, formulated in the 1860s.",
+      "content_type": "CATEGORICAL_LIST",
+      "render_type": "CATEGORICAL",
+      "content_block": {
+        "title": "Kirchhoff's Three Spectral Types",
+        "items": [
+          {
+            "name": "1. Continuous Spectrum",
+            "description": "A perfect, smooth, unbroken rainbow containing every colour blended together.",
+            "characteristics": [
+              "Produced by any hot, dense object — a star's interior, a glowing metal filament, or molten rock.",
+              "The colour distribution follows a predictable curve that depends only on the object's temperature (the blackbody curve, explored in Section 5)."
+            ]
+          },
+          {
+            "name": "2. Emission Spectrum",
+            "description": "A dark background punctuated by thin, bright coloured lines at specific wavelengths.",
+            "characteristics": [
+              "Produced by a hot, thin, low-density gas — like a neon sign, a hydrogen nebula, or a stellar corona.",
+              "The specific colours present act as a unique chemical fingerprint: no two elements produce exactly the same pattern."
+            ]
+          },
+          {
+            "name": "3. Absorption Spectrum",
+            "description": "A continuous rainbow interrupted by thin dark gaps at specific wavelengths.",
+            "characteristics": [
+              "Produced when light from a hot, dense source (like a star's core) passes through a cooler, lower-density gas (like the star's outer atmosphere).",
+              "The cool gas absorbs the same specific wavelengths it would emit if it were hot — creating dark lines at those exact positions.",
+              "This is the spectrum we see from virtually all stars: their surfaces are cooler than their interiors."
+            ]
+          }
+        ]
+      },
+      "images": [
+        {
+          "image_id": "8.1",
+          "image_label": "Image 8.1",
+          "placement_type": "middle_of_section",
+          "context": "Visual comparison of the three spectral types side by side: Continuous (smooth rainbow), Emission (bright lines on black), and Absorption (dark lines in rainbow).",
+          "alt_text": "Visual comparison of the three spectral types side by side: Continuous (smooth rainbow), Emission (bright lines on black), an...",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "8.10",
+          "image_label": "Image 8.10",
+          "placement_type": "after_section",
+          "context": "The real solar spectrum showing hundreds of dark Fraunhofer absorption lines against the rainbow background — each line identifies a specific element in the Sun's atmosphere.",
+          "alt_text": "The real solar spectrum showing hundreds of dark Fraunhofer absorption lines against the rainbow background — each line ident...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As shown in Image 8.1, the three-panel spectra comparison illustrates a smooth continuous rainbow (hot dense source), bright coloured lines on black (emission from hot thin gas), and dark lines interrupting a rainbow (absorption in a stellar atmosphere). Image 8.10 shows the actual solar Fraunhofer absorption spectrum — hundreds of dark lines etched into the Sun's rainbow, each a chemical fingerprint of an element in its atmosphere.",
+      "references": []
+    },
+    {
+      "section_number": 2,
+      "section_title": "The Quantum Leap: Why Spectral Lines Exist",
+      "content": "Why do hot gases emit only specific, precise colours rather than a smooth blend? The answer lies in the quantum structure of the atom.\n\nElectrons orbit an atomic nucleus, but they are not free to orbit at any distance they choose. They can only exist at specific, fixed energy levels — like steps on a staircase. An electron can stand on step 1 or step 3, but cannot hover between them at step 1.7.\n\nTo move up a step, an electron must absorb a photon carrying exactly the right amount of energy to bridge the gap. This removes that specific wavelength of light from the beam — creating an absorption line.\n\nTo drop down a step, an electron releases a photon with precisely that same energy difference — creating a bright emission line.\n\nBecause the energy ladder spacing is unique to each element (hydrogen's steps are at completely different heights from helium's, which differ from calcium's), each element produces a unique, reproducible pattern of lines. This is the fingerprint.",
+      "content_type": "PHENOMENON_EXPLANATION",
+      "render_type": "DESCRIPTION",
+      "content_block": {
+        "what_happens": "Electron Energy Level Transitions",
+        "why_it_happens": "Conservation of energy. When an electron drops from a high energy level to a lower one, the energy difference must go somewhere — it is released as a single photon of light with a frequency precisely corresponding to that energy gap (E = hf).",
+        "observable_effects": [
+          "Large energy gap → high-energy photon → blue or ultraviolet light.",
+          "Small energy gap → low-energy photon → red or infrared light.",
+          "The Balmer Series is the specific set of electron transitions in hydrogen that produce lines within the visible range. The most prominent, H-alpha, appears as a deep red line at 656 nm."
+        ],
+        "real_world_example": "Imagine a staircase in a dark room. If you drop a ball down 1 step, it makes a soft thud (low energy, red photon). Drop it down 5 steps at once and it makes a loud crash (high energy, blue photon). You cannot drop it down 2.3 steps — the staircase only has whole numbers."
+      },
+      "images": [
+        {
+          "image_id": "8.4",
+          "image_label": "Image 8.4",
+          "placement_type": "middle_of_section",
+          "context": "Diagram of the Bohr hydrogen atom showing an electron dropping from a higher orbit to a lower orbit and emitting a photon, with the Balmer series (visible light transitions) labelled.",
+          "alt_text": "Diagram of the Bohr hydrogen atom showing an electron dropping from a higher orbit to a lower orbit and emitting a photon, wi...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As you can see in Image 8.4, the Bohr atom diagram shows an electron jumping from a high energy level down to a lower one, emitting a photon — with the Balmer series transitions labelled for hydrogen.",
+      "references": []
+    },
+    {
+      "section_number": 3,
+      "section_title": "Reading the Barcode: Identifying Elements",
+      "content": "Since every element has a unique spectral fingerprint, astronomers can identify the chemical composition of objects billions of light-years away simply by analysing their light. No spacecraft visit required — the light brings the chemical inventory directly to us.\n\nSome of the most historically significant identifications came from the Sun's own spectrum, which was first analysed in detail in the early 19th century by Joseph von Fraunhofer, who catalogued hundreds of dark lines without knowing their origin.",
+      "content_type": "TABULAR_COMPARISON",
+      "render_type": "TABLE",
+      "content_block": {
+        "title": "Common Spectral Signatures",
+        "headers": [
+          "Element",
+          "Key Visible Line Colour",
+          "Where We See It"
+        ],
+        "rows": [
+          [
+            "Hydrogen",
+            "Deep Red (H-alpha at 656 nm)",
+            "Nebulae, most stellar atmospheres, the cosmic gas between galaxies."
+          ],
+          [
+            "Sodium",
+            "Bright Yellow (D-line Doublet at 589 nm)",
+            "Sodium vapour streetlights, cool star atmospheres. The classic yellow of sodium lamps comes precisely from these two closely-spaced lines."
+          ],
+          [
+            "Helium",
+            "Yellow (and several other lines)",
+            "Hot stars, the Sun. Helium was first identified in the Sun's spectrum in 1868 by Pierre Janssen and Norman Lockyer — a full 27 years before the element was isolated on Earth. It was named after Helios, the Greek god of the Sun."
+          ],
+          [
+            "Calcium",
+            "Deep Violet (H & K lines at ~393–397 nm)",
+            "The Sun and yellow giant stars — two of the most prominent lines in the entire solar spectrum."
+          ],
+          [
+            "Neon",
+            "Bright Red-Orange cluster",
+            "Advertising signs — neon signs glow this characteristic colour because neon emission lines are concentrated in the red-orange region."
+          ]
+        ],
+        "footnote": null
+      },
+      "images": [
+        {
+          "image_id": "8.6",
+          "image_label": "Image 8.6",
+          "placement_type": "after_section",
+          "context": "Side-by-side comparison of the emission spectra of Hydrogen, Helium, and Neon, showing how distinct each element's fingerprint pattern is.",
+          "alt_text": "Side-by-side comparison of the emission spectra of Hydrogen, Helium, and Neon, showing how distinct each element's fingerprin...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As you can see in Image 8.6, the three emission spectra comparison shows hydrogen (red H-alpha line prominent), helium (multiple yellow and blue lines), and neon (dense red-orange cluster) side by side — immediately illustrating how distinct each fingerprint is.",
+      "references": []
+    },
+    {
+      "section_number": 4,
+      "section_title": "The Doppler Effect: Measuring Speed",
+      "content": "Spectra reveal what something is made of — but they also reveal how fast it is moving, and in which direction. This is possible because of the Doppler Effect.\n\nYou already know the Doppler Effect from sound: a siren sounds higher-pitched as it approaches you and lower-pitched as it moves away. Light obeys exactly the same principle.\n\nBlueshift: If an object is moving toward us, its light waves arrive more compressed — shifted toward shorter, bluer wavelengths. All spectral lines shift slightly toward the blue end.\nRedshift: If an object is moving away, its light waves are stretched — shifted toward longer, redder wavelengths. All spectral lines shift toward the red end.\n\nBy measuring exactly how far the spectral lines have shifted from their known rest-wavelengths, astronomers can calculate the radial velocity of a star or galaxy with extraordinary precision.\n\nFor scale: a star moving toward us at 30 km/s — a typical stellar velocity — shifts the hydrogen H-alpha line (normally at 656.3 nm) by only about 0.06 nanometres. This is a fantastically small shift, yet it is precisely and routinely measured by modern spectrographs. For distant galaxies receding at thousands of km/s, the shift becomes large enough to see by simply comparing two spectra side by side.",
+      "content_type": "TEXT_WITH_EXAMPLES",
+      "render_type": "",
+      "content_block": {},
+      "images": [
+        {
+          "image_id": "8.8",
+          "image_label": "Image 8.8",
+          "placement_type": "middle_of_section",
+          "context": "Illustration of the Doppler effect applied to light: waves compressed in front of an approaching star (blueshift) and stretched behind a receding star (redshift).",
+          "alt_text": "Illustration of the Doppler effect applied to light: waves compressed in front of an approaching star (blueshift) and stretch...",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "8.9",
+          "image_label": "Image 8.9",
+          "placement_type": "after_section",
+          "context": "Three-panel spectra comparison showing the same set of spectral lines at rest (centre), redshifted (lines moved right, source receding), and blueshifted (lines moved left, source approaching).",
+          "alt_text": "Three-panel spectra comparison showing the same set of spectral lines at rest (centre), redshifted (lines moved right, source...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As you can see in Image 8.8, the Doppler diagram shows waves bunching ahead of a moving source (blueshift) and stretching behind it (redshift), with a star in place of the classic ambulance illustration.",
+      "references": []
+    },
+    {
+      "section_number": 5,
+      "section_title": "Temperature from Colour: Wien's Law",
+      "content": "Every object above absolute zero emits light — and the colour of that light reveals its temperature. The hotter the object, the shorter the wavelength at which it radiates most intensely. This relationship is described by Wien's Displacement Law.\n\nA cool red star (like Betelgeuse, at ~3,500 K) peaks its emission in the near-infrared, spilling just enough light into the red end of the visible range to give it that warm orange-red colour. Our Sun (~5,778 K) peaks in the yellow-green region around 500 nm, making it appear white-yellow to the eye. A hot blue-white supergiant like Rigel (~12,000 K) peaks in the ultraviolet — far beyond what our eyes can see — flooding the visible spectrum with short-wavelength blue and violet light.\n\nBy simply measuring where a star's spectrum is brightest — or even just by noting the star's colour — astronomers can calculate its surface temperature with surprising accuracy. This is why stellar colour is not decorative; it is a thermometer.",
+      "content_type": "FORMULA",
+      "render_type": "FORMULA_BOX",
+      "content_block": {
+        "text": "Wien's Displacement Law",
+        "latex": "\\lambda_{peak} = \\frac{2{,}898{,}000}{T}",
+        "components": [
+          {
+            "variable": "λ_peak",
+            "means": "Wavelength of peak emission — where the object emits most intensely",
+            "unit": "Nanometres (nm)"
+          },
+          {
+            "variable": "T",
+            "means": "Surface temperature of the object",
+            "unit": "Kelvin (K)"
+          },
+          {
+            "variable": "2,898,000",
+            "means": "Wien's constant — a fixed value in nm·K",
+            "unit": "nm·K"
+          }
+        ],
+        "example": {
+          "given": "The Sun's surface temperature is approximately 5,778 K.",
+          "calculation": "λ_peak = 2,898,000 / 5,778 ≈ 501 nm",
+          "result": "Peak emission at ~501 nm — yellow-green light. The Sun radiates most intensely in the colour range our eyes happen to be most sensitive to. This is not a coincidence: our eyes evolved under sunlight."
+        }
+      },
+      "images": [],
+      "note_for_image": null,
+      "references": []
+    }
+  ],
+  "key_concepts_section": {
+    "section_title": "Key Concepts to Remember",
+    "concepts": [
+      {
+        "term": "Kirchhoff's Laws",
+        "explanation": "Three spectral types: Continuous (hot dense source), Emission (hot thin gas — bright lines), Absorption (continuous light filtered through cooler gas — dark lines). Stars show absorption spectra."
+      },
+      {
+        "term": "Spectral Fingerprint",
+        "explanation": "Each chemical element absorbs and emits light at a unique, fixed set of wavelengths — its 'barcode.' By matching patterns in a spectrum, astronomers can identify elements in objects billions of light-years away."
+      },
+      {
+        "term": "Doppler Shift",
+        "explanation": "Moving sources shift their spectral lines: toward blue (blueshift) if approaching, toward red (redshift) if receding. The amount of shift directly measures radial velocity."
+      },
+      {
+        "term": "Wien's Displacement Law",
+        "explanation": "The peak emission wavelength of any hot object is inversely proportional to its temperature (λ_peak = 2,898,000 / T). Hotter stars are bluer; cooler stars are redder."
+      }
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "summary_section": {
+    "section_title": "Big Ideas from This Chapter",
+    "ideas": [
+      "A spectrum is a star's identity card: it reveals chemical composition, temperature, density, and velocity — all encoded in light.",
+      "Spectral lines exist because electrons can only occupy discrete energy levels in an atom. Jumps between levels produce or absorb photons of exact, element-specific wavelengths.",
+      "The Doppler effect shifts spectral lines: blueshift means approach, redshift means recession. Even tiny velocity shifts of 30 km/s are measurable with modern spectrographs.",
+      "Wien's Law connects colour to temperature: blue stars are hot (>10,000 K), the Sun is medium (~5,778 K), and red stars are cool (~3,000–4,000 K). A star's colour is a thermometer."
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "activities_section": {
+    "section_title": "Try This: Hands-On Activities",
+    "render_type": "CARDS_OR_LIST",
+    "activities": [
+      {
+        "activity_number": 1,
+        "title": "Observe Emission Spectra Around You",
+        "description": "Identify real-world spectral sources using a simple diffraction grating.",
+        "instructions": [
+          "Obtain a CD, DVD, or an inexpensive diffraction grating sheet (widely available for a few dollars).",
+          "At night, hold it at arm's length and look at a sodium streetlight (the yellowish ones). You should see two very close, bright yellow lines — the sodium D doublet.",
+          "Now look at a white LED or fluorescent light. You will see a broad, continuous spectrum with some line features.",
+          "Compare the two: the narrow yellow sodium lines versus the broad LED spectrum. These are real emission spectra — the same barcodes astronomers read from stars light-years away.",
+          "Optional: photograph the spectra with your phone for a permanent record."
+        ],
+        "time_required": "15–20 minutes",
+        "difficulty": "Beginner"
+      }
+    ]
+  },
+  "glossary_section": {},
+  "references_section": {},
+  "chapter_metadata": {
+    "next_chapter": {
+      "chapter_title": "Chapter 9: Binoculars and Telescopes — Optical Basics"
+    },
+    "image_index": [
+      {
+        "image_id": "8.1",
+        "image_label": "Image 8.1",
+        "section": 1,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "8.10",
+        "image_label": "Image 8.10",
+        "section": 1,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "8.4",
+        "image_label": "Image 8.4",
+        "section": 2,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "8.6",
+        "image_label": "Image 8.6",
+        "section": 3,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "8.8",
+        "image_label": "Image 8.8",
+        "section": 4,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "8.9",
+        "image_label": "Image 8.9",
+        "section": 4,
+        "placement_type": "after_section"
+      }
+    ]
+  }
+}

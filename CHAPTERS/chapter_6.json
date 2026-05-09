@@ -1,0 +1,374 @@
+{
+  "schema_version": "1.0.0",
+  "metadata": {
+    "chapter_number": 6,
+    "chapter_title": "Understanding Light and Electromagnetic Radiation",
+    "reading_time_minutes": "18",
+    "difficulty": "Beginner",
+    "total_words": "2650",
+    "version": "2.0",
+    "revision_notes": "Fixed: Issue-1 Venus magnitude -4.7 → -4.9 | Issue-2 Table column renamed 'Typical Source Temperature' + footnote added | Issue-3 Images 6.6 and 6.8 inserted into chapter body"
+  },
+  "introduction": {
+    "opening_style": "sensory_hook",
+    "content": "Imagine you are sitting in a perfectly dark room listening to a symphony. You can hear the deep thrum of the cellos and the high pitch of the violins. Now imagine you put in earplugs that block everything except the middle C note. The music would vanish, replaced by a boring, repetitive drone. You would miss the entire story the orchestra was telling.\n\nFor most of human history, astronomers were like that person with earplugs. We could only 'see' the universe using visible light — the tiny sliver of the spectrum our eyes evolved to detect. We missed the violent screams of black holes in X-rays, the cold whisper of dust in infrared, and the ancient hum of the Big Bang in radio waves.\n\nTo understand the universe, we must first understand the messenger that brings it to us: light. In this chapter, we will break down what light actually is, discover why it behaves like both a wave and a particle, and learn how astronomers use the entire 'keyboard' of the electromagnetic spectrum to hear the full symphony of the cosmos."
+  },
+  "sections": [
+    {
+      "section_number": 1,
+      "section_title": "What Is Light? The Wave-Particle Duality",
+      "content": "Light is genuinely strange. If you ask a physicist what light is, they may give you two different answers depending on the experiment.\n\nSometimes, light behaves like a Wave — think of ripples spreading across a pond. It has peaks and troughs, a frequency (how fast it vibrates), and a wavelength (the distance between peaks). This explains why light bends through a prism and why rainbows form.\n\nOther times, light behaves like a stream of particles called Photons — tiny packets of pure energy. This explains how solar panels work: photons hit the panel and knock electrons loose, generating a current.\n\nIn astronomy, we need both models. We use the wave model to understand spectra and to measure distances using the Doppler effect. We use the particle model to understand photon energy and why short-wavelength radiation is dangerous.",
+      "content_type": "PHENOMENON_EXPLANATION",
+      "render_type": "DESCRIPTION",
+      "content_block": {
+        "what_happens": "The Anatomy of a Wave",
+        "why_it_happens": "Light is a self-propagating oscillation of electric and magnetic fields — it does not need a medium to travel through, which is why it crosses the vacuum of space.",
+        "observable_effects": [
+          "Wavelength (λ): The distance between two consecutive peaks. Measured in metres or nanometres (nm). Determines the 'colour' or type of light.",
+          "Frequency (f): How many complete waves pass a fixed point per second. Measured in Hertz (Hz).",
+          "Speed (c): All light travels at the same speed in a vacuum — approximately 300,000 km/s, or about 186,000 miles per second."
+        ],
+        "real_world_example": "Think of a slinky. You can shake it slowly (long waves, low frequency) or rapidly (short waves, high frequency). Both waves travel down the slinky at the same speed regardless of how fast you shake it."
+      },
+      "images": [
+        {
+          "image_id": "6.3",
+          "image_label": "Image 6.3",
+          "placement_type": "middle_of_section",
+          "context": "Diagram illustrating wavelength and frequency on two sine waves: a short-wavelength high-frequency wave (gamma/X-ray) above and a long-wavelength low-frequency wave (radio) below, with the formula c = λ × f shown.",
+          "alt_text": "Diagram illustrating wavelength and frequency on two sine waves: a short-wavelength high-frequency wave (gamma/X-ray) above a...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As you can see in Image 6.3, two sine waves are shown side by side — a tightly packed high-frequency wave (gamma ray) versus a stretched low-frequency wave (radio) — illustrating how wavelength and frequency relate.",
+      "references": []
+    },
+    {
+      "section_number": 2,
+      "section_title": "The Electromagnetic Spectrum",
+      "content": "Visible light — the rainbow of colours we see — is just a tiny fraction of what exists. The full range of light is called the Electromagnetic (EM) Spectrum.\n\nThe only physical difference between a Gamma Ray and a Radio Wave is the length of the wave. Gamma rays are scrunched up tight (tiny wavelength, very high energy), while radio waves are stretched out to the length of buildings or longer (huge wavelength, very low energy). In between lies every other type of radiation known to physics.\n\nOur eyes evolved to detect the narrow band called visible light (roughly 400–700 nm) because the Sun happens to emit most intensely in this range. It is a cosmic coincidence we are well-adapted to exploit.",
+      "content_type": "CATEGORICAL_LIST",
+      "render_type": "CATEGORICAL",
+      "content_block": {
+        "title": "The 7 Types of Light (Highest Energy to Lowest)",
+        "items": [
+          {
+            "name": "1. Gamma Rays",
+            "description": "The most energetic radiation. Wavelengths smaller than the nucleus of an atom.",
+            "characteristics": [
+              "Produced by nuclear reactions, gamma-ray bursts, neutron star collisions, and matter near black holes.",
+              "Completely blocked by Earth's atmosphere — which is fortunate for life on the surface."
+            ]
+          },
+          {
+            "name": "2. X-Rays",
+            "description": "High-energy waves that can penetrate soft tissue.",
+            "characteristics": [
+              "Emitted by gas heated to millions of degrees — such as plasma falling into black holes.",
+              "Used in space telescopes (Chandra, XMM-Newton) to study extreme cosmic events."
+            ]
+          },
+          {
+            "name": "3. Ultraviolet (UV)",
+            "description": "Invisible radiation just beyond the violet end of the visible range.",
+            "characteristics": [
+              "Emitted strongly by hot, young, blue-white stars.",
+              "Mostly blocked by Earth's ozone layer — the layer our atmosphere critically depends on."
+            ]
+          },
+          {
+            "name": "4. Visible Light",
+            "description": "The tiny slice our eyes can detect — roughly 400 nm (violet) to 700 nm (red).",
+            "characteristics": [
+              "Violet is the highest-energy visible colour; red is the lowest.",
+              "Most stars, including our Sun, emit a large fraction of their energy here."
+            ]
+          },
+          {
+            "name": "5. Infrared (IR)",
+            "description": "Heat radiation — invisible to our eyes but felt as warmth on the skin.",
+            "characteristics": [
+              "Infrared can pass through dust clouds that block visible light, revealing hidden star-forming regions inside.",
+              "Night vision devices and heat cameras detect infrared. JWST observes entirely in this band."
+            ]
+          },
+          {
+            "name": "6. Microwaves",
+            "description": "Waves between roughly 1 mm and 10 cm in wavelength.",
+            "characteristics": [
+              "The Cosmic Microwave Background (CMB) — a faint glow of microwave radiation filling the entire sky — is the leftover heat from the Big Bang, now cooled to just 2.7 K above absolute zero."
+            ]
+          },
+          {
+            "name": "7. Radio Waves",
+            "description": "The longest waves, ranging from baseball-sized to kilometres long.",
+            "characteristics": [
+              "Cold hydrogen gas, pulsars, and jets from black holes all emit radio waves.",
+              "Radio passes through the atmosphere freely and can be observed day or night from the ground."
+            ]
+          }
+        ]
+      },
+      "images": [
+        {
+          "image_id": "6.1",
+          "image_label": "Image 6.1",
+          "placement_type": "top_of_section",
+          "context": "Full chart of the Electromagnetic Spectrum showing all 7 bands, wavelength scale comparisons against everyday objects (atom to football field), energy/frequency/wavelength gradients, and atmospheric transparency windows.",
+          "alt_text": "Full chart of the Electromagnetic Spectrum showing all 7 bands, wavelength scale comparisons against everyday objects (atom t...",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "6.6",
+          "image_label": "Image 6.6",
+          "placement_type": "after_section",
+          "context": "Human eye sensitivity curve showing peak sensitivity at approximately 555 nm (green-yellow), falling off toward violet (400 nm) and red (700 nm). This explains why our 'visible window' is defined as it is — our eyes evolved to match the peak output of the Sun.",
+          "alt_text": "Human eye sensitivity curve showing peak sensitivity at approximately 555 nm (green-yellow), falling off toward violet (400 n...",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "6.2",
+          "image_label": "Image 6.2",
+          "placement_type": "after_section",
+          "context": "Zoomed-in diagram of the visible light spectrum (400–700 nm) showing each colour band labelled with its wavelength range.",
+          "alt_text": "Zoomed-in diagram of the visible light spectrum (400–700 nm) showing each colour band labelled with its wavelength range.",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As shown in Image 6.1, the full electromagnetic spectrum chart covers all seven bands with wavelength comparisons and atmospheric transparency windows. Image 6.6 shows the human eye sensitivity curve peaking at ~555 nm — explaining why our visible window is defined where it is. We can see in Image 6.2 the zoomed-in view of the visible portion (400–700 nm) with each colour band labelled.",
+      "references": []
+    },
+    {
+      "section_number": 3,
+      "section_title": "Why Wavelength Matters: The Inverse Relationship",
+      "content": "There is a fundamental rule in physics governing all electromagnetic radiation: the shorter the wavelength, the higher the energy.\n\nThis is why standing near a radio broadcast tower is harmless (long waves, very low energy), while exposure to X-rays requires lead shielding (short waves, high energy). It also gives astronomers a powerful diagnostic tool: if they detect X-rays from an object, they know something extremely hot and violent is happening. If they detect only radio waves, the source is likely cold, diffuse gas.\n\nThe mathematical relationship between speed, frequency, and wavelength is one of the most used formulas in astrophysics.",
+      "content_type": "FORMULA",
+      "render_type": "FORMULA_BOX",
+      "content_block": {
+        "text": "Relationship Between Speed, Frequency, and Wavelength",
+        "latex": "c = \\lambda \\times f",
+        "components": [
+          {
+            "variable": "c",
+            "means": "Speed of Light (a constant in vacuum)",
+            "unit": "300,000,000 m/s (3 × 10⁸ m/s)"
+          },
+          {
+            "variable": "λ (lambda)",
+            "means": "Wavelength — distance between two peaks",
+            "unit": "Metres (or nanometres for visible light)"
+          },
+          {
+            "variable": "f",
+            "means": "Frequency — waves passing a point per second",
+            "unit": "Hertz (Hz)"
+          }
+        ],
+        "example": {
+          "given": "Green light has a wavelength of roughly 500 nanometres (5 × 10⁻⁷ metres).",
+          "calculation": "f = c / λ\nf = 300,000,000 / 0.0000005",
+          "result": "≈ 600 Trillion Hertz (600 THz) — oscillating 600 million million times per second."
+        }
+      },
+      "images": [
+        {
+          "image_id": "6.4",
+          "image_label": "Image 6.4",
+          "placement_type": "after_section",
+          "context": "Diagram illustrating the photon energy relationship E = hf, showing a high-energy gamma photon (tight wave trail) versus a low-energy radio photon (stretched wave trail) side by side.",
+          "alt_text": "Diagram illustrating the photon energy relationship E = hf, showing a high-energy gamma photon (tight wave trail) versus a lo...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As you can see in Image 6.4, the photon energy comparison diagram shows a high-energy gamma-ray photon (tight waves, dangerous) beside a low-energy radio photon (stretched waves, safe), illustrating how E = hf works visually.",
+      "references": []
+    },
+    {
+      "section_number": 4,
+      "section_title": "The Atmosphere Problem: Windows to the Universe",
+      "content": "Earth's atmosphere is a shield against deadly radiation — essential for life, but frustrating for astronomers. Most of the electromagnetic spectrum is absorbed, scattered, or reflected before it reaches the ground. Only certain wavelength ranges, called Atmospheric Windows, get through.\n\nVisible Light: Passes through cleanly. Our eyes evolved precisely because of this window.\nRadio Waves: Pass through freely. Ground-based radio telescopes (like the VLA in New Mexico or FAST in China) exploit this window.\nInfrared: Mostly blocked by water vapour in the troposphere. Infrared telescopes must be placed on high, dry mountaintops or, ideally, in space (like JWST).\nUV, X-Ray, Gamma Ray: Completely blocked. These observations require space telescopes — Hubble (UV/optical), Chandra (X-ray), Fermi (gamma ray).",
+      "content_type": "TEXT_WITH_EXAMPLES",
+      "render_type": "",
+      "content_block": {},
+      "images": [
+        {
+          "image_id": "6.5",
+          "image_label": "Image 6.5",
+          "placement_type": "middle_of_section",
+          "context": "Atmospheric transparency diagram (NASA public domain) showing which wavelengths reach the ground (open windows: radio and visible) versus which are absorbed by the atmosphere at various altitudes.",
+          "alt_text": "Atmospheric transparency diagram (NASA public domain) showing which wavelengths reach the ground (open windows: radio and vis...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As you can see in Image 6.5, the atmospheric transparency chart clearly shows the radio and visible windows as open channels while all other bands are absorbed at varying atmospheric heights.",
+      "references": []
+    },
+    {
+      "section_number": 5,
+      "section_title": "Seeing the Unseen: Multi-Wavelength Astronomy",
+      "content": "To truly understand a cosmic object, astronomers must observe it in multiple wavelengths simultaneously — because each wavelength reveals a completely different physical process.\n\nThe Crab Nebula is a perfect example. In a backyard telescope it looks like a fuzzy smudge. In visible light, you see glowing gas. In X-rays, a spinning pulsar at the centre blazes into view. In radio, expanding shockwaves show the geometry of the original supernova explosion. In infrared, dusty filaments invisible to other bands appear. No single wavelength tells the complete story.\n\nModern astronomy is largely the practice of layering these perspectives — exactly like a doctor combining an X-ray (bones), an MRI (soft tissue), and a thermal scan (inflammation) to arrive at a full diagnosis.",
+      "content_type": "TABULAR_COMPARISON",
+      "render_type": "TABLE",
+      "content_block": {
+        "title": "What Different Wavelengths Reveal",
+        "headers": [
+          "Wavelength Band",
+          "Typical Source Temperature",
+          "Objects Commonly Revealed"
+        ],
+        "rows": [
+          [
+            "Radio",
+            "Very cold (< −200°C / < 73 K) OR extreme relativistic jets",
+            "Cold hydrogen gas clouds, pulsars, jets from black holes, CMB background radiation."
+          ],
+          [
+            "Infrared",
+            "Cool to warm (−100°C to ~1,000°C)",
+            "Dusty star nurseries, cool red dwarf stars, planetary systems forming around young stars."
+          ],
+          [
+            "Visible",
+            "Hot (3,000°C to ~10,000°C)",
+            "Normal main-sequence stars (like our Sun), ionised nebulae, galaxy starlight."
+          ],
+          [
+            "X-Ray",
+            "Extreme (> 1 million °C)",
+            "Gas falling into black holes, neutron star surfaces, hot gas in galaxy clusters."
+          ]
+        ],
+        "footnote": "Note: Many objects emit across multiple wavelength bands simultaneously. These temperature ranges represent the dominant emission regime for each band — not a strict limit. Radio waves, for example, are also produced by highly energetic relativistic jets at temperatures of billions of degrees."
+      },
+      "images": [
+        {
+          "image_id": "6.7",
+          "image_label": "Image 6.7",
+          "placement_type": "after_section",
+          "context": "Composite multi-wavelength image showing the same galaxy (or Crab Nebula) in visible, infrared, and X-ray — illustrating how each band reveals completely different structures.",
+          "alt_text": "Composite multi-wavelength image showing the same galaxy (or Crab Nebula) in visible, infrared, and X-ray — illustrating how ...",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "6.8",
+          "image_label": "Image 6.8",
+          "placement_type": "after_section",
+          "context": "Blackbody radiation curve preview — showing how peak emission wavelength shifts from red (cool stars) toward blue (hot stars) as temperature increases. Bridges to the spectrum and Wien's Law content in Chapter 8.",
+          "alt_text": "Blackbody radiation curve preview — showing how peak emission wavelength shifts from red (cool stars) toward blue (hot stars)...",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": "As shown in Image 6.7, the multi-wavelength composite of the Crab Nebula demonstrates how the same object appears radically different across radio, infrared, visible, and X-ray bands. Image 6.8 previews the blackbody radiation colour-temperature relationship — showing how a star's colour shifts from deep red (cool ~3,000 K) to electric blue (hot ~30,000 K) — a concept we will formalise using Wien's Law in Chapter 8.",
+      "references": []
+    }
+  ],
+  "key_concepts_section": {
+    "section_title": "Key Concepts to Remember",
+    "concepts": [
+      {
+        "term": "Electromagnetic Spectrum",
+        "explanation": "The complete range of light — from low-energy, long-wavelength radio waves to high-energy, short-wavelength gamma rays. Visible light is a tiny slice in the middle."
+      },
+      {
+        "term": "Photon",
+        "explanation": "A particle of light. Higher-frequency light consists of photons with more energy. This is expressed by E = hf (energy = Planck's constant × frequency)."
+      },
+      {
+        "term": "Wavelength",
+        "explanation": "The distance between two consecutive peaks of a wave. Shorter wavelength = higher energy = more dangerous radiation."
+      },
+      {
+        "term": "Atmospheric Window",
+        "explanation": "Specific wavelength ranges (radio and visible) that pass through Earth's atmosphere to the ground. All other wavelengths require space-based observatories."
+      }
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "summary_section": {
+    "section_title": "Big Ideas from This Chapter",
+    "ideas": [
+      "Light behaves simultaneously as both a wave (explaining spectra and diffraction) and a particle — the photon (explaining energy and solar panels).",
+      "Visible light is a tiny fraction of the full electromagnetic spectrum; radio and gamma rays are the same fundamental phenomenon at very different wavelengths.",
+      "Shorter wavelengths carry more energy — which is why UV, X-rays, and gamma rays are biologically damaging.",
+      "Most of the EM spectrum is blocked by Earth's atmosphere; observing the full universe requires telescopes in space."
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "activities_section": {
+    "section_title": "Try This: Hands-On Activities",
+    "render_type": "CARDS_OR_LIST",
+    "activities": [
+      {
+        "activity_number": 1,
+        "title": "Feel the Infrared",
+        "description": "Experience a form of invisible light with your own skin.",
+        "instructions": [
+          "Turn on a toaster or a radiant electric heater.",
+          "Hold your hand near it — but do not touch it.",
+          "Close your eyes. Notice the warmth on your skin before you see any visible glow.",
+          "That warmth is infrared radiation — invisible to your eyes but detected as heat by your skin's nerve endings.",
+          "This is exactly the same radiation JWST uses to image the distant universe — just at far, far lower intensities."
+        ],
+        "time_required": "2 minutes",
+        "difficulty": "Beginner"
+      }
+    ]
+  },
+  "glossary_section": {},
+  "references_section": {},
+  "chapter_metadata": {
+    "next_chapter": {
+      "chapter_title": "Chapter 7: Brightness — The Magnitude System"
+    },
+    "image_index": [
+      {
+        "image_id": "6.3",
+        "image_label": "Image 6.3",
+        "section": 1,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "6.1",
+        "image_label": "Image 6.1",
+        "section": 2,
+        "placement_type": "top_of_section"
+      },
+      {
+        "image_id": "6.6",
+        "image_label": "Image 6.6",
+        "section": 2,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "6.2",
+        "image_label": "Image 6.2",
+        "section": 2,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "6.4",
+        "image_label": "Image 6.4",
+        "section": 3,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "6.5",
+        "image_label": "Image 6.5",
+        "section": 4,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "6.7",
+        "image_label": "Image 6.7",
+        "section": 5,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "6.8",
+        "image_label": "Image 6.8",
+        "section": 5,
+        "placement_type": "after_section"
+      }
+    ]
+  }
+}

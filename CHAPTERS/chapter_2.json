@@ -1,0 +1,337 @@
+{
+  "schema_version": "1.0.0",
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "The Celestial Sphere and Your Local Sky",
+    "reading_time_minutes": "18",
+    "difficulty": "Beginner",
+    "total_words": "2600",
+    "version": "3.0",
+    "revision_notes": "v3.0: Image IDs unified to flat chapter-based numbering (2.1–2.7). source_type and source_url fields added. note_for_image references updated. Inline image references added naturally to content. Fixed: 2.A Canopus visibility latitude corrected, 2.B hemisphere qualifier added, 2.C Celestial Equator enhancement added."
+  },
+  "introduction": {
+    "opening_style": "sensory_hook",
+    "content": "Imagine standing in the middle of a vast, calm ocean on a crystal-clear night. If you look around, the water meets the sky in a perfect circle. If you look up, the stars seem to be pasted onto the inside of a gigantic, dark bowl covering you.\n\nFor thousands of years, this is exactly how humanity viewed the cosmos: as a literal sphere surrounding the Earth. While we now know that stars are scattered at vastly different depths in space — some a few light-years away, others thousands of light-years — this ancient model, known as the Celestial Sphere, is still the most useful tool astronomers use today.\n\nWhy? Because when you are pointing a telescope or describing a constellation, the distance to the star doesn't matter; only its direction does. In this chapter, we will learn the vocabulary of the sky. You will learn how to point to any object with precision using just your hands, how to read the dome above you, and why the North Star is the ultimate GPS for navigators throughout history."
+  },
+  "sections": [
+    {
+      "section_number": 1,
+      "section_title": "The Illusion of the Celestial Sphere",
+      "content": "The Celestial Sphere is a scientific fiction, but an incredibly useful one. It imagines that Earth sits at the center of a giant, transparent hollow ball, and all the stars are painted on the inside surface at an equal distance.\n\nEven though we know the Universe has tremendous depth, our eyes simply cannot perceive the three-dimensional distance to stars. To us, they all look like they are at the same distance 'up.' By treating the sky as a sphere, we can create a map — just like we map the surface of the Earth. Instead of cities and mountain ranges, we have stars and galaxies.\n\nTo navigate this map, we first need to define some landmarks relative to where you are standing. Image 2.1 shows the observer at the center of the celestial dome, with the horizon forming the base circle and the zenith pointing straight overhead — the three reference points you will use every time you go out observing.",
+      "content_type": "TEXT_ONLY",
+      "render_type": "",
+      "content_block": {},
+      "images": [
+        {
+          "image_id": "2.1",
+          "image_label": "Image 2.1",
+          "placement_type": "top_of_section",
+          "context": "3D diagram of a transparent dome (half-sphere) representing the celestial sphere from the observer's perspective. The observer (small human figure) stands at the exact center of the base circle. Key points labeled: ZENITH (top of dome), NADIR (below the observer through the ground, shown with dashed line), HORIZON (the circular base edge), and cardinal directions NORTH, SOUTH, EAST, WEST. A single bright star is shown on the inner dome surface. Semi-transparent blue dome, clean white label lines, slight 3D perspective tilt.",
+          "alt_text": "3D diagram of the celestial sphere showing an observer at the center with labeled horizon, zenith, nadir, and cardinal directions",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 2,
+      "section_title": "Navigating Your Local Sky",
+      "content": "No matter where you stand on Earth, your view of the heavens is defined by a few key reference points. These move with you — if you walk a mile, your Zenith shifts a mile with you.\n\nAs Image 2.4 shows, the Meridian arc runs from due North through the Zenith to due South, neatly dividing the sky into a rising Eastern half and a setting Western half — a reference line you will use constantly for timing observations.",
+      "content_type": "CATEGORICAL_LIST",
+      "render_type": "CATEGORICAL",
+      "content_block": {
+        "title": "Key Reference Points",
+        "items": [
+          {
+            "name": "The Zenith",
+            "description": "The point directly overhead — the very top of your personal sky dome.",
+            "characteristics": [
+              "Always exactly 90° above the horizon.",
+              "The opposite point, directly beneath your feet through the Earth, is called the Nadir."
+            ]
+          },
+          {
+            "name": "The Horizon",
+            "description": "The circular boundary where the sky appears to meet the ground.",
+            "characteristics": [
+              "Ideally, it is a flat circle sitting at 0° altitude.",
+              "In practice, trees, buildings, and hills often obstruct the true geometric horizon."
+            ]
+          },
+          {
+            "name": "The Meridian",
+            "description": "An imaginary arc running from due North, through the Zenith, to due South.",
+            "characteristics": [
+              "It divides the sky into an Eastern half (where objects are rising) and a Western half (where they are setting).",
+              "An object reaches its highest point in the sky — and is easiest to observe — when it crosses the Meridian."
+            ]
+          }
+        ]
+      },
+      "images": [
+        {
+          "image_id": "2.4",
+          "image_label": "Image 2.4",
+          "placement_type": "after_section",
+          "context": "Diagram of the observer's sky dome (transparent hemisphere, observer at center). A bright glowing arc runs from the North point on the horizon, up through the Zenith, and down to the South point — labeled THE MERIDIAN. The Eastern half is labeled 'RISING objects' and the Western half 'SETTING objects.' A small star on the meridian arc near the top is labeled 'Object at TRANSIT (highest point).' Dark blue background, white labels, N/S/E/W compass points on the horizon circle.",
+          "alt_text": "Diagram showing the Meridian arc cutting the sky from North to South through the Zenith, with Eastern rising and Western setting hemispheres labeled",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 3,
+      "section_title": "Pointing at Stars: The Alt-Az System",
+      "content": "If you see a bright object in the sky and want to direct a friend to it, saying 'it's over there' is not very helpful. Astronomers use a simple, practical system called Horizontal Coordinates — better known as Altitude and Azimuth, or the Alt-Az system. It is the celestial equivalent of using a compass combined with tilting your head.\n\nImage 2.2 makes this concrete: a star at Altitude 45° and Azimuth 90° (East) is shown with both measurement arcs drawn in, so you can see exactly how the two angles work together to pin down a precise sky location.",
+      "content_type": "PHENOMENON_EXPLANATION",
+      "render_type": "DESCRIPTION",
+      "content_block": {
+        "what_happens": "The Two Coordinates",
+        "why_it_happens": "To specify the location of any object on a sphere as seen from a specific point, you need exactly two angles: one describing how high up it is, and one describing which compass direction it lies in.",
+        "observable_effects": [
+          "Altitude (Alt): How high above the horizon? Measured in degrees. 0° is the horizon itself; 90° is the Zenith directly overhead.",
+          "Azimuth (Az): Which compass direction? Measured in degrees, clockwise from due North. North = 0°, East = 90°, South = 180°, West = 270°.",
+          "Example: A star sitting halfway up the sky in the East has Altitude 45°, Azimuth 90°."
+        ],
+        "real_world_example": "Think of a tank turret. It rotates horizontally in any direction (Azimuth) and the barrel tilts up and down (Altitude). Between those two movements, you can aim at anything."
+      },
+      "images": [
+        {
+          "image_id": "2.2",
+          "image_label": "Image 2.2",
+          "placement_type": "middle_of_section",
+          "context": "Educational diagram of the Altitude-Azimuth (Alt-Az) coordinate system. A transparent dome hemisphere with an observer at center. A star is plotted at approximately Alt 45°, Az 90° (East). A curved arrow along the horizon from North (0°) clockwise to East (90°) is labeled 'Azimuth = 90°'. A vertical arc from the horizon up to the star is labeled 'Altitude = 45°'. Azimuth tick marks labeled at 0°(N), 90°(E), 180°(S), 270°(W). A secondary example star at Alt 20°, Az 225° with dotted reference lines. Dark blue background, white labels.",
+          "alt_text": "Altitude-Azimuth coordinate system diagram showing how two angles pinpoint any object in the sky above the observer's horizon",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 4,
+      "section_title": "Measuring Angles with Your Hands",
+      "content": "You don't need a sextant or a protractor to measure angles in the sky. Your own hand, held at arm's length, provides a surprisingly accurate set of angular rulers. This works for almost everyone because people with longer arms tend to have proportionally larger hands, keeping the angular size approximately constant across most adults.\n\nImage 2.3 at the top of this section shows all four hand configurations side by side with degree labels, making it easy to practice the technique before you head outside.",
+      "content_type": "TABULAR_COMPARISON",
+      "render_type": "TABLE",
+      "content_block": {
+        "title": "The Hand-Span Ruler (Arm Fully Extended)",
+        "headers": [
+          "Hand Shape",
+          "Angular Size",
+          "Example Use"
+        ],
+        "rows": [
+          [
+            "Pinky fingertip width",
+            "~1°",
+            "Roughly the width of two Full Moons side by side"
+          ],
+          [
+            "Three middle fingers together",
+            "~5°",
+            "The gap between the two pointer stars of the Big Dipper"
+          ],
+          [
+            "Clenched fist",
+            "~10°",
+            "Height of the Big Dipper's bowl"
+          ],
+          [
+            "Shaka sign (pinky to thumb span)",
+            "~25°",
+            "Full length of the Big Dipper, handle included"
+          ]
+        ],
+        "footnote": null
+      },
+      "images": [
+        {
+          "image_id": "2.3",
+          "image_label": "Image 2.3",
+          "placement_type": "top_of_section",
+          "context": "Educational illustration of a human right hand held at arm's length against a dark night sky background. Four hand configurations shown side by side with annotation brackets and degree labels: (1) Pinky alone → '≈ 1°' with note '(width of 2 Full Moons)'; (2) Three middle fingers together → '≈ 5°'; (3) Full clenched fist → '≈ 10°'; (4) Open hand from pinky to thumb (Shaka) → '≈ 25°'. A small Moon icon next to the pinky for scale reference.",
+          "alt_text": "Hand-span ruler illustration showing four hand configurations at arm's length against the night sky with angular degree measurements labeled",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 5,
+      "section_title": "Why Stars Move: Diurnal Motion",
+      "content": "If you watch the sky for an hour, you will notice that the stars, the Sun, and the Moon all drift steadily from East to West. This is called Diurnal Motion. It is not because the sky is spinning; it is because Earth is rotating from West to East beneath the sky.\n\nHowever, not all stars rise and set. If you look toward the North (from the Northern Hemisphere), the stars appear to pivot slowly around a single fixed point near the horizon. This pivot point is the North Celestial Pole — the point in the sky directly above Earth's North Pole.\n\nImage 2.7 is a long-exposure photograph that makes diurnal motion viscerally clear — every star except Polaris traces a concentric circular arc, the length of each arc corresponding to how much of the night the shutter was left open.\n\nImage 2.6 shows how the size of the circumpolar zone depends on your latitude — observers at 45°N have a large circumpolar region while observers at the equator have none at all.",
+      "content_type": "CATEGORICAL_LIST",
+      "render_type": "CATEGORICAL",
+      "content_block": {
+        "title": "Types of Star Behaviour",
+        "items": [
+          {
+            "name": "Rise-and-Set Stars",
+            "description": "Stars that rise in the East, arc across the sky, and set in the West.",
+            "characteristics": [
+              "Orion is a classic example — it rises in the southeast, crosses the southern sky, and sets in the southwest.",
+              "The vast majority of stars visible from mid-latitudes fall into this category."
+            ]
+          },
+          {
+            "name": "Circumpolar Stars",
+            "description": "Stars that are close enough to the celestial pole that they never dip below the horizon at your location.",
+            "characteristics": [
+              "From the Northern Hemisphere, circumpolar stars circle the North Celestial Pole counter-clockwise as seen looking north. (From the Southern Hemisphere, circumpolar stars circle the South Celestial Pole clockwise.)",
+              "The Big Dipper is circumpolar for most observers in the northern United States, Canada, and Europe.",
+              "Canopus — the second-brightest star in the entire sky — is not visible from latitudes north of approximately 37°N. This means it never rises for observers in northern Europe, Canada, or the northern half of the United States. However, from cities like Miami (26°N), Los Angeles (34°N), Cairo (30°N), or Mumbai (19°N), it does appear — very low on the southern horizon during winter evenings."
+            ]
+          }
+        ]
+      },
+      "images": [
+        {
+          "image_id": "2.7",
+          "image_label": "Image 2.7",
+          "placement_type": "after_section",
+          "context": "Long-exposure photograph showing concentric circular star trails around the North Celestial Pole, illustrating diurnal motion over several hours. Every star except Polaris (the stationary bright point at center) traces a circular arc. NASA APOD / Wikimedia Commons public domain star trail photograph.",
+          "alt_text": "Long-exposure photograph of star trails circling the North Celestial Pole, with Polaris stationary at center",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "2.6",
+          "image_label": "Image 2.6",
+          "placement_type": "after_section",
+          "context": "Three-panel educational diagram showing the northern night sky from three different latitudes. Panel 1 (90°N — North Pole): ALL stars are circumpolar, tracing horizontal circles. Panel 2 (45°N — Mid-latitude): A large circumpolar zone around Polaris; stars south of the zone rise and set. Panel 3 (0° — Equator): No circumpolar stars; Polaris sits exactly on the horizon. Dark navy background, white labels, clean educational style.",
+          "alt_text": "Three-panel diagram comparing circumpolar star zones at 90°N, 45°N, and 0° latitude",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 6,
+      "section_title": "The Magic of Polaris and Latitude",
+      "content": "There is a remarkable cosmic coincidence that made navigation possible for centuries. The moderately bright star Polaris sits almost exactly above Earth's North Pole — at the North Celestial Pole — and barely moves while every other star wheels around it.\n\nBecause of simple geometry, the Altitude of Polaris above your northern horizon is equal to your Latitude on Earth. If you can measure how high Polaris stands, you know where on Earth you are. Sailors used this relationship to navigate long before GPS existed.\n\nSimilarly, the Celestial Equator — the projection of Earth's equator onto the sky — reaches its highest point on your southern horizon at an altitude of (90° minus your latitude). At latitude 30°N, for example, the Celestial Equator rises to 60° above due South. This is a useful landmark for orienting yourself on the sky, since all planets and the Sun stay close to this line.\n\nImage 2.5 shows the geometric proof below — the matching angles between your latitude and Polaris's altitude are highlighted in contrasting colors, making the relationship immediately intuitive.",
+      "content_type": "PROBLEM_SOLVING",
+      "render_type": "",
+      "content_block": {},
+      "images": [
+        {
+          "image_id": "2.5",
+          "image_label": "Image 2.5",
+          "placement_type": "after_section",
+          "context": "Geometric proof diagram showing a cross-section of the Earth (circle) with a human observer standing on the surface at 45°N latitude. Earth's rotation axis extends from the South Pole through the North Pole upward into space to a point labeled 'North Celestial Pole / Polaris.' A horizontal dashed line from the observer is labeled 'Observer's Horizon.' The angle between the horizon line and the Polaris line is labeled 45°. The angle between Earth's equator and the observer's position on Earth is also labeled 45°. Two contrasting colors show these angles are equal. Text reads: 'Altitude of Polaris = Observer's Latitude.'",
+          "alt_text": "Geometric diagram proving that the altitude of Polaris above the horizon equals the observer's geographic latitude",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    }
+  ],
+  "key_concepts_section": {
+    "section_title": "Key Concepts to Remember",
+    "concepts": [
+      {
+        "term": "Celestial Sphere",
+        "explanation": "An imaginary sphere surrounding Earth on which all stars appear to sit at the same distance. A useful fiction for mapping the sky."
+      },
+      {
+        "term": "Zenith",
+        "explanation": "The point in the sky directly above your head (90° altitude). It shifts as you move."
+      },
+      {
+        "term": "Azimuth",
+        "explanation": "The compass direction along the horizon, measured clockwise in degrees from due North (North = 0°, East = 90°, South = 180°, West = 270°)."
+      },
+      {
+        "term": "Circumpolar Stars",
+        "explanation": "Stars close enough to the celestial pole that they never set below the horizon from your location. Which stars are circumpolar depends on your latitude."
+      }
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "summary_section": {
+    "section_title": "Big Ideas from This Chapter",
+    "ideas": [
+      "The sky behaves like a giant dome; we map it using Altitude (how high) and Azimuth (which direction).",
+      "You can estimate angular distances in the sky using your hand: a pinky fingertip covers ~1°, a fist covers ~10°.",
+      "Earth's rotation causes stars to rise and set from east to west — except for circumpolar stars, which circle the pole all night.",
+      "The altitude of Polaris above the horizon equals your latitude — a navigation trick used for centuries."
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "activities_section": {
+    "section_title": "Try This: Hands-On Activities",
+    "render_type": "CARDS_OR_LIST",
+    "activities": [
+      {
+        "activity_number": 1,
+        "title": "Find Your Latitude Using the Night Sky",
+        "description": "Use Polaris and your fist to measure how far north you are.",
+        "instructions": [
+          "Go outside on a clear night and face North.",
+          "Find the Big Dipper — look for the large ladle shape in the northern sky.",
+          "Locate the two stars at the far end of the bowl (Dubhe and Merak). Draw a mental line through them extending upward; it points directly at Polaris.",
+          "Use your fists (each ~10°) to count how many fist-widths Polaris stands above the horizon.",
+          "Compare your result to your actual latitude from a map or phone. How close did you get?"
+        ],
+        "time_required": "15 minutes",
+        "difficulty": "Beginner"
+      }
+    ]
+  },
+  "glossary_section": {},
+  "references_section": {},
+  "chapter_metadata": {
+    "image_index": [
+      {
+        "image_id": "2.1",
+        "image_label": "Image 2.1",
+        "section": 1,
+        "placement_type": "top_of_section"
+      },
+      {
+        "image_id": "2.4",
+        "image_label": "Image 2.4",
+        "section": 2,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "2.2",
+        "image_label": "Image 2.2",
+        "section": 3,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "2.3",
+        "image_label": "Image 2.3",
+        "section": 4,
+        "placement_type": "top_of_section"
+      },
+      {
+        "image_id": "2.7",
+        "image_label": "Image 2.7",
+        "section": 5,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "2.6",
+        "image_label": "Image 2.6",
+        "section": 5,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "2.5",
+        "image_label": "Image 2.5",
+        "section": 6,
+        "placement_type": "after_section"
+      }
+    ],
+    "next_chapter": {
+      "chapter_title": "Chapter 3: Constellations, Bright Stars, and Navigation"
+    }
+  }
+}

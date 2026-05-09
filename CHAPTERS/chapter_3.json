@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0.0",
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Constellations, Bright Stars, and Navigation",
+    "reading_time_minutes": "18",
+    "difficulty": "Beginner",
+    "total_words": "2650",
+    "version": "3.0",
+    "revision_notes": "v3.0: Image IDs unified to flat chapter-based numbering (3.1–3.9; 3.8 not in image prompt file and omitted). source_type and source_url fields added. Inline image references added naturally to content. Fixed: 3.A Bayer/Rigel-Betelgeuse caveat, 3.B blue star temperature threshold, 3.C Procyon added, 3.D Polaris brightness rank improved."
+  },
+  "introduction": {
+    "opening_style": "story_based",
+    "content": "Imagine it is the year 1200. You are a sailor in the middle of the Mediterranean Sea. The night is pitch black, the water is calm, and you have no land in sight. There is no GPS, no compass app, no radio. If you drift off course, you die. You look up — and suddenly, the chaos of the ocean vanishes. The sky above is a perfect, reliable map. You spot a familiar shape of seven bright stars, trace a line from two of them, and find the North Star. You know exactly which way is North. You are safe.\n\nFor most of human history, the stars were not just pretty lights — they were essential survival tools. They told farmers when to plant, sailors where to steer, and priests when to pray. Today, we might not need the stars to navigate to the grocery store, but learning the geography of the night sky connects us to that ancient heritage. It turns a random scatter of dots into familiar landmarks.\n\nIn this chapter, we will learn to read the sky like a map. We will distinguish between official constellations and famous patterns called asterisms, practice the 'star hopping' technique used by both beginners and professionals, and meet the brightest beacons that anchor each season."
+  },
+  "sections": [
+    {
+      "section_number": 1,
+      "section_title": "Constellations vs. Asterisms: What's the Difference?",
+      "content": "When you look up and say 'Hey, there's the Big Dipper!', you are technically not pointing at a constellation. You are pointing at an asterism.\n\nAstronomers make a careful distinction between official sky regions and the recognizable stick-figure patterns we draw between stars. Since 1922, the International Astronomical Union (IAU) has recognized exactly 88 official constellations. These are not just the familiar shapes — they are precisely defined areas of the sky, like puzzle pieces that fit together to cover the entire celestial sphere without gaps. Every single star in the sky, no matter how faint, belongs to exactly one constellation.\n\nAsterisms are the famous, easy-to-spot patterns formed by the brightest stars. They may be part of one constellation, or they may span several. They hold no official scientific status, but they are invaluable for finding your way.\n\nImage 3.1 shows the northern hemisphere constellation map with the official IAU grid boundaries drawn in — notice how the Big Dipper's seven stars are entirely contained within the much larger region of Ursa Major.",
+      "content_type": "CATEGORICAL_LIST",
+      "render_type": "CATEGORICAL",
+      "content_block": {
+        "title": "Sky Patterns Defined",
+        "items": [
+          {
+            "name": "Constellation",
+            "description": "An officially defined region of the celestial sphere, like a country on a map.",
+            "characteristics": [
+              "There are exactly 88, covering the entire sky without overlap.",
+              "Examples: Ursa Major (The Great Bear), Orion (The Hunter), Crux (The Southern Cross).",
+              "Used in scientific catalogs to locate any astronomical object."
+            ]
+          },
+          {
+            "name": "Asterism",
+            "description": "A recognizable pattern of bright stars — the familiar 'shapes' most people think of as constellations.",
+            "characteristics": [
+              "Easy to spot with the naked eye; excellent for navigation.",
+              "Examples: The Big Dipper (part of Ursa Major), the Summer Triangle (spans three separate constellations), the Winter Hexagon.",
+              "Can span multiple official constellations."
+            ]
+          }
+        ]
+      },
+      "images": [
+        {
+          "image_id": "3.1",
+          "image_label": "Image 3.1",
+          "placement_type": "top_of_section",
+          "context": "Map of the northern hemisphere constellations showing the official IAU boundary grid and major constellation patterns highlighted. The Big Dipper's seven stars are clearly shown as entirely within the larger Ursa Major boundary region. IAU/NASA constellation boundary equirectangular projection.",
+          "alt_text": "Northern hemisphere star map showing official IAU constellation boundary grid with major constellation patterns highlighted",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 2,
+      "section_title": "The Seasonal Parade",
+      "content": "Because Earth orbits the Sun, our window into the galaxy rotates throughout the year. The stars visible at 10 PM in July are almost completely different from those visible at 10 PM in January. Learning the night sky is really about learning four distinct seasonal chapters.\n\nImage 3.3 shows all four seasonal sky views at once — each panel is as seen looking south from roughly 40°N latitude at 10 PM, making it the ideal quick-reference guide for planning which constellations to target each season. Image 3.5 zooms in on the Summer Triangle, showing how Vega (Lyra), Deneb (Cygnus), and Altair (Aquila) form this prominent warm-weather signpost with the Milky Way passing through it.",
+      "content_type": "CATEGORICAL_LIST",
+      "render_type": "CATEGORICAL",
+      "content_block": {
+        "title": "What to Look For by Season (Northern Hemisphere, ~40°N)",
+        "items": [
+          {
+            "name": "Winter Sky",
+            "description": "The brightest and most visually spectacular season for naked-eye astronomy.",
+            "characteristics": [
+              "Dominated by Orion the Hunter — the most recognizable constellation in the sky.",
+              "Contains the Winter Hexagon asterism: Sirius, Rigel, Aldebaran, Capella, Pollux, and Procyon — six of the brightest stars in the sky forming a giant ring.",
+              "Look south in the evening hours. Air is often clearest and steadiest in winter."
+            ]
+          },
+          {
+            "name": "Spring Sky",
+            "description": "A window looking out of the galaxy's disk toward deep intergalactic space.",
+            "characteristics": [
+              "Dominated by Leo the Lion and the Big Dipper riding high overhead.",
+              "The bright orange giant Arcturus rises in the east — use the arc of the Big Dipper's handle to find it ('Arc to Arcturus').",
+              "Fewer spectacular bright stars than winter, but rich hunting ground for galaxies through a telescope."
+            ]
+          },
+          {
+            "name": "Summer Sky",
+            "description": "Looking toward the dense core of the Milky Way galaxy.",
+            "characteristics": [
+              "Dominated by the Summer Triangle asterism: the three bright stars Vega, Deneb, and Altair.",
+              "The Milky Way band is at its broadest and most spectacular, running directly overhead.",
+              "Scorpius sits low in the south — one of the most striking constellations if you can see it."
+            ]
+          },
+          {
+            "name": "Autumn Sky",
+            "description": "The season of legends — sky dominated by Greek mythology's royal family.",
+            "characteristics": [
+              "Dominated by the Great Square of Pegasus, a large but obvious asterism.",
+              "Constellations Andromeda and Perseus climb high — the Andromeda Galaxy (M31) is faintly visible to the naked eye from dark sites.",
+              "Generally less crowded with bright stars than winter or summer."
+            ]
+          }
+        ]
+      },
+      "images": [
+        {
+          "image_id": "3.3",
+          "image_label": "Image 3.3",
+          "placement_type": "middle_of_section",
+          "context": "Four sky panels showing the dominant constellations visible in Spring, Summer, Autumn, and Winter from ~40°N latitude looking south at 10 PM local time. Each panel shows constellation stick figures in white on dark navy, labeled bright stars in yellow, and seasonal labels. Winter: Orion, Sirius, Taurus. Spring: Leo, Arcturus. Summer: Summer Triangle, Scorpius, Milky Way. Autumn: Great Square of Pegasus, Andromeda.",
+          "alt_text": "Four-panel seasonal sky guide showing dominant constellations visible in each season from Northern Hemisphere mid-latitudes looking south",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "3.5",
+          "image_label": "Image 3.5",
+          "placement_type": "after_section",
+          "context": "Star chart showing the Summer Triangle asterism. Three bright stars plotted as large gold circles: Vega (top), Altair (bottom right), Deneb (left). Connected with dashed gold lines. Each star labeled with its parent constellation: 'Vega — Lyra', 'Altair — Aquila', 'Deneb — Cygnus'. Full stick-figure outlines of all three constellations in white. The Milky Way passing through the center shown as a faint white band.",
+          "alt_text": "Summer Triangle asterism diagram showing Vega, Altair, and Deneb with their parent constellation outlines and the Milky Way band",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 3,
+      "section_title": "The Art of Star Hopping",
+      "content": "You do not need to memorize the position of every star in the sky. You just need a few 'anchor' shapes and a simple technique called Star Hopping — using pointer stars to draw imaginary lines that lead you from what you know to what you're trying to find.\n\nOnce you have followed the steps below and found Polaris, Image 3.4 shows the exact pointer-star arrow superimposed on the Big Dipper — a reference to bookmark for your first night out. At the end of this section, Image 3.6 shows a second classic star-hop: Orion's Belt pointing toward Sirius below and Aldebaran above.",
+      "content_type": "STEP_BY_STEP_PROCESS",
+      "render_type": "NUMBERED_STEPS",
+      "content_block": {
+        "intro": "Finding the North Star (Polaris) — Step by Step",
+        "items": [
+          {
+            "step_number": 1,
+            "title": "Find the Big Dipper",
+            "description": "Look north. The Big Dipper is one of the most recognizable shapes in the northern sky — a large ladle or saucepan of seven bright stars.",
+            "tip": "In spring and summer, it rides high overhead; in autumn and winter, it sits lower, near the northern horizon."
+          },
+          {
+            "step_number": 2,
+            "title": "Locate the Pointer Stars",
+            "description": "Find the two stars forming the outer edge of the Dipper's bowl — the side farthest from the handle. These are named Dubhe (top) and Merak (bottom).",
+            "tip": "Imagine the bowl is leaking — the water would pour out through this open edge."
+          },
+          {
+            "step_number": 3,
+            "title": "Draw the Line",
+            "description": "Mentally draw a straight line from Merak through Dubhe and keep extending it out of the bowl. Continue about five times the distance between those two stars.",
+            "tip": "A common memory trick: 'water pours out of the bowl and lands on Polaris.'"
+          },
+          {
+            "step_number": 4,
+            "title": "Identify Polaris",
+            "description": "The line lands on a moderately bright, solitary-looking star. That is Polaris, the North Star. It will be the only star in that area that does not move if you watch it for an hour.",
+            "tip": "Polaris is NOT the brightest star in the sky — it ranks approximately 48th, at magnitude ~2.0. Its significance comes entirely from its unique position almost exactly above Earth's North Pole: it is the only star that barely moves while all others wheel around it through the night."
+          }
+        ],
+        "example": "Once you find Polaris, verify it: wait 30 minutes and come back. Every star around it will have shifted — Polaris will be in exactly the same place."
+      },
+      "images": [
+        {
+          "image_id": "3.4",
+          "image_label": "Image 3.4",
+          "placement_type": "after_section",
+          "context": "Clean star chart showing the Big Dipper asterism and Polaris on a dark star field. The seven Big Dipper stars are large white dots connected by lines. Pointer stars Merak (bottom) and Dubhe (top) are highlighted in bright yellow. A solid yellow arrow extends from Merak through Dubhe and continues to Polaris. Labels: Merak, Dubhe, and 'Polaris (North Star)' at the arrow end. A small bracket shows '5× the distance between pointer stars.' The Little Dipper in outline form near Polaris with its handle curving away.",
+          "alt_text": "Star chart showing Big Dipper pointer stars Merak and Dubhe with an arrow extending to Polaris, demonstrating the star-hopping technique",
+          "source_type": "ai_generated"
+        },
+        {
+          "image_id": "3.6",
+          "image_label": "Image 3.6",
+          "placement_type": "after_section",
+          "context": "Star chart of the Orion region with the full Orion stick figure in white. The three Belt Stars (Alnitak, Alnilam, Mintaka) highlighted in bright yellow. Two dotted pointer arrows: (1) extending DOWN-LEFT toward Sirius labeled 'Sirius — Brightest Star in the Sky'; (2) extending UP-RIGHT toward Aldebaran in Taurus labeled 'Aldebaran — Eye of Taurus.' Taurus constellation outline shown upper right, Canis Major near Sirius lower left.",
+          "alt_text": "Orion's Belt star-hopping diagram showing pointer arrows toward Sirius below and Aldebaran in Taurus above",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 4,
+      "section_title": "The Brightest Beacons",
+      "content": "While thousands of stars are technically visible under dark skies, only a few dozen are bright enough to be seen from most locations and to serve as reliable navigation anchors. Learning these star names gives you a fixed set of landmarks across all four seasons.\n\nImage 3.7 at the top of this section plots the relative brightness and colors of each major star in a visual ranking, making it easy to calibrate your eye before you head out.",
+      "content_type": "TABULAR_COMPARISON",
+      "render_type": "TABLE",
+      "content_block": {
+        "title": "Top Brightest Stars Visible from Mid-Latitudes",
+        "headers": [
+          "Star Name",
+          "Constellation",
+          "Season",
+          "Color / Type"
+        ],
+        "rows": [
+          [
+            "Sirius",
+            "Canis Major",
+            "Winter",
+            "Blue-White — Brightest star in the night sky"
+          ],
+          [
+            "Arcturus",
+            "Boötes",
+            "Spring",
+            "Orange Giant — 4th brightest overall"
+          ],
+          [
+            "Vega",
+            "Lyra",
+            "Summer",
+            "Blue-White — Anchor of the Summer Triangle"
+          ],
+          [
+            "Capella",
+            "Auriga",
+            "Winter",
+            "Yellow Giant — bright circumpolar star"
+          ],
+          [
+            "Rigel",
+            "Orion",
+            "Winter",
+            "Blue-White Supergiant — foot of Orion"
+          ],
+          [
+            "Betelgeuse",
+            "Orion",
+            "Winter",
+            "Red Supergiant — shoulder of Orion (variable brightness)"
+          ],
+          [
+            "Procyon",
+            "Canis Minor",
+            "Winter",
+            "Yellow-White — part of the Winter Hexagon, 8th brightest in sky"
+          ]
+        ],
+        "footnote": null
+      },
+      "images": [
+        {
+          "image_id": "3.7",
+          "image_label": "Image 3.7",
+          "placement_type": "top_of_section",
+          "context": "Infographic chart titled 'Brightest Stars Visible from Mid-Latitudes.' Stars shown as circles of varying sizes (larger = brighter) arranged in two rows, color-coded to represent actual color: Sirius (large, blue-white), Canopus (large, yellow-white), Arcturus (large, orange), Vega (medium, blue-white), Capella (medium, yellow), Rigel (medium, blue), Procyon (medium, yellow-white), Betelgeuse (medium, orange-red). Each labeled with name, constellation, season, and apparent magnitude. A brightness scale on the left edge.",
+          "alt_text": "Visual brightness ranking chart of the major bright stars visible from mid-latitudes showing their relative sizes and colors",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 5,
+      "section_title": "The Language of Stars: Colors and Names",
+      "content": "You may have noticed in the table above that stars come in a striking range of colors. If you compare Betelgeuse (the shoulder of Orion) with Rigel (the foot of Orion), the contrast is dramatic even to the naked eye. Betelgeuse has a distinct pumpkin-orange glow, while Rigel is a piercing, cold blue-white.\n\nStar colors are not decorative — they are thermometers. The color of a star tells you directly how hot its outer surface is. Image 3.9 shows this relationship as a horizontal gradient bar: moving from deep blue on the left (hottest, O-type stars exceeding 30,000°C) through yellow-white in the middle (Sun-like, ~5,500°C) to orange-red on the right (coolest visible types, ~3,000–4,000°C), with named example stars placed at their correct temperature positions.\n\n• Blue-white stars (like Rigel) are among the hottest, with surface temperatures above 10,000°C. The very hottest true blue stars — classified as O-type — exceed 30,000°C. At these extremes, the star's light peaks in ultraviolet and appears a striking electric blue to the eye.\n• Yellow stars, like our own Sun, have surface temperatures around 5,500°C. They represent a comfortable middle range.\n• Orange and red stars (like Betelgeuse or Aldebaran) are the coolest visible types, with surface temperatures around 3,000–4,000°C. Confusingly, they are often the physically largest stars — Betelgeuse is so enormous that if it replaced our Sun, its surface would extend past the orbit of Mars.\n\nRegarding star names: most bright stars carry traditional names from Arabic astronomy, reflecting the golden age of Islamic science between the 8th and 15th centuries. Aldebaran, for example, means 'The Follower' in Arabic. Astronomers also use the Bayer Designation — a Greek letter assigned to each star in a constellation, originally intended to rank them by brightness.\n\nIn Orion, the historical Alpha is Betelgeuse (α Orionis) and Beta is Rigel (β Orionis). However, today Rigel is actually slightly brighter than Betelgeuse on most nights. This is because Betelgeuse is a variable star — its brightness fluctuates unpredictably — and because when Johann Bayer assigned the letters in 1603, his brightness estimates were not perfectly precise. This shows that the Bayer designation is a naming convention, not a strict modern brightness ranking.",
+      "content_type": "TEXT_WITH_EXAMPLES",
+      "render_type": "",
+      "content_block": {},
+      "images": [
+        {
+          "image_id": "3.9",
+          "image_label": "Image 3.9",
+          "placement_type": "middle_of_section",
+          "context": "Horizontal gradient bar showing the full visible star color spectrum from left to right: deep blue → blue-white → white → yellow-white → yellow → orange → orange-red. Below the bar, a temperature scale in Kelvin: 50,000 K (left) to 3,000 K (right). Above the bar, example star names at their correct positions: O-type blue stars far left, Rigel / Vega at blue-white (~10,000 K), the Sun at yellow (~5,800 K), Arcturus at orange (~4,300 K), Betelgeuse at red-orange (~3,500 K). Spectral class labels (O, B, A, F, G, K, M) along the top.",
+          "alt_text": "Spectrum diagram mapping star surface temperature to color from hot blue (O-type, >30,000°C) through yellow (Sun, ~5,500°C) to cool red (~3,000°C) with named example stars",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    },
+    {
+      "section_number": 6,
+      "section_title": "A Note on the Southern Sky",
+      "content": "For those observing from south of the equator — Australia, South America, Southern Africa, or Southeast Asia — the sky appears 'upside down' relative to northern observers, and Polaris never rises above the horizon. Instead, the southern sky offers its own treasures.\n\nThe Southern Cross (Crux) is the most iconic southern constellation — tiny but blazingly bright, it can be used similarly to the Big Dipper for finding the South Celestial Pole. Nearby is Alpha Centauri, the closest star system to our Sun at just 4.37 light-years away. The core of the Milky Way passes almost directly overhead from southern latitudes, making the galactic band dramatically more spectacular than anything seen from Europe or North America.\n\nImage 3.2 shows the southern hemisphere sky map with Crux and the pointer stars Alpha and Beta Centauri clearly marked.",
+      "content_type": "TEXT_ONLY",
+      "render_type": "",
+      "content_block": {},
+      "images": [
+        {
+          "image_id": "3.2",
+          "image_label": "Image 3.2",
+          "placement_type": "after_section",
+          "context": "Circular star map of the southern hemisphere night sky (south celestial pole at center). Major southern constellations with stick-figure outlines in white on dark blue background. Highlighted: Crux (Southern Cross — labeled 'Used for navigation'), Centaurus (containing Alpha Centauri — labeled 'Closest star system to Earth'), Scorpius, Carina (Canopus). The Milky Way band shown as a faint white glow. Compass directions around the circle edge.",
+          "alt_text": "Southern hemisphere star map highlighting Crux, Alpha Centauri, and the dense Milky Way core visible to southern observers",
+          "source_type": "ai_generated"
+        }
+      ],
+      "note_for_image": null,
+      "references": []
+    }
+  ],
+  "key_concepts_section": {
+    "section_title": "Key Concepts to Remember",
+    "concepts": [
+      {
+        "term": "Constellation vs. Asterism",
+        "explanation": "A constellation is an official, precisely-bounded region of the sky (88 total). An asterism is a recognizable pattern of stars, like the Big Dipper, used for casual navigation."
+      },
+      {
+        "term": "Star Hopping",
+        "explanation": "A navigation technique using known bright 'pointer stars' to draw imaginary lines that lead to other objects."
+      },
+      {
+        "term": "Stellar Color and Temperature",
+        "explanation": "Blue-white stars are hottest (>10,000°C, with O-type stars exceeding 30,000°C). Yellow stars like the Sun are ~5,500°C. Red-orange stars are coolest (~3,000°C)."
+      },
+      {
+        "term": "Bayer Designation",
+        "explanation": "A naming system using Greek letters (α, β, γ…) to label stars in a constellation. Originally intended as a brightness ranking, but not always accurate — Rigel (β) is currently brighter than Betelgeuse (α) in Orion."
+      }
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "summary_section": {
+    "section_title": "Big Ideas from This Chapter",
+    "ideas": [
+      "The sky is divided into 88 official constellations, but we navigate day-to-day using bright asterisms like the Big Dipper or Summer Triangle.",
+      "The visible stars change completely with the seasons — Orion marks winter, the Summer Triangle marks summer.",
+      "Star hopping — drawing imaginary lines between pointer stars — is the most practical way to find your way around the sky.",
+      "A star's color reveals its temperature: blue-white is hottest, red-orange is coolest."
+    ],
+    "render_type": "HIGHLIGHTED_BOX"
+  },
+  "activities_section": {
+    "section_title": "Try This: Hands-On Activities",
+    "render_type": "CARDS_OR_LIST",
+    "activities": [
+      {
+        "activity_number": 1,
+        "title": "Find the North Star Using Star Hopping",
+        "description": "Practice the most foundational navigation skill in Northern Hemisphere astronomy.",
+        "instructions": [
+          "Go outside on a clear night and face roughly North.",
+          "Find the Big Dipper — look for the large ladle or spoon shape.",
+          "Locate the two outer stars of the bowl: Merak (bottom) and Dubhe (top).",
+          "Mentally draw a line from Merak through Dubhe and extend it outward about five times their separation.",
+          "The solitary, moderately bright star the line lands on is Polaris. Note how high it sits above the horizon — that angle matches your latitude."
+        ],
+        "time_required": "10 minutes",
+        "difficulty": "Beginner"
+      }
+    ]
+  },
+  "glossary_section": {},
+  "references_section": {},
+  "chapter_metadata": {
+    "image_index": [
+      {
+        "image_id": "3.1",
+        "image_label": "Image 3.1",
+        "section": 1,
+        "placement_type": "top_of_section"
+      },
+      {
+        "image_id": "3.3",
+        "image_label": "Image 3.3",
+        "section": 2,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "3.5",
+        "image_label": "Image 3.5",
+        "section": 2,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "3.4",
+        "image_label": "Image 3.4",
+        "section": 3,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "3.6",
+        "image_label": "Image 3.6",
+        "section": 3,
+        "placement_type": "after_section"
+      },
+      {
+        "image_id": "3.7",
+        "image_label": "Image 3.7",
+        "section": 4,
+        "placement_type": "top_of_section"
+      },
+      {
+        "image_id": "3.9",
+        "image_label": "Image 3.9",
+        "section": 5,
+        "placement_type": "middle_of_section"
+      },
+      {
+        "image_id": "3.2",
+        "image_label": "Image 3.2",
+        "section": 6,
+        "placement_type": "after_section"
+      }
+    ],
+    "next_chapter": {
+      "chapter_title": "Chapter 4: The Moon — Phases, Motion, and Observable Features"
+    }
+  }
+}
