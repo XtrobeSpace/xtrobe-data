@@ -899,11 +899,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -1372,11 +1372,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -1408,7 +1408,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
@@ -1837,11 +1837,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -1873,7 +1873,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
@@ -1898,16 +1898,118 @@
   {
     "id": "0590523c-4b00-445a-bdb7-2970f04c24ce",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/0590523c-4b00-445a-bdb7-2970f04c24ce/",
-    "slug": "atlas-lv-3a-ranger-1",
     "name": "Atlas LV-3A | Ranger 1",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3a-ranger-1",
+    "launch_designator": "1961-021",
     "status": {
       "id": 7,
       "name": "Launch was a Partial Failure",
-      "abbrev": "Partial Failure"
+      "abbrev": "Partial Failure",
+      "description": "Either the launch vehicle reached orbit but did not deliver its payload in the targeted orbit, or an exceptional event made it impossible to consider the mission a success."
     },
+    "last_updated": "2023-06-14T17:40:09Z",
     "net": "1961-08-23T10:04:10Z",
-    "window_start": "1961-08-23T10:04:10Z",
+    "net_precision": null,
     "window_end": "1961-08-23T10:04:10Z",
+    "window_start": "1961-08-23T10:04:10Z",
+    "image": {
+      "id": 2533,
+      "name": "Atlas-LV3 Agena-B",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": "",
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 161,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+      "name": "United States Air Force",
+      "abbrev": "USAF",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+      "administrator": "Commander-in-Chief: President of the US",
+      "founding_year": 1947,
+      "launchers": "",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 193,
+        "name": "[AUTO] United States Air Force - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 99,
+        "name": "[AUTO] United States Air Force - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1078,
+      "consecutive_successful_launches": 68,
+      "successful_launches": 972,
+      "failed_launches": 106,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.af.mil",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 2388,
       "configuration": {
@@ -2207,7 +2309,7 @@
       "spacecraft_stage": [],
       "payloads": []
     },
-    "mission": {},
+    "mission": null,
     "pad": {
       "id": 99,
       "url": "https://ll.thespacedevs.com/2.3.0/pads/99/",
@@ -2328,11 +2430,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -2364,108 +2466,27 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 161,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
-      "name": "United States Air Force",
-      "abbrev": "USAF",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
-      "administrator": "Commander-in-Chief: President of the US",
-      "founding_year": 1947,
-      "launchers": "",
-      "spacecraft": "",
-      "parent": null,
-      "image": null,
-      "logo": {
-        "id": 193,
-        "name": "[AUTO] United States Air Force - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 99,
-        "name": "[AUTO] United States Air Force - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 1078,
-      "consecutive_successful_launches": 68,
-      "successful_launches": 972,
-      "failed_launches": 106,
-      "pending_launches": 0,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.af.mil",
-      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 2533,
-      "name": "Atlas-LV3 Agena-B",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
-      "credit": "NASA",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T17:40:09Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 121,
+    "location_launch_attempt_count": 66,
+    "pad_launch_attempt_count": 3,
+    "agency_launch_attempt_count": 56,
+    "orbital_launch_attempt_count_year": 28,
+    "location_launch_attempt_count_year": 16,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 18,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P251DT54M10S",
+    "mission_patches": []
   },
   {
     "id": "eac7f345-ba58-4629-8757-aca1d081a6fb",
@@ -2953,11 +2974,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -3562,11 +3583,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -3598,7 +3619,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -3623,16 +3644,118 @@
   {
     "id": "f8025d66-a0eb-469d-936f-5d8b9d49baee",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/f8025d66-a0eb-469d-936f-5d8b9d49baee/",
-    "slug": "atlas-lv-3a-samos-3",
     "name": "Atlas LV-3A | Samos 3",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3a-samos-3",
+    "launch_designator": null,
     "status": {
       "id": 4,
       "name": "Launch Failure",
-      "abbrev": "Failure"
+      "abbrev": "Failure",
+      "description": "Either the launch vehicle did not reach orbit, or the payload(s) failed to separate."
     },
+    "last_updated": "2023-06-14T04:18:03Z",
     "net": "1961-09-09T19:28:27Z",
-    "window_start": "1961-09-09T19:28:27Z",
+    "net_precision": null,
     "window_end": "1961-09-09T19:28:27Z",
+    "window_start": "1961-09-09T19:28:27Z",
+    "image": {
+      "id": 2533,
+      "name": "Atlas-LV3 Agena-B",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": "",
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 161,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+      "name": "United States Air Force",
+      "abbrev": "USAF",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+      "administrator": "Commander-in-Chief: President of the US",
+      "founding_year": 1947,
+      "launchers": "",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 193,
+        "name": "[AUTO] United States Air Force - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 99,
+        "name": "[AUTO] United States Air Force - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1078,
+      "consecutive_successful_launches": 68,
+      "successful_launches": 972,
+      "failed_launches": 106,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.af.mil",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 2391,
       "configuration": {
@@ -3932,7 +4055,7 @@
       "spacecraft_stage": [],
       "payloads": []
     },
-    "mission": {},
+    "mission": null,
     "pad": {
       "id": 93,
       "url": "https://ll.thespacedevs.com/2.3.0/pads/93/",
@@ -4053,11 +4176,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -4089,108 +4212,27 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 161,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
-      "name": "United States Air Force",
-      "abbrev": "USAF",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
-      "administrator": "Commander-in-Chief: President of the US",
-      "founding_year": 1947,
-      "launchers": "",
-      "spacecraft": "",
-      "parent": null,
-      "image": null,
-      "logo": {
-        "id": 193,
-        "name": "[AUTO] United States Air Force - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 99,
-        "name": "[AUTO] United States Air Force - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 1078,
-      "consecutive_successful_launches": 68,
-      "successful_launches": 972,
-      "failed_launches": 106,
-      "pending_launches": 0,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.af.mil",
-      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 2533,
-      "name": "Atlas-LV3 Agena-B",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
-      "credit": "NASA",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T04:18:03Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 124,
+    "location_launch_attempt_count": 33,
+    "pad_launch_attempt_count": 3,
+    "agency_launch_attempt_count": 58,
+    "orbital_launch_attempt_count_year": 31,
+    "location_launch_attempt_count_year": 13,
+    "pad_launch_attempt_count_year": 2,
+    "agency_launch_attempt_count_year": 20,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P220DT23H7M8S",
+    "mission_patches": []
   },
   {
     "id": "586f5567-b303-44a3-9ccf-bf9d582d91c3",
@@ -4757,11 +4799,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -4793,7 +4835,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -4818,16 +4860,137 @@
   {
     "id": "c65cb588-b553-4cdd-a9ce-ba7878d45495",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/c65cb588-b553-4cdd-a9ce-ba7878d45495/",
-    "slug": "atlas-lv-3b-mercury-atlas-4",
     "name": "Atlas LV-3B | Mercury-Atlas 4",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3b-mercury-atlas-4",
+    "launch_designator": "1961-025",
     "status": {
       "id": 3,
       "name": "Launch Successful",
-      "abbrev": "Success"
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
+    "last_updated": "2024-06-16T09:53:08Z",
     "net": "1961-09-13T14:04:16Z",
-    "window_start": "1961-09-13T14:04:16Z",
+    "net_precision": {
+      "id": 0,
+      "name": "Second",
+      "abbrev": "SEC",
+      "description": "The T-0 is accurate to the second."
+    },
     "window_end": "1961-09-13T14:04:16Z",
+    "window_start": "1961-09-13T14:04:16Z",
+    "image": {
+      "id": 1696,
+      "name": "[AUTO] Atlas LV-3B - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_image_20190222030015.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193522.jpeg",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 44,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+      "name": "National Aeronautics and Space Administration",
+      "abbrev": "NASA",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+      "administrator": "Administrator: Jared Isaacman",
+      "founding_year": 1958,
+      "launchers": "Space Shuttle | SLS",
+      "spacecraft": "Orion",
+      "parent": null,
+      "image": {
+        "id": 19,
+        "name": "[AUTO] National Aeronautics and Space Administration - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 161,
+        "name": "[AUTO] National Aeronautics and Space Administration - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 76,
+        "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 142,
+      "consecutive_successful_launches": 12,
+      "successful_launches": 122,
+      "failed_launches": 20,
+      "pending_launches": 5,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 179,
+      "failed_landings_spacecraft": 2,
+      "attempted_landings_spacecraft": 181,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.nasa.gov",
+      "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 2393,
       "configuration": {
@@ -5748,11 +5911,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -5784,117 +5947,11 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 44,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-      "name": "National Aeronautics and Space Administration",
-      "abbrev": "NASA",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
-      "administrator": "Administrator: Jared Isaacman",
-      "founding_year": 1958,
-      "launchers": "Space Shuttle | SLS",
-      "spacecraft": "Orion",
-      "parent": null,
-      "image": {
-        "id": 19,
-        "name": "[AUTO] National Aeronautics and Space Administration - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 161,
-        "name": "[AUTO] National Aeronautics and Space Administration - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 76,
-        "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 142,
-      "consecutive_successful_launches": 12,
-      "successful_launches": 122,
-      "failed_launches": 20,
-      "pending_launches": 5,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 179,
-      "failed_landings_spacecraft": 2,
-      "attempted_landings_spacecraft": 181,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.nasa.gov",
-      "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 1696,
-      "name": "[AUTO] Atlas LV-3B - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_image_20190222030015.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193522.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [
       {
         "response_mode": "normal",
@@ -5941,10 +5998,21 @@
         }
       }
     ],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2024-06-16T09:53:08Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 126,
+    "location_launch_attempt_count": 67,
+    "pad_launch_attempt_count": 8,
+    "agency_launch_attempt_count": 32,
+    "orbital_launch_attempt_count_year": 33,
+    "location_launch_attempt_count_year": 17,
+    "pad_launch_attempt_count_year": 3,
+    "agency_launch_attempt_count_year": 13,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P140DT21H49M16S",
+    "mission_patches": []
   },
   {
     "id": "2c9a3d0b-55b8-4900-9082-fe61b08034d1",
@@ -6497,11 +6565,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -6533,7 +6601,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -7106,11 +7174,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -7142,7 +7210,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -7669,11 +7737,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -7730,16 +7798,118 @@
   {
     "id": "ca8c7e27-d18a-4caf-ae73-6cf4bda73171",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/ca8c7e27-d18a-4caf-ae73-6cf4bda73171/",
-    "slug": "atlas-lv-3a-midas-4-westford-1",
     "name": "Atlas LV-3A | MIDAS 4 & Westford-1",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3a-midas-4-westford-1",
+    "launch_designator": "1961-028",
     "status": {
       "id": 3,
       "name": "Launch Successful",
-      "abbrev": "Success"
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
+    "last_updated": "2023-06-14T03:42:23Z",
     "net": "1961-10-21T13:53:03Z",
-    "window_start": "1961-10-21T13:53:03Z",
+    "net_precision": null,
     "window_end": "1961-10-21T13:53:03Z",
+    "window_start": "1961-10-21T13:53:03Z",
+    "image": {
+      "id": 2533,
+      "name": "Atlas-LV3 Agena-B",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": "",
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 161,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+      "name": "United States Air Force",
+      "abbrev": "USAF",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+      "administrator": "Commander-in-Chief: President of the US",
+      "founding_year": 1947,
+      "launchers": "",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 193,
+        "name": "[AUTO] United States Air Force - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 99,
+        "name": "[AUTO] United States Air Force - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1078,
+      "consecutive_successful_launches": 68,
+      "successful_launches": 972,
+      "failed_launches": 106,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.af.mil",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 2396,
       "configuration": {
@@ -8039,7 +8209,7 @@
       "spacecraft_stage": [],
       "payloads": []
     },
-    "mission": {},
+    "mission": null,
     "pad": {
       "id": 24,
       "url": "https://ll.thespacedevs.com/2.3.0/pads/24/",
@@ -8174,11 +8344,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -8210,108 +8380,27 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 161,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
-      "name": "United States Air Force",
-      "abbrev": "USAF",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
-      "administrator": "Commander-in-Chief: President of the US",
-      "founding_year": 1947,
-      "launchers": "",
-      "spacecraft": "",
-      "parent": null,
-      "image": null,
-      "logo": {
-        "id": 193,
-        "name": "[AUTO] United States Air Force - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 99,
-        "name": "[AUTO] United States Air Force - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 1078,
-      "consecutive_successful_launches": 68,
-      "successful_launches": 972,
-      "failed_launches": 106,
-      "pending_launches": 0,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.af.mil",
-      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 2533,
-      "name": "Atlas-LV3 Agena-B",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
-      "credit": "NASA",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T03:42:23Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 129,
+    "location_launch_attempt_count": 37,
+    "pad_launch_attempt_count": 2,
+    "agency_launch_attempt_count": 62,
+    "orbital_launch_attempt_count_year": 36,
+    "location_launch_attempt_count_year": 17,
+    "pad_launch_attempt_count_year": 2,
+    "agency_launch_attempt_count_year": 24,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P100DT22H41M17S",
+    "mission_patches": []
   },
   {
     "id": "da1cbbc4-dbda-40c7-8868-734ff8dcb157",
@@ -8878,11 +8967,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -8914,7 +9003,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -8939,16 +9028,132 @@
   {
     "id": "5aff8c15-abef-45a5-bab0-567e829cd97d",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/5aff8c15-abef-45a5-bab0-567e829cd97d/",
-    "slug": "saturn-i-saturn-sa-1",
     "name": "Saturn I | Saturn SA-1",
+    "response_mode": "detailed",
+    "slug": "saturn-i-saturn-sa-1",
+    "launch_designator": null,
     "status": {
       "id": 3,
       "name": "Launch Successful",
-      "abbrev": "Success"
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
+    "last_updated": "2023-06-14T17:42:45Z",
     "net": "1961-10-27T15:06:04Z",
-    "window_start": "1961-10-27T15:06:04Z",
+    "net_precision": null,
     "window_end": "1961-10-27T15:06:04Z",
+    "window_start": "1961-10-27T15:06:04Z",
+    "image": {
+      "id": 2064,
+      "name": "Saturn 1 on LC-34",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/saturn_1_on_lc-_image_20240411095856.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/saturn_1_on_lc-_image_thumbnail_20240411095856.jpeg",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 44,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+      "name": "National Aeronautics and Space Administration",
+      "abbrev": "NASA",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+      "administrator": "Administrator: Jared Isaacman",
+      "founding_year": 1958,
+      "launchers": "Space Shuttle | SLS",
+      "spacecraft": "Orion",
+      "parent": null,
+      "image": {
+        "id": 19,
+        "name": "[AUTO] National Aeronautics and Space Administration - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 161,
+        "name": "[AUTO] National Aeronautics and Space Administration - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 76,
+        "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 142,
+      "consecutive_successful_launches": 12,
+      "successful_launches": 122,
+      "failed_launches": 20,
+      "pending_launches": 5,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 179,
+      "failed_landings_spacecraft": 2,
+      "attempted_landings_spacecraft": 181,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.nasa.gov",
+      "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 7418,
       "configuration": {
@@ -9310,11 +9515,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -9346,117 +9551,11 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 44,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-      "name": "National Aeronautics and Space Administration",
-      "abbrev": "NASA",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
-      "administrator": "Administrator: Jared Isaacman",
-      "founding_year": 1958,
-      "launchers": "Space Shuttle | SLS",
-      "spacecraft": "Orion",
-      "parent": null,
-      "image": {
-        "id": 19,
-        "name": "[AUTO] National Aeronautics and Space Administration - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 161,
-        "name": "[AUTO] National Aeronautics and Space Administration - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 76,
-        "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 142,
-      "consecutive_successful_launches": 12,
-      "successful_launches": 122,
-      "failed_launches": 20,
-      "pending_launches": 5,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 179,
-      "failed_landings_spacecraft": 2,
-      "attempted_landings_spacecraft": 181,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.nasa.gov",
-      "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 2064,
-      "name": "Saturn 1 on LC-34",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/saturn_1_on_lc-_image_20240411095856.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/saturn_1_on_lc-_image_thumbnail_20240411095856.jpeg",
-      "credit": "NASA",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [
       {
         "response_mode": "normal",
@@ -9503,10 +9602,21 @@
         }
       }
     ],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T17:42:45Z",
-    "_imported": true
+    "orbital_launch_attempt_count": null,
+    "location_launch_attempt_count": 68,
+    "pad_launch_attempt_count": 1,
+    "agency_launch_attempt_count": 34,
+    "orbital_launch_attempt_count_year": null,
+    "location_launch_attempt_count_year": 18,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 15,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P0D",
+    "mission_patches": []
   },
   {
     "id": "7cea9893-9b33-4f69-872a-b4f83cd5284f",
@@ -9920,11 +10030,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -10427,11 +10537,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -10463,7 +10573,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
@@ -11081,11 +11191,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -11117,7 +11227,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -11695,11 +11805,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -11731,7 +11841,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -12151,11 +12261,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -12187,7 +12297,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
@@ -12212,16 +12322,118 @@
   {
     "id": "aadc8a1d-6ea1-4faf-a854-c271566d098f",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/aadc8a1d-6ea1-4faf-a854-c271566d098f/",
-    "slug": "atlas-lv-3a-ranger-2",
     "name": "Atlas LV-3A | Ranger 2",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3a-ranger-2",
+    "launch_designator": "1961-032",
     "status": {
       "id": 4,
       "name": "Launch Failure",
-      "abbrev": "Failure"
+      "abbrev": "Failure",
+      "description": "Either the launch vehicle did not reach orbit, or the payload(s) failed to separate."
     },
+    "last_updated": "2023-06-14T17:40:08Z",
     "net": "1961-11-18T08:12:00Z",
-    "window_start": "1961-11-18T08:12:00Z",
+    "net_precision": null,
     "window_end": "1961-11-18T08:12:00Z",
+    "window_start": "1961-11-18T08:12:00Z",
+    "image": {
+      "id": 2533,
+      "name": "Atlas-LV3 Agena-B",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": "",
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 161,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+      "name": "United States Air Force",
+      "abbrev": "USAF",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+      "administrator": "Commander-in-Chief: President of the US",
+      "founding_year": 1947,
+      "launchers": "",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 193,
+        "name": "[AUTO] United States Air Force - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 99,
+        "name": "[AUTO] United States Air Force - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1078,
+      "consecutive_successful_launches": 68,
+      "successful_launches": 972,
+      "failed_launches": 106,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.af.mil",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 2402,
       "configuration": {
@@ -12521,7 +12733,7 @@
       "spacecraft_stage": [],
       "payloads": []
     },
-    "mission": {},
+    "mission": null,
     "pad": {
       "id": 99,
       "url": "https://ll.thespacedevs.com/2.3.0/pads/99/",
@@ -12642,11 +12854,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -12678,10 +12890,66 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 136,
+    "location_launch_attempt_count": 71,
+    "pad_launch_attempt_count": 4,
+    "agency_launch_attempt_count": 67,
+    "orbital_launch_attempt_count_year": 43,
+    "location_launch_attempt_count_year": 21,
+    "pad_launch_attempt_count_year": 2,
+    "agency_launch_attempt_count_year": 29,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P86DT22H7M50S",
+    "mission_patches": []
+  },
+  {
+    "id": "602ee780-2016-45a3-9baa-802574b6548f",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/602ee780-2016-45a3-9baa-802574b6548f/",
+    "name": "Atlas LV-3A | Samos 4",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3a-samos-4",
+    "launch_designator": null,
+    "status": {
+      "id": 4,
+      "name": "Launch Failure",
+      "abbrev": "Failure",
+      "description": "Either the launch vehicle did not reach orbit, or the payload(s) failed to separate."
+    },
+    "last_updated": "2023-06-14T04:18:00Z",
+    "net": "1961-11-22T20:45:47Z",
+    "net_precision": null,
+    "window_end": "1961-11-22T20:45:47Z",
+    "window_start": "1961-11-22T20:45:47Z",
+    "image": {
+      "id": 2533,
+      "name": "Atlas-LV3 Agena-B",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "Failed to reach orbit",
+    "hashtag": "",
     "launch_service_provider": {
       "response_mode": "normal",
       "id": 161,
@@ -12759,41 +13027,6 @@
       "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
       "social_media_links": []
     },
-    "image": {
-      "id": 2533,
-      "name": "Atlas-LV3 Agena-B",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
-      "credit": "NASA",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
-    "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T17:40:08Z",
-    "_imported": true
-  },
-  {
-    "id": "602ee780-2016-45a3-9baa-802574b6548f",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/602ee780-2016-45a3-9baa-802574b6548f/",
-    "slug": "atlas-lv-3a-samos-4",
-    "name": "Atlas LV-3A | Samos 4",
-    "status": {
-      "id": 4,
-      "name": "Launch Failure",
-      "abbrev": "Failure"
-    },
-    "net": "1961-11-22T20:45:47Z",
-    "window_start": "1961-11-22T20:45:47Z",
-    "window_end": "1961-11-22T20:45:47Z",
     "rocket": {
       "id": 2403,
       "configuration": {
@@ -13093,7 +13326,7 @@
       "spacecraft_stage": [],
       "payloads": []
     },
-    "mission": {},
+    "mission": null,
     "pad": {
       "id": 93,
       "url": "https://ll.thespacedevs.com/2.3.0/pads/93/",
@@ -13214,11 +13447,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -13250,21 +13483,77 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 137,
+    "location_launch_attempt_count": 41,
+    "pad_launch_attempt_count": 4,
+    "agency_launch_attempt_count": 68,
+    "orbital_launch_attempt_count_year": 44,
+    "location_launch_attempt_count_year": 21,
+    "pad_launch_attempt_count_year": 3,
+    "agency_launch_attempt_count_year": 30,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P74DT1H17M20S",
+    "mission_patches": []
+  },
+  {
+    "id": "c68999b7-a4bc-4510-ae6d-60fd1a9618c5",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/c68999b7-a4bc-4510-ae6d-60fd1a9618c5/",
+    "name": "Atlas LV-3B | Mercury-Atlas 5",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3b-mercury-atlas-5",
+    "launch_designator": "1961-033",
+    "status": {
+      "id": 3,
+      "name": "Launch Successful",
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+    },
+    "last_updated": "2023-06-14T17:42:42Z",
+    "net": "1961-11-29T15:07:57Z",
+    "net_precision": null,
+    "window_end": "1961-11-29T15:07:57Z",
+    "window_start": "1961-11-29T15:07:57Z",
+    "image": {
+      "id": 1696,
+      "name": "[AUTO] Atlas LV-3B - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_image_20190222030015.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193522.jpeg",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
     "launch_service_provider": {
       "response_mode": "normal",
-      "id": 161,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
-      "name": "United States Air Force",
-      "abbrev": "USAF",
+      "id": 44,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+      "name": "National Aeronautics and Space Administration",
+      "abbrev": "NASA",
       "type": {
         "id": 1,
         "name": "Government"
       },
-      "featured": false,
+      "featured": true,
       "country": [
         {
           "id": 2,
@@ -13275,18 +13564,32 @@
           "nationality_name_composed": "Americano"
         }
       ],
-      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
-      "administrator": "Commander-in-Chief: President of the US",
-      "founding_year": 1947,
-      "launchers": "",
-      "spacecraft": "",
+      "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+      "administrator": "Administrator: Jared Isaacman",
+      "founding_year": 1958,
+      "launchers": "Space Shuttle | SLS",
+      "spacecraft": "Orion",
       "parent": null,
-      "image": null,
+      "image": {
+        "id": 19,
+        "name": "[AUTO] National Aeronautics and Space Administration - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
       "logo": {
-        "id": 193,
-        "name": "[AUTO] United States Air Force - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+        "id": 161,
+        "name": "[AUTO] National Aeronautics and Space Administration - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
         "credit": null,
         "license": {
           "id": 1,
@@ -13298,10 +13601,10 @@
         "variants": []
       },
       "social_logo": {
-        "id": 99,
-        "name": "[AUTO] United States Air Force - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+        "id": 76,
+        "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
         "credit": null,
         "license": {
           "id": 1,
@@ -13312,60 +13615,25 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 1078,
-      "consecutive_successful_launches": 68,
-      "successful_launches": 972,
-      "failed_launches": 106,
-      "pending_launches": 0,
+      "total_launch_count": 142,
+      "consecutive_successful_launches": 12,
+      "successful_launches": 122,
+      "failed_launches": 20,
+      "pending_launches": 5,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
       "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
+      "successful_landings_spacecraft": 179,
+      "failed_landings_spacecraft": 2,
+      "attempted_landings_spacecraft": 181,
       "successful_landings_payload": 0,
       "failed_landings_payload": 0,
       "attempted_landings_payload": 0,
-      "info_url": "https://www.af.mil",
-      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+      "info_url": "https://www.nasa.gov",
+      "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
       "social_media_links": []
     },
-    "image": {
-      "id": 2533,
-      "name": "Atlas-LV3 Agena-B",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
-      "credit": "NASA",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
-    "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T04:18:00Z",
-    "_imported": true
-  },
-  {
-    "id": "c68999b7-a4bc-4510-ae6d-60fd1a9618c5",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/c68999b7-a4bc-4510-ae6d-60fd1a9618c5/",
-    "slug": "atlas-lv-3b-mercury-atlas-5",
-    "name": "Atlas LV-3B | Mercury-Atlas 5",
-    "status": {
-      "id": 3,
-      "name": "Launch Successful",
-      "abbrev": "Success"
-    },
-    "net": "1961-11-29T15:07:57Z",
-    "window_start": "1961-11-29T15:07:57Z",
-    "window_end": "1961-11-29T15:07:57Z",
     "rocket": {
       "id": 2404,
       "configuration": {
@@ -14286,11 +14554,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -14322,117 +14590,11 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1107,
+        "total_launch_count": 1108,
         "total_landing_count": 75
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 44,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-      "name": "National Aeronautics and Space Administration",
-      "abbrev": "NASA",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
-      "administrator": "Administrator: Jared Isaacman",
-      "founding_year": 1958,
-      "launchers": "Space Shuttle | SLS",
-      "spacecraft": "Orion",
-      "parent": null,
-      "image": {
-        "id": 19,
-        "name": "[AUTO] National Aeronautics and Space Administration - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 161,
-        "name": "[AUTO] National Aeronautics and Space Administration - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 76,
-        "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 142,
-      "consecutive_successful_launches": 12,
-      "successful_launches": 122,
-      "failed_launches": 20,
-      "pending_launches": 5,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 179,
-      "failed_landings_spacecraft": 2,
-      "attempted_landings_spacecraft": 181,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.nasa.gov",
-      "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 1696,
-      "name": "[AUTO] Atlas LV-3B - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_image_20190222030015.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193522.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [
       {
         "response_mode": "normal",
@@ -14479,10 +14641,21 @@
         }
       }
     ],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T17:42:42Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 138,
+    "location_launch_attempt_count": 72,
+    "pad_launch_attempt_count": 9,
+    "agency_launch_attempt_count": 36,
+    "orbital_launch_attempt_count_year": 45,
+    "location_launch_attempt_count_year": 22,
+    "pad_launch_attempt_count_year": 4,
+    "agency_launch_attempt_count_year": 17,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P77DT1H3M41S",
+    "mission_patches": []
   },
   {
     "id": "66201539-d2d1-402f-80fc-2314a936ad35",
@@ -14859,11 +15032,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -14895,7 +15068,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -14920,16 +15093,132 @@
   {
     "id": "812ba1f4-909f-48a5-b57f-93fda2f709e4",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/812ba1f4-909f-48a5-b57f-93fda2f709e4/",
-    "slug": "vostok-k-zenit-2-1",
     "name": "Vostok-K | Zenit-2 1",
+    "response_mode": "detailed",
+    "slug": "vostok-k-zenit-2-1",
+    "launch_designator": null,
     "status": {
       "id": 4,
       "name": "Launch Failure",
-      "abbrev": "Failure"
+      "abbrev": "Failure",
+      "description": "Either the launch vehicle did not reach orbit, or the payload(s) failed to separate."
     },
+    "last_updated": "2023-06-14T03:48:30Z",
     "net": "1961-12-11T09:39:02Z",
-    "window_start": "1961-12-11T09:39:02Z",
+    "net_precision": null,
     "window_end": "1961-12-11T09:39:02Z",
+    "window_start": "1961-12-11T09:39:02Z",
+    "image": {
+      "id": 1862,
+      "name": "[AUTO] Vostok - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vostok_image_20191104130128.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193952.jpeg",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "Premature second stage cutoff",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 66,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
+      "name": "Soviet Space Program",
+      "abbrev": "CCCP",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 5,
+          "name": "Russia",
+          "alpha_2_code": "RU",
+          "alpha_3_code": "RUS",
+          "nationality_name": "Russian",
+          "nationality_name_composed": "Russo"
+        }
+      ],
+      "description": "The Soviet space program, was the national space program of the Union of Soviet Socialist Republics (USSR) actived from 1930s until disintegration of the Soviet Union in 1991.\r\n\r\nThe Soviet Union's space program was mainly based on the cosmonautic exploration of space and the development of the expandable launch vehicles, which had been split between many design bureaus competing against each other. Over its 60-years of history, the Russian program was responsible for a number of pioneering feats and accomplishments in the human space flight, including the first intercontinental ballistic missile (R-7), first satellite (Sputnik 1), first animal in Earth orbit (the dog Laika on Sputnik 2), first human in space and Earth orbit (cosmonaut Yuri Gagarin on Vostok 1), first woman in space and Earth orbit (cosmonaut Valentina Tereshkova on Vostok 6), first spacewalk (cosmonaut Alexei Leonov on Voskhod 2), first Moon impact (Luna 2), first image of the far side of the Moon (Luna 3) and unmanned lunar soft landing (Luna 9), first space rover (Lunokhod 1), first sample of lunar soil automatically extracted and brought to Earth (Luna 16), and first space station (Salyut 1). Further notable records included the first interplanetary probes: Venera 1 and Mars 1 to fly by Venus and Mars, respectively, Venera 3 and Mars 2 to impact the respective planet surface, and Venera 7 and Mars 3 to make soft landings on these planets.",
+      "administrator": null,
+      "founding_year": 1931,
+      "launchers": "",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 28,
+        "name": "[AUTO] Soviet Space Program - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet2520space2520program_image_20191229081306.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184701.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 182,
+        "name": "Soviet Space Program logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet2520space2520program_logo_20191229081307.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185129.png",
+        "credit": "USSR",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 92,
+        "name": "Soviet Space Program social logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet_space_pr_image_20251017113333.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet_space_pr_image_thumbnail_20251017113333.png",
+        "credit": "USSR",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 2456,
+      "consecutive_successful_launches": 17,
+      "successful_launches": 2288,
+      "failed_launches": 168,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 3,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 3,
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Soviet_space_program",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 2405,
       "configuration": {
@@ -15319,11 +15608,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -15359,118 +15648,23 @@
         "total_landing_count": 0
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 66,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
-      "name": "Soviet Space Program",
-      "abbrev": "CCCP",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 5,
-          "name": "Russia",
-          "alpha_2_code": "RU",
-          "alpha_3_code": "RUS",
-          "nationality_name": "Russian",
-          "nationality_name_composed": "Russo"
-        }
-      ],
-      "description": "The Soviet space program, was the national space program of the Union of Soviet Socialist Republics (USSR) actived from 1930s until disintegration of the Soviet Union in 1991.\r\n\r\nThe Soviet Union's space program was mainly based on the cosmonautic exploration of space and the development of the expandable launch vehicles, which had been split between many design bureaus competing against each other. Over its 60-years of history, the Russian program was responsible for a number of pioneering feats and accomplishments in the human space flight, including the first intercontinental ballistic missile (R-7), first satellite (Sputnik 1), first animal in Earth orbit (the dog Laika on Sputnik 2), first human in space and Earth orbit (cosmonaut Yuri Gagarin on Vostok 1), first woman in space and Earth orbit (cosmonaut Valentina Tereshkova on Vostok 6), first spacewalk (cosmonaut Alexei Leonov on Voskhod 2), first Moon impact (Luna 2), first image of the far side of the Moon (Luna 3) and unmanned lunar soft landing (Luna 9), first space rover (Lunokhod 1), first sample of lunar soil automatically extracted and brought to Earth (Luna 16), and first space station (Salyut 1). Further notable records included the first interplanetary probes: Venera 1 and Mars 1 to fly by Venus and Mars, respectively, Venera 3 and Mars 2 to impact the respective planet surface, and Venera 7 and Mars 3 to make soft landings on these planets.",
-      "administrator": null,
-      "founding_year": 1931,
-      "launchers": "",
-      "spacecraft": "",
-      "parent": null,
-      "image": {
-        "id": 28,
-        "name": "[AUTO] Soviet Space Program - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet2520space2520program_image_20191229081306.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184701.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 182,
-        "name": "Soviet Space Program logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet2520space2520program_logo_20191229081307.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185129.png",
-        "credit": "USSR",
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 92,
-        "name": "Soviet Space Program social logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet_space_pr_image_20251017113333.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet_space_pr_image_thumbnail_20251017113333.png",
-        "credit": "USSR",
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 2456,
-      "consecutive_successful_launches": 17,
-      "successful_launches": 2288,
-      "failed_launches": 168,
-      "pending_launches": 0,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 3,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 3,
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Soviet_space_program",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 1862,
-      "name": "[AUTO] Vostok - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vostok_image_20191104130128.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193952.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T03:48:30Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 139,
+    "location_launch_attempt_count": 27,
+    "pad_launch_attempt_count": 27,
+    "agency_launch_attempt_count": 27,
+    "orbital_launch_attempt_count_year": 46,
+    "location_launch_attempt_count_year": 7,
+    "pad_launch_attempt_count_year": 7,
+    "agency_launch_attempt_count_year": 7,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P127DT3H39M2S",
+    "mission_patches": []
   },
   {
     "id": "b72ea585-14dc-4aa7-b257-5b7f2dcb9bf0",
@@ -16023,11 +16217,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -16059,7 +16253,7 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
@@ -16493,11 +16687,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -16554,16 +16748,118 @@
   {
     "id": "8dc32887-ae1c-4d82-acf3-78726d8946e9",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/8dc32887-ae1c-4d82-acf3-78726d8946e9/",
-    "slug": "atlas-lv-3a-samos-5",
     "name": "Atlas LV-3A | Samos 5",
+    "response_mode": "detailed",
+    "slug": "atlas-lv-3a-samos-5",
+    "launch_designator": "1961-035",
     "status": {
       "id": 7,
       "name": "Launch was a Partial Failure",
-      "abbrev": "Partial Failure"
+      "abbrev": "Partial Failure",
+      "description": "Either the launch vehicle reached orbit but did not deliver its payload in the targeted orbit, or an exceptional event made it impossible to consider the mission a success."
     },
+    "last_updated": "2023-06-14T03:42:24Z",
     "net": "1961-12-22T19:12:33Z",
-    "window_start": "1961-12-22T19:12:33Z",
+    "net_precision": null,
     "window_end": "1961-12-22T19:12:33Z",
+    "window_start": "1961-12-22T19:12:33Z",
+    "image": {
+      "id": 2533,
+      "name": "Atlas-LV3 Agena-B",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": 0,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": "",
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 161,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+      "name": "United States Air Force",
+      "abbrev": "USAF",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+      "administrator": "Commander-in-Chief: President of the US",
+      "founding_year": 1947,
+      "launchers": "",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 193,
+        "name": "[AUTO] United States Air Force - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 99,
+        "name": "[AUTO] United States Air Force - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1078,
+      "consecutive_successful_launches": 68,
+      "successful_launches": 972,
+      "failed_launches": 106,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.af.mil",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 2408,
       "configuration": {
@@ -16863,7 +17159,7 @@
       "spacecraft_stage": [],
       "payloads": []
     },
-    "mission": {},
+    "mission": null,
     "pad": {
       "id": 24,
       "url": "https://ll.thespacedevs.com/2.3.0/pads/24/",
@@ -16998,11 +17294,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7510,
+          "successful_launches": 6954,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
+          "total_attempted_landings": 1308,
+          "successful_landings": 1261,
           "failed_landings": 47
         },
         "active": true,
@@ -17034,107 +17330,26 @@
         "longitude": -120.52023,
         "latitude": 34.75133,
         "timezone_name": "America/Los_Angeles",
-        "total_launch_count": 883,
+        "total_launch_count": 884,
         "total_landing_count": 34
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 161,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
-      "name": "United States Air Force",
-      "abbrev": "USAF",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
-      "administrator": "Commander-in-Chief: President of the US",
-      "founding_year": 1947,
-      "launchers": "",
-      "spacecraft": "",
-      "parent": null,
-      "image": null,
-      "logo": {
-        "id": 193,
-        "name": "[AUTO] United States Air Force - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 99,
-        "name": "[AUTO] United States Air Force - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 1078,
-      "consecutive_successful_launches": 68,
-      "successful_launches": 972,
-      "failed_launches": 106,
-      "pending_launches": 0,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.af.mil",
-      "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 2533,
-      "name": "Atlas-LV3 Agena-B",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_20251111092848.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas-lv3_agena_image_thumbnail_20251111092848.png",
-      "credit": "NASA",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2023-06-14T03:42:24Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 142,
+    "location_launch_attempt_count": 44,
+    "pad_launch_attempt_count": 3,
+    "agency_launch_attempt_count": 71,
+    "orbital_launch_attempt_count_year": 49,
+    "location_launch_attempt_count_year": 24,
+    "pad_launch_attempt_count_year": 3,
+    "agency_launch_attempt_count_year": 33,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P62DT5H19M30S",
+    "mission_patches": []
   }
 ]
