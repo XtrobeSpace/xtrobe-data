@@ -1247,8 +1247,8 @@
               "variants": []
             },
             "in_space": true,
-            "time_in_space": "P184DT3H5M27S",
-            "time_docked": "P169DT16H23M30S",
+            "time_in_space": "P185DT3H15M20S",
+            "time_docked": "P170DT16H33M23S",
             "flights_count": 6,
             "mission_ends_count": 5,
             "status": {
@@ -1647,7 +1647,7 @@
               "description": "Unpowered landing using parachute(s)."
             }
           },
-          "duration": "P8DT3H32M20.391156S",
+          "duration": "P9DT3H42M38.00131S",
           "turn_around_time": "P355DT16H21M41S",
           "response_mode": "detailed",
           "launch_crew": [],
@@ -1985,8 +1985,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -2957,11 +2957,11 @@
             "description": "",
             "active": true,
             "maiden_flight": "1970-04-24",
-            "total_launch_count": 643,
-            "consecutive_successful_launches": 16,
-            "successful_launches": 624,
+            "total_launch_count": 644,
+            "consecutive_successful_launches": 17,
+            "successful_launches": 625,
             "failed_launches": 19,
-            "pending_launches": 10,
+            "pending_launches": 9,
             "attempted_landings": 1,
             "successful_landings": 0,
             "failed_landings": 1,
@@ -3383,8 +3383,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -4389,14 +4389,6 @@
                   "nationality_name_composed": "Swedo"
                 },
                 {
-                  "id": 20,
-                  "name": "Belgium",
-                  "alpha_2_code": "BE",
-                  "alpha_3_code": "BEL",
-                  "nationality_name": "Belgian",
-                  "nationality_name_composed": "Belgo"
-                },
-                {
                   "id": 23,
                   "name": "Portugal",
                   "alpha_2_code": "PT",
@@ -4499,6 +4491,14 @@
                   "alpha_3_code": "LUX",
                   "nationality_name": "Luxembourger",
                   "nationality_name_composed": "Luxembourgish"
+                },
+                {
+                  "id": 20,
+                  "name": "Belgium",
+                  "alpha_2_code": "BE",
+                  "alpha_3_code": "BEL",
+                  "nationality_name": "Belgian",
+                  "nationality_name_composed": "Belgo"
                 },
                 {
                   "id": 86,
@@ -5350,8 +5350,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -5781,14 +5781,14 @@
     "name": "Falcon 9 Block 5 | Starlink Group 17-42",
     "response_mode": "detailed",
     "slug": "falcon-9-block-5-starlink-group-17-42",
-    "launch_designator": null,
+    "launch_designator": "2026-110",
     "status": {
       "id": 3,
       "name": "Launch Successful",
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-05-20T03:52:51Z",
+    "last_updated": "2026-05-24T23:49:45Z",
     "net": "2026-05-20T02:46:19Z",
     "net_precision": {
       "id": 0,
@@ -7230,8 +7230,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -7522,17 +7522,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -7554,17 +7554,17 @@
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
@@ -7725,14 +7725,14 @@
     "name": "Falcon 9 Block 5 | Starlink Group 10-31",
     "response_mode": "detailed",
     "slug": "falcon-9-block-5-starlink-group-10-31",
-    "launch_designator": null,
+    "launch_designator": "2026-111",
     "status": {
       "id": 3,
       "name": "Launch Successful",
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-05-21T11:11:52Z",
+    "last_updated": "2026-05-25T00:53:09Z",
     "net": "2026-05-21T10:04:20Z",
     "net_precision": {
       "id": 0,
@@ -9248,8 +9248,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -9743,14 +9743,14 @@
     "name": "Electron | Viva La StriX (StriX Launch 9)",
     "response_mode": "detailed",
     "slug": "electron-viva-la-strix-strix-launch-9",
-    "launch_designator": null,
+    "launch_designator": "2026-112",
     "status": {
       "id": 3,
       "name": "Launch Successful",
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-05-22T11:37:45Z",
+    "last_updated": "2026-05-25T01:56:17Z",
     "net": "2026-05-22T09:33:00Z",
     "net_precision": {
       "id": 1,
@@ -10286,8 +10286,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -11939,8 +11939,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -12657,14 +12657,14 @@
     "name": "Long March 2F/G | Shenzhou 23",
     "response_mode": "detailed",
     "slug": "long-march-2fg-shenzhou-23",
-    "launch_designator": null,
+    "launch_designator": "2026-113",
     "status": {
       "id": 3,
       "name": "Launch Successful",
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-05-24T15:44:11Z",
+    "last_updated": "2026-05-25T02:58:34Z",
     "net": "2026-05-24T15:08:36Z",
     "net_precision": {
       "id": 0,
@@ -12894,11 +12894,11 @@
             "description": "",
             "active": true,
             "maiden_flight": "1970-04-24",
-            "total_launch_count": 643,
-            "consecutive_successful_launches": 16,
-            "successful_launches": 624,
+            "total_launch_count": 644,
+            "consecutive_successful_launches": 17,
+            "successful_launches": 625,
             "failed_launches": 19,
-            "pending_launches": 10,
+            "pending_launches": 9,
             "attempted_landings": 1,
             "successful_landings": 0,
             "failed_landings": 1,
@@ -13085,11 +13085,11 @@
             "description": "",
             "active": true,
             "maiden_flight": "1974-11-05",
-            "total_launch_count": 229,
-            "consecutive_successful_launches": 35,
-            "successful_launches": 223,
+            "total_launch_count": 230,
+            "consecutive_successful_launches": 36,
+            "successful_launches": 224,
             "failed_launches": 6,
-            "pending_launches": 2,
+            "pending_launches": 1,
             "attempted_landings": 0,
             "successful_landings": 0,
             "failed_landings": 0,
@@ -13266,8 +13266,8 @@
               "variants": []
             },
             "in_space": true,
-            "time_in_space": "PT4H57M59S",
-            "time_docked": "PT1H21M35S",
+            "time_in_space": "PT10H37M12S",
+            "time_docked": "PT7H48S",
             "flights_count": 1,
             "mission_ends_count": 0,
             "status": {
@@ -13387,9 +13387,9 @@
               "flight_life": "200 day design life.",
               "wiki_link": "https://en.wikipedia.org/wiki/Shenzhou_(spacecraft)",
               "info_link": "",
-              "spacecraft_flown": 22,
-              "total_launch_count": 22,
-              "successful_launches": 22,
+              "spacecraft_flown": 23,
+              "total_launch_count": 23,
+              "successful_launches": 23,
               "failed_launches": 0,
               "attempted_landings": 21,
               "successful_landings": 20,
@@ -13471,7 +13471,7 @@
               "description": "Unpowered landing using parachute(s)."
             }
           },
-          "duration": null,
+          "duration": "PT10H39M48.102956S",
           "turn_around_time": null,
           "response_mode": "detailed",
           "launch_crew": [
@@ -13522,7 +13522,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P154DT3H38M48S",
+                "time_in_space": "P154DT9H14M",
                 "eva_time": "PT7H55M",
                 "age": 39,
                 "date_of_birth": "1986-09-01",
@@ -13591,7 +13591,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "PT4H57M59S",
+                "time_in_space": "PT10H34M4S",
                 "eva_time": "P0D",
                 "age": 43,
                 "date_of_birth": "1982-11-01",
@@ -13660,7 +13660,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "PT4H57M59S",
+                "time_in_space": "PT10H34M3S",
                 "eva_time": "P0D",
                 "age": 39,
                 "date_of_birth": "1986-06-01",
@@ -13943,8 +13943,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -15751,8 +15751,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -17605,8 +17605,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -18279,11 +18279,11 @@
             "description": "",
             "active": true,
             "maiden_flight": "1970-04-24",
-            "total_launch_count": 643,
-            "consecutive_successful_launches": 16,
-            "successful_launches": 624,
+            "total_launch_count": 644,
+            "consecutive_successful_launches": 17,
+            "successful_launches": 625,
             "failed_launches": 19,
-            "pending_launches": 10,
+            "pending_launches": 9,
             "attempted_landings": 1,
             "successful_landings": 0,
             "failed_landings": 1,
@@ -18719,8 +18719,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -20339,8 +20339,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
@@ -20692,7 +20692,7 @@
         "relative_time": "PT1H1M26S"
       }
     ],
-    "pad_turnaround": "P4DT11M",
+    "pad_turnaround": "P4DT3M56S",
     "mission_patches": [
       {
         "id": 7,
@@ -21697,8 +21697,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7513,
-          "successful_launches": 6957,
+          "total_attempted_launches": 7514,
+          "successful_launches": 6958,
           "failed_launches": 556,
           "total_attempted_landings": 1311,
           "successful_landings": 1263,
