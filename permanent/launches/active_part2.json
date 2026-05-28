@@ -2675,7 +2675,7 @@
             "consecutive_successful_launches": 290,
             "successful_launches": 653,
             "failed_launches": 7,
-            "pending_launches": 117,
+            "pending_launches": 121,
             "attempted_landings": 633,
             "successful_landings": 615,
             "failed_landings": 19,
@@ -2949,7 +2949,7 @@
             "consecutive_successful_launches": 288,
             "successful_launches": 639,
             "failed_launches": 4,
-            "pending_launches": 103,
+            "pending_launches": 107,
             "attempted_landings": 608,
             "successful_landings": 594,
             "failed_landings": 15,
@@ -4009,17 +4009,17 @@
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
@@ -4041,17 +4041,17 @@
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
@@ -4619,7 +4619,7 @@
             "consecutive_successful_launches": 290,
             "successful_launches": 653,
             "failed_launches": 7,
-            "pending_launches": 117,
+            "pending_launches": 121,
             "attempted_landings": 633,
             "successful_landings": 615,
             "failed_landings": 19,
@@ -4893,7 +4893,7 @@
             "consecutive_successful_launches": 288,
             "successful_launches": 639,
             "failed_launches": 4,
-            "pending_launches": 103,
+            "pending_launches": 107,
             "attempted_landings": 608,
             "successful_landings": 594,
             "failed_landings": 15,
@@ -6059,17 +6059,17 @@
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
@@ -8949,17 +8949,17 @@
       },
       {
         "type": {
-          "id": 10,
-          "abbrev": "Liftoff",
-          "description": "First upwards movement of the rocket"
+          "id": 91,
+          "abbrev": "Excitement Guaranteed",
+          "description": "Excitement guaranteed"
         },
         "relative_time": "P0D"
       },
       {
         "type": {
-          "id": 91,
-          "abbrev": "Excitement Guaranteed",
-          "description": "Excitement guaranteed"
+          "id": 10,
+          "abbrev": "Liftoff",
+          "description": "First upwards movement of the rocket"
         },
         "relative_time": "P0D"
       },
@@ -9753,8 +9753,8 @@
               "variants": []
             },
             "in_space": true,
-            "time_in_space": "P2DT10H39M4S",
-            "time_docked": "P2DT7H2M40S",
+            "time_in_space": "P3DT10H35M9S",
+            "time_docked": "P3DT6H58M45S",
             "flights_count": 1,
             "mission_ends_count": 0,
             "status": {
@@ -9958,7 +9958,7 @@
               "description": "Unpowered landing using parachute(s)."
             }
           },
-          "duration": "P2DT10H41M23.294305S",
+          "duration": "P3DT10H37M51.040372S",
           "turn_around_time": null,
           "response_mode": "detailed",
           "launch_crew": [
@@ -10009,7 +10009,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P156DT9H15M21S",
+                "time_in_space": "P157DT9H10M44S",
                 "eva_time": "PT7H55M",
                 "age": 39,
                 "date_of_birth": "1986-09-01",
@@ -10078,7 +10078,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P2DT10H35M46S",
+                "time_in_space": "P3DT10H31M19S",
                 "eva_time": "P0D",
                 "age": 43,
                 "date_of_birth": "1982-11-01",
@@ -10147,7 +10147,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P2DT10H35M45S",
+                "time_in_space": "P3DT10H31M18S",
                 "eva_time": "P0D",
                 "age": 39,
                 "date_of_birth": "1986-06-01",
@@ -10162,7 +10162,7 @@
                     "nationality_name_composed": "Sino"
                   }
                 ],
-                "bio": "(Placeholder)",
+                "bio": "Zhang Zhiyuan is a Chinese astronaut selected as part of the Shenzhou program. He enlisted in the People's Liberation Army (PLA) Air Force in September 2006, and joined the Chinese Communist Party (CCP) in March 2011. He was a pilot at the People's Liberation Army Air Force (PLAAF) prior to joining the astronaut corps.",
                 "wiki": null,
                 "last_flight": "2026-05-24T15:08:36Z",
                 "first_flight": "2026-05-24T15:08:36Z",
@@ -11122,7 +11122,7 @@
             "consecutive_successful_launches": 290,
             "successful_launches": 653,
             "failed_launches": 7,
-            "pending_launches": 117,
+            "pending_launches": 121,
             "attempted_landings": 633,
             "successful_landings": 615,
             "failed_landings": 19,
@@ -11396,7 +11396,7 @@
             "consecutive_successful_launches": 288,
             "successful_launches": 639,
             "failed_launches": 4,
-            "pending_launches": 103,
+            "pending_launches": 107,
             "attempted_landings": 608,
             "successful_landings": 594,
             "failed_landings": 15,
@@ -12559,17 +12559,17 @@
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
@@ -13137,7 +13137,7 @@
             "consecutive_successful_launches": 290,
             "successful_launches": 653,
             "failed_launches": 7,
-            "pending_launches": 117,
+            "pending_launches": 121,
             "attempted_landings": 633,
             "successful_landings": 615,
             "failed_landings": 19,
@@ -13411,7 +13411,7 @@
             "consecutive_successful_launches": 288,
             "successful_launches": 639,
             "failed_launches": 4,
-            "pending_launches": 103,
+            "pending_launches": 107,
             "attempted_landings": 608,
             "successful_landings": 594,
             "failed_landings": 15,
@@ -15909,7 +15909,7 @@
             "consecutive_successful_launches": 290,
             "successful_launches": 653,
             "failed_launches": 7,
-            "pending_launches": 117,
+            "pending_launches": 121,
             "attempted_landings": 633,
             "successful_landings": 615,
             "failed_landings": 19,
@@ -16183,7 +16183,7 @@
             "consecutive_successful_launches": 288,
             "successful_launches": 639,
             "failed_launches": 4,
-            "pending_launches": 103,
+            "pending_launches": 107,
             "attempted_landings": 608,
             "successful_landings": 594,
             "failed_landings": 15,
@@ -18970,7 +18970,7 @@
             "consecutive_successful_launches": 290,
             "successful_launches": 653,
             "failed_launches": 7,
-            "pending_launches": 117,
+            "pending_launches": 121,
             "attempted_landings": 633,
             "successful_landings": 615,
             "failed_landings": 19,
@@ -19244,7 +19244,7 @@
             "consecutive_successful_launches": 288,
             "successful_launches": 639,
             "failed_launches": 4,
-            "pending_launches": 103,
+            "pending_launches": 107,
             "attempted_landings": 608,
             "successful_landings": 594,
             "failed_landings": 15,
@@ -20206,17 +20206,17 @@
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
@@ -20238,17 +20238,17 @@
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
