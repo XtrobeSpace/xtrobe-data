@@ -1,5 +1,389 @@
 [
   {
+    "id": "4d70f2c0-953e-4fbc-b579-3c901c06a158",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/4d70f2c0-953e-4fbc-b579-3c901c06a158/",
+    "slug": "kinetica-1-5-satellites-2",
+    "name": "Kinetica 1 | 5 satellites",
+    "status": {
+      "id": 3,
+      "name": "Launch Successful",
+      "abbrev": "Success"
+    },
+    "net": "2026-05-15T04:33:00Z",
+    "window_start": "2026-05-15T04:24:00Z",
+    "window_end": "2026-05-15T04:50:00Z",
+    "rocket": {
+      "id": 9019,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 483,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/483/",
+        "name": "Kinetica 1",
+        "families": [],
+        "full_name": "Kinetica 1",
+        "variant": "",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 1040,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1040/",
+          "name": "CAS Space",
+          "abbrev": "CAS",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 6,
+              "name": "China",
+              "alpha_2_code": "CN",
+              "alpha_3_code": "CHN",
+              "nationality_name": "Chinese",
+              "nationality_name_composed": "Sino"
+            }
+          ],
+          "description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
+          "administrator": null,
+          "founding_year": 2018,
+          "launchers": "Zhongke",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 122,
+            "name": "[AUTO] CAS Space - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_logo_20220727081352.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184930.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 48,
+            "name": "[AUTO] CAS Space - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_nation_20230604193435.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184743.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 14,
+          "consecutive_successful_launches": 8,
+          "successful_launches": 13,
+          "failed_launches": 1,
+          "pending_launches": 0,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://cas-space.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/CAS_Space",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 1755,
+          "name": "[AUTO] Kinetica 1 - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193659.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://en.cas-space.com/index/index/technology",
+        "wiki_url": null,
+        "description": "Kinetica 1 (also known as Lijian-1, Chinese: 力箭一号) is a Chinese solid-propellant light launch vehicle. It is capable of placing about 2 tons into low earth orbit and 1.5 tons into sun-synchronous orbit. It is developed by CAS Space, a subsidiary of the Chinese Academy of Sciences. Kinetica 1 is a light launcher whose first stage seems to be derived from the DF-31 long-range intercontinental ballistic missile. It is 30 m high and has a diameter of 2.65 m, with a liftoff mass of 135 t. It's the largest Chinese solid propellant launcher to date, with four stages with a thrust of 200, 100, 50 and 10 tons respectively. The fairing has a diameter of 3.35 meters.",
+        "alias": "",
+        "min_stage": 4,
+        "max_stage": 4,
+        "length": 30.0,
+        "diameter": 2.65,
+        "maiden_flight": "2022-07-27",
+        "launch_cost": null,
+        "launch_mass": 135.0,
+        "leo_capacity": 2000.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": 1500.0,
+        "to_thrust": 1961.0,
+        "apogee": null,
+        "total_launch_count": 13,
+        "consecutive_successful_launches": 7,
+        "successful_launches": 12,
+        "failed_launches": 1,
+        "pending_launches": 0,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": "P20DT23H59M"
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7614,
+      "name": "5 satellites",
+      "type": "Earth Science",
+      "description": "Share-ride of 5 satellites to sun-synchronous orbit:\r\n\r\n* Taijing-3-05A/B\r\n* Tianyi-50\r\n* Tianyan-27\r\n* Jilin-1 HR-03D-55",
+      "image": null,
+      "orbit": {
+        "id": 17,
+        "name": "Sun-Synchronous Orbit",
+        "abbrev": "SSO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 151,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/151/",
+      "active": true,
+      "agencies": [],
+      "name": "Launch Area 130",
+      "image": {
+        "id": 1460,
+        "name": "Kinetica 1 liftoff from LA-130 (Flight 2)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica25201_image_20230727064618.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192832.jpeg",
+        "credit": "CAS Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center",
+      "map_url": "https://www.google.com/maps?q=40.8182,100.22514",
+      "latitude": 40.8182,
+      "longitude": 100.22514,
+      "country": {
+        "id": 6,
+        "name": "China",
+        "alpha_2_code": "CN",
+        "alpha_3_code": "CHN",
+        "nationality_name": "Chinese",
+        "nationality_name_composed": "Sino"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_151_20200803143425.jpg",
+      "total_launch_count": 13,
+      "orbital_launch_attempt_count": 13,
+      "fastest_turnaround": "P20DT23H59M",
+      "location": {
+        "response_mode": "normal",
+        "id": 17,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/17/",
+        "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7507,
+          "successful_launches": 6951,
+          "failed_launches": 556,
+          "total_attempted_landings": 1307,
+          "successful_landings": 1260,
+          "failed_landings": 47
+        },
+        "active": true,
+        "country": {
+          "id": 6,
+          "name": "China",
+          "alpha_2_code": "CN",
+          "alpha_3_code": "CHN",
+          "nationality_name": "Chinese",
+          "nationality_name_composed": "Sino"
+        },
+        "description": "Jiuquan Satellite Launch Center is a Chinese spaceport located between the Ejin, Alxa, Inner Mongolia and Hangtian Town, Jinta County, Jiuquan, Gansu Province. It is part of the Dongfeng Aerospace City (Base 10).",
+        "image": {
+          "id": 1374,
+          "name": "Long March 2F/G liftoff (Shenzhou 16)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20240101085213.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192548.jpeg",
+          "credit": "CMS",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_17_20200803142429.jpg",
+        "longitude": 100.291111,
+        "latitude": 40.958056,
+        "timezone_name": "Asia/Shanghai",
+        "total_launch_count": 285,
+        "total_landing_count": 2
+      }
+    },
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 1040,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1040/",
+      "name": "CAS Space",
+      "abbrev": "CAS",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 6,
+          "name": "China",
+          "alpha_2_code": "CN",
+          "alpha_3_code": "CHN",
+          "nationality_name": "Chinese",
+          "nationality_name_composed": "Sino"
+        }
+      ],
+      "description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
+      "administrator": null,
+      "founding_year": 2018,
+      "launchers": "Zhongke",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 122,
+        "name": "[AUTO] CAS Space - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_logo_20220727081352.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184930.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 48,
+        "name": "[AUTO] CAS Space - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_nation_20230604193435.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184743.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 14,
+      "consecutive_successful_launches": 8,
+      "successful_launches": 13,
+      "failed_launches": 1,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://cas-space.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/CAS_Space",
+      "social_media_links": []
+    },
+    "image": {
+      "id": 1755,
+      "name": "[AUTO] Kinetica 1 - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193659.png",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "vidURLs": [],
+    "program": [],
+    "orbital_launch_attempt": null,
+    "suborbital_launch_attempt": null,
+    "last_updated": "2026-05-16T04:11:21Z",
+    "_imported": true
+  },
+  {
     "id": "aef8f8ea-522b-4bdb-9d57-212bbe981946",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/aef8f8ea-522b-4bdb-9d57-212bbe981946/",
     "slug": "long-march-8-spacesail-polar-group-tbd",
@@ -21791,450 +22175,6 @@
     "orbital_launch_attempt": null,
     "suborbital_launch_attempt": null,
     "last_updated": "2026-04-30T11:13:30Z",
-    "_imported": true
-  },
-  {
-    "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/a927b2f9-f9a5-4196-9abb-2e275e4a6b96/",
-    "slug": "pallas-1-demo-flight",
-    "name": "Pallas-1 | Demo Flight",
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD"
-    },
-    "net": "2026-12-31T00:00:00Z",
-    "window_start": "2026-12-31T00:00:00Z",
-    "window_end": "2026-12-31T00:00:00Z",
-    "rocket": {
-      "id": 8824,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 542,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/542/",
-        "name": "Pallas-1",
-        "families": [],
-        "full_name": "Pallas-1",
-        "variant": "",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 1021,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1021/",
-          "name": "Galactic Energy",
-          "abbrev": "GE",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 6,
-              "name": "China",
-              "alpha_2_code": "CN",
-              "alpha_3_code": "CHN",
-              "nationality_name": "Chinese",
-              "nationality_name_composed": "Sino"
-            }
-          ],
-          "description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
-          "administrator": null,
-          "founding_year": 2018,
-          "launchers": "Ceres-1 | Pallas-1",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 11,
-            "name": "[AUTO] Galactic Energy - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic_energy_image_20201106095228.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184607.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 135,
-            "name": "[AUTO] Galactic Energy - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184957.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 59,
-            "name": "[AUTO] Galactic Energy - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_nation_20230703094321.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184759.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 24,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 21,
-          "failed_launches": 3,
-          "pending_launches": 1,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.galactic-energy.cn/index.php/En",
-          "wiki_url": null,
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": true,
-        "image": null,
-        "info_url": null,
-        "wiki_url": "https://en.wikipedia.org/wiki/Pallas-1",
-        "description": "",
-        "alias": "",
-        "min_stage": 2,
-        "max_stage": 3,
-        "length": 49.6,
-        "diameter": 3.35,
-        "maiden_flight": null,
-        "launch_cost": null,
-        "launch_mass": 283.0,
-        "leo_capacity": 7000.0,
-        "gto_capacity": null,
-        "geo_capacity": null,
-        "sso_capacity": 3000.0,
-        "to_thrust": 3435.0,
-        "apogee": null,
-        "total_launch_count": 0,
-        "consecutive_successful_launches": 0,
-        "successful_launches": 0,
-        "failed_launches": 0,
-        "pending_launches": 1,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": null
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 7415,
-      "name": "Demo Flight",
-      "type": "Test Flight",
-      "description": "First test launch of Galactic Energy’s Pallas-1 rocket.",
-      "image": null,
-      "orbit": {
-        "id": 25,
-        "name": "Unknown",
-        "abbrev": "N/A",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 246,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/246/",
-      "active": true,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 1021,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1021/",
-          "name": "Galactic Energy",
-          "abbrev": "GE",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 6,
-              "name": "China",
-              "alpha_2_code": "CN",
-              "alpha_3_code": "CHN",
-              "nationality_name": "Chinese",
-              "nationality_name_composed": "Sino"
-            }
-          ],
-          "description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
-          "administrator": null,
-          "founding_year": 2018,
-          "launchers": "Ceres-1 | Pallas-1",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 11,
-            "name": "[AUTO] Galactic Energy - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic_energy_image_20201106095228.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184607.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 135,
-            "name": "[AUTO] Galactic Energy - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184957.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 59,
-            "name": "[AUTO] Galactic Energy - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_nation_20230703094321.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184759.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Pallas-1 Launch Pad",
-      "image": null,
-      "description": "",
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Pallas-1",
-      "map_url": "https://www.google.com/maps?q=40.775962,100.107214",
-      "latitude": 40.775962,
-      "longitude": 100.107214,
-      "country": {
-        "id": 6,
-        "name": "China",
-        "alpha_2_code": "CN",
-        "alpha_3_code": "CHN",
-        "nationality_name": "Chinese",
-        "nationality_name_composed": "Sino"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_pallas-1_launch_pad_20251128223637.jpg",
-      "total_launch_count": 0,
-      "orbital_launch_attempt_count": 0,
-      "fastest_turnaround": null,
-      "location": {
-        "response_mode": "normal",
-        "id": 17,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/17/",
-        "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
-          "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
-          "failed_landings": 47
-        },
-        "active": true,
-        "country": {
-          "id": 6,
-          "name": "China",
-          "alpha_2_code": "CN",
-          "alpha_3_code": "CHN",
-          "nationality_name": "Chinese",
-          "nationality_name_composed": "Sino"
-        },
-        "description": "Jiuquan Satellite Launch Center is a Chinese spaceport located between the Ejin, Alxa, Inner Mongolia and Hangtian Town, Jinta County, Jiuquan, Gansu Province. It is part of the Dongfeng Aerospace City (Base 10).",
-        "image": {
-          "id": 1374,
-          "name": "Long March 2F/G liftoff (Shenzhou 16)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20240101085213.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192548.jpeg",
-          "credit": "CMS",
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": false,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_17_20200803142429.jpg",
-        "longitude": 100.291111,
-        "latitude": 40.958056,
-        "timezone_name": "Asia/Shanghai",
-        "total_launch_count": 285,
-        "total_landing_count": 2
-      }
-    },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 1021,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1021/",
-      "name": "Galactic Energy",
-      "abbrev": "GE",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 6,
-          "name": "China",
-          "alpha_2_code": "CN",
-          "alpha_3_code": "CHN",
-          "nationality_name": "Chinese",
-          "nationality_name_composed": "Sino"
-        }
-      ],
-      "description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
-      "administrator": null,
-      "founding_year": 2018,
-      "launchers": "Ceres-1 | Pallas-1",
-      "spacecraft": "",
-      "parent": null,
-      "image": {
-        "id": 11,
-        "name": "[AUTO] Galactic Energy - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic_energy_image_20201106095228.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184607.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 135,
-        "name": "[AUTO] Galactic Energy - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184957.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 59,
-        "name": "[AUTO] Galactic Energy - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_nation_20230703094321.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184759.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 24,
-      "consecutive_successful_launches": 0,
-      "successful_launches": 21,
-      "failed_launches": 3,
-      "pending_launches": 1,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.galactic-energy.cn/index.php/En",
-      "wiki_url": null,
-      "social_media_links": []
-    },
-    "image": null,
-    "vidURLs": [],
-    "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2025-12-18T17:34:00Z",
     "_imported": true
   }
 ]
