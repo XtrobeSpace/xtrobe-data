@@ -20440,16 +20440,237 @@
   {
     "id": "7bffe283-a708-427d-ba0d-43ea741453b1",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/7bffe283-a708-427d-ba0d-43ea741453b1/",
-    "slug": "ariane-64-amazon-leo-le-02",
     "name": "Ariane 64 | Amazon Leo (LE-02)",
+    "response_mode": "detailed",
+    "slug": "ariane-64-amazon-leo-le-02",
+    "launch_designator": "2026-098",
     "status": {
       "id": 3,
       "name": "Launch Successful",
-      "abbrev": "Success"
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
+    "last_updated": "2026-05-05T22:22:27Z",
     "net": "2026-04-30T08:57:15Z",
-    "window_start": "2026-04-30T08:08:45Z",
+    "net_precision": {
+      "id": 0,
+      "name": "Second",
+      "abbrev": "SEC",
+      "description": "The T-0 is accurate to the second."
+    },
     "window_end": "2026-04-30T08:57:15Z",
+    "window_start": "2026-04-30T08:08:45Z",
+    "image": {
+      "id": 2694,
+      "name": "Ariane 64 liftoff (LE-01)",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
+      "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
+      "license": {
+        "id": 2,
+        "name": "ESA Standard Licence",
+        "priority": 2,
+        "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": "VA268",
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 115,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+      "name": "Arianespace",
+      "abbrev": "ASA",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 1,
+          "name": "France",
+          "alpha_2_code": "FR",
+          "alpha_3_code": "FRA",
+          "nationality_name": "French",
+          "nationality_name_composed": "Franco"
+        }
+      ],
+      "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+      "administrator": "CEO: David Cavaillolès",
+      "founding_year": 1980,
+      "launchers": "Ariane | Vega",
+      "spacecraft": "",
+      "parent": "ArianeGroup",
+      "image": {
+        "id": 2694,
+        "name": "Ariane 64 liftoff (LE-01)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
+        "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
+        "license": {
+          "id": 2,
+          "name": "ESA Standard Licence",
+          "priority": 2,
+          "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "logo": {
+        "id": 108,
+        "name": "Arianespace blue logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
+        "credit": "Arianespace",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": [
+          {
+            "id": 11,
+            "type": {
+              "id": 1,
+              "name": "transparent for light background"
+            },
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184850.png"
+          },
+          {
+            "id": 12,
+            "type": {
+              "id": 2,
+              "name": "transparent for dark background"
+            },
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184853.png"
+          }
+        ]
+      },
+      "social_logo": {
+        "id": 39,
+        "name": "Arianespace social logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
+        "credit": "Arianespace",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 326,
+      "consecutive_successful_launches": 14,
+      "successful_launches": 311,
+      "failed_launches": 15,
+      "pending_launches": 29,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.arianespace.com",
+      "wiki_url": "https://en.wikipedia.org/wiki/Arianespace",
+      "social_media_links": [
+        {
+          "id": 247,
+          "social_media": {
+            "id": 3,
+            "name": "Homepage",
+            "url": null,
+            "logo": null
+          },
+          "url": "https://www.arianespace.com/"
+        },
+        {
+          "id": 248,
+          "social_media": {
+            "id": 4,
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/",
+            "logo": {
+              "id": 2321,
+              "name": "LinkedIn logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+              "credit": "LinkedIn",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.linkedin.com/company/arianespace_2/"
+        },
+        {
+          "id": 249,
+          "social_media": {
+            "id": 2,
+            "name": "Instagram",
+            "url": "https://instagram.com",
+            "logo": {
+              "id": 2322,
+              "name": "Instagram logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+              "credit": "Instagram",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.instagram.com/arianespace/"
+        },
+        {
+          "id": 250,
+          "social_media": {
+            "id": 1,
+            "name": "X",
+            "url": "https://x.com",
+            "logo": {
+              "id": 2320,
+              "name": "X logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+              "credit": "X",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://x.com/Arianespace/"
+        }
+      ]
+    },
     "rocket": {
       "id": 8463,
       "configuration": {
@@ -21235,7 +21456,7 @@
         "consecutive_successful_launches": 2,
         "successful_launches": 2,
         "failed_launches": 0,
-        "pending_launches": 13,
+        "pending_launches": 12,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
@@ -21602,12 +21823,12 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
-          "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
-          "failed_landings": 47
+          "total_attempted_launches": 7519,
+          "successful_launches": 6962,
+          "failed_launches": 557,
+          "total_attempted_landings": 1315,
+          "successful_landings": 1267,
+          "failed_landings": 48
         },
         "active": true,
         "country": {
@@ -21638,217 +21859,11 @@
         "longitude": -52.6903,
         "latitude": 5.169,
         "timezone_name": "America/Cayenne",
-        "total_launch_count": 332,
+        "total_launch_count": 333,
         "total_landing_count": 0
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 115,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
-      "name": "Arianespace",
-      "abbrev": "ASA",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 1,
-          "name": "France",
-          "alpha_2_code": "FR",
-          "alpha_3_code": "FRA",
-          "nationality_name": "French",
-          "nationality_name_composed": "Franco"
-        }
-      ],
-      "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
-      "administrator": "CEO: David Cavaillolès",
-      "founding_year": 1980,
-      "launchers": "Ariane | Vega",
-      "spacecraft": "",
-      "parent": "ArianeGroup",
-      "image": {
-        "id": 2694,
-        "name": "Ariane 64 liftoff (LE-01)",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
-        "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
-        "license": {
-          "id": 2,
-          "name": "ESA Standard Licence",
-          "priority": 2,
-          "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "logo": {
-        "id": 108,
-        "name": "Arianespace blue logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
-        "credit": "Arianespace",
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": [
-          {
-            "id": 11,
-            "type": {
-              "id": 1,
-              "name": "transparent for light background"
-            },
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184850.png"
-          },
-          {
-            "id": 12,
-            "type": {
-              "id": 2,
-              "name": "transparent for dark background"
-            },
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184853.png"
-          }
-        ]
-      },
-      "social_logo": {
-        "id": 39,
-        "name": "Arianespace social logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
-        "credit": "Arianespace",
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 326,
-      "consecutive_successful_launches": 14,
-      "successful_launches": 311,
-      "failed_launches": 15,
-      "pending_launches": 29,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.arianespace.com",
-      "wiki_url": "https://en.wikipedia.org/wiki/Arianespace",
-      "social_media_links": [
-        {
-          "id": 247,
-          "social_media": {
-            "id": 3,
-            "name": "Homepage",
-            "url": null,
-            "logo": null
-          },
-          "url": "https://www.arianespace.com/"
-        },
-        {
-          "id": 248,
-          "social_media": {
-            "id": 4,
-            "name": "LinkedIn",
-            "url": "https://www.linkedin.com/",
-            "logo": {
-              "id": 2321,
-              "name": "LinkedIn logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-              "credit": "LinkedIn",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.linkedin.com/company/arianespace_2/"
-        },
-        {
-          "id": 249,
-          "social_media": {
-            "id": 2,
-            "name": "Instagram",
-            "url": "https://instagram.com",
-            "logo": {
-              "id": 2322,
-              "name": "Instagram logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
-              "credit": "Instagram",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.instagram.com/arianespace/"
-        },
-        {
-          "id": 250,
-          "social_media": {
-            "id": 1,
-            "name": "X",
-            "url": "https://x.com",
-            "logo": {
-              "id": 2320,
-              "name": "X logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-              "credit": "X",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://x.com/Arianespace/"
-        }
-      ]
-    },
-    "image": {
-      "id": 2694,
-      "name": "Ariane 64 liftoff (LE-01)",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
-      "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
-      "license": {
-        "id": 2,
-        "name": "ESA Standard Licence",
-        "priority": 2,
-        "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
-      },
-      "single_use": false,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [
       {
         "response_mode": "normal",
@@ -21895,9 +21910,339 @@
         }
       }
     ],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2026-05-05T22:22:27Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 7276,
+    "location_launch_attempt_count": 332,
+    "pad_launch_attempt_count": 7,
+    "agency_launch_attempt_count": 326,
+    "orbital_launch_attempt_count_year": 103,
+    "location_launch_attempt_count_year": 2,
+    "pad_launch_attempt_count_year": 2,
+    "agency_launch_attempt_count_year": 2,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 14862,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Launch success, all satellites separated.",
+        "info_url": "https://www.youtube.com/watch?v=H0zLzwGEhcg",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-30T10:52:00Z"
+      },
+      {
+        "id": 14861,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Liftoff.",
+        "info_url": "https://www.youtube.com/watch?v=H0zLzwGEhcg",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-30T08:58:00Z"
+      },
+      {
+        "id": 14860,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Tweaked T-0.",
+        "info_url": "https://www.youtube.com/watch?v=H0zLzwGEhcg",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-30T08:48:00Z"
+      },
+      {
+        "id": 14859,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by Arianespace has started",
+        "info_url": "https://www.youtube.com/watch?v=H0zLzwGEhcg",
+        "created_by": "LL2",
+        "created_on": "2026-04-30T08:26:00Z"
+      },
+      {
+        "id": 14858,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "New T-0.",
+        "info_url": "https://www.youtube.com/watch?v=apXRc7sCdug",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-30T08:05:00Z"
+      },
+      {
+        "id": 14857,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed, pending more information.",
+        "info_url": "https://www.youtube.com/watch?v=H0zLzwGEhcg",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-30T07:59:00Z"
+      },
+      {
+        "id": 14803,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to April 30.",
+        "info_url": "https://x.com/Arianespace/status/2048048570029281554",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-25T14:45:00Z"
+      },
+      {
+        "id": 14706,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added launch window.",
+        "info_url": "https://x.com/arianespace/status/2044098588129611838",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-14T17:04:00Z"
+      },
+      {
+        "id": 14422,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Targeting April 28",
+        "info_url": "https://newsroom.arianespace.com/arianespace-to-launch-another-32-amazon-leo-satellites-with-ariane-64-on-april-28-2026/",
+        "created_by": "Nosu",
+        "created_on": "2026-03-24T19:26:00Z"
+      },
+      {
+        "id": 14407,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET April.",
+        "info_url": "https://x.com/amazonleo/status/2036136683821842748",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-23T17:56:00Z"
+      },
+      {
+        "id": 14273,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET April-Q2.",
+        "info_url": "https://x.com/arianespace/status/2032518557653782676",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-13T18:53:00Z"
+      },
+      {
+        "id": 13956,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "This is the next Ariane 6 launch after LE-01 (VA267)",
+        "info_url": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
+        "created_by": "Nosu",
+        "created_on": "2026-02-13T10:11:00Z"
+      },
+      {
+        "id": 9755,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding launch on Ariane 64 Block 1",
+        "info_url": "https://europeanspaceflight.com/testing-of-key-ariane-6-upgrade-to-begin-in-march/",
+        "created_by": "Nosu",
+        "created_on": "2025-01-10T14:25:00Z"
+      }
+    ],
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": null,
+        "title": null,
+        "description": null,
+        "feature_image": null,
+        "url": "https://newsroom.arianespace.com/ariane-6-flight-va268/",
+        "type": {
+          "id": 1,
+          "name": "Official Page"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "Arianespace",
+        "title": "Flight VA268 | Amazon Leo LE-02 | Ariane 6 | Arianespace",
+        "description": "On 30 April 2026, at 5:57 AM local time, Arianespace successfully launched 32 Amazon Leo satellites aboard Ariane 64 — Ariane 6's four-booster version — from Europe's Spaceport in Kourou, French Guiana. The satellites were delivered with precision into low Earth orbit (LEO), at an altitude of approximately 465 km. The mission was completed as planned, lasting a total of 1 hour and 54 minutes from lift-off to the separation of the last satellites.          \n\nDesignated VA268 by Arianespace and LE-02 by Amazon Leo, this mission was the second of 18 Ariane 6 launches planned for the deployment of the Amazon Leo constellation.\n\n“This second launch for Amazon Leo marks another milestone in Ariane 6's ramp-up, demonstrating our ability to meet the growing needs of the constellation market a...",
+        "feature_image": "https://i.ytimg.com/vi/H0zLzwGEhcg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H0zLzwGEhcg",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-04-30T08:26:07Z",
+        "end_time": "2026-04-30T11:00:37Z",
+        "live": false
+      },
+      {
+        "priority": 11,
+        "source": "youtube.com",
+        "publisher": "Arianespace",
+        "title": "Vol VA268 | Amazon Leo LE-02 | Ariane 6 | Arianespace",
+        "description": "Le 30 avril 2026, à 5h57 heure locale, Arianespace a lancé avec succès les 32 satellites Amazon Leo à bord d'Ariane 6 dans sa configuration Ariane 64 — équipée de quatre boosters — depuis le port spatial européen en Guyane française. Les satellites ont été placés avec précision en orbite terrestre basse à environ 465 km d'altitude. La mission s'est déroulée nominalement sur une durée totale de 1 heure et 54 minutes du décollage à la séparation des derniers satellites.         \n\nDésignée respectivement VA268 par Arianespace et LE-02 par Amazon Leo, cette mission constituait le deuxième vol d'une série de 18 qui seront réalisés par Ariane 6 dans le cadre du déploiement de la constellation Amazon Leo.\n\n« Ce deuxième lancement au service d'Amazon Leo marque une étape clé dans la montée en...",
+        "feature_image": "https://i.ytimg.com/vi/DhxJ6Z7u-YU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DhxJ6Z7u-YU",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 4,
+          "name": "French",
+          "code": "fr"
+        },
+        "start_time": "2026-04-30T08:26:12Z",
+        "end_time": "2026-04-30T11:00:29Z",
+        "live": false
+      },
+      {
+        "priority": 12,
+        "source": "youtube.com",
+        "publisher": "CNES",
+        "title": "Lancement Ariane 6 pour la constellation Amazon LEO (VA268)",
+        "description": "Le second modèle Ariane 6 équipé de quatre propulseurs d'appoint décollera ce jeudi 30 avril au matin du Centre spatial guyanais. Sous sa coiffe, 32 nouveaux satellites de la constellation Amazon LEO.\n\n🚀 *Zoom sur le lancement VA268*\n\nJeudi 30 avril 2026\nFenêtre de tir :\n05h08 - 05h57 heure de Kourou\n10h08 - 10h57 heure de Paris\n\n🛰️ *Zoom sur les passagers*\n\nCette mission marque le deuxième des 18 lancements d'Ariane 6 prévus pour soutenir le déploiement de la constellation Amazon LEO. Amazon LEO est le réseau de satellites en orbite basse d'Amazon, dont la mission est de fournir un accès Internet rapide et fiable aux clients situés hors de portée des réseaux existants. \n\nPlus d'infos sur le lancement :\nhttps://cnes.fr/evenements/lancement-de-2e-ariane-6-quatre-boosters-satellites-ama...",
+        "feature_image": "https://i.ytimg.com/vi/apXRc7sCdug/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=apXRc7sCdug",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 4,
+          "name": "French",
+          "code": "fr"
+        },
+        "start_time": "2026-04-30T07:36:37Z",
+        "end_time": "2026-04-30T11:00:25Z",
+        "live": false
+      }
+    ],
+    "timeline": [
+      {
+        "type": {
+          "id": 9,
+          "abbrev": "Ignition",
+          "description": "Start of the engine ignition sequence"
+        },
+        "relative_time": "-PT7S"
+      },
+      {
+        "type": {
+          "id": 10,
+          "abbrev": "Liftoff",
+          "description": "First upwards movement of the rocket"
+        },
+        "relative_time": "P0D"
+      },
+      {
+        "type": {
+          "id": 77,
+          "abbrev": "SRB Separation",
+          "description": "The solid rocket boosters are separated from the launcher."
+        },
+        "relative_time": "PT2M23S"
+      },
+      {
+        "type": {
+          "id": 15,
+          "abbrev": "Fairing Separation",
+          "description": "Separation of the payload fairing"
+        },
+        "relative_time": "PT3M14S"
+      },
+      {
+        "type": {
+          "id": 12,
+          "abbrev": "MECO",
+          "description": "Cut-off of the main engine"
+        },
+        "relative_time": "PT7M40S"
+      },
+      {
+        "type": {
+          "id": 13,
+          "abbrev": "Stage 2 Separation",
+          "description": "Separation of the second stage from the first"
+        },
+        "relative_time": "PT7M46S"
+      },
+      {
+        "type": {
+          "id": 14,
+          "abbrev": "SES-1",
+          "description": "First start of the second engine"
+        },
+        "relative_time": "PT7M54S"
+      },
+      {
+        "type": {
+          "id": 20,
+          "abbrev": "SECO-1",
+          "description": "First cut-off of the second engine"
+        },
+        "relative_time": "PT19M12S"
+      },
+      {
+        "type": {
+          "id": 21,
+          "abbrev": "SES-2",
+          "description": "Second start of the second engine"
+        },
+        "relative_time": "PT1H11M21S"
+      },
+      {
+        "type": {
+          "id": 22,
+          "abbrev": "SECO-2",
+          "description": "Second cut-off of the second engine"
+        },
+        "relative_time": "PT1H11M39S"
+      },
+      {
+        "type": {
+          "id": 78,
+          "abbrev": "Payload Deployment Sequence Start",
+          "description": "Start of the payload deployment sequence"
+        },
+        "relative_time": "PT1H29M19S"
+      },
+      {
+        "type": {
+          "id": 79,
+          "abbrev": "Payload Deployment Sequence End",
+          "description": "End of the payload deployment sequence."
+        },
+        "relative_time": "PT1H54M4S"
+      },
+      {
+        "type": {
+          "id": 80,
+          "abbrev": "SES-3",
+          "description": "Third start of the second engine"
+        },
+        "relative_time": "PT2H42M24S"
+      },
+      {
+        "type": {
+          "id": 81,
+          "abbrev": "SECO-3",
+          "description": "Third cut-off of the second engine"
+        },
+        "relative_time": "PT2H42M42S"
+      }
+    ],
+    "pad_turnaround": "P76DT16H11M45S",
+    "mission_patches": [
+      {
+        "id": 1316,
+        "name": "VA268 Patch",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/va2682520patch_mission_patch_20260415122412.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 115,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+          "name": "Arianespace",
+          "abbrev": "ASA",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ]
   }
 ]
