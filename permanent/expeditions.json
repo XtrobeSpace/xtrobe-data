@@ -1,5 +1,66 @@
 [
   {
+    "id": 167,
+    "url": "https://ll.thespacedevs.com/2.3.0/expeditions/167/",
+    "name": "Shenzhou 23",
+    "start": "2026-05-24T18:45:00Z",
+    "end": null,
+    "response_mode": "normal",
+    "spacestation": {
+      "id": 18,
+      "url": "https://ll.thespacedevs.com/2.3.0/space_stations/18/",
+      "name": "Tiangong space station",
+      "image": {
+        "id": 1941,
+        "name": "[AUTO] Tiangong space station - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/tiangong_space__image_20231031004146.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194211.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "status": {
+        "id": 1,
+        "name": "Active"
+      },
+      "founded": "2021-04-29",
+      "deorbited": null,
+      "description": "The Tiangong space station is a space station placed in Low Earth orbit between 340 and 450 km above the surface. It will be roughly one-fifth the mass of the International Space Station and about the size of the Mir space station.",
+      "orbit": "Low Earth Orbit",
+      "type": {
+        "id": 2,
+        "name": "Government"
+      }
+    },
+    "mission_patches": [
+      {
+        "id": 1324,
+        "name": "Shenzhou 23 Patch",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/shenzhou252023_mission_patch_20260516015452.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 17,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/17/",
+          "name": "China National Space Administration",
+          "abbrev": "CNSA",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ],
+    "spacewalks": []
+  },
+  {
     "id": 165,
     "url": "https://ll.thespacedevs.com/2.3.0/expeditions/165/",
     "name": "Expedition 74",
@@ -58,7 +119,18 @@
         "response_mode": "normal"
       }
     ],
-    "spacewalks": []
+    "spacewalks": [
+      {
+        "response_mode": "list",
+        "id": 495,
+        "url": "https://ll.thespacedevs.com/2.3.0/spacewalks/495/",
+        "name": "Expedition 74 EVA 1",
+        "start": "2026-05-27T14:17:51Z",
+        "end": "2026-05-27T20:24:11Z",
+        "duration": "PT6H6M20S",
+        "location": "International Space Station"
+      }
+    ]
   },
   {
     "id": 166,
@@ -3739,10 +3811,10 @@
     },
     "mission_patches": [
       {
-        "id": 698,
+        "id": 709,
         "name": "Expedition 49 Patch",
         "priority": 9,
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_49_patch_20221024013508.png",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_49_patch_20221024013514.png",
         "agency": {
           "response_mode": "list",
           "id": 44,
@@ -3757,10 +3829,10 @@
         "response_mode": "normal"
       },
       {
-        "id": 709,
+        "id": 698,
         "name": "Expedition 49 Patch",
         "priority": 9,
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_49_patch_20221024013514.png",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_49_patch_20221024013508.png",
         "agency": {
           "response_mode": "list",
           "id": 44,
@@ -7419,10 +7491,10 @@
     },
     "mission_patches": [
       {
-        "id": 662,
+        "id": 710,
         "name": "Expedition 5 Patch",
         "priority": 9,
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_5_patch_20221024013437.png",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_5_patch_20221024013514.png",
         "agency": {
           "response_mode": "list",
           "id": 44,
@@ -7437,10 +7509,10 @@
         "response_mode": "normal"
       },
       {
-        "id": 710,
+        "id": 662,
         "name": "Expedition 5 Patch",
         "priority": 9,
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_5_patch_20221024013514.png",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition_5_patch_20221024013437.png",
         "agency": {
           "response_mode": "list",
           "id": 44,
