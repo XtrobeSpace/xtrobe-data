@@ -1366,13 +1366,13 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7509,
-    "location_launch_attempt_count": 1183,
-    "pad_launch_attempt_count": 395,
+    "orbital_launch_attempt_count": 7510,
+    "location_launch_attempt_count": 1184,
+    "pad_launch_attempt_count": 396,
     "agency_launch_attempt_count": 763,
     "orbital_launch_attempt_count_year": 31,
-    "location_launch_attempt_count_year": 14,
-    "pad_launch_attempt_count_year": 2,
+    "location_launch_attempt_count_year": 15,
+    "pad_launch_attempt_count_year": 3,
     "agency_launch_attempt_count_year": 20,
     "flightclub_url": null,
     "updates": [
@@ -1388,15 +1388,15 @@
     "info_urls": [],
     "vid_urls": [],
     "timeline": [],
-    "pad_turnaround": "P212D",
+    "pad_turnaround": "P31D",
     "mission_patches": []
   },
   {
     "id": "f3a1a032-5cca-4733-9ca8-04a5a1dba222",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/f3a1a032-5cca-4733-9ca8-04a5a1dba222/",
-    "name": "Falcon 9 Block 5 | Vast ISS Mission 1",
+    "name": "Falcon 9 Block 5 | PAM-6 (Vast ISS Mission 1)",
     "response_mode": "detailed",
-    "slug": "falcon-9-block-5-vast-iss-mission-1",
+    "slug": "falcon-9-block-5-pam-6-vast-iss-mission-1",
     "launch_designator": null,
     "status": {
       "id": 2,
@@ -1404,7 +1404,7 @@
       "abbrev": "TBD",
       "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
     },
-    "last_updated": "2026-02-12T22:43:26Z",
+    "last_updated": "2026-06-02T15:32:46Z",
     "net": "2027-09-30T00:00:00Z",
     "net_precision": {
       "id": 10,
@@ -2966,9 +2966,247 @@
           "duration": null,
           "turn_around_time": null,
           "response_mode": "detailed",
-          "launch_crew": [],
+          "launch_crew": [
+            {
+              "id": 5263,
+              "role": {
+                "id": 1,
+                "role": "Commander",
+                "priority": 0
+              },
+              "astronaut": {
+                "id": 1,
+                "url": "https://ll.thespacedevs.com/2.3.0/astronauts/1/",
+                "name": "Thomas Pesquet",
+                "status": {
+                  "id": 1,
+                  "name": "Active"
+                },
+                "agency": {
+                  "response_mode": "list",
+                  "id": 27,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/27/",
+                  "name": "European Space Agency",
+                  "abbrev": "ESA",
+                  "type": {
+                    "id": 2,
+                    "name": "Multinational"
+                  }
+                },
+                "image": {
+                  "id": 637,
+                  "name": "[AUTO] Thomas Pesquet - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/thomas2520pesquet_image_20200102120546.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305190357.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "response_mode": "list",
+                "type": {
+                  "id": 2,
+                  "name": "Government"
+                },
+                "in_space": false,
+                "time_in_space": "P396DT11H33M45S",
+                "eva_time": "P1DT15H54M",
+                "age": 48,
+                "date_of_birth": "1978-02-27",
+                "date_of_death": null,
+                "nationality": [
+                  {
+                    "id": 1,
+                    "name": "France",
+                    "alpha_2_code": "FR",
+                    "alpha_3_code": "FRA",
+                    "nationality_name": "French",
+                    "nationality_name_composed": "Franco"
+                  }
+                ],
+                "bio": "Thomas Gautier Pesquet is a French aerospace engineer, pilot, and European Space Agency astronaut. Pesquet was selected by ESA as a candidate in May 2009, and he successfully completed his basic training in November 2010. From November 2016 to June 2017, Pesquet was part of Expeditions 50 and 51 on the International Space Station as a flight engineer.",
+                "wiki": "https://en.wikipedia.org/wiki/Thomas_Pesquet",
+                "last_flight": "2021-04-23T09:49:02Z",
+                "first_flight": "2016-11-17T20:20:13Z",
+                "social_media_links": [
+                  {
+                    "id": 205,
+                    "social_media": {
+                      "id": 1,
+                      "name": "X",
+                      "url": "https://x.com",
+                      "logo": {
+                        "id": 2320,
+                        "name": "X logo",
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                        "credit": "X",
+                        "license": {
+                          "id": 1,
+                          "name": "Unknown",
+                          "priority": 9,
+                          "link": null
+                        },
+                        "single_use": true,
+                        "variants": []
+                      }
+                    },
+                    "url": "https://twitter.com/Thom_astro"
+                  },
+                  {
+                    "id": 206,
+                    "social_media": {
+                      "id": 2,
+                      "name": "Instagram",
+                      "url": "https://instagram.com",
+                      "logo": {
+                        "id": 2322,
+                        "name": "Instagram logo",
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                        "credit": "Instagram",
+                        "license": {
+                          "id": 1,
+                          "name": "Unknown",
+                          "priority": 9,
+                          "link": null
+                        },
+                        "single_use": true,
+                        "variants": []
+                      }
+                    },
+                    "url": "https://instagram.com/thom_astro"
+                  }
+                ]
+              }
+            }
+          ],
           "onboard_crew": [],
-          "landing_crew": [],
+          "landing_crew": [
+            {
+              "id": 5264,
+              "role": {
+                "id": 1,
+                "role": "Commander",
+                "priority": 0
+              },
+              "astronaut": {
+                "id": 1,
+                "url": "https://ll.thespacedevs.com/2.3.0/astronauts/1/",
+                "name": "Thomas Pesquet",
+                "status": {
+                  "id": 1,
+                  "name": "Active"
+                },
+                "agency": {
+                  "response_mode": "list",
+                  "id": 27,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/27/",
+                  "name": "European Space Agency",
+                  "abbrev": "ESA",
+                  "type": {
+                    "id": 2,
+                    "name": "Multinational"
+                  }
+                },
+                "image": {
+                  "id": 637,
+                  "name": "[AUTO] Thomas Pesquet - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/thomas2520pesquet_image_20200102120546.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305190357.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "response_mode": "list",
+                "type": {
+                  "id": 2,
+                  "name": "Government"
+                },
+                "in_space": false,
+                "time_in_space": "P396DT11H33M45S",
+                "eva_time": "P1DT15H54M",
+                "age": 48,
+                "date_of_birth": "1978-02-27",
+                "date_of_death": null,
+                "nationality": [
+                  {
+                    "id": 1,
+                    "name": "France",
+                    "alpha_2_code": "FR",
+                    "alpha_3_code": "FRA",
+                    "nationality_name": "French",
+                    "nationality_name_composed": "Franco"
+                  }
+                ],
+                "bio": "Thomas Gautier Pesquet is a French aerospace engineer, pilot, and European Space Agency astronaut. Pesquet was selected by ESA as a candidate in May 2009, and he successfully completed his basic training in November 2010. From November 2016 to June 2017, Pesquet was part of Expeditions 50 and 51 on the International Space Station as a flight engineer.",
+                "wiki": "https://en.wikipedia.org/wiki/Thomas_Pesquet",
+                "last_flight": "2021-04-23T09:49:02Z",
+                "first_flight": "2016-11-17T20:20:13Z",
+                "social_media_links": [
+                  {
+                    "id": 205,
+                    "social_media": {
+                      "id": 1,
+                      "name": "X",
+                      "url": "https://x.com",
+                      "logo": {
+                        "id": 2320,
+                        "name": "X logo",
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                        "credit": "X",
+                        "license": {
+                          "id": 1,
+                          "name": "Unknown",
+                          "priority": 9,
+                          "link": null
+                        },
+                        "single_use": true,
+                        "variants": []
+                      }
+                    },
+                    "url": "https://twitter.com/Thom_astro"
+                  },
+                  {
+                    "id": 206,
+                    "social_media": {
+                      "id": 2,
+                      "name": "Instagram",
+                      "url": "https://instagram.com",
+                      "logo": {
+                        "id": 2322,
+                        "name": "Instagram logo",
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                        "credit": "Instagram",
+                        "license": {
+                          "id": 1,
+                          "name": "Unknown",
+                          "priority": 9,
+                          "link": null
+                        },
+                        "single_use": true,
+                        "variants": []
+                      }
+                    },
+                    "url": "https://instagram.com/thom_astro"
+                  }
+                ]
+              }
+            }
+          ],
           "docking_events": []
         }
       ],
@@ -2976,9 +3214,9 @@
     },
     "mission": {
       "id": 7508,
-      "name": "Vast ISS Mission 1",
+      "name": "PAM-6 (Vast ISS Mission 1)",
       "type": "Tourism",
-      "description": "This is a Crew Dragon flight for private company Vast. The mission will carry 4 astronauts to and from the International Space Station for up to 2 weeks.\r\n\r\nNote: Official mission name to be confirmed.",
+      "description": "Vast’s first private crew rotation to the International Space Station aboard a SpaceX Crew Dragon spacecraft, and NASA's 6th Private Astronaut Mission to the ISS.\r\n\r\nThe crew includes ESA/CNES astronaut Thomas Pesquet, who will serve as Commander for the mission. The mission will carry 4 astronauts to and from the International Space Station for up to 2 weeks.\r\n\r\nNote: Official mission name to be confirmed.",
       "image": null,
       "orbit": {
         "id": 8,
@@ -3273,13 +3511,13 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7510,
-    "location_launch_attempt_count": 1184,
-    "pad_launch_attempt_count": 396,
+    "orbital_launch_attempt_count": 7511,
+    "location_launch_attempt_count": 1185,
+    "pad_launch_attempt_count": 397,
     "agency_launch_attempt_count": 764,
     "orbital_launch_attempt_count_year": 32,
-    "location_launch_attempt_count_year": 15,
-    "pad_launch_attempt_count_year": 3,
+    "location_launch_attempt_count_year": 16,
+    "pad_launch_attempt_count_year": 4,
     "agency_launch_attempt_count_year": 21,
     "flightclub_url": null,
     "updates": [
