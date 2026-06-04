@@ -7,21 +7,21 @@
     "slug": "long-march-5-unknown-payload",
     "launch_designator": null,
     "status": {
-      "id": 8,
-      "name": "To Be Confirmed",
-      "abbrev": "TBC",
-      "description": "Awaiting official confirmation - current date is known with some certainty."
+      "id": 1,
+      "name": "Go for Launch",
+      "abbrev": "Go",
+      "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-06-02T04:55:36Z",
-    "net": "2026-06-10T06:00:00Z",
+    "last_updated": "2026-06-04T14:49:06Z",
+    "net": "2026-06-10T07:30:00Z",
     "net_precision": {
       "id": 2,
       "name": "Hour",
       "abbrev": "HR",
       "description": "The T-0 is accurate to the hour."
     },
-    "window_end": "2026-06-10T10:00:00Z",
-    "window_start": "2026-06-10T06:00:00Z",
+    "window_end": "2026-06-10T08:40:00Z",
+    "window_start": "2026-06-10T07:22:00Z",
     "image": {
       "id": 1437,
       "name": "[AUTO] Long March 5  | Chang'e 5 - image",
@@ -118,7 +118,7 @@
       "consecutive_successful_launches": 21,
       "successful_launches": 580,
       "failed_launches": 15,
-      "pending_launches": 8,
+      "pending_launches": 9,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 1,
@@ -222,7 +222,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -333,7 +333,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -524,7 +524,7 @@
           "consecutive_successful_launches": 21,
           "successful_launches": 580,
           "failed_launches": 15,
-          "pending_launches": 8,
+          "pending_launches": 9,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 1,
@@ -577,7 +577,7 @@
         "consecutive_successful_launches": 8,
         "successful_launches": 8,
         "failed_launches": 0,
-        "pending_launches": 2,
+        "pending_launches": 3,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
@@ -724,16 +724,24 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7309,
+    "orbital_launch_attempt_count": 7308,
     "location_launch_attempt_count": 64,
     "pad_launch_attempt_count": 18,
     "agency_launch_attempt_count": 597,
-    "orbital_launch_attempt_count_year": 136,
+    "orbital_launch_attempt_count_year": 135,
     "location_launch_attempt_count_year": 9,
     "pad_launch_attempt_count_year": 1,
     "agency_launch_attempt_count_year": 27,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15188,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Refined launch window per new NOTAMs.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=57867.msg2794988#msg2794988",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-04T14:49:00Z"
+      },
       {
         "id": 15148,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -746,7 +754,7 @@
     "info_urls": [],
     "vid_urls": [],
     "timeline": [],
-    "pad_turnaround": "P171DT17H30M",
+    "pad_turnaround": "P171DT19H",
     "mission_patches": []
   },
   {
@@ -4663,16 +4671,16 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-06-02T19:36:04Z",
-    "net": "2026-06-14T02:11:00Z",
+    "last_updated": "2026-06-04T16:09:24Z",
+    "net": "2026-06-14T14:00:00Z",
     "net_precision": {
       "id": 1,
       "name": "Minute",
       "abbrev": "MIN",
       "description": "The T-0 is accurate to the minute."
     },
-    "window_end": "2026-06-14T06:11:00Z",
-    "window_start": "2026-06-14T02:11:00Z",
+    "window_end": "2026-06-14T18:00:00Z",
+    "window_start": "2026-06-14T14:00:00Z",
     "image": {
       "id": 1296,
       "name": "Starlink night fairing",
@@ -5752,7 +5760,7 @@
             "fastest_turnaround": "P21DT22H7M44S"
           },
           "previous_flight_date": "2026-04-30T02:42:49Z",
-          "turn_around_time": "P44DT23H28M11S",
+          "turn_around_time": "P45DT11H17M11S",
           "landing": {
             "id": 1871,
             "url": "https://ll.thespacedevs.com/2.3.0/landings/1871/",
@@ -6211,16 +6219,24 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7312,
+    "orbital_launch_attempt_count": 7311,
     "location_launch_attempt_count": 890,
     "pad_launch_attempt_count": 274,
     "agency_launch_attempt_count": 690,
-    "orbital_launch_attempt_count_year": 139,
+    "orbital_launch_attempt_count_year": 138,
     "location_launch_attempt_count_year": 38,
     "pad_launch_attempt_count_year": 36,
     "agency_launch_attempt_count_year": 71,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15191,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Now targeting Jun 14 at 14:00 UTC",
+        "info_url": "https://www.spacex.com/launches/sl-17-54",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-04T16:09:00Z"
+      },
       {
         "id": 15155,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -6273,7 +6289,7 @@
       }
     ],
     "timeline": [],
-    "pad_turnaround": "P3DT12H11M",
+    "pad_turnaround": "P4D",
     "mission_patches": [
       {
         "id": 7,
@@ -6414,7 +6430,7 @@
       "consecutive_successful_launches": 21,
       "successful_launches": 580,
       "failed_launches": 15,
-      "pending_launches": 8,
+      "pending_launches": 9,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 1,
@@ -6518,7 +6534,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -6629,7 +6645,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -6820,7 +6836,7 @@
           "consecutive_successful_launches": 21,
           "successful_launches": 580,
           "failed_launches": 15,
-          "pending_launches": 8,
+          "pending_launches": 9,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 1,
@@ -7164,7 +7180,7 @@
       "consecutive_successful_launches": 21,
       "successful_launches": 580,
       "failed_launches": 15,
-      "pending_launches": 8,
+      "pending_launches": 9,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 1,
@@ -7268,7 +7284,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -7379,7 +7395,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -7570,7 +7586,7 @@
           "consecutive_successful_launches": 21,
           "successful_launches": 580,
           "failed_launches": 15,
-          "pending_launches": 8,
+          "pending_launches": 9,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 1,
@@ -7900,7 +7916,7 @@
       "consecutive_successful_launches": 21,
       "successful_launches": 580,
       "failed_launches": 15,
-      "pending_launches": 8,
+      "pending_launches": 9,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 1,
@@ -8004,7 +8020,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -8115,7 +8131,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -8306,7 +8322,7 @@
           "consecutive_successful_launches": 21,
           "successful_launches": 580,
           "failed_launches": 15,
-          "pending_launches": 8,
+          "pending_launches": 9,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 1,
@@ -12769,7 +12785,7 @@
       "consecutive_successful_launches": 21,
       "successful_launches": 580,
       "failed_launches": 15,
-      "pending_launches": 8,
+      "pending_launches": 9,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 1,
@@ -12873,7 +12889,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -12984,7 +13000,7 @@
                 "consecutive_successful_launches": 21,
                 "successful_launches": 580,
                 "failed_launches": 15,
-                "pending_launches": 8,
+                "pending_launches": 9,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -13175,7 +13191,7 @@
           "consecutive_successful_launches": 21,
           "successful_launches": 580,
           "failed_launches": 15,
-          "pending_launches": 8,
+          "pending_launches": 9,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 1,
@@ -16207,14 +16223,6 @@
           "nationality_name_composed": "Swedo"
         },
         {
-          "id": 20,
-          "name": "Belgium",
-          "alpha_2_code": "BE",
-          "alpha_3_code": "BEL",
-          "nationality_name": "Belgian",
-          "nationality_name_composed": "Belgo"
-        },
-        {
           "id": 23,
           "name": "Portugal",
           "alpha_2_code": "PT",
@@ -16317,6 +16325,14 @@
           "alpha_3_code": "LUX",
           "nationality_name": "Luxembourger",
           "nationality_name_composed": "Luxembourgish"
+        },
+        {
+          "id": 20,
+          "name": "Belgium",
+          "alpha_2_code": "BE",
+          "alpha_3_code": "BEL",
+          "nationality_name": "Belgian",
+          "nationality_name_composed": "Belgo"
         },
         {
           "id": 86,
@@ -21363,1359 +21379,6 @@
     "vid_urls": [],
     "timeline": [],
     "pad_turnaround": "P5129DT7H59M23S",
-    "mission_patches": []
-  },
-  {
-    "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/c3f48f48-0e0a-4bca-917e-de494cfca35b/",
-    "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
-    "response_mode": "detailed",
-    "slug": "falcon-9-block-5-bluebird-block-2-3-5",
-    "launch_designator": null,
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD",
-      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-    },
-    "last_updated": "2026-05-28T23:52:55Z",
-    "net": "2026-06-30T00:00:00Z",
-    "net_precision": {
-      "id": 7,
-      "name": "Month",
-      "abbrev": "M",
-      "description": "The T-0 is expected in the given month."
-    },
-    "window_end": "2026-06-30T00:00:00Z",
-    "window_start": "2026-06-30T00:00:00Z",
-    "image": {
-      "id": 2210,
-      "name": "F9 on SLC-40 (BlueBird 1)",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_thumbnail_20240919072420.jpeg",
-      "credit": "SpaceX",
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 121,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-      "name": "SpaceX",
-      "abbrev": "SpX",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "administrator": "CEO: Elon Musk",
-      "founding_year": 2002,
-      "launchers": "Falcon | Starship",
-      "spacecraft": "Dragon",
-      "parent": null,
-      "image": {
-        "id": 1736,
-        "name": "Falcon 9 liftoff from LC-39A",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "logo": {
-        "id": 186,
-        "name": "SpaceX logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 94,
-        "name": "SpaceX social logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 685,
-      "consecutive_successful_launches": 170,
-      "successful_launches": 670,
-      "failed_launches": 15,
-      "pending_launches": 125,
-      "consecutive_successful_landings": 6,
-      "successful_landings": 630,
-      "failed_landings": 28,
-      "attempted_landings": 657,
-      "successful_landings_spacecraft": 60,
-      "failed_landings_spacecraft": 3,
-      "attempted_landings_spacecraft": 64,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.spacex.com/",
-      "wiki_url": "https://en.wikipedia.org/wiki/SpaceX",
-      "social_media_links": [
-        {
-          "id": 427,
-          "social_media": {
-            "id": 3,
-            "name": "Homepage",
-            "url": null,
-            "logo": null
-          },
-          "url": "https://www.spacex.com/"
-        },
-        {
-          "id": 428,
-          "social_media": {
-            "id": 1,
-            "name": "X",
-            "url": "https://x.com",
-            "logo": {
-              "id": 2320,
-              "name": "X logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-              "credit": "X",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://x.com/spacex/"
-        },
-        {
-          "id": 429,
-          "social_media": {
-            "id": 6,
-            "name": "Youtube",
-            "url": "https://www.youtube.com/",
-            "logo": {
-              "id": 2356,
-              "name": "YouTube logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-              "credit": "YouTube",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.youtube.com/@spacex"
-        },
-        {
-          "id": 430,
-          "social_media": {
-            "id": 4,
-            "name": "LinkedIn",
-            "url": "https://www.linkedin.com/",
-            "logo": {
-              "id": 2321,
-              "name": "LinkedIn logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-              "credit": "LinkedIn",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.linkedin.com/company/spacex/"
-        }
-      ]
-    },
-    "rocket": {
-      "id": 8410,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 164,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/164/",
-        "name": "Falcon 9",
-        "families": [
-          {
-            "response_mode": "detailed",
-            "id": 1,
-            "name": "Falcon",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 2,
-                    "name": "United States of America",
-                    "alpha_2_code": "US",
-                    "alpha_3_code": "USA",
-                    "nationality_name": "American",
-                    "nationality_name_composed": "Americano"
-                  }
-                ],
-                "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-                "administrator": "CEO: Elon Musk",
-                "founding_year": 2002,
-                "launchers": "Falcon | Starship",
-                "spacecraft": "Dragon",
-                "parent": null,
-                "image": {
-                  "id": 1736,
-                  "name": "Falcon 9 liftoff from LC-39A",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": false,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 186,
-                  "name": "SpaceX logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 94,
-                  "name": "SpaceX social logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 685,
-                "consecutive_successful_launches": 170,
-                "successful_launches": 670,
-                "failed_launches": 15,
-                "pending_launches": 125,
-                "consecutive_successful_landings": 6,
-                "successful_landings": 630,
-                "failed_landings": 28,
-                "attempted_landings": 657,
-                "successful_landings_spacecraft": 60,
-                "failed_landings_spacecraft": 3,
-                "attempted_landings_spacecraft": 64,
-                "successful_landings_payload": 0,
-                "failed_landings_payload": 0,
-                "attempted_landings_payload": 0,
-                "info_url": "https://www.spacex.com/",
-                "wiki_url": "https://en.wikipedia.org/wiki/SpaceX",
-                "social_media_links": [
-                  {
-                    "id": 427,
-                    "social_media": {
-                      "id": 3,
-                      "name": "Homepage",
-                      "url": null,
-                      "logo": null
-                    },
-                    "url": "https://www.spacex.com/"
-                  },
-                  {
-                    "id": 428,
-                    "social_media": {
-                      "id": 1,
-                      "name": "X",
-                      "url": "https://x.com",
-                      "logo": {
-                        "id": 2320,
-                        "name": "X logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                        "credit": "X",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://x.com/spacex/"
-                  },
-                  {
-                    "id": 429,
-                    "social_media": {
-                      "id": 6,
-                      "name": "Youtube",
-                      "url": "https://www.youtube.com/",
-                      "logo": {
-                        "id": 2356,
-                        "name": "YouTube logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                        "credit": "YouTube",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://www.youtube.com/@spacex"
-                  },
-                  {
-                    "id": 430,
-                    "social_media": {
-                      "id": 4,
-                      "name": "LinkedIn",
-                      "url": "https://www.linkedin.com/",
-                      "logo": {
-                        "id": 2321,
-                        "name": "LinkedIn logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                        "credit": "LinkedIn",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://www.linkedin.com/company/spacex/"
-                  }
-                ]
-              }
-            ],
-            "parent": null,
-            "description": "Family of two-stage partially reusable orbital launch vehicles developed by SpaceX.",
-            "active": true,
-            "maiden_flight": "2006-03-24",
-            "total_launch_count": 663,
-            "consecutive_successful_launches": 293,
-            "successful_launches": 656,
-            "failed_launches": 7,
-            "pending_launches": 122,
-            "attempted_landings": 636,
-            "successful_landings": 618,
-            "failed_landings": 19,
-            "consecutive_successful_landings": 277
-          },
-          {
-            "response_mode": "detailed",
-            "id": 176,
-            "name": "Falcon 9",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 2,
-                    "name": "United States of America",
-                    "alpha_2_code": "US",
-                    "alpha_3_code": "USA",
-                    "nationality_name": "American",
-                    "nationality_name_composed": "Americano"
-                  }
-                ],
-                "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-                "administrator": "CEO: Elon Musk",
-                "founding_year": 2002,
-                "launchers": "Falcon | Starship",
-                "spacecraft": "Dragon",
-                "parent": null,
-                "image": {
-                  "id": 1736,
-                  "name": "Falcon 9 liftoff from LC-39A",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": false,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 186,
-                  "name": "SpaceX logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 94,
-                  "name": "SpaceX social logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 685,
-                "consecutive_successful_launches": 170,
-                "successful_launches": 670,
-                "failed_launches": 15,
-                "pending_launches": 125,
-                "consecutive_successful_landings": 6,
-                "successful_landings": 630,
-                "failed_landings": 28,
-                "attempted_landings": 657,
-                "successful_landings_spacecraft": 60,
-                "failed_landings_spacecraft": 3,
-                "attempted_landings_spacecraft": 64,
-                "successful_landings_payload": 0,
-                "failed_landings_payload": 0,
-                "attempted_landings_payload": 0,
-                "info_url": "https://www.spacex.com/",
-                "wiki_url": "https://en.wikipedia.org/wiki/SpaceX",
-                "social_media_links": [
-                  {
-                    "id": 427,
-                    "social_media": {
-                      "id": 3,
-                      "name": "Homepage",
-                      "url": null,
-                      "logo": null
-                    },
-                    "url": "https://www.spacex.com/"
-                  },
-                  {
-                    "id": 428,
-                    "social_media": {
-                      "id": 1,
-                      "name": "X",
-                      "url": "https://x.com",
-                      "logo": {
-                        "id": 2320,
-                        "name": "X logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                        "credit": "X",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://x.com/spacex/"
-                  },
-                  {
-                    "id": 429,
-                    "social_media": {
-                      "id": 6,
-                      "name": "Youtube",
-                      "url": "https://www.youtube.com/",
-                      "logo": {
-                        "id": 2356,
-                        "name": "YouTube logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                        "credit": "YouTube",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://www.youtube.com/@spacex"
-                  },
-                  {
-                    "id": 430,
-                    "social_media": {
-                      "id": 4,
-                      "name": "LinkedIn",
-                      "url": "https://www.linkedin.com/",
-                      "logo": {
-                        "id": 2321,
-                        "name": "LinkedIn logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                        "credit": "LinkedIn",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://www.linkedin.com/company/spacex/"
-                  }
-                ]
-              }
-            ],
-            "parent": {
-              "response_mode": "normal",
-              "id": 1,
-              "name": "Falcon",
-              "manufacturer": [
-                {
-                  "response_mode": "normal",
-                  "id": 121,
-                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                  "name": "SpaceX",
-                  "abbrev": "SpX",
-                  "type": {
-                    "id": 3,
-                    "name": "Commercial"
-                  },
-                  "featured": true,
-                  "country": [
-                    {
-                      "id": 2,
-                      "name": "United States of America",
-                      "alpha_2_code": "US",
-                      "alpha_3_code": "USA",
-                      "nationality_name": "American",
-                      "nationality_name_composed": "Americano"
-                    }
-                  ],
-                  "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-                  "administrator": "CEO: Elon Musk",
-                  "founding_year": 2002,
-                  "launchers": "Falcon | Starship",
-                  "spacecraft": "Dragon",
-                  "parent": null,
-                  "image": {
-                    "id": 1736,
-                    "name": "Falcon 9 liftoff from LC-39A",
-                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-                    "credit": "SpaceX",
-                    "license": {
-                      "id": 5,
-                      "name": "CC BY-NC 2.0",
-                      "priority": 1,
-                      "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                    },
-                    "single_use": false,
-                    "variants": []
-                  },
-                  "logo": {
-                    "id": 186,
-                    "name": "SpaceX logo",
-                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-                    "credit": "SpaceX",
-                    "license": {
-                      "id": 5,
-                      "name": "CC BY-NC 2.0",
-                      "priority": 1,
-                      "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                    },
-                    "single_use": true,
-                    "variants": []
-                  },
-                  "social_logo": {
-                    "id": 94,
-                    "name": "SpaceX social logo",
-                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-                    "credit": "SpaceX",
-                    "license": {
-                      "id": 5,
-                      "name": "CC BY-NC 2.0",
-                      "priority": 1,
-                      "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                    },
-                    "single_use": true,
-                    "variants": []
-                  }
-                }
-              ],
-              "parent": null
-            },
-            "description": "",
-            "active": true,
-            "maiden_flight": "2010-06-04",
-            "total_launch_count": 646,
-            "consecutive_successful_launches": 291,
-            "successful_launches": 642,
-            "failed_launches": 4,
-            "pending_launches": 108,
-            "attempted_landings": 611,
-            "successful_landings": 597,
-            "failed_landings": 15,
-            "consecutive_successful_landings": 275
-          }
-        ],
-        "full_name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 121,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-          "name": "SpaceX",
-          "abbrev": "SpX",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-          "administrator": "CEO: Elon Musk",
-          "founding_year": 2002,
-          "launchers": "Falcon | Starship",
-          "spacecraft": "Dragon",
-          "parent": null,
-          "image": {
-            "id": 1736,
-            "name": "Falcon 9 liftoff from LC-39A",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": false,
-            "variants": []
-          },
-          "logo": {
-            "id": 186,
-            "name": "SpaceX logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 94,
-            "name": "SpaceX social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 685,
-          "consecutive_successful_launches": 170,
-          "successful_launches": 670,
-          "failed_launches": 15,
-          "pending_launches": 125,
-          "consecutive_successful_landings": 6,
-          "successful_landings": 630,
-          "failed_landings": 28,
-          "attempted_landings": 657,
-          "successful_landings_spacecraft": 60,
-          "failed_landings_spacecraft": 3,
-          "attempted_landings_spacecraft": 64,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.spacex.com/",
-          "wiki_url": "https://en.wikipedia.org/wiki/SpaceX",
-          "social_media_links": [
-            {
-              "id": 427,
-              "social_media": {
-                "id": 3,
-                "name": "Homepage",
-                "url": null,
-                "logo": null
-              },
-              "url": "https://www.spacex.com/"
-            },
-            {
-              "id": 428,
-              "social_media": {
-                "id": 1,
-                "name": "X",
-                "url": "https://x.com",
-                "logo": {
-                  "id": 2320,
-                  "name": "X logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                  "credit": "X",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://x.com/spacex/"
-            },
-            {
-              "id": 429,
-              "social_media": {
-                "id": 6,
-                "name": "Youtube",
-                "url": "https://www.youtube.com/",
-                "logo": {
-                  "id": 2356,
-                  "name": "YouTube logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                  "credit": "YouTube",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.youtube.com/@spacex"
-            },
-            {
-              "id": 430,
-              "social_media": {
-                "id": 4,
-                "name": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "logo": {
-                  "id": 2321,
-                  "name": "LinkedIn logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                  "credit": "LinkedIn",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.linkedin.com/company/spacex/"
-            }
-          ]
-        },
-        "program": [
-          {
-            "response_mode": "normal",
-            "id": 5,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
-            "name": "Commercial Crew Program",
-            "image": {
-              "id": 1869,
-              "name": "Commercial Crew Program logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
-              "credit": "NASA",
-              "license": {
-                "id": 4,
-                "name": "NASA Image and Media Guidelines",
-                "priority": 0,
-                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
-            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
-                "name": "Boeing",
-                "abbrev": "BA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2011-04-18T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          },
-          {
-            "response_mode": "normal",
-            "id": 11,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/11/",
-            "name": "Commercial Resupply Services",
-            "image": {
-              "id": 1878,
-              "name": "[AUTO] Commercial Resupply Services - image",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20201129212219.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194021.png",
-              "credit": null,
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": null,
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services",
-            "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 257,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/257/",
-                "name": "Northrop Grumman Space Systems",
-                "abbrev": "NGSS",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 1020,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/1020/",
-                "name": "Sierra Nevada Corporation",
-                "abbrev": "SNC",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2008-12-23T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          }
-        ],
-        "reusable": true,
-        "image": {
-          "id": 1736,
-          "name": "Falcon 9 liftoff from LC-39A",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-          "credit": "SpaceX",
-          "license": {
-            "id": 5,
-            "name": "CC BY-NC 2.0",
-            "priority": 1,
-            "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-          },
-          "single_use": false,
-          "variants": []
-        },
-        "info_url": "https://www.spacex.com/vehicles/falcon-9/",
-        "wiki_url": "https://en.wikipedia.org/wiki/Falcon_9",
-        "description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-        "alias": "",
-        "min_stage": 2,
-        "max_stage": 2,
-        "length": 70.0,
-        "diameter": 3.65,
-        "maiden_flight": "2018-05-11",
-        "launch_cost": 52000000,
-        "launch_mass": 549.0,
-        "leo_capacity": 22800.0,
-        "gto_capacity": 8300.0,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": 7607.0,
-        "apogee": 200.0,
-        "total_launch_count": 590,
-        "consecutive_successful_launches": 292,
-        "successful_launches": 589,
-        "failed_launches": 1,
-        "pending_launches": 108,
-        "attempted_landings": 581,
-        "successful_landings": 576,
-        "failed_landings": 5,
-        "consecutive_successful_landings": 276,
-        "fastest_turnaround": "PT1H5M"
-      },
-      "launcher_stage": [
-        {
-          "id": 618,
-          "type": "Core",
-          "reused": null,
-          "launcher_flight_number": null,
-          "launcher": {
-            "response_mode": "normal",
-            "id": 106,
-            "url": "https://ll.thespacedevs.com/2.3.0/launchers/106/",
-            "flight_proven": false,
-            "serial_number": "Unknown F9",
-            "is_placeholder": true,
-            "status": {
-              "id": 8,
-              "name": "N/A"
-            },
-            "image": {
-              "id": 1674,
-              "name": "[AUTO] Unknown F9 - image",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/106_image_20230708172214.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193443.png",
-              "credit": null,
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "details": "Booster serial number unknown.",
-            "successful_landings": null,
-            "attempted_landings": null,
-            "flights": null,
-            "last_launch_date": null,
-            "first_launch_date": null,
-            "fastest_turnaround": null
-          },
-          "previous_flight_date": null,
-          "turn_around_time": null,
-          "landing": null,
-          "previous_flight": null
-        }
-      ],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 6998,
-      "name": "BlueBird Block 2 #3-5",
-      "type": "Communications",
-      "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
-      "image": null,
-      "orbit": {
-        "id": 8,
-        "name": "Low Earth Orbit",
-        "abbrev": "LEO",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 80,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/80/",
-      "active": true,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 121,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-          "name": "SpaceX",
-          "abbrev": "SpX",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-          "administrator": "CEO: Elon Musk",
-          "founding_year": 2002,
-          "launchers": "Falcon | Starship",
-          "spacecraft": "Dragon",
-          "parent": null,
-          "image": {
-            "id": 1736,
-            "name": "Falcon 9 liftoff from LC-39A",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": false,
-            "variants": []
-          },
-          "logo": {
-            "id": 186,
-            "name": "SpaceX logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 94,
-            "name": "SpaceX social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Space Launch Complex 40",
-      "image": {
-        "id": 2113,
-        "name": "F9 liftoff from SLC-40 (SES-24)",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_liftoff_from_image_20240621050513.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_liftoff_from_image_thumbnail_20240621050514.jpeg",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "description": "",
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40",
-      "map_url": "https://www.google.com/maps?q=28.56194122,-80.57735736",
-      "latitude": 28.56194122,
-      "longitude": -80.57735736,
-      "country": {
-        "id": 2,
-        "name": "United States of America",
-        "alpha_2_code": "US",
-        "alpha_3_code": "USA",
-        "nationality_name": "American",
-        "nationality_name_composed": "Americano"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_80_20200803143323.jpg",
-      "total_launch_count": 385,
-      "orbital_launch_attempt_count": 385,
-      "fastest_turnaround": "P1DT21H",
-      "location": {
-        "response_mode": "normal",
-        "id": 12,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
-        "name": "Cape Canaveral SFS, FL, USA",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7523,
-          "successful_launches": 6967,
-          "failed_launches": 556,
-          "total_attempted_landings": 1317,
-          "successful_landings": 1269,
-          "failed_landings": 48
-        },
-        "active": true,
-        "country": {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        },
-        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
-        "image": {
-          "id": 2200,
-          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
-          "credit": "NASA",
-          "license": {
-            "id": 4,
-            "name": "NASA Image and Media Guidelines",
-            "priority": 0,
-            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
-        "longitude": -80.577778,
-        "latitude": 28.488889,
-        "timezone_name": "America/New_York",
-        "total_launch_count": 1112,
-        "total_landing_count": 75
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7330,
-    "location_launch_attempt_count": 1117,
-    "pad_launch_attempt_count": 390,
-    "agency_launch_attempt_count": 701,
-    "orbital_launch_attempt_count_year": 157,
-    "location_launch_attempt_count_year": 41,
-    "pad_launch_attempt_count_year": 36,
-    "agency_launch_attempt_count_year": 82,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 14901,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET mid-June.",
-        "info_url": "https://x.com/AST_SpaceMobile/status/2052150788957622512",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-05-06T23:05:00Z"
-      },
-      {
-        "id": 9203,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Added launch.",
-        "info_url": "https://spacenews.com/ast-spacemobile-leans-on-blue-origin-to-ramp-up-satellite-launches/",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2024-11-15T07:25:00Z"
-      }
-    ],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P17DT11H33M",
     "mission_patches": []
   }
 ]
