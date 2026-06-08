@@ -2158,9 +2158,9 @@
   {
     "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-    "name": "Soyuz 2.1a | Progress MS-36 (97P)",
+    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
     "response_mode": "detailed",
-    "slug": "soyuz-21a-progress-ms-36-97p",
+    "slug": "soyuz-21b-progress-ms-36-97p",
     "launch_designator": null,
     "status": {
       "id": 8,
@@ -2168,7 +2168,7 @@
       "abbrev": "TBC",
       "description": "Awaiting official confirmation - current date is known with some certainty."
     },
-    "last_updated": "2026-04-29T21:08:15Z",
+    "last_updated": "2026-06-08T21:46:36Z",
     "net": "2026-11-24T05:03:00Z",
     "net_precision": {
       "id": 1,
@@ -2179,18 +2179,18 @@
     "window_end": "2026-11-24T05:03:00Z",
     "window_start": "2026-11-24T05:03:00Z",
     "image": {
-      "id": 1828,
-      "name": "[AUTO] Soyuz 2.1a - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193857.jpeg",
-      "credit": null,
+      "id": 1830,
+      "name": "Soyuz 2.1b on the pad",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193901.jpeg",
+      "credit": "Roscosmos",
       "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
+        "id": 14,
+        "name": "Roscosmos Image Use Policy",
+        "priority": 3,
+        "link": "https://www.roscosmos.ru/22650/"
       },
-      "single_use": true,
+      "single_use": false,
       "variants": []
     },
     "infographic": null,
@@ -2293,9 +2293,9 @@
       "id": 9014,
       "configuration": {
         "response_mode": "detailed",
-        "id": 24,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/24/",
-        "name": "Soyuz 2.1a",
+        "id": 15,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/15/",
+        "name": "Soyuz 2.1b",
         "families": [
           {
             "response_mode": "detailed",
@@ -2516,7 +2516,7 @@
             "consecutive_successful_landings": 0
           }
         ],
-        "full_name": "Soyuz 2.1a",
+        "full_name": "Soyuz 2.1b",
         "variant": "",
         "active": true,
         "is_placeholder": false,
@@ -2586,47 +2586,47 @@
         "program": [],
         "reusable": false,
         "image": {
-          "id": 1828,
-          "name": "[AUTO] Soyuz 2.1a - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193857.jpeg",
-          "credit": null,
+          "id": 1830,
+          "name": "Soyuz 2.1b on the pad",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193901.jpeg",
+          "credit": "Roscosmos",
           "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
+            "id": 14,
+            "name": "Roscosmos Image Use Policy",
+            "priority": 3,
+            "link": "https://www.roscosmos.ru/22650/"
           },
-          "single_use": true,
+          "single_use": false,
           "variants": []
         },
         "info_url": null,
-        "wiki_url": "https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a",
-        "description": "The Soyuz 2.1A converted the flight control system from analog to digital, which allowed launch from fixed platforms. It also allowed big fairings and payloads.\r\nIt is currently used for crewed Soyuz and Progress flights to the ISS.",
+        "wiki_url": "http://en.wikipedia.org/wiki/Soyuz-2_(rocket)",
+        "description": "Soyuz-2 is the 21st-century version of the Russian Soyuz rocket. In its basic form, it is a three-stage carrier rocket for placing payloads into low Earth orbit.  The 2.1b version adds an upgraded engine (RD-0124) with improved performance to the second stage.",
         "alias": "",
         "min_stage": 2,
         "max_stage": 3,
         "length": 46.3,
         "diameter": 2.95,
-        "maiden_flight": "2004-11-04",
+        "maiden_flight": "2008-07-26",
         "launch_cost": 80000000,
         "launch_mass": 312.0,
-        "leo_capacity": 7020.0,
-        "gto_capacity": 2810.0,
+        "leo_capacity": 8200.0,
+        "gto_capacity": 3250.0,
         "geo_capacity": null,
-        "sso_capacity": 4230.0,
-        "to_thrust": 4149.0,
+        "sso_capacity": 4900.0,
+        "to_thrust": null,
         "apogee": null,
-        "total_launch_count": 57,
-        "consecutive_successful_launches": 50,
-        "successful_launches": 56,
-        "failed_launches": 1,
-        "pending_launches": 0,
+        "total_launch_count": 23,
+        "consecutive_successful_launches": 23,
+        "successful_launches": 23,
+        "failed_launches": 0,
+        "pending_launches": 1,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
         "consecutive_successful_landings": 0,
-        "fastest_turnaround": "P7DT6H41M58S"
+        "fastest_turnaround": "P1DT15H54M37S"
       },
       "launcher_stage": [],
       "spacecraft_stage": [],
@@ -2949,16 +2949,24 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7369,
+    "orbital_launch_attempt_count": 7370,
     "location_launch_attempt_count": 1566,
     "pad_launch_attempt_count": 431,
     "agency_launch_attempt_count": 345,
-    "orbital_launch_attempt_count_year": 196,
+    "orbital_launch_attempt_count_year": 197,
     "location_launch_attempt_count_year": 7,
     "pad_launch_attempt_count_year": 5,
     "agency_launch_attempt_count_year": 7,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15227,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Switching launch vehicle variant.",
+        "info_url": "https://t.me/roscosmos_gk/20068",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-08T21:46:00Z"
+      },
       {
         "id": 14851,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
