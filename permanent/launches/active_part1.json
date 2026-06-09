@@ -1191,7 +1191,7 @@
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-05-12T20:04:01Z",
+    "last_updated": "2026-06-09T12:34:00Z",
     "net": "2026-05-12T02:13:50Z",
     "net_precision": {
       "id": 0,
@@ -2902,7 +2902,26 @@
       }
     ],
     "pad_turnaround": "P5DT22H14M31S",
-    "mission_patches": []
+    "mission_patches": [
+      {
+        "id": 1080,
+        "name": "NROL-149",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/nrol-149_mission_patch_20241217150556.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 181,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/181/",
+          "name": "National Reconnaissance Office",
+          "abbrev": "NRO",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ]
   },
   {
     "id": "d50ae620-be2f-4690-9f86-fbc2a194bf29",
@@ -3686,11 +3705,11 @@
     "window_end": "2026-05-14T05:08:00Z",
     "window_start": "2026-05-14T02:52:00Z",
     "image": {
-      "id": 2760,
-      "name": "Zhuque-2E Block 2 on the launch pad",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_block_image_20260514152313.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_block_image_thumbnail_20260514152314.jpeg",
-      "credit": "Landspace",
+      "id": 2770,
+      "name": "Zhuque-2E Y6 launch",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_y6_la_image_20260609122825.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_y6_la_image_thumbnail_20260609122826.jpeg",
+      "credit": "LandSpace",
       "license": {
         "id": 1,
         "name": "Unknown",
@@ -3763,11 +3782,11 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 9,
-      "consecutive_successful_launches": 2,
-      "successful_launches": 6,
+      "total_launch_count": 10,
+      "consecutive_successful_launches": 3,
+      "successful_launches": 7,
       "failed_launches": 3,
-      "pending_launches": 1,
+      "pending_launches": 0,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 1,
@@ -3853,11 +3872,11 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 9,
-                "consecutive_successful_launches": 2,
-                "successful_launches": 6,
+                "total_launch_count": 10,
+                "consecutive_successful_launches": 3,
+                "successful_launches": 7,
                 "failed_launches": 3,
-                "pending_launches": 1,
+                "pending_launches": 0,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -3950,11 +3969,11 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 9,
-          "consecutive_successful_launches": 2,
-          "successful_launches": 6,
+          "total_launch_count": 10,
+          "consecutive_successful_launches": 3,
+          "successful_launches": 7,
           "failed_launches": 3,
-          "pending_launches": 1,
+          "pending_launches": 0,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 1,
@@ -3972,11 +3991,11 @@
         "program": [],
         "reusable": false,
         "image": {
-          "id": 2760,
-          "name": "Zhuque-2E Block 2 on the launch pad",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_block_image_20260514152313.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_block_image_thumbnail_20260514152314.jpeg",
-          "credit": "Landspace",
+          "id": 2770,
+          "name": "Zhuque-2E Y6 launch",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_y6_la_image_20260609122825.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_y6_la_image_thumbnail_20260609122826.jpeg",
+          "credit": "LandSpace",
           "license": {
             "id": 1,
             "name": "Unknown",
@@ -4003,16 +4022,16 @@
         "sso_capacity": 4000.0,
         "to_thrust": 3312.0,
         "apogee": null,
-        "total_launch_count": 1,
-        "consecutive_successful_launches": 1,
-        "successful_launches": 1,
+        "total_launch_count": 2,
+        "consecutive_successful_launches": 2,
+        "successful_launches": 2,
         "failed_launches": 0,
-        "pending_launches": 1,
+        "pending_launches": 0,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
         "consecutive_successful_landings": 0,
-        "fastest_turnaround": null
+        "fastest_turnaround": "P26DT5H23M"
       },
       "launcher_stage": [],
       "spacecraft_stage": [],
@@ -4134,9 +4153,9 @@
         "nationality_name_composed": "Sino"
       },
       "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_9_20200803143341.jpg",
-      "total_launch_count": 7,
-      "orbital_launch_attempt_count": 7,
-      "fastest_turnaround": "P89DT21H5M",
+      "total_launch_count": 8,
+      "orbital_launch_attempt_count": 8,
+      "fastest_turnaround": "P26DT5H20M",
       "location": {
         "response_mode": "normal",
         "id": 17,
@@ -4208,7 +4227,7 @@
         "longitude": 100.291111,
         "latitude": 40.958056,
         "timezone_name": "Asia/Shanghai",
-        "total_launch_count": 287,
+        "total_launch_count": 288,
         "total_landing_count": 2
       }
     },
@@ -4659,7 +4678,7 @@
         "longitude": 100.291111,
         "latitude": 40.958056,
         "timezone_name": "Asia/Shanghai",
-        "total_launch_count": 287,
+        "total_launch_count": 288,
         "total_landing_count": 2
       }
     },
@@ -18699,7 +18718,7 @@
         "longitude": 100.291111,
         "latitude": 40.958056,
         "timezone_name": "Asia/Shanghai",
-        "total_launch_count": 287,
+        "total_launch_count": 288,
         "total_landing_count": 2
       }
     },
