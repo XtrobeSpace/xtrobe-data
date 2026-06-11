@@ -1379,7 +1379,7 @@
       "abbrev": "TBD",
       "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
     },
-    "last_updated": "2026-06-11T16:11:31Z",
+    "last_updated": "2026-06-11T21:49:02Z",
     "net": "2026-06-30T00:00:00Z",
     "net_precision": {
       "id": 7,
@@ -2077,7 +2077,80 @@
     ],
     "info_urls": [],
     "vid_urls": [],
-    "timeline": [],
+    "timeline": [
+      {
+        "type": {
+          "id": 10,
+          "abbrev": "Liftoff",
+          "description": "First upwards movement of the rocket"
+        },
+        "relative_time": "P0D"
+      },
+      {
+        "type": {
+          "id": 9,
+          "abbrev": "Ignition",
+          "description": "Start of the engine ignition sequence"
+        },
+        "relative_time": "PT5S"
+      },
+      {
+        "type": {
+          "id": 12,
+          "abbrev": "MECO",
+          "description": "Cut-off of the main engine"
+        },
+        "relative_time": "PT1M19S"
+      },
+      {
+        "type": {
+          "id": 31,
+          "abbrev": "SES",
+          "description": "Start of the second engine"
+        },
+        "relative_time": "PT1M35S"
+      },
+      {
+        "type": {
+          "id": 15,
+          "abbrev": "Fairing Separation",
+          "description": "Separation of the payload fairing"
+        },
+        "relative_time": "PT2M17S"
+      },
+      {
+        "type": {
+          "id": 24,
+          "abbrev": "SECO",
+          "description": "Cut-off of the second engine"
+        },
+        "relative_time": "PT2M50S"
+      },
+      {
+        "type": {
+          "id": 75,
+          "abbrev": "Stage 3 Ignition",
+          "description": "Third stage engine ignites."
+        },
+        "relative_time": "PT6M35S"
+      },
+      {
+        "type": {
+          "id": 76,
+          "abbrev": "Stage 3 Cutoff",
+          "description": "Third stage engine shuts down."
+        },
+        "relative_time": "PT7M44S"
+      },
+      {
+        "type": {
+          "id": 35,
+          "abbrev": "Payload Separation",
+          "description": "Final deployment of the payload from the rocket"
+        },
+        "relative_time": "PT12M44S"
+      }
+    ],
     "pad_turnaround": "P5129DT7H59M23S",
     "mission_patches": []
   },
