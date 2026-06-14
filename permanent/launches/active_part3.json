@@ -7,12 +7,12 @@
     "slug": "spectrum-onward-and-upward",
     "launch_designator": null,
     "status": {
-      "id": 8,
-      "name": "To Be Confirmed",
-      "abbrev": "TBC",
-      "description": "Awaiting official confirmation - current date is known with some certainty."
+      "id": 1,
+      "name": "Go for Launch",
+      "abbrev": "Go",
+      "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-06-09T11:01:00Z",
+    "last_updated": "2026-06-14T08:15:38Z",
     "net": "2026-06-15T20:00:00Z",
     "net_precision": {
       "id": 1,
@@ -118,7 +118,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 0,
       "failed_launches": 1,
-      "pending_launches": 6,
+      "pending_launches": 7,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
@@ -328,7 +328,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 0,
           "failed_launches": 1,
-          "pending_launches": 6,
+          "pending_launches": 7,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 0,
@@ -488,7 +488,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 0,
         "failed_launches": 1,
-        "pending_launches": 6,
+        "pending_launches": 7,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
@@ -631,6 +631,14 @@
     "agency_launch_attempt_count_year": 1,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15273,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Go for launch.",
+        "info_url": "https://x.com/isaraerospace/status/2066061416256192744",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-14T08:15:00Z"
+      },
       {
         "id": 15232,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -885,7 +893,7 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-04-09T19:00:00Z",
+        "start_time": "2026-06-15T19:00:00Z",
         "end_time": null,
         "live": false
       },
@@ -893,7 +901,7 @@
         "priority": 11,
         "source": "youtube.com",
         "publisher": "NASASpaceflight",
-        "title": "Isar Aerospace Launches the \"Onward and Upward\" Mission",
+        "title": "Isar Aerospace Launches \"Onward and Upward\" Mission",
         "description": "Mission Name: 'Onward and Upward'\n\nLaunch Date: Updates via https://isaraerospace.com/mission-updates-overview\n\nLaunch site: Andøya Space\n\nThe second flight of Isar's ‘Spectrum’ launch vehicle marks a significant milestone serving as both the vehicle’s qualification mission and its first flight carrying payload.\n\n\"Onward and Upward\" symbolizes Isar's relentless drive for progress and continuous improvement, reflecting their determination to build upon the successes and lessons learned from our inaugural test flight.\n\nNSF/NASASpaceflight LLC is providing live stream production services for Isar Aerospace's second flight of Spectrum.\n\nMore information on the Mission ‘Onward and Upward’ here: https://isaraerospace.com/mission-2\n\nLDAPAABJRG2UMCU3",
         "feature_image": "https://i.ytimg.com/vi/uUc2d_NPBN0/maxresdefault_live.jpg",
         "url": "https://www.youtube.com/watch?v=uUc2d_NPBN0",
@@ -906,7 +914,7 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-04-10T19:00:00Z",
+        "start_time": "2026-06-15T19:00:00Z",
         "end_time": null,
         "live": false
       }
@@ -13529,6 +13537,72 @@
         "program": [
           {
             "response_mode": "normal",
+            "id": 5,
+            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
+            "name": "Commercial Crew Program",
+            "image": {
+              "id": 1869,
+              "name": "Commercial Crew Program logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
+            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
+            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
+            "agencies": [
+              {
+                "response_mode": "list",
+                "id": 80,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                "name": "Boeing",
+                "abbrev": "BA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 44,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                "name": "National Aeronautics and Space Administration",
+                "abbrev": "NASA",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 121,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+                "name": "SpaceX",
+                "abbrev": "SpX",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              }
+            ],
+            "start_date": "2011-04-18T00:00:00Z",
+            "end_date": null,
+            "mission_patches": [],
+            "type": {
+              "id": 2,
+              "name": "Human Spaceflight"
+            }
+          },
+          {
+            "response_mode": "normal",
             "id": 11,
             "url": "https://ll.thespacedevs.com/2.3.0/programs/11/",
             "name": "Commercial Resupply Services",
@@ -13597,72 +13671,6 @@
               }
             ],
             "start_date": "2008-12-23T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          },
-          {
-            "response_mode": "normal",
-            "id": 5,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
-            "name": "Commercial Crew Program",
-            "image": {
-              "id": 1869,
-              "name": "Commercial Crew Program logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
-              "credit": "NASA",
-              "license": {
-                "id": 4,
-                "name": "NASA Image and Media Guidelines",
-                "priority": 0,
-                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
-            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
-                "name": "Boeing",
-                "abbrev": "BA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2011-04-18T00:00:00Z",
             "end_date": null,
             "mission_patches": [],
             "type": {
