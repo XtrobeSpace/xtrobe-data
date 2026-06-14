@@ -1,610 +1,5 @@
 [
   {
-    "id": "c101b9da-2165-4d7b-aa9e-12a965ef8cd2",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/c101b9da-2165-4d7b-aa9e-12a965ef8cd2/",
-    "name": "GSLV | IDRSS-1",
-    "response_mode": "detailed",
-    "slug": "gslv-idrss-1",
-    "launch_designator": null,
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD",
-      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-    },
-    "last_updated": "2025-09-14T23:53:17Z",
-    "net": "2026-12-31T00:00:00Z",
-    "net_precision": {
-      "id": 14,
-      "name": "Year",
-      "abbrev": "Y",
-      "description": "The T-0 is expected in the given year."
-    },
-    "window_end": "2026-12-31T00:00:00Z",
-    "window_start": "2026-12-31T00:00:00Z",
-    "image": {
-      "id": 1744,
-      "name": "[AUTO] GSLV Mk II - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193640.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 31,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-      "name": "Indian Space Research Organization",
-      "abbrev": "ISRO",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 9,
-          "name": "India",
-          "alpha_2_code": "IN",
-          "alpha_3_code": "IND",
-          "nationality_name": "Indian",
-          "nationality_name_composed": "Indo"
-        }
-      ],
-      "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "administrator": "Chairman: V. Narayanan",
-      "founding_year": 1969,
-      "launchers": "PSLV | GSLV",
-      "spacecraft": "Gaganyaan",
-      "parent": null,
-      "image": {
-        "id": 14,
-        "name": "[AUTO] Indian Space Research Organization - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 141,
-        "name": "[AUTO] Indian Space Research Organization - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 63,
-        "name": "[AUTO] Indian Space Research Organization - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 99,
-      "consecutive_successful_launches": 0,
-      "successful_launches": 84,
-      "failed_launches": 15,
-      "pending_launches": 18,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 1,
-      "failed_landings_payload": 1,
-      "attempted_landings_payload": 2,
-      "info_url": "https://www.isro.gov.in/",
-      "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-      "social_media_links": []
-    },
-    "rocket": {
-      "id": 2616,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 168,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/168/",
-        "name": "GSLV Mk II",
-        "families": [
-          {
-            "response_mode": "detailed",
-            "id": 84,
-            "name": "GSLV",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 31,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-                "name": "Indian Space Research Organization",
-                "abbrev": "ISRO",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 9,
-                    "name": "India",
-                    "alpha_2_code": "IN",
-                    "alpha_3_code": "IND",
-                    "nationality_name": "Indian",
-                    "nationality_name_composed": "Indo"
-                  }
-                ],
-                "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-                "administrator": "Chairman: V. Narayanan",
-                "founding_year": 1969,
-                "launchers": "PSLV | GSLV",
-                "spacecraft": "Gaganyaan",
-                "parent": null,
-                "image": {
-                  "id": 14,
-                  "name": "[AUTO] Indian Space Research Organization - image",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 141,
-                  "name": "[AUTO] Indian Space Research Organization - logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 63,
-                  "name": "[AUTO] Indian Space Research Organization - social_logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 99,
-                "consecutive_successful_launches": 0,
-                "successful_launches": 84,
-                "failed_launches": 15,
-                "pending_launches": 18,
-                "consecutive_successful_landings": 0,
-                "successful_landings": 0,
-                "failed_landings": 0,
-                "attempted_landings": 0,
-                "successful_landings_spacecraft": 0,
-                "failed_landings_spacecraft": 0,
-                "attempted_landings_spacecraft": 0,
-                "successful_landings_payload": 1,
-                "failed_landings_payload": 1,
-                "attempted_landings_payload": 2,
-                "info_url": "https://www.isro.gov.in/",
-                "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-                "social_media_links": []
-              }
-            ],
-            "parent": null,
-            "description": "",
-            "active": true,
-            "maiden_flight": "2001-04-18",
-            "total_launch_count": 27,
-            "consecutive_successful_launches": 9,
-            "successful_launches": 21,
-            "failed_launches": 6,
-            "pending_launches": 11,
-            "attempted_landings": 0,
-            "successful_landings": 0,
-            "failed_landings": 0,
-            "consecutive_successful_landings": 0
-          }
-        ],
-        "full_name": "GSLV Mk. II",
-        "variant": "",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 31,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-          "name": "Indian Space Research Organization",
-          "abbrev": "ISRO",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 9,
-              "name": "India",
-              "alpha_2_code": "IN",
-              "alpha_3_code": "IND",
-              "nationality_name": "Indian",
-              "nationality_name_composed": "Indo"
-            }
-          ],
-          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-          "administrator": "Chairman: V. Narayanan",
-          "founding_year": 1969,
-          "launchers": "PSLV | GSLV",
-          "spacecraft": "Gaganyaan",
-          "parent": null,
-          "image": {
-            "id": 14,
-            "name": "[AUTO] Indian Space Research Organization - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 141,
-            "name": "[AUTO] Indian Space Research Organization - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 63,
-            "name": "[AUTO] Indian Space Research Organization - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 99,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 84,
-          "failed_launches": 15,
-          "pending_launches": 18,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 1,
-          "failed_landings_payload": 1,
-          "attempted_landings_payload": 2,
-          "info_url": "https://www.isro.gov.in/",
-          "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": false,
-        "image": {
-          "id": 1744,
-          "name": "[AUTO] GSLV Mk II - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193640.jpeg",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": null,
-        "wiki_url": "https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle",
-        "description": "Geosynchronous Satellite Launch Vehicle Mark II (GSLV Mk II) is the largest launch vehicle developed by India, which is currently in operation. This fourth generation launch vehicle is a three stage vehicle with four liquid strap-ons. The indigenously developed cryogenic Upper Stage (CUS), which is flight proven, forms the third stage of GSLV Mk II. From January 2014, the vehicle has achieved four consecutive successes.",
-        "alias": "",
-        "min_stage": 0,
-        "max_stage": 3,
-        "length": 49.0,
-        "diameter": 2.8,
-        "maiden_flight": "2010-04-15",
-        "launch_cost": null,
-        "launch_mass": 401.0,
-        "leo_capacity": 0.0,
-        "gto_capacity": 2500.0,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": 7420.0,
-        "apogee": 40000.0,
-        "total_launch_count": 12,
-        "consecutive_successful_launches": 4,
-        "successful_launches": 10,
-        "failed_launches": 2,
-        "pending_launches": 5,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": "P182DT11H17M"
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": null,
-    "pad": {
-      "id": 82,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/82/",
-      "active": true,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 31,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-          "name": "Indian Space Research Organization",
-          "abbrev": "ISRO",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 9,
-              "name": "India",
-              "alpha_2_code": "IN",
-              "alpha_3_code": "IND",
-              "nationality_name": "Indian",
-              "nationality_name_composed": "Indo"
-            }
-          ],
-          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-          "administrator": "Chairman: V. Narayanan",
-          "founding_year": 1969,
-          "launchers": "PSLV | GSLV",
-          "spacecraft": "Gaganyaan",
-          "parent": null,
-          "image": {
-            "id": 14,
-            "name": "[AUTO] Indian Space Research Organization - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 141,
-            "name": "[AUTO] Indian Space Research Organization - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 63,
-            "name": "[AUTO] Indian Space Research Organization - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Satish Dhawan Space Centre Second Launch Pad",
-      "image": {
-        "id": 1992,
-        "name": "Second Launch Pad",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/second_launch_p_image_20240311093204.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/second_launch_p_image_thumbnail_20240311093204.jpeg",
-        "credit": "Indian Space Research Organisation",
-        "license": {
-          "id": 11,
-          "name": "Government Open Data License - India (GODL)",
-          "priority": 3,
-          "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "description": "The second launch pad was built between 1999 and 2003.  It became functional in 2005 and has since been used for various rockets. This launch pad supports missions by PSLV, GSLV, LVM3 rockets and is even envisioned for India's future crewed spaceflight.",
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad",
-      "map_url": "https://www.google.com/maps?q=13.7199,80.2304",
-      "latitude": 13.7199,
-      "longitude": 80.2304,
-      "country": {
-        "id": 9,
-        "name": "India",
-        "alpha_2_code": "IN",
-        "alpha_3_code": "IND",
-        "nationality_name": "Indian",
-        "nationality_name_composed": "Indo"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_82_20200803143602.jpg",
-      "total_launch_count": 32,
-      "orbital_launch_attempt_count": 31,
-      "fastest_turnaround": "P31DT31M",
-      "location": {
-        "response_mode": "normal",
-        "id": 14,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/14/",
-        "name": "Satish Dhawan Space Centre, India",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7534,
-          "successful_launches": 6978,
-          "failed_launches": 556,
-          "total_attempted_landings": 1322,
-          "successful_landings": 1274,
-          "failed_landings": 48
-        },
-        "active": true,
-        "country": {
-          "id": 9,
-          "name": "India",
-          "alpha_2_code": "IN",
-          "alpha_3_code": "IND",
-          "nationality_name": "Indian",
-          "nationality_name_composed": "Indo"
-        },
-        "description": "Satish Dhawan Space Centre – SDSC (formerly Sriharikota Range – SHAR),[1] is the primary spaceport of the Indian Space Research Organisation (ISRO), located in Sriharikota, Andhra Pradesh.",
-        "image": {
-          "id": 2212,
-          "name": "Satish Dhawan Space Centre",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/satish_dhawan_s_image_20240919164153.png",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/satish_dhawan_s_image_thumbnail_20240919164154.png",
-          "credit": "ISRO",
-          "license": {
-            "id": 11,
-            "name": "Government Open Data License - India (GODL)",
-            "priority": 3,
-            "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_14_20200803142403.jpg",
-        "longitude": 80.23,
-        "latitude": 13.72,
-        "timezone_name": "Asia/Kolkata",
-        "total_launch_count": 103,
-        "total_landing_count": 0
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7488,
-    "location_launch_attempt_count": 117,
-    "pad_launch_attempt_count": 40,
-    "agency_launch_attempt_count": 112,
-    "orbital_launch_attempt_count_year": 315,
-    "location_launch_attempt_count_year": 15,
-    "pad_launch_attempt_count_year": 8,
-    "agency_launch_attempt_count_year": 14,
-    "flightclub_url": null,
-    "updates": [],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P92D",
-    "mission_patches": []
-  },
-  {
     "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/",
     "name": "Long March 2F/G | Shenzhou 24",
@@ -1510,12 +905,12 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7488,
-    "location_launch_attempt_count": 291,
+    "orbital_launch_attempt_count": 7489,
+    "location_launch_attempt_count": 292,
     "pad_launch_attempt_count": 30,
     "agency_launch_attempt_count": 604,
-    "orbital_launch_attempt_count_year": 315,
-    "location_launch_attempt_count_year": 18,
+    "orbital_launch_attempt_count_year": 316,
+    "location_launch_attempt_count_year": 19,
     "pad_launch_attempt_count_year": 3,
     "agency_launch_attempt_count_year": 34,
     "flightclub_url": null,
@@ -2772,11 +2167,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 24,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 24,
     "agency_launch_attempt_count_year": 130,
@@ -3283,11 +2678,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 93,
     "pad_launch_attempt_count": 17,
     "agency_launch_attempt_count": 111,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 24,
     "pad_launch_attempt_count_year": 17,
     "agency_launch_attempt_count_year": 32,
@@ -3920,11 +3315,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 142,
     "agency_launch_attempt_count": 199,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 22,
     "agency_launch_attempt_count_year": 29,
@@ -4553,11 +3948,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 3,
     "agency_launch_attempt_count": 3,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 2,
     "agency_launch_attempt_count_year": 2,
@@ -5815,11 +5210,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 24,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 24,
     "agency_launch_attempt_count_year": 130,
@@ -7252,11 +6647,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 926,
     "pad_launch_attempt_count": 300,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 74,
     "pad_launch_attempt_count_year": 62,
     "agency_launch_attempt_count_year": 130,
@@ -7745,11 +7140,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 92,
     "pad_launch_attempt_count": 17,
     "agency_launch_attempt_count": 111,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 8,
     "pad_launch_attempt_count_year": 7,
     "agency_launch_attempt_count_year": 32,
@@ -8446,11 +7841,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 926,
     "pad_launch_attempt_count": 55,
     "agency_launch_attempt_count": 199,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 74,
     "pad_launch_attempt_count_year": 7,
     "agency_launch_attempt_count_year": 29,
@@ -9965,11 +9360,11 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 394,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 40,
     "agency_launch_attempt_count_year": 130,
@@ -10648,11 +10043,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 926,
     "pad_launch_attempt_count": 55,
     "agency_launch_attempt_count": 199,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 74,
     "pad_launch_attempt_count_year": 7,
     "agency_launch_attempt_count_year": 29,
@@ -11271,11 +10666,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 142,
     "agency_launch_attempt_count": 199,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 22,
     "agency_launch_attempt_count_year": 29,
@@ -12491,11 +11886,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 24,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 24,
     "agency_launch_attempt_count_year": 130,
@@ -13989,11 +13384,11 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 345,
     "pad_launch_attempt_count": 13,
     "agency_launch_attempt_count": 332,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 15,
     "pad_launch_attempt_count_year": 8,
     "agency_launch_attempt_count_year": 8,
@@ -15242,11 +14637,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 24,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 24,
     "agency_launch_attempt_count_year": 130,
@@ -15875,11 +15270,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 104,
     "pad_launch_attempt_count": 23,
     "agency_launch_attempt_count": 63,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 7,
     "pad_launch_attempt_count_year": 7,
     "agency_launch_attempt_count_year": 7,
@@ -16316,11 +15711,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 93,
     "pad_launch_attempt_count": 17,
     "agency_launch_attempt_count": 111,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 24,
     "pad_launch_attempt_count_year": 17,
     "agency_launch_attempt_count_year": 32,
@@ -17737,11 +17132,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 926,
     "pad_launch_attempt_count": 300,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 74,
     "pad_launch_attempt_count_year": 62,
     "agency_launch_attempt_count_year": 130,
@@ -18230,11 +17625,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 92,
     "pad_launch_attempt_count": 17,
     "agency_launch_attempt_count": 111,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 8,
     "pad_launch_attempt_count_year": 7,
     "agency_launch_attempt_count_year": 32,
@@ -18681,11 +18076,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 93,
     "pad_launch_attempt_count": 17,
     "agency_launch_attempt_count": 111,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 24,
     "pad_launch_attempt_count_year": 17,
     "agency_launch_attempt_count_year": 32,
@@ -20102,11 +19497,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 926,
     "pad_launch_attempt_count": 300,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 74,
     "pad_launch_attempt_count_year": 62,
     "agency_launch_attempt_count_year": 130,
@@ -20692,11 +20087,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 92,
     "pad_launch_attempt_count": 17,
     "agency_launch_attempt_count": 111,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 8,
     "pad_launch_attempt_count_year": 7,
     "agency_launch_attempt_count_year": 32,
@@ -21069,11 +20464,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 70,
     "pad_launch_attempt_count": 8,
     "agency_launch_attempt_count": 9,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 15,
     "pad_launch_attempt_count_year": 4,
     "agency_launch_attempt_count_year": 1,
@@ -22331,11 +21726,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7488,
+    "orbital_launch_attempt_count": 7489,
     "location_launch_attempt_count": 1170,
     "pad_launch_attempt_count": 24,
     "agency_launch_attempt_count": 749,
-    "orbital_launch_attempt_count_year": 315,
+    "orbital_launch_attempt_count_year": 316,
     "location_launch_attempt_count_year": 94,
     "pad_launch_attempt_count_year": 24,
     "agency_launch_attempt_count_year": 130,
@@ -22354,6 +21749,653 @@
     "vid_urls": [],
     "timeline": [],
     "pad_turnaround": "P31D",
+    "mission_patches": []
+  },
+  {
+    "id": "b48e32c5-3776-4684-a956-5ea4df032e90",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/b48e32c5-3776-4684-a956-5ea4df032e90/",
+    "name": "Spectrum | ΣYNDEO-3",
+    "response_mode": "detailed",
+    "slug": "spectrum-yndeo-3",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2025-12-01T15:19:05Z",
+    "net": "2026-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 11,
+      "name": "Quarter 4",
+      "abbrev": "Q4",
+      "description": "The T-0 is expected in the fourth quarter of the given year."
+    },
+    "window_end": "2026-12-31T00:00:00Z",
+    "window_start": "2026-12-31T00:00:00Z",
+    "image": {
+      "id": 2355,
+      "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+      "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 1046,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1046/",
+      "name": "Isar Aerospace",
+      "abbrev": "ISAR",
+      "type": {
+        "id": 5,
+        "name": "Private"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 4,
+          "name": "Germany",
+          "alpha_2_code": "DE",
+          "alpha_3_code": "DEU",
+          "nationality_name": "German",
+          "nationality_name_composed": "Germano"
+        }
+      ],
+      "description": "Isar Aerospace is a German aerospace company based in Munich, Germany. The company was founded in 2018.",
+      "administrator": "CEO: Daniel Metzler",
+      "founding_year": 2018,
+      "launchers": "Spectrum",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 2355,
+        "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+        "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "logo": {
+        "id": 147,
+        "name": "[AUTO] Isar Aerospace - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar2520aerospace_logo_20230125151814.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185015.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 2262,
+        "name": "Isar Aerospace Social Logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_20241021093234.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_thumbnail_20241021093234.png",
+        "credit": "Isar Aerospace",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1,
+      "consecutive_successful_launches": 0,
+      "successful_launches": 0,
+      "failed_launches": 1,
+      "pending_launches": 6,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.isaraerospace.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Isar_Aerospace",
+      "social_media_links": [
+        {
+          "id": 283,
+          "social_media": {
+            "id": 3,
+            "name": "Homepage",
+            "url": null,
+            "logo": null
+          },
+          "url": "https://www.isaraerospace.com/"
+        },
+        {
+          "id": 284,
+          "social_media": {
+            "id": 2,
+            "name": "Instagram",
+            "url": "https://instagram.com",
+            "logo": {
+              "id": 2322,
+              "name": "Instagram logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+              "credit": "Instagram",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.instagram.com/isaraerospace/"
+        },
+        {
+          "id": 285,
+          "social_media": {
+            "id": 1,
+            "name": "X",
+            "url": "https://x.com",
+            "logo": {
+              "id": 2320,
+              "name": "X logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+              "credit": "X",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://x.com/isaraerospace/status/1845769149634503064"
+        },
+        {
+          "id": 286,
+          "social_media": {
+            "id": 4,
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/",
+            "logo": {
+              "id": 2321,
+              "name": "LinkedIn logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+              "credit": "LinkedIn",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.linkedin.com/company/isaraerospace"
+        },
+        {
+          "id": 287,
+          "social_media": {
+            "id": 6,
+            "name": "Youtube",
+            "url": "https://www.youtube.com/",
+            "logo": {
+              "id": 2356,
+              "name": "YouTube logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
+              "credit": "YouTube",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.youtube.com/channel/UCjRAGiZtCpR6lrkirDtJP0Q"
+        }
+      ]
+    },
+    "rocket": {
+      "id": 8817,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 491,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/491/",
+        "name": "Spectrum",
+        "families": [],
+        "full_name": "Spectrum",
+        "variant": "",
+        "active": false,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 1046,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1046/",
+          "name": "Isar Aerospace",
+          "abbrev": "ISAR",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 4,
+              "name": "Germany",
+              "alpha_2_code": "DE",
+              "alpha_3_code": "DEU",
+              "nationality_name": "German",
+              "nationality_name_composed": "Germano"
+            }
+          ],
+          "description": "Isar Aerospace is a German aerospace company based in Munich, Germany. The company was founded in 2018.",
+          "administrator": "CEO: Daniel Metzler",
+          "founding_year": 2018,
+          "launchers": "Spectrum",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 2355,
+            "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+            "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": false,
+            "variants": []
+          },
+          "logo": {
+            "id": 147,
+            "name": "[AUTO] Isar Aerospace - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar2520aerospace_logo_20230125151814.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185015.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 2262,
+            "name": "Isar Aerospace Social Logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_20241021093234.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_thumbnail_20241021093234.png",
+            "credit": "Isar Aerospace",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 1,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 0,
+          "failed_launches": 1,
+          "pending_launches": 6,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.isaraerospace.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Isar_Aerospace",
+          "social_media_links": [
+            {
+              "id": 283,
+              "social_media": {
+                "id": 3,
+                "name": "Homepage",
+                "url": null,
+                "logo": null
+              },
+              "url": "https://www.isaraerospace.com/"
+            },
+            {
+              "id": 284,
+              "social_media": {
+                "id": 2,
+                "name": "Instagram",
+                "url": "https://instagram.com",
+                "logo": {
+                  "id": 2322,
+                  "name": "Instagram logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                  "credit": "Instagram",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.instagram.com/isaraerospace/"
+            },
+            {
+              "id": 285,
+              "social_media": {
+                "id": 1,
+                "name": "X",
+                "url": "https://x.com",
+                "logo": {
+                  "id": 2320,
+                  "name": "X logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                  "credit": "X",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://x.com/isaraerospace/status/1845769149634503064"
+            },
+            {
+              "id": 286,
+              "social_media": {
+                "id": 4,
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "logo": {
+                  "id": 2321,
+                  "name": "LinkedIn logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                  "credit": "LinkedIn",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.linkedin.com/company/isaraerospace"
+            },
+            {
+              "id": 287,
+              "social_media": {
+                "id": 6,
+                "name": "Youtube",
+                "url": "https://www.youtube.com/",
+                "logo": {
+                  "id": 2356,
+                  "name": "YouTube logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
+                  "credit": "YouTube",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.youtube.com/channel/UCjRAGiZtCpR6lrkirDtJP0Q"
+            }
+          ]
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 2355,
+          "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+          "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "info_url": "https://www.isaraerospace.com/spectrum",
+        "wiki_url": null,
+        "description": "Spectrum is a small launch vehicle developed by German company Isar Aerospace.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": 28.0,
+        "diameter": 2.0,
+        "maiden_flight": "2025-03-30",
+        "launch_cost": null,
+        "launch_mass": null,
+        "leo_capacity": 1000.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": 700.0,
+        "to_thrust": 675.0,
+        "apogee": null,
+        "total_launch_count": 1,
+        "consecutive_successful_launches": 0,
+        "successful_launches": 0,
+        "failed_launches": 1,
+        "pending_launches": 6,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7408,
+      "name": "ΣYNDEO-3",
+      "type": "Technology",
+      "description": "ΣYNDEO-3 is a satellite built by Redwire Corporation for the European Union/European Space Agency (ESA)’s In-Orbit Demonstration and In-Orbit Validation Programme (IOD/IOV), which will carry 10 different technological demonstration payload from institutions of Spain, France, Germany, Italy, Luxembourg and the European Commission. The satellite is built on Redwire's Hammerhead spacecraft platform.",
+      "image": null,
+      "orbit": {
+        "id": 8,
+        "name": "Low Earth Orbit",
+        "abbrev": "LEO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 51,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/51/",
+      "active": true,
+      "agencies": [],
+      "name": "Orbital Launch Pad",
+      "image": null,
+      "description": null,
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/And%C3%B8ya_Space",
+      "map_url": "https://www.google.com/maps?q=69.1084,15.5895",
+      "latitude": 69.1084,
+      "longitude": 15.5895,
+      "country": {
+        "id": 49,
+        "name": "Norway",
+        "alpha_2_code": "NO",
+        "alpha_3_code": "NOR",
+        "nationality_name": "Norwegian",
+        "nationality_name_composed": "Norwegian"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_51_20200803143605.jpg",
+      "total_launch_count": 1,
+      "orbital_launch_attempt_count": 1,
+      "fastest_turnaround": null,
+      "location": {
+        "response_mode": "normal",
+        "id": 161,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/161/",
+        "name": "Andøya Spaceport",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7534,
+          "successful_launches": 6978,
+          "failed_launches": 556,
+          "total_attempted_landings": 1322,
+          "successful_landings": 1274,
+          "failed_landings": 48
+        },
+        "active": true,
+        "country": {
+          "id": 49,
+          "name": "Norway",
+          "alpha_2_code": "NO",
+          "alpha_3_code": "NOR",
+          "nationality_name": "Norwegian",
+          "nationality_name_composed": "Norwegian"
+        },
+        "description": "Andøya Space, also named Andøya Space Center and formerly Andøya Rocket Range, is a rocket launch site, rocket range, and spaceport on Andøya island (the northernmost in the Vesterålen archipelago) in Andøy Municipality in Nordland county, Norway.",
+        "image": {
+          "id": 2137,
+          "name": "Andøya Spaceport",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/and25c325b8ya_image_20240808093551.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/and25c325b8ya_image_thumbnail_20240808093552.jpeg",
+          "credit": "Andøya Space",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_161_20240109072235.jpg",
+        "longitude": 16.020833,
+        "latitude": 69.294167,
+        "timezone_name": "Europe/Oslo",
+        "total_launch_count": 1,
+        "total_landing_count": 0
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7489,
+    "location_launch_attempt_count": 4,
+    "pad_launch_attempt_count": 4,
+    "agency_launch_attempt_count": 4,
+    "orbital_launch_attempt_count_year": 316,
+    "location_launch_attempt_count_year": 3,
+    "pad_launch_attempt_count_year": 3,
+    "agency_launch_attempt_count_year": 3,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 13085,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added launch.",
+        "info_url": "https://isaraerospace.com/press/isar-aerospace-and-esa-sign-contract-to-launch-a-mission-under-the-european-commission-horizon-2020-program",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-01T15:19:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P198DT4H",
     "mission_patches": []
   }
 ]
