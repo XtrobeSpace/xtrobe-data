@@ -1,63 +1,5 @@
 [
   {
-    "id": 1283,
-    "url": "https://ll.thespacedevs.com/2.3.0/events/1283/",
-    "name": "Hayabusa2 S-Type Asteroid (98943) Torifune Flyby",
-    "info_urls": [],
-    "vid_urls": [],
-    "image": {
-      "id": 1041,
-      "name": "Hayabusa-2 render",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305191449.jpeg",
-      "credit": "JAXA",
-      "license": {
-        "id": 9,
-        "name": "JAXA Image Usage Policy",
-        "priority": 8,
-        "link": "https://global.jaxa.jp/policy.html"
-      },
-      "single_use": false,
-      "variants": []
-    },
-    "date": "2026-07-05T09:30:00Z",
-    "slug": "hayabusa2-s-type-asteroid-98943-torifune-flyby",
-    "type": {
-      "id": 23,
-      "name": "Flyby"
-    },
-    "description": "As part of its mission extension, JAXA's Hayabusa2 spacecraft will observe S-type asteroid (98943) Torifune during a high-speed fly-by.",
-    "webcast_live": false,
-    "location": "(98943) Torifune",
-    "date_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
-    },
-    "response_mode": "normal",
-    "duration": null,
-    "updates": [
-      {
-        "id": 15229,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Updating closest approach time.",
-        "info_url": "https://global.jaxa.jp/press/2026/06/20260609-1_e.html",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-06-09T02:17:00Z"
-      },
-      {
-        "id": 12181,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding event",
-        "info_url": "https://www.hayabusa2.jaxa.jp/en/topics/20240925_2001_CC21_e/",
-        "created_by": "Nosu",
-        "created_on": "2025-09-10T15:34:00Z"
-      }
-    ],
-    "last_updated": "2026-06-09T02:17:52Z"
-  },
-  {
     "id": 1309,
     "url": "https://ll.thespacedevs.com/2.3.0/events/1309/",
     "name": "US EVA-95",
@@ -250,6 +192,27 @@
     "vid_urls": [
       {
         "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA's SpaceX 34th Commercial Resupply Services Undocking",
+        "description": "Watch a SpaceX Dragon spacecraft undock and depart from the International Space Station. The spacecraft is scheduled to undock at 12:05 p.m. EDT (1705 UTC) on Tuesday, June 16, and splash down off the coast of California at 5:08 a.m. PDT (1208 UTC) on Wednesday, June 17.\n\nThis Dragon spacecraft arrived at the space station as part of our SpaceX 34th Commercial Resupply Services (CRS-34) mission, carrying science and supplies for the crew aboard the orbiting lab. It will return to Earth with cargo and scientific experiments — from improving fuel storage on future space missions to developing cancer treatments back on Earth.\n\nLearn more about this mission and the science it's bringing back home: https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-d...",
+        "feature_image": "https://i.ytimg.com/vi/fu-t3Om6DIA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fu-t3Om6DIA",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-06-16T15:43:17Z",
+        "end_time": "2026-06-16T16:49:57Z",
+        "live": false
+      },
+      {
+        "priority": 11,
         "source": "plus.nasa.gov",
         "publisher": "NASA",
         "title": "NASA’s SpaceX 34th Commercial Resupply Services Undocking",
@@ -266,7 +229,7 @@
           "code": "en"
         },
         "start_time": "2026-06-16T15:45:00Z",
-        "end_time": "2026-06-16T17:00:00Z",
+        "end_time": "2026-06-16T16:50:00Z",
         "live": false
       }
     ],
@@ -301,8 +264,16 @@
       "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
-    "duration": null,
+    "duration": "PT1H6M40S",
     "updates": [
+      {
+        "id": 15289,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by NASA has started",
+        "info_url": "https://www.youtube.com/watch?v=fu-t3Om6DIA",
+        "created_by": "LL2",
+        "created_on": "2026-06-16T15:43:00Z"
+      },
       {
         "id": 15192,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -312,154 +283,6 @@
         "created_on": "2026-06-04T18:36:00Z"
       }
     ],
-    "last_updated": "2026-06-12T16:59:30Z"
-  },
-  {
-    "id": 1488,
-    "url": "https://ll.thespacedevs.com/2.3.0/events/1488/",
-    "name": "Artemis III Crew Announcement",
-    "info_urls": [
-      {
-        "priority": 10,
-        "source": "nasa.gov",
-        "title": "to Announce Artemis III Crew, Provide Mission Progress Update",
-        "description": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on",
-        "feature_image": null,
-        "url": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
-        "type": {
-          "id": 1,
-          "name": "Official Page"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        }
-      }
-    ],
-    "vid_urls": [
-      {
-        "priority": 10,
-        "source": "youtube.com",
-        "publisher": "NASA",
-        "title": "NASA's Artemis III Announcement",
-        "description": "Meet the astronauts of Artemis III!\n \nWe're providing an update on Artemis III, and we’ll introduce the mission’s four crew members.\nDuring the test flight, the crew will lift off aboard NASA's Space Launch System rocket and remain in low Earth orbit where they’ll test our ability to meet and dock the Orion spacecraft with commercial human landers, operations which are needed to land astronauts on the Moon.\n\nMore about Artemis III: https://www.nasa.gov/mission/artemis-iii/\n\nCredit: NASA",
-        "feature_image": "https://i.ytimg.com/vi/0fLROeRhqZM/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0fLROeRhqZM",
-        "type": {
-          "id": 1,
-          "name": "Official Webcast"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        },
-        "start_time": "2026-06-09T15:29:03Z",
-        "end_time": "2026-06-09T16:38:27Z",
-        "live": false
-      },
-      {
-        "priority": 11,
-        "source": "plus.nasa.gov",
-        "publisher": "NASA",
-        "title": "NASA’s Artemis III Mission Update",
-        "description": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11:30 a.m. EDT on Tuesday, […]",
-        "feature_image": "https://plus.nasa.gov/wp-content/uploads/2026/05/artemis-iii-crew-announcement-key-art-option-i-r9-horizontal-program-tile-16-9-without-title.jpg",
-        "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-iii-announcement/",
-        "type": {
-          "id": 1,
-          "name": "Official Webcast"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        },
-        "start_time": "2026-06-09T15:30:00Z",
-        "end_time": "2026-06-09T16:38:00Z",
-        "live": false
-      },
-      {
-        "priority": 12,
-        "source": "youtube.com",
-        "publisher": "European Space Agency, ESA",
-        "title": "Artemis III announcement: Luca Parmitano assigned as pilot",
-        "description": "On 9 June, NASA announced the crew for the Artemis III mission, which includes ESA astronaut Luca Parmitano as pilot. ESA is also providing its third European Service Module for this crewed test flight in Earth orbit, which will be key for the mission’s objective to test rendezvous and docking capabilities ahead of future lunar landing missions. Along with Luca, three NASA astronauts will fly on this mission: commander Randy Bresnik and lander specialists Frank Rubio and Andre Douglas. The crew now begins a rigorous training schedule to learn the Orion spacecraft systems, as well as the operations of the human landing systems, to prepare for an ambitious series of demonstrations ahead of a Moon landing mission.\n\nChapters:\n00:00 Programme starts\n34:35 Artemis III crew announcement\n42:5...",
-        "feature_image": "https://i.ytimg.com/vi/g9Upxj1ZjlY/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g9Upxj1ZjlY",
-        "type": {
-          "id": 1,
-          "name": "Official Webcast"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        },
-        "start_time": "2026-06-09T15:20:15Z",
-        "end_time": "2026-06-09T16:38:16Z",
-        "live": false
-      }
-    ],
-    "image": {
-      "id": 2682,
-      "name": "Artemis II Rollout (NHQ202601170039)",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_thumbnail_20260127022614.jpeg",
-      "credit": "NASA/Keegan Barber",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": false,
-      "variants": []
-    },
-    "date": "2026-06-09T15:30:00Z",
-    "slug": "artemis-iii-crew-announcement",
-    "type": {
-      "id": 20,
-      "name": "Press Event"
-    },
-    "description": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight.\r\n\r\nArtemis III will launch four astronauts from NASA’s Kennedy Space Center in Florida aboard the Orion spacecraft on the SLS (Space Launch System) rocket. The mission will test critical rendezvous and docking capabilities between Orion and commercial human landing systems needed to deliver astronauts to the lunar surface. Building on the successful Artemis II crewed test flight in April, Artemis III will pave the way for future surface missions.",
-    "webcast_live": false,
-    "location": "Johnson Space Center, Houston, TX, USA",
-    "date_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
-    },
-    "response_mode": "normal",
-    "duration": "PT1H9M24S",
-    "updates": [
-      {
-        "id": 15237,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
-        "comment": "Official Webcast by NASA has started",
-        "info_url": "https://www.youtube.com/watch?v=0fLROeRhqZM",
-        "created_by": "LL2",
-        "created_on": "2026-06-09T15:29:00Z"
-      },
-      {
-        "id": 15228,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Updated event time.",
-        "info_url": "https://x.com/SpcPlcyOnline/status/2064127315907354924",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-06-08T23:56:00Z"
-      },
-      {
-        "id": 15108,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding event",
-        "info_url": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
-        "created_by": "Nosu",
-        "created_on": "2026-05-27T11:01:00Z"
-      }
-    ],
-    "last_updated": "2026-06-09T16:39:22Z"
+    "last_updated": "2026-06-16T16:52:08Z"
   }
 ]
