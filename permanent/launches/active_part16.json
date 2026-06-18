@@ -2987,14 +2987,6 @@
               "nationality_name_composed": "Swedo"
             },
             {
-              "id": 20,
-              "name": "Belgium",
-              "alpha_2_code": "BE",
-              "alpha_3_code": "BEL",
-              "nationality_name": "Belgian",
-              "nationality_name_composed": "Belgo"
-            },
-            {
               "id": 23,
               "name": "Portugal",
               "alpha_2_code": "PT",
@@ -3097,6 +3089,14 @@
               "alpha_3_code": "LUX",
               "nationality_name": "Luxembourger",
               "nationality_name_composed": "Luxembourgish"
+            },
+            {
+              "id": 20,
+              "name": "Belgium",
+              "alpha_2_code": "BE",
+              "alpha_3_code": "BEL",
+              "nationality_name": "Belgian",
+              "nationality_name_composed": "Belgo"
             },
             {
               "id": 86,
@@ -7430,6 +7430,1357 @@
     "vid_urls": [],
     "timeline": [],
     "pad_turnaround": "P92D",
+    "mission_patches": []
+  },
+  {
+    "id": "7ce25547-a341-4fb1-bcd8-a62d8d248a7e",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/7ce25547-a341-4fb1-bcd8-a62d8d248a7e/",
+    "name": "Terran R | Lazuli Space Telescope",
+    "response_mode": "detailed",
+    "slug": "terran-r-lazuli-space-telescope",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2026-06-18T06:49:41Z",
+    "net": "2028-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 14,
+      "name": "Year",
+      "abbrev": "Y",
+      "description": "The T-0 is expected in the given year."
+    },
+    "window_end": "2028-12-31T00:00:00Z",
+    "window_start": "2028-12-31T00:00:00Z",
+    "image": {
+      "id": 1851,
+      "name": "[AUTO] Terran R - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terran_r_image_20220912002151.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193934.png",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 266,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/266/",
+      "name": "Relativity Space",
+      "abbrev": "RS",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "Relativity Space is an American aerospace manufacturing company headquartered in Los Angeles, California. It was founded in 2015 by Tim Ellis and Jordan Noone. Relativity Space is developing manufacturing technologies, launch vehicles and rocket engines for commercial orbital launch services.",
+      "administrator": "CEO: Tim Ellis",
+      "founding_year": 2015,
+      "launchers": "Terran",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 2024,
+        "name": "Relativity Space logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325080842.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325080842.png",
+        "credit": "Relativity Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": [
+          {
+            "id": 3,
+            "type": {
+              "id": 1,
+              "name": "transparent for light background"
+            },
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_ligh_image_20240325080843.png"
+          },
+          {
+            "id": 4,
+            "type": {
+              "id": 2,
+              "name": "transparent for dark background"
+            },
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_dark_image_20240325080843.png"
+          }
+        ]
+      },
+      "social_logo": {
+        "id": 2025,
+        "name": "Relativity Space social logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325081000.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325081000.jpeg",
+        "credit": "Relativity Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1,
+      "consecutive_successful_launches": 0,
+      "successful_launches": 0,
+      "failed_launches": 1,
+      "pending_launches": 4,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.relativityspace.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 9065,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 482,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/482/",
+        "name": "Terran R",
+        "families": [
+          {
+            "response_mode": "detailed",
+            "id": 159,
+            "name": "Terran",
+            "manufacturer": [
+              {
+                "response_mode": "normal",
+                "id": 266,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/266/",
+                "name": "Relativity Space",
+                "abbrev": "RS",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                },
+                "featured": false,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "Relativity Space is an American aerospace manufacturing company headquartered in Los Angeles, California. It was founded in 2015 by Tim Ellis and Jordan Noone. Relativity Space is developing manufacturing technologies, launch vehicles and rocket engines for commercial orbital launch services.",
+                "administrator": "CEO: Tim Ellis",
+                "founding_year": 2015,
+                "launchers": "Terran",
+                "spacecraft": "",
+                "parent": null,
+                "image": null,
+                "logo": {
+                  "id": 2024,
+                  "name": "Relativity Space logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325080842.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325080842.png",
+                  "credit": "Relativity Space",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": [
+                    {
+                      "id": 3,
+                      "type": {
+                        "id": 1,
+                        "name": "transparent for light background"
+                      },
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_ligh_image_20240325080843.png"
+                    },
+                    {
+                      "id": 4,
+                      "type": {
+                        "id": 2,
+                        "name": "transparent for dark background"
+                      },
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_dark_image_20240325080843.png"
+                    }
+                  ]
+                },
+                "social_logo": {
+                  "id": 2025,
+                  "name": "Relativity Space social logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325081000.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325081000.jpeg",
+                  "credit": "Relativity Space",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 1,
+                "consecutive_successful_launches": 0,
+                "successful_launches": 0,
+                "failed_launches": 1,
+                "pending_launches": 4,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://www.relativityspace.com/",
+                "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space",
+                "social_media_links": []
+              }
+            ],
+            "parent": null,
+            "description": "",
+            "active": true,
+            "maiden_flight": "2023-03-23",
+            "total_launch_count": 1,
+            "consecutive_successful_launches": 0,
+            "successful_launches": 0,
+            "failed_launches": 1,
+            "pending_launches": 2,
+            "attempted_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "consecutive_successful_landings": 0
+          }
+        ],
+        "full_name": "Terran R",
+        "variant": "R",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 266,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/266/",
+          "name": "Relativity Space",
+          "abbrev": "RS",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Relativity Space is an American aerospace manufacturing company headquartered in Los Angeles, California. It was founded in 2015 by Tim Ellis and Jordan Noone. Relativity Space is developing manufacturing technologies, launch vehicles and rocket engines for commercial orbital launch services.",
+          "administrator": "CEO: Tim Ellis",
+          "founding_year": 2015,
+          "launchers": "Terran",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 2024,
+            "name": "Relativity Space logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325080842.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325080842.png",
+            "credit": "Relativity Space",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": [
+              {
+                "id": 3,
+                "type": {
+                  "id": 1,
+                  "name": "transparent for light background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_ligh_image_20240325080843.png"
+              },
+              {
+                "id": 4,
+                "type": {
+                  "id": 2,
+                  "name": "transparent for dark background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_dark_image_20240325080843.png"
+              }
+            ]
+          },
+          "social_logo": {
+            "id": 2025,
+            "name": "Relativity Space social logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325081000.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325081000.jpeg",
+            "credit": "Relativity Space",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 1,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 0,
+          "failed_launches": 1,
+          "pending_launches": 4,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.relativityspace.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": true,
+        "image": {
+          "id": 1851,
+          "name": "[AUTO] Terran R - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terran_r_image_20220912002151.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193934.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://www.relativityspace.com/rockets",
+        "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space#Terran_R",
+        "description": "Terran R is a medium-lift 2-stage \r\nlaunch vehicle developed by Relativity Space is the first fully-reusable, entirely 3D printed orbital launch vehicle.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": 66.0,
+        "diameter": 5.5,
+        "maiden_flight": null,
+        "launch_cost": null,
+        "launch_mass": null,
+        "leo_capacity": 20000.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": null,
+        "to_thrust": 9400.0,
+        "apogee": null,
+        "total_launch_count": 0,
+        "consecutive_successful_launches": 0,
+        "successful_launches": 0,
+        "failed_launches": 0,
+        "pending_launches": 4,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7660,
+      "name": "Lazuli Space Telescope",
+      "type": "Astrophysics",
+      "description": "3-meter diameter optical space telescope privately developed by Schmidt Sciences",
+      "image": {
+        "id": 2780,
+        "name": "Lazuli illustration",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/lazuli_illustra_image_20260618064705.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/lazuli_illustra_image_thumbnail_20260618064705.jpeg",
+        "credit": "Schmidt Sciences",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "orbit": {
+        "id": 0,
+        "name": "Elliptical Orbit",
+        "abbrev": "Elliptical",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 92,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/92/",
+      "active": true,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 161,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+          "name": "United States Air Force",
+          "abbrev": "USAF",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+          "administrator": "Commander-in-Chief: President of the US",
+          "founding_year": 1947,
+          "launchers": "",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 193,
+            "name": "[AUTO] United States Air Force - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 99,
+            "name": "[AUTO] United States Air Force - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Launch Complex 16",
+      "image": null,
+      "description": null,
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_16",
+      "map_url": "https://www.google.com/maps?q=28.501626,-80.5518",
+      "latitude": 28.501626,
+      "longitude": -80.5518,
+      "country": {
+        "id": 2,
+        "name": "United States of America",
+        "alpha_2_code": "US",
+        "alpha_3_code": "USA",
+        "nationality_name": "American",
+        "nationality_name_composed": "Americano"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_92_20200803143523.jpg",
+      "total_launch_count": 1,
+      "orbital_launch_attempt_count": 1,
+      "fastest_turnaround": null,
+      "location": {
+        "response_mode": "normal",
+        "id": 12,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+        "name": "Cape Canaveral SFS, FL, USA",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7541,
+          "successful_launches": 6984,
+          "failed_launches": 557,
+          "total_attempted_landings": 1325,
+          "successful_landings": 1277,
+          "failed_landings": 48
+        },
+        "active": true,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+        "image": {
+          "id": 2200,
+          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+          "credit": "NASA",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+        "longitude": -80.577778,
+        "latitude": 28.488889,
+        "timezone_name": "America/New_York",
+        "total_launch_count": 1115,
+        "total_landing_count": 75
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7613,
+    "location_launch_attempt_count": 1220,
+    "pad_launch_attempt_count": 5,
+    "agency_launch_attempt_count": 5,
+    "orbital_launch_attempt_count_year": 34,
+    "location_launch_attempt_count_year": 9,
+    "pad_launch_attempt_count_year": 2,
+    "agency_launch_attempt_count_year": 2,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 15314,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding launch",
+        "info_url": "https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/",
+        "created_by": "Nosu",
+        "created_on": "2026-06-18T06:49:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P731D",
+    "mission_patches": []
+  },
+  {
+    "id": "46339a1d-367c-4903-b827-8eaa12d66391",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/46339a1d-367c-4903-b827-8eaa12d66391/",
+    "name": "Terran R | Mars Orbiter",
+    "response_mode": "detailed",
+    "slug": "terran-r-mars-orbiter",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2026-06-18T06:43:23Z",
+    "net": "2028-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 14,
+      "name": "Year",
+      "abbrev": "Y",
+      "description": "The T-0 is expected in the given year."
+    },
+    "window_end": "2028-12-31T00:00:00Z",
+    "window_start": "2028-12-31T00:00:00Z",
+    "image": {
+      "id": 2779,
+      "name": "Relativity Space Mars Orbiter render",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20260618064224.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20260618064224.jpeg",
+      "credit": "Relativity Space",
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 266,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/266/",
+      "name": "Relativity Space",
+      "abbrev": "RS",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "Relativity Space is an American aerospace manufacturing company headquartered in Los Angeles, California. It was founded in 2015 by Tim Ellis and Jordan Noone. Relativity Space is developing manufacturing technologies, launch vehicles and rocket engines for commercial orbital launch services.",
+      "administrator": "CEO: Tim Ellis",
+      "founding_year": 2015,
+      "launchers": "Terran",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 2024,
+        "name": "Relativity Space logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325080842.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325080842.png",
+        "credit": "Relativity Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": [
+          {
+            "id": 3,
+            "type": {
+              "id": 1,
+              "name": "transparent for light background"
+            },
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_ligh_image_20240325080843.png"
+          },
+          {
+            "id": 4,
+            "type": {
+              "id": 2,
+              "name": "transparent for dark background"
+            },
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_dark_image_20240325080843.png"
+          }
+        ]
+      },
+      "social_logo": {
+        "id": 2025,
+        "name": "Relativity Space social logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325081000.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325081000.jpeg",
+        "credit": "Relativity Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1,
+      "consecutive_successful_launches": 0,
+      "successful_launches": 0,
+      "failed_launches": 1,
+      "pending_launches": 4,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.relativityspace.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 9064,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 482,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/482/",
+        "name": "Terran R",
+        "families": [
+          {
+            "response_mode": "detailed",
+            "id": 159,
+            "name": "Terran",
+            "manufacturer": [
+              {
+                "response_mode": "normal",
+                "id": 266,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/266/",
+                "name": "Relativity Space",
+                "abbrev": "RS",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                },
+                "featured": false,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "Relativity Space is an American aerospace manufacturing company headquartered in Los Angeles, California. It was founded in 2015 by Tim Ellis and Jordan Noone. Relativity Space is developing manufacturing technologies, launch vehicles and rocket engines for commercial orbital launch services.",
+                "administrator": "CEO: Tim Ellis",
+                "founding_year": 2015,
+                "launchers": "Terran",
+                "spacecraft": "",
+                "parent": null,
+                "image": null,
+                "logo": {
+                  "id": 2024,
+                  "name": "Relativity Space logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325080842.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325080842.png",
+                  "credit": "Relativity Space",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": [
+                    {
+                      "id": 3,
+                      "type": {
+                        "id": 1,
+                        "name": "transparent for light background"
+                      },
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_ligh_image_20240325080843.png"
+                    },
+                    {
+                      "id": 4,
+                      "type": {
+                        "id": 2,
+                        "name": "transparent for dark background"
+                      },
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_dark_image_20240325080843.png"
+                    }
+                  ]
+                },
+                "social_logo": {
+                  "id": 2025,
+                  "name": "Relativity Space social logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325081000.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325081000.jpeg",
+                  "credit": "Relativity Space",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 1,
+                "consecutive_successful_launches": 0,
+                "successful_launches": 0,
+                "failed_launches": 1,
+                "pending_launches": 4,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://www.relativityspace.com/",
+                "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space",
+                "social_media_links": []
+              }
+            ],
+            "parent": null,
+            "description": "",
+            "active": true,
+            "maiden_flight": "2023-03-23",
+            "total_launch_count": 1,
+            "consecutive_successful_launches": 0,
+            "successful_launches": 0,
+            "failed_launches": 1,
+            "pending_launches": 2,
+            "attempted_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "consecutive_successful_landings": 0
+          }
+        ],
+        "full_name": "Terran R",
+        "variant": "R",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 266,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/266/",
+          "name": "Relativity Space",
+          "abbrev": "RS",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Relativity Space is an American aerospace manufacturing company headquartered in Los Angeles, California. It was founded in 2015 by Tim Ellis and Jordan Noone. Relativity Space is developing manufacturing technologies, launch vehicles and rocket engines for commercial orbital launch services.",
+          "administrator": "CEO: Tim Ellis",
+          "founding_year": 2015,
+          "launchers": "Terran",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 2024,
+            "name": "Relativity Space logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325080842.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325080842.png",
+            "credit": "Relativity Space",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": [
+              {
+                "id": 3,
+                "type": {
+                  "id": 1,
+                  "name": "transparent for light background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_ligh_image_20240325080843.png"
+              },
+              {
+                "id": 4,
+                "type": {
+                  "id": 2,
+                  "name": "transparent for dark background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_dark_image_20240325080843.png"
+              }
+            ]
+          },
+          "social_logo": {
+            "id": 2025,
+            "name": "Relativity Space social logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325081000.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325081000.jpeg",
+            "credit": "Relativity Space",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 1,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 0,
+          "failed_launches": 1,
+          "pending_launches": 4,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.relativityspace.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": true,
+        "image": {
+          "id": 1851,
+          "name": "[AUTO] Terran R - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terran_r_image_20220912002151.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193934.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://www.relativityspace.com/rockets",
+        "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space#Terran_R",
+        "description": "Terran R is a medium-lift 2-stage \r\nlaunch vehicle developed by Relativity Space is the first fully-reusable, entirely 3D printed orbital launch vehicle.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": 66.0,
+        "diameter": 5.5,
+        "maiden_flight": null,
+        "launch_cost": null,
+        "launch_mass": null,
+        "leo_capacity": 20000.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": null,
+        "to_thrust": 9400.0,
+        "apogee": null,
+        "total_launch_count": 0,
+        "consecutive_successful_launches": 0,
+        "successful_launches": 0,
+        "failed_launches": 0,
+        "pending_launches": 4,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7659,
+      "name": "Mars Orbiter",
+      "type": "Planetary Science",
+      "description": "Mars science and telecommunications orbiter, with a NASA-developed atmospheric instrument suite called Aeolus. It includes a Doppler wind and temperature sensor, thermal limb sounder, surface radiometric sensors and a wide-field camera.",
+      "image": {
+        "id": 2779,
+        "name": "Relativity Space Mars Orbiter render",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20260618064224.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20260618064224.jpeg",
+        "credit": "Relativity Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "orbit": {
+        "id": 19,
+        "name": "Mars Orbit",
+        "abbrev": "Mars",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 266,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/266/",
+          "name": "Relativity Space",
+          "abbrev": "RS",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Relativity Space is an American aerospace manufacturing company headquartered in Los Angeles, California. It was founded in 2015 by Tim Ellis and Jordan Noone. Relativity Space is developing manufacturing technologies, launch vehicles and rocket engines for commercial orbital launch services.",
+          "administrator": "CEO: Tim Ellis",
+          "founding_year": 2015,
+          "launchers": "Terran",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 2024,
+            "name": "Relativity Space logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325080842.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325080842.png",
+            "credit": "Relativity Space",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": [
+              {
+                "id": 3,
+                "type": {
+                  "id": 1,
+                  "name": "transparent for light background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_ligh_image_20240325080843.png"
+              },
+              {
+                "id": 4,
+                "type": {
+                  "id": 2,
+                  "name": "transparent for dark background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/relativity_dark_image_20240325080843.png"
+              }
+            ]
+          },
+          "social_logo": {
+            "id": 2025,
+            "name": "Relativity Space social logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_20240325081000.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/relativity_spac_image_thumbnail_20240325081000.jpeg",
+            "credit": "Relativity Space",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 1,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 0,
+          "failed_launches": 1,
+          "pending_launches": 4,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.relativityspace.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Relativity_Space",
+          "social_media_links": []
+        }
+      ],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 92,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/92/",
+      "active": true,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 161,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+          "name": "United States Air Force",
+          "abbrev": "USAF",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+          "administrator": "Commander-in-Chief: President of the US",
+          "founding_year": 1947,
+          "launchers": "",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 193,
+            "name": "[AUTO] United States Air Force - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 99,
+            "name": "[AUTO] United States Air Force - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Launch Complex 16",
+      "image": null,
+      "description": null,
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_16",
+      "map_url": "https://www.google.com/maps?q=28.501626,-80.5518",
+      "latitude": 28.501626,
+      "longitude": -80.5518,
+      "country": {
+        "id": 2,
+        "name": "United States of America",
+        "alpha_2_code": "US",
+        "alpha_3_code": "USA",
+        "nationality_name": "American",
+        "nationality_name_composed": "Americano"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_92_20200803143523.jpg",
+      "total_launch_count": 1,
+      "orbital_launch_attempt_count": 1,
+      "fastest_turnaround": null,
+      "location": {
+        "response_mode": "normal",
+        "id": 12,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+        "name": "Cape Canaveral SFS, FL, USA",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7541,
+          "successful_launches": 6984,
+          "failed_launches": 557,
+          "total_attempted_landings": 1325,
+          "successful_landings": 1277,
+          "failed_landings": 48
+        },
+        "active": true,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+        "image": {
+          "id": 2200,
+          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+          "credit": "NASA",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+        "longitude": -80.577778,
+        "latitude": 28.488889,
+        "timezone_name": "America/New_York",
+        "total_launch_count": 1115,
+        "total_landing_count": 75
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7612,
+    "location_launch_attempt_count": 1219,
+    "pad_launch_attempt_count": 4,
+    "agency_launch_attempt_count": 4,
+    "orbital_launch_attempt_count_year": 33,
+    "location_launch_attempt_count_year": 8,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 1,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 15313,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding launch",
+        "info_url": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
+        "created_by": "Nosu",
+        "created_on": "2026-06-18T06:43:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P731D",
     "mission_patches": []
   },
   {
@@ -12198,7 +13549,7 @@
       "consecutive_successful_launches": 25,
       "successful_launches": 584,
       "failed_launches": 15,
-      "pending_launches": 7,
+      "pending_launches": 8,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 1,
@@ -12302,7 +13653,7 @@
                 "consecutive_successful_launches": 25,
                 "successful_launches": 584,
                 "failed_launches": 15,
-                "pending_launches": 7,
+                "pending_launches": 8,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -12413,7 +13764,7 @@
                 "consecutive_successful_launches": 25,
                 "successful_launches": 584,
                 "failed_launches": 15,
-                "pending_launches": 7,
+                "pending_launches": 8,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 1,
@@ -12604,7 +13955,7 @@
           "consecutive_successful_launches": 25,
           "successful_launches": 584,
           "failed_launches": 15,
-          "pending_launches": 7,
+          "pending_launches": 8,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 1,
@@ -19720,14 +21071,6 @@
               "nationality_name_composed": "Swedo"
             },
             {
-              "id": 20,
-              "name": "Belgium",
-              "alpha_2_code": "BE",
-              "alpha_3_code": "BEL",
-              "nationality_name": "Belgian",
-              "nationality_name_composed": "Belgo"
-            },
-            {
               "id": 23,
               "name": "Portugal",
               "alpha_2_code": "PT",
@@ -19830,6 +21173,14 @@
               "alpha_3_code": "LUX",
               "nationality_name": "Luxembourger",
               "nationality_name_composed": "Luxembourgish"
+            },
+            {
+              "id": 20,
+              "name": "Belgium",
+              "alpha_2_code": "BE",
+              "alpha_3_code": "BEL",
+              "nationality_name": "Belgian",
+              "nationality_name_composed": "Belgo"
             },
             {
               "id": 86,
@@ -20030,52 +21381,12 @@
           "featured": false,
           "country": [
             {
-              "id": 1,
-              "name": "France",
-              "alpha_2_code": "FR",
-              "alpha_3_code": "FRA",
-              "nationality_name": "French",
-              "nationality_name_composed": "Franco"
-            },
-            {
-              "id": 3,
-              "name": "Italy",
-              "alpha_2_code": "IT",
-              "alpha_3_code": "ITA",
-              "nationality_name": "Italian",
-              "nationality_name_composed": "Italo"
-            },
-            {
-              "id": 4,
-              "name": "Germany",
-              "alpha_2_code": "DE",
-              "alpha_3_code": "DEU",
-              "nationality_name": "German",
-              "nationality_name_composed": "Germano"
-            },
-            {
-              "id": 7,
-              "name": "Spain",
-              "alpha_2_code": "ES",
-              "alpha_3_code": "ESP",
-              "nationality_name": "Spanish",
-              "nationality_name_composed": "Hispano"
-            },
-            {
               "id": 11,
               "name": "Austria",
               "alpha_2_code": "AT",
               "alpha_3_code": "AUT",
               "nationality_name": "Austrian",
               "nationality_name_composed": "Austro"
-            },
-            {
-              "id": 15,
-              "name": "Sweden",
-              "alpha_2_code": "SE",
-              "alpha_3_code": "SWE",
-              "nationality_name": "Swedish",
-              "nationality_name_composed": "Swedo"
             },
             {
               "id": 20,
@@ -20086,76 +21397,12 @@
               "nationality_name_composed": "Belgo"
             },
             {
-              "id": 23,
-              "name": "Portugal",
-              "alpha_2_code": "PT",
-              "alpha_3_code": "PRT",
-              "nationality_name": "Portuguese",
-              "nationality_name_composed": "Luso"
-            },
-            {
-              "id": 27,
-              "name": "Netherlands",
-              "alpha_2_code": "NL",
-              "alpha_3_code": "NLD",
-              "nationality_name": "Dutch",
-              "nationality_name_composed": "Dutch"
-            },
-            {
-              "id": 31,
-              "name": "Hungary",
-              "alpha_2_code": "HU",
-              "alpha_3_code": "HUN",
-              "nationality_name": "Hungarian",
-              "nationality_name_composed": "Hungarian"
-            },
-            {
-              "id": 39,
-              "name": "Poland",
-              "alpha_2_code": "PL",
-              "alpha_3_code": "POL",
-              "nationality_name": "Polish",
-              "nationality_name_composed": "Polono"
-            },
-            {
               "id": 40,
               "name": "Bulgaria",
               "alpha_2_code": "BG",
               "alpha_3_code": "BGR",
               "nationality_name": "Bulgarian",
               "nationality_name_composed": "Bulgaro"
-            },
-            {
-              "id": 43,
-              "name": "Slovakia",
-              "alpha_2_code": "SK",
-              "alpha_3_code": "SVK",
-              "nationality_name": "Slovak",
-              "nationality_name_composed": "Slovak"
-            },
-            {
-              "id": 45,
-              "name": "Denmark",
-              "alpha_2_code": "DK",
-              "alpha_3_code": "DNK",
-              "nationality_name": "Danish",
-              "nationality_name_composed": "Dano"
-            },
-            {
-              "id": 46,
-              "name": "Czechia",
-              "alpha_2_code": "CZ",
-              "alpha_3_code": "CZE",
-              "nationality_name": "Czech",
-              "nationality_name_composed": "Czech"
-            },
-            {
-              "id": 47,
-              "name": "Romania",
-              "alpha_2_code": "RO",
-              "alpha_3_code": "ROU",
-              "nationality_name": "Romanian",
-              "nationality_name_composed": "Romanian"
             },
             {
               "id": 54,
@@ -20166,20 +21413,28 @@
               "nationality_name_composed": "Croatian"
             },
             {
-              "id": 77,
-              "name": "Finland",
-              "alpha_2_code": "FI",
-              "alpha_3_code": "FIN",
-              "nationality_name": "Finnish",
-              "nationality_name_composed": "Finno"
+              "id": 87,
+              "name": "Cyprus",
+              "alpha_2_code": "CY",
+              "alpha_3_code": "CYP",
+              "nationality_name": "Cypriot",
+              "nationality_name_composed": "Cypro"
             },
             {
-              "id": 78,
-              "name": "Greece",
-              "alpha_2_code": "GR",
-              "alpha_3_code": "GRC",
-              "nationality_name": "Greek",
-              "nationality_name_composed": "Greco"
+              "id": 46,
+              "name": "Czechia",
+              "alpha_2_code": "CZ",
+              "alpha_3_code": "CZE",
+              "nationality_name": "Czech",
+              "nationality_name_composed": "Czech"
+            },
+            {
+              "id": 45,
+              "name": "Denmark",
+              "alpha_2_code": "DK",
+              "alpha_3_code": "DNK",
+              "nationality_name": "Danish",
+              "nationality_name_composed": "Dano"
             },
             {
               "id": 80,
@@ -20190,12 +21445,60 @@
               "nationality_name_composed": "Estonian"
             },
             {
+              "id": 77,
+              "name": "Finland",
+              "alpha_2_code": "FI",
+              "alpha_3_code": "FIN",
+              "nationality_name": "Finnish",
+              "nationality_name_composed": "Finno"
+            },
+            {
+              "id": 1,
+              "name": "France",
+              "alpha_2_code": "FR",
+              "alpha_3_code": "FRA",
+              "nationality_name": "French",
+              "nationality_name_composed": "Franco"
+            },
+            {
+              "id": 4,
+              "name": "Germany",
+              "alpha_2_code": "DE",
+              "alpha_3_code": "DEU",
+              "nationality_name": "German",
+              "nationality_name_composed": "Germano"
+            },
+            {
+              "id": 78,
+              "name": "Greece",
+              "alpha_2_code": "GR",
+              "alpha_3_code": "GRC",
+              "nationality_name": "Greek",
+              "nationality_name_composed": "Greco"
+            },
+            {
+              "id": 31,
+              "name": "Hungary",
+              "alpha_2_code": "HU",
+              "alpha_3_code": "HUN",
+              "nationality_name": "Hungarian",
+              "nationality_name_composed": "Hungarian"
+            },
+            {
               "id": 81,
               "name": "Ireland",
               "alpha_2_code": "IE",
               "alpha_3_code": "IRL",
               "nationality_name": "Irish",
               "nationality_name_composed": "Irish"
+            },
+            {
+              "id": 3,
+              "name": "Italy",
+              "alpha_2_code": "IT",
+              "alpha_3_code": "ITA",
+              "nationality_name": "Italian",
+              "nationality_name_composed": "Italo"
             },
             {
               "id": 83,
@@ -20222,6 +21525,54 @@
               "nationality_name_composed": "Luxembourgish"
             },
             {
+              "id": 88,
+              "name": "Malta",
+              "alpha_2_code": "MT",
+              "alpha_3_code": "MLT",
+              "nationality_name": "Maltese",
+              "nationality_name_composed": "Maltese"
+            },
+            {
+              "id": 27,
+              "name": "Netherlands",
+              "alpha_2_code": "NL",
+              "alpha_3_code": "NLD",
+              "nationality_name": "Dutch",
+              "nationality_name_composed": "Dutch"
+            },
+            {
+              "id": 39,
+              "name": "Poland",
+              "alpha_2_code": "PL",
+              "alpha_3_code": "POL",
+              "nationality_name": "Polish",
+              "nationality_name_composed": "Polono"
+            },
+            {
+              "id": 23,
+              "name": "Portugal",
+              "alpha_2_code": "PT",
+              "alpha_3_code": "PRT",
+              "nationality_name": "Portuguese",
+              "nationality_name_composed": "Luso"
+            },
+            {
+              "id": 47,
+              "name": "Romania",
+              "alpha_2_code": "RO",
+              "alpha_3_code": "ROU",
+              "nationality_name": "Romanian",
+              "nationality_name_composed": "Romanian"
+            },
+            {
+              "id": 43,
+              "name": "Slovakia",
+              "alpha_2_code": "SK",
+              "alpha_3_code": "SVK",
+              "nationality_name": "Slovak",
+              "nationality_name_composed": "Slovak"
+            },
+            {
               "id": 86,
               "name": "Slovenia",
               "alpha_2_code": "SI",
@@ -20230,20 +21581,20 @@
               "nationality_name_composed": "Slovenian"
             },
             {
-              "id": 87,
-              "name": "Cyprus",
-              "alpha_2_code": "CY",
-              "alpha_3_code": "CYP",
-              "nationality_name": "Cypriot",
-              "nationality_name_composed": "Cypro"
+              "id": 7,
+              "name": "Spain",
+              "alpha_2_code": "ES",
+              "alpha_3_code": "ESP",
+              "nationality_name": "Spanish",
+              "nationality_name_composed": "Hispano"
             },
             {
-              "id": 88,
-              "name": "Malta",
-              "alpha_2_code": "MT",
-              "alpha_3_code": "MLT",
-              "nationality_name": "Maltese",
-              "nationality_name_composed": "Maltese"
+              "id": 15,
+              "name": "Sweden",
+              "alpha_2_code": "SE",
+              "alpha_3_code": "SWE",
+              "nationality_name": "Swedish",
+              "nationality_name_composed": "Swedo"
             }
           ],
           "description": "The European Union Agency for the Space Programme (EUSPA) is a space agency, managing the European Union Space Programme as one of the agencies of the European Union (EU). It was initially created as the European Global Navigation Satellite Systems Supervisory Authority (GSA) in 2004, reorganised into the European Global Navigation Satellite Systems Agency (also GSA) in 2010, and established in its current form on May 12, 2021. EUSPA is a separate entity from the European Space Agency (ESA), although the two entities work together closely.",
@@ -21095,960 +22446,6 @@
     "vid_urls": [],
     "timeline": [],
     "pad_turnaround": "P365D",
-    "mission_patches": []
-  },
-  {
-    "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
-    "name": "Falcon Heavy | NROL-97",
-    "response_mode": "detailed",
-    "slug": "falcon-heavy-nrol-97",
-    "launch_designator": null,
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD",
-      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-    },
-    "last_updated": "2025-04-10T06:12:27Z",
-    "net": "2029-12-31T00:00:00Z",
-    "net_precision": {
-      "id": 16,
-      "name": "Decade",
-      "abbrev": "DEC",
-      "description": "The T-0 is expected in the given decade."
-    },
-    "window_end": "2029-12-31T00:00:00Z",
-    "window_start": "2029-12-31T00:00:00Z",
-    "image": {
-      "id": 1739,
-      "name": "[AUTO] Falcon Heavy - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193632.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 121,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-      "name": "SpaceX",
-      "abbrev": "SpX",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "administrator": "CEO: Elon Musk",
-      "founding_year": 2002,
-      "launchers": "Falcon | Starship",
-      "spacecraft": "Dragon",
-      "parent": null,
-      "image": {
-        "id": 1736,
-        "name": "Falcon 9 liftoff from LC-39A",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "logo": {
-        "id": 186,
-        "name": "SpaceX logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 94,
-        "name": "SpaceX social logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 691,
-      "consecutive_successful_launches": 176,
-      "successful_launches": 676,
-      "failed_launches": 15,
-      "pending_launches": 132,
-      "consecutive_successful_landings": 12,
-      "successful_landings": 636,
-      "failed_landings": 28,
-      "attempted_landings": 663,
-      "successful_landings_spacecraft": 61,
-      "failed_landings_spacecraft": 3,
-      "attempted_landings_spacecraft": 65,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.spacex.com/",
-      "wiki_url": "https://en.wikipedia.org/wiki/SpaceX",
-      "social_media_links": [
-        {
-          "id": 427,
-          "social_media": {
-            "id": 3,
-            "name": "Homepage",
-            "url": null,
-            "logo": null
-          },
-          "url": "https://www.spacex.com/"
-        },
-        {
-          "id": 428,
-          "social_media": {
-            "id": 1,
-            "name": "X",
-            "url": "https://x.com",
-            "logo": {
-              "id": 2320,
-              "name": "X logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-              "credit": "X",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://x.com/spacex/"
-        },
-        {
-          "id": 429,
-          "social_media": {
-            "id": 6,
-            "name": "Youtube",
-            "url": "https://www.youtube.com/",
-            "logo": {
-              "id": 2356,
-              "name": "YouTube logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-              "credit": "YouTube",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.youtube.com/@spacex"
-        },
-        {
-          "id": 430,
-          "social_media": {
-            "id": 4,
-            "name": "LinkedIn",
-            "url": "https://www.linkedin.com/",
-            "logo": {
-              "id": 2321,
-              "name": "LinkedIn logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-              "credit": "LinkedIn",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.linkedin.com/company/spacex/"
-        }
-      ]
-    },
-    "rocket": {
-      "id": 8574,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 161,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/161/",
-        "name": "Falcon Heavy",
-        "families": [
-          {
-            "response_mode": "detailed",
-            "id": 1,
-            "name": "Falcon",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 2,
-                    "name": "United States of America",
-                    "alpha_2_code": "US",
-                    "alpha_3_code": "USA",
-                    "nationality_name": "American",
-                    "nationality_name_composed": "Americano"
-                  }
-                ],
-                "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-                "administrator": "CEO: Elon Musk",
-                "founding_year": 2002,
-                "launchers": "Falcon | Starship",
-                "spacecraft": "Dragon",
-                "parent": null,
-                "image": {
-                  "id": 1736,
-                  "name": "Falcon 9 liftoff from LC-39A",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": false,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 186,
-                  "name": "SpaceX logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 94,
-                  "name": "SpaceX social logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-                  "credit": "SpaceX",
-                  "license": {
-                    "id": 5,
-                    "name": "CC BY-NC 2.0",
-                    "priority": 1,
-                    "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 691,
-                "consecutive_successful_launches": 176,
-                "successful_launches": 676,
-                "failed_launches": 15,
-                "pending_launches": 132,
-                "consecutive_successful_landings": 12,
-                "successful_landings": 636,
-                "failed_landings": 28,
-                "attempted_landings": 663,
-                "successful_landings_spacecraft": 61,
-                "failed_landings_spacecraft": 3,
-                "attempted_landings_spacecraft": 65,
-                "successful_landings_payload": 0,
-                "failed_landings_payload": 0,
-                "attempted_landings_payload": 0,
-                "info_url": "https://www.spacex.com/",
-                "wiki_url": "https://en.wikipedia.org/wiki/SpaceX",
-                "social_media_links": [
-                  {
-                    "id": 427,
-                    "social_media": {
-                      "id": 3,
-                      "name": "Homepage",
-                      "url": null,
-                      "logo": null
-                    },
-                    "url": "https://www.spacex.com/"
-                  },
-                  {
-                    "id": 428,
-                    "social_media": {
-                      "id": 1,
-                      "name": "X",
-                      "url": "https://x.com",
-                      "logo": {
-                        "id": 2320,
-                        "name": "X logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                        "credit": "X",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://x.com/spacex/"
-                  },
-                  {
-                    "id": 429,
-                    "social_media": {
-                      "id": 6,
-                      "name": "Youtube",
-                      "url": "https://www.youtube.com/",
-                      "logo": {
-                        "id": 2356,
-                        "name": "YouTube logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                        "credit": "YouTube",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://www.youtube.com/@spacex"
-                  },
-                  {
-                    "id": 430,
-                    "social_media": {
-                      "id": 4,
-                      "name": "LinkedIn",
-                      "url": "https://www.linkedin.com/",
-                      "logo": {
-                        "id": 2321,
-                        "name": "LinkedIn logo",
-                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                        "credit": "LinkedIn",
-                        "license": {
-                          "id": 1,
-                          "name": "Unknown",
-                          "priority": 9,
-                          "link": null
-                        },
-                        "single_use": true,
-                        "variants": []
-                      }
-                    },
-                    "url": "https://www.linkedin.com/company/spacex/"
-                  }
-                ]
-              }
-            ],
-            "parent": null,
-            "description": "Family of two-stage partially reusable orbital launch vehicles developed by SpaceX.",
-            "active": true,
-            "maiden_flight": "2006-03-24",
-            "total_launch_count": 670,
-            "consecutive_successful_launches": 300,
-            "successful_launches": 663,
-            "failed_launches": 7,
-            "pending_launches": 129,
-            "attempted_landings": 643,
-            "successful_landings": 625,
-            "failed_landings": 19,
-            "consecutive_successful_landings": 284
-          }
-        ],
-        "full_name": "Falcon Heavy",
-        "variant": "Heavy",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 121,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-          "name": "SpaceX",
-          "abbrev": "SpX",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-          "administrator": "CEO: Elon Musk",
-          "founding_year": 2002,
-          "launchers": "Falcon | Starship",
-          "spacecraft": "Dragon",
-          "parent": null,
-          "image": {
-            "id": 1736,
-            "name": "Falcon 9 liftoff from LC-39A",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": false,
-            "variants": []
-          },
-          "logo": {
-            "id": 186,
-            "name": "SpaceX logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 94,
-            "name": "SpaceX social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 691,
-          "consecutive_successful_launches": 176,
-          "successful_launches": 676,
-          "failed_launches": 15,
-          "pending_launches": 132,
-          "consecutive_successful_landings": 12,
-          "successful_landings": 636,
-          "failed_landings": 28,
-          "attempted_landings": 663,
-          "successful_landings_spacecraft": 61,
-          "failed_landings_spacecraft": 3,
-          "attempted_landings_spacecraft": 65,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.spacex.com/",
-          "wiki_url": "https://en.wikipedia.org/wiki/SpaceX",
-          "social_media_links": [
-            {
-              "id": 427,
-              "social_media": {
-                "id": 3,
-                "name": "Homepage",
-                "url": null,
-                "logo": null
-              },
-              "url": "https://www.spacex.com/"
-            },
-            {
-              "id": 428,
-              "social_media": {
-                "id": 1,
-                "name": "X",
-                "url": "https://x.com",
-                "logo": {
-                  "id": 2320,
-                  "name": "X logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                  "credit": "X",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://x.com/spacex/"
-            },
-            {
-              "id": 429,
-              "social_media": {
-                "id": 6,
-                "name": "Youtube",
-                "url": "https://www.youtube.com/",
-                "logo": {
-                  "id": 2356,
-                  "name": "YouTube logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                  "credit": "YouTube",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.youtube.com/@spacex"
-            },
-            {
-              "id": 430,
-              "social_media": {
-                "id": 4,
-                "name": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "logo": {
-                  "id": 2321,
-                  "name": "LinkedIn logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                  "credit": "LinkedIn",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.linkedin.com/company/spacex/"
-            }
-          ]
-        },
-        "program": [],
-        "reusable": true,
-        "image": {
-          "id": 1739,
-          "name": "[AUTO] Falcon Heavy - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193632.jpeg",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": "https://www.spacex.com/vehicles/falcon-heavy/index.html",
-        "wiki_url": "https://en.wikipedia.org/wiki/Falcon_Heavy",
-        "description": "The Falcon Heavy is a variant of the Falcon 9 full thrust launch vehicle and consists of a standard Falcon 9 rocket core, with two additional boosters derived from the Falcon 9 first stage.",
-        "alias": "",
-        "min_stage": 3,
-        "max_stage": 3,
-        "length": 70.0,
-        "diameter": 12.2,
-        "maiden_flight": "2018-02-06",
-        "launch_cost": 90000000,
-        "launch_mass": 1400.0,
-        "leo_capacity": 63800.0,
-        "gto_capacity": 26700.0,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": 22819.0,
-        "apogee": 200.0,
-        "total_launch_count": 12,
-        "consecutive_successful_launches": 12,
-        "successful_launches": 12,
-        "failed_launches": 0,
-        "pending_launches": 14,
-        "attempted_landings": 23,
-        "successful_landings": 21,
-        "failed_landings": 2,
-        "consecutive_successful_landings": 15,
-        "fastest_turnaround": "P74DT7H55M"
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 7165,
-      "name": "NROL-97",
-      "type": "Government/Top Secret",
-      "description": "Classified payload for the US National Reconnaissance Office",
-      "image": null,
-      "orbit": {
-        "id": 25,
-        "name": "Unknown",
-        "abbrev": "N/A",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 181,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/181/",
-          "name": "National Reconnaissance Office",
-          "abbrev": "NRO",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "The National Reconnaissance Office (NRO) is a member of the United States Intelligence Community and an agency of the United States Department of Defense which designs, builds, launches, and operates the reconnaissance satellites of the U.S. federal government, and provides satellite intelligence to several government agencies, particularly signals intelligence (SIGINT) to the NSA, imagery intelligence (IMINT) to the NGA, and measurement and signature intelligence (MASINT) to the DIA.",
-          "administrator": "Director: Christopher Scolese",
-          "founding_year": 1961,
-          "launchers": "",
-          "spacecraft": "",
-          "parent": null,
-          "image": null,
-          "logo": null,
-          "social_logo": {
-            "id": 77,
-            "name": "[AUTO] National Reconnaissance Office - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520reconnaissance2520office_nation_20240228092125.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184825.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 0,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 0,
-          "failed_launches": 0,
-          "pending_launches": 0,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.nro.gov/",
-          "wiki_url": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office",
-          "social_media_links": []
-        }
-      ],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 87,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/87/",
-      "active": true,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 121,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-          "name": "SpaceX",
-          "abbrev": "SpX",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-          "administrator": "CEO: Elon Musk",
-          "founding_year": 2002,
-          "launchers": "Falcon | Starship",
-          "spacecraft": "Dragon",
-          "parent": null,
-          "image": {
-            "id": 1736,
-            "name": "Falcon 9 liftoff from LC-39A",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": false,
-            "variants": []
-          },
-          "logo": {
-            "id": 186,
-            "name": "SpaceX logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185138.png",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 94,
-            "name": "SpaceX social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_20260407054626.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_social_l_image_thumbnail_20260407054626.jpeg",
-            "credit": "SpaceX",
-            "license": {
-              "id": 5,
-              "name": "CC BY-NC 2.0",
-              "priority": 1,
-              "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Launch Complex 39A",
-      "image": {
-        "id": 2119,
-        "name": "FH liftoff from LC-39A (GOES-U)",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/fh_liftoff_from_image_20240626200232.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/fh_liftoff_from_image_thumbnail_20240626200233.jpeg",
-        "credit": "SpaceX",
-        "license": {
-          "id": 5,
-          "name": "CC BY-NC 2.0",
-          "priority": 1,
-          "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "description": "",
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A",
-      "map_url": "https://www.google.com/maps?q=28.60822681,-80.60428186",
-      "latitude": 28.60822681,
-      "longitude": -80.60428186,
-      "country": {
-        "id": 2,
-        "name": "United States of America",
-        "alpha_2_code": "US",
-        "alpha_3_code": "USA",
-        "nationality_name": "American",
-        "nationality_name_composed": "Americano"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_87_20200803143537.jpg",
-      "total_launch_count": 222,
-      "orbital_launch_attempt_count": 221,
-      "fastest_turnaround": "P5DT6H20M30S",
-      "location": {
-        "response_mode": "normal",
-        "id": 27,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/27/",
-        "name": "Kennedy Space Center, FL, USA",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7541,
-          "successful_launches": 6984,
-          "failed_launches": 557,
-          "total_attempted_landings": 1325,
-          "successful_landings": 1277,
-          "failed_landings": 48
-        },
-        "active": true,
-        "country": {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        },
-        "description": "The John F. Kennedy Space Center, located on Merritt Island, Florida, is one of NASA's ten field centers. Since 1968, KSC has been NASA's primary launch center of American spaceflight, research, and technology. Launch operations for the Apollo, Skylab and Space Shuttle programs were carried out from Kennedy Space Center Launch Complex 39 and managed by KSC. Located on the east coast of Florida, KSC is adjacent to Cape Canaveral Space Force Station (CCSFS).",
-        "image": {
-          "id": 2200,
-          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
-          "credit": "NASA",
-          "license": {
-            "id": 4,
-            "name": "NASA Image and Media Guidelines",
-            "priority": 0,
-            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_27_20200803142447.jpg",
-        "longitude": -80.650833,
-        "latitude": 28.524167,
-        "timezone_name": "America/New_York",
-        "total_launch_count": 281,
-        "total_landing_count": 0
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7654,
-    "location_launch_attempt_count": 300,
-    "pad_launch_attempt_count": 236,
-    "agency_launch_attempt_count": 823,
-    "orbital_launch_attempt_count_year": 43,
-    "location_launch_attempt_count_year": 4,
-    "pad_launch_attempt_count_year": 3,
-    "agency_launch_attempt_count_year": 19,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 10699,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Updated launch vehicle configuration.",
-        "info_url": "https://arstechnica.com/space/2025/04/a-key-spacex-competitor-says-he-has-not-been-impacted-by-musks-ties-to-trump/",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2025-04-10T06:12:00Z"
-      },
-      {
-        "id": 10669,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding launch, year TBD",
-        "info_url": "https://www.ssc.spaceforce.mil/Newsroom/Article/4148471/space-systems-command-releases-national-security-space-launch-phase-3-lane-2-fy",
-        "created_by": "Nosu",
-        "created_on": "2025-04-09T19:03:00Z"
-      }
-    ],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P426D",
     "mission_patches": []
   }
 ]
