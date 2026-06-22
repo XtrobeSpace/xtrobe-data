@@ -18559,16 +18559,16 @@
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-06-20T20:03:06Z",
-    "net": "2026-06-19T10:20:00Z",
+    "last_updated": "2026-06-22T20:59:17Z",
+    "net": "2026-06-19T10:19:00Z",
     "net_precision": {
-      "id": 2,
-      "name": "Hour",
-      "abbrev": "HR",
-      "description": "The T-0 is accurate to the hour."
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
     },
-    "window_end": "2026-06-19T10:20:00Z",
-    "window_start": "2026-06-19T10:20:00Z",
+    "window_end": "2026-06-19T10:19:00Z",
+    "window_start": "2026-06-19T10:19:00Z",
     "image": {
       "id": 1727,
       "name": "[AUTO] Electron - image",
@@ -18853,18 +18853,106 @@
       "vid_urls": []
     },
     "pad": {
-      "id": 210,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/210/",
+      "id": 65,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/65/",
       "active": true,
-      "agencies": [],
-      "name": "Unknown Pad",
-      "image": null,
-      "description": null,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 147,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
+          "name": "Rocket Lab",
+          "abbrev": "RL",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
+          "administrator": "CEO: Peter Beck",
+          "founding_year": 2006,
+          "launchers": "Electron",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 24,
+            "name": "[AUTO] Rocket Lab - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 176,
+            "name": "[AUTO] Rocket Lab - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 88,
+            "name": "[AUTO] Rocket Lab - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Rocket Lab Launch Complex 1A",
+      "image": {
+        "id": 1412,
+        "name": "Electron on LC-1A (Return to Sender)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron25202_image_20201120015105.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192700.jpeg",
+        "credit": "Rocket Lab",
+        "license": {
+          "id": 7,
+          "name": "Rocket Lab Image Use Policy",
+          "priority": 3,
+          "link": "https://www.rocketlabusa.com/about/gallery/"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
       "info_url": null,
-      "wiki_url": null,
-      "map_url": null,
-      "latitude": -39.260881,
-      "longitude": 177.865826,
+      "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
+      "map_url": "https://www.google.com/maps?q=-39.262833,177.864469",
+      "latitude": -39.262833,
+      "longitude": 177.864469,
       "country": {
         "id": 51,
         "name": "New Zealand",
@@ -18873,10 +18961,10 @@
         "nationality_name": "Kiwi",
         "nationality_name_composed": "Kiwi"
       },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_210_20230819165718.jpg",
-      "total_launch_count": 1,
-      "orbital_launch_attempt_count": 1,
-      "fastest_turnaround": null,
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_65_20200803143549.jpg",
+      "total_launch_count": 41,
+      "orbital_launch_attempt_count": 41,
+      "fastest_turnaround": "P7DT14H29M39S",
       "location": {
         "response_mode": "normal",
         "id": 10,
@@ -18956,14 +19044,22 @@
     "program": [],
     "orbital_launch_attempt_count": 7319,
     "location_launch_attempt_count": 77,
-    "pad_launch_attempt_count": 1,
+    "pad_launch_attempt_count": 41,
     "agency_launch_attempt_count": 90,
     "orbital_launch_attempt_count_year": 146,
     "location_launch_attempt_count_year": 8,
-    "pad_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 6,
     "agency_launch_attempt_count_year": 11,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15337,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Updated exact launch time.",
+        "info_url": "https://x.com/RocketLab/status/2069157322266759289",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-22T20:47:00Z"
+      },
       {
         "id": 15327,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -19013,11 +19109,70 @@
         "created_on": "2024-10-18T00:56:00Z"
       }
     ],
-    "info_urls": [],
-    "vid_urls": [],
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": "rocketlabcorp.com",
+        "title": "VICTUS HAZE",
+        "description": "Rocket Lab will launch a tactically responsive space mission for the U.S. Space Force that includes the design, build, launch, and operation of Rocket Lab’s own spacecraft on an Electron rocket. The mission, named VICTUS HAZE, will demonstrate rendezvous and proximity operations for the U.S. Space F...",
+        "feature_image": null,
+        "url": "https://rocketlabcorp.com/missions/launches/victus-haze/",
+        "type": {
+          "id": 1,
+          "name": "Official Page"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "Rocket Lab",
+        "title": "RECORD BREAKING LAUNCH | Victus Haze Is On Orbit",
+        "description": "The Space Force called, and we launched. From call up to lift-off in just 16 hours 42 minutes 🎯 Rocket Lab has made history - the fastest response time ever for a @U.S.SpaceForce @SpaceSystemsCommand Tactically Responsive Space mission.\nLifting off from Rocket Lab Launch Complex 1 in New Zealand at 10:19 pm NZT on June 19th, the mission shattered the previous TacRS record set by VICTUS NOX by more than 10 hours. The feat establishes a new global benchmark for rapid call-up space capabilities.",
+        "feature_image": "https://i.ytimg.com/vi/zyXvhzQi_Bw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zyXvhzQi_Bw",
+        "type": {
+          "id": 9,
+          "name": "Video"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-06-22T20:58:18Z",
+        "end_time": "2026-06-22T21:00:28Z",
+        "live": false
+      }
+    ],
     "timeline": [],
-    "pad_turnaround": "P0D",
-    "mission_patches": []
+    "pad_turnaround": "P57DT7H10M",
+    "mission_patches": [
+      {
+        "id": 1330,
+        "name": "VICTUS HAZE Mission Patch",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/victus2520haze_mission_patch_20260622204652.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 147,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
+          "name": "Rocket Lab",
+          "abbrev": "RL",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ]
   },
   {
     "id": "de5fbae3-66b9-4bbf-8938-4d55f3318c07",
