@@ -1,5 +1,629 @@
 [
   {
+    "id": "36c05136-e9c5-4d50-ae8e-8a2d38710071",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/36c05136-e9c5-4d50-ae8e-8a2d38710071/",
+    "name": "PSLV | RISAT-2A",
+    "response_mode": "detailed",
+    "slug": "pslv-risat-2a",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2025-11-13T06:03:12Z",
+    "net": "2026-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 14,
+      "name": "Year",
+      "abbrev": "Y",
+      "description": "The T-0 is expected in the given year."
+    },
+    "window_end": "2026-12-31T00:00:00Z",
+    "window_start": "2026-12-31T00:00:00Z",
+    "image": {
+      "id": 1808,
+      "name": "PSLV-QL launching",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190508083736.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193826.jpeg",
+      "credit": "Indian Space Research Organisation",
+      "license": {
+        "id": 11,
+        "name": "Government Open Data License - India (GODL)",
+        "priority": 3,
+        "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 31,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
+      "name": "Indian Space Research Organization",
+      "abbrev": "ISRO",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 9,
+          "name": "India",
+          "alpha_2_code": "IN",
+          "alpha_3_code": "IND",
+          "nationality_name": "Indian",
+          "nationality_name_composed": "Indo"
+        }
+      ],
+      "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+      "administrator": "Chairman: V. Narayanan",
+      "founding_year": 1969,
+      "launchers": "PSLV | GSLV",
+      "spacecraft": "Gaganyaan",
+      "parent": null,
+      "image": {
+        "id": 14,
+        "name": "[AUTO] Indian Space Research Organization - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 141,
+        "name": "[AUTO] Indian Space Research Organization - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 63,
+        "name": "[AUTO] Indian Space Research Organization - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 99,
+      "consecutive_successful_launches": 0,
+      "successful_launches": 84,
+      "failed_launches": 15,
+      "pending_launches": 18,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 1,
+      "failed_landings_payload": 1,
+      "attempted_landings_payload": 2,
+      "info_url": "https://www.isro.gov.in/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 144,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 7,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/7/",
+        "name": "PSLV",
+        "families": [
+          {
+            "response_mode": "detailed",
+            "id": 131,
+            "name": "PSLV",
+            "manufacturer": [
+              {
+                "response_mode": "normal",
+                "id": 31,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
+                "name": "Indian Space Research Organization",
+                "abbrev": "ISRO",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                },
+                "featured": true,
+                "country": [
+                  {
+                    "id": 9,
+                    "name": "India",
+                    "alpha_2_code": "IN",
+                    "alpha_3_code": "IND",
+                    "nationality_name": "Indian",
+                    "nationality_name_composed": "Indo"
+                  }
+                ],
+                "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+                "administrator": "Chairman: V. Narayanan",
+                "founding_year": 1969,
+                "launchers": "PSLV | GSLV",
+                "spacecraft": "Gaganyaan",
+                "parent": null,
+                "image": {
+                  "id": 14,
+                  "name": "[AUTO] Indian Space Research Organization - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 141,
+                  "name": "[AUTO] Indian Space Research Organization - logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 63,
+                  "name": "[AUTO] Indian Space Research Organization - social_logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 99,
+                "consecutive_successful_launches": 0,
+                "successful_launches": 84,
+                "failed_launches": 15,
+                "pending_launches": 18,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 1,
+                "failed_landings_payload": 1,
+                "attempted_landings_payload": 2,
+                "info_url": "https://www.isro.gov.in/",
+                "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
+                "social_media_links": []
+              }
+            ],
+            "parent": null,
+            "description": "",
+            "active": true,
+            "maiden_flight": "1993-09-20",
+            "total_launch_count": 64,
+            "consecutive_successful_launches": 0,
+            "successful_launches": 59,
+            "failed_launches": 5,
+            "pending_launches": 5,
+            "attempted_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "consecutive_successful_landings": 0
+          }
+        ],
+        "full_name": "PSLV",
+        "variant": "",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 31,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
+          "name": "Indian Space Research Organization",
+          "abbrev": "ISRO",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 9,
+              "name": "India",
+              "alpha_2_code": "IN",
+              "alpha_3_code": "IND",
+              "nationality_name": "Indian",
+              "nationality_name_composed": "Indo"
+            }
+          ],
+          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+          "administrator": "Chairman: V. Narayanan",
+          "founding_year": 1969,
+          "launchers": "PSLV | GSLV",
+          "spacecraft": "Gaganyaan",
+          "parent": null,
+          "image": {
+            "id": 14,
+            "name": "[AUTO] Indian Space Research Organization - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 141,
+            "name": "[AUTO] Indian Space Research Organization - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 63,
+            "name": "[AUTO] Indian Space Research Organization - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 99,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 84,
+          "failed_launches": 15,
+          "pending_launches": 18,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 1,
+          "failed_landings_payload": 1,
+          "attempted_landings_payload": 2,
+          "info_url": "https://www.isro.gov.in/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 1808,
+          "name": "PSLV-QL launching",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190508083736.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193826.jpeg",
+          "credit": "Indian Space Research Organisation",
+          "license": {
+            "id": 11,
+            "name": "Government Open Data License - India (GODL)",
+            "priority": 3,
+            "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle?wprov=sfla1",
+        "description": "The Polar Satellite Launch Vehicle (PSLV) is an expendable medium-lift launch vehicle designed and operated by the Indian Space Research Organisation (ISRO). It was developed to allow India to launch its Indian Remote Sensing (IRS) satellites into sun-synchronous orbits, a service that was, until the advent of the PSLV in 1993, commercially available only from Russia. PSLV can also launch small size satellites into Geostationary Transfer Orbit (GTO).",
+        "alias": "",
+        "min_stage": 4,
+        "max_stage": 4,
+        "length": 44.0,
+        "diameter": 2.8,
+        "maiden_flight": "1993-09-20",
+        "launch_cost": 21000000,
+        "launch_mass": 295.0,
+        "leo_capacity": 3800.0,
+        "gto_capacity": 1200.0,
+        "geo_capacity": null,
+        "sso_capacity": 1750.0,
+        "to_thrust": 4847.0,
+        "apogee": null,
+        "total_launch_count": 12,
+        "consecutive_successful_launches": 8,
+        "successful_launches": 10,
+        "failed_launches": 2,
+        "pending_launches": 3,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": "P325DT5H30M40S"
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 572,
+      "name": "RISAT-2A",
+      "type": "Government/Top Secret",
+      "description": "RISAT-2A is the third in the series of radar imaging RISAT satellites. The satellite carries a sophisticated synthetic aperture radar that operates at 5.35 GHz in C band.",
+      "image": null,
+      "orbit": {
+        "id": 8,
+        "name": "Low Earth Orbit",
+        "abbrev": "LEO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 50,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/50/",
+      "active": true,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 31,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
+          "name": "Indian Space Research Organization",
+          "abbrev": "ISRO",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 9,
+              "name": "India",
+              "alpha_2_code": "IN",
+              "alpha_3_code": "IND",
+              "nationality_name": "Indian",
+              "nationality_name_composed": "Indo"
+            }
+          ],
+          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+          "administrator": "Chairman: V. Narayanan",
+          "founding_year": 1969,
+          "launchers": "PSLV | GSLV",
+          "spacecraft": "Gaganyaan",
+          "parent": null,
+          "image": {
+            "id": 14,
+            "name": "[AUTO] Indian Space Research Organization - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 141,
+            "name": "[AUTO] Indian Space Research Organization - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 63,
+            "name": "[AUTO] Indian Space Research Organization - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Satish Dhawan Space Centre First Launch Pad",
+      "image": {
+        "id": 1993,
+        "name": "First Launch Pad",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/first_launch_pa_image_20240311093432.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/first_launch_pa_image_thumbnail_20240311093432.jpeg",
+        "credit": "Indian Space Research Organisation",
+        "license": {
+          "id": 11,
+          "name": "Government Open Data License - India (GODL)",
+          "priority": 3,
+          "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "description": "India has two launch pads at the site. The First Launch Pad, operational since 1993, is used for Polar Satellite Launch Vehicle, Small Satellite Launch Vehicle and formerly used by Geosynchronous Satellite Launch Vehicle.",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad",
+      "map_url": "https://www.google.com/maps?q=13.733,80.235",
+      "latitude": 13.733,
+      "longitude": 80.235,
+      "country": {
+        "id": 9,
+        "name": "India",
+        "alpha_2_code": "IN",
+        "alpha_3_code": "IND",
+        "nationality_name": "Indian",
+        "nationality_name_composed": "Indo"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_50_20200803143457.jpg",
+      "total_launch_count": 63,
+      "orbital_launch_attempt_count": 62,
+      "fastest_turnaround": "P25DT5H56M15S",
+      "location": {
+        "response_mode": "normal",
+        "id": 14,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/14/",
+        "name": "Satish Dhawan Space Centre, India",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7544,
+          "successful_launches": 6988,
+          "failed_launches": 556,
+          "total_attempted_landings": 1327,
+          "successful_landings": 1279,
+          "failed_landings": 48
+        },
+        "active": true,
+        "country": {
+          "id": 9,
+          "name": "India",
+          "alpha_2_code": "IN",
+          "alpha_3_code": "IND",
+          "nationality_name": "Indian",
+          "nationality_name_composed": "Indo"
+        },
+        "description": "Satish Dhawan Space Centre – SDSC (formerly Sriharikota Range – SHAR),[1] is the primary spaceport of the Indian Space Research Organisation (ISRO), located in Sriharikota, Andhra Pradesh.",
+        "image": {
+          "id": 2212,
+          "name": "Satish Dhawan Space Centre",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/satish_dhawan_s_image_20240919164153.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/satish_dhawan_s_image_thumbnail_20240919164154.png",
+          "credit": "ISRO",
+          "license": {
+            "id": 11,
+            "name": "Government Open Data License - India (GODL)",
+            "priority": 3,
+            "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_14_20200803142403.jpg",
+        "longitude": 80.23,
+        "latitude": 13.72,
+        "timezone_name": "Asia/Kolkata",
+        "total_launch_count": 103,
+        "total_landing_count": 0
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7490,
+    "location_launch_attempt_count": 117,
+    "pad_launch_attempt_count": 69,
+    "agency_launch_attempt_count": 112,
+    "orbital_launch_attempt_count_year": 317,
+    "location_launch_attempt_count_year": 15,
+    "pad_launch_attempt_count_year": 7,
+    "agency_launch_attempt_count_year": 14,
+    "flightclub_url": null,
+    "updates": [],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P352DT19H11M30S",
+    "mission_patches": []
+  },
+  {
     "id": "10fa7952-f00b-4292-80a2-4207e208844e",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/10fa7952-f00b-4292-80a2-4207e208844e/",
     "name": "Vikram-I | Demo Flight",
@@ -4575,7 +5199,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -4721,15 +5345,15 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 693,
+      "total_launch_count": 694,
       "consecutive_successful_launches": 178,
       "successful_launches": 678,
       "failed_launches": 15,
       "pending_launches": 133,
-      "consecutive_successful_landings": 14,
-      "successful_landings": 638,
+      "consecutive_successful_landings": 15,
+      "successful_landings": 639,
       "failed_landings": 28,
-      "attempted_landings": 665,
+      "attempted_landings": 666,
       "successful_landings_spacecraft": 61,
       "failed_landings_spacecraft": 3,
       "attempted_landings_spacecraft": 65,
@@ -4908,15 +5532,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -5102,15 +5726,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -5376,15 +6000,15 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 693,
+          "total_launch_count": 694,
           "consecutive_successful_launches": 178,
           "successful_launches": 678,
           "failed_launches": 15,
           "pending_launches": 133,
-          "consecutive_successful_landings": 14,
-          "successful_landings": 638,
+          "consecutive_successful_landings": 15,
+          "successful_landings": 639,
           "failed_landings": 28,
-          "attempted_landings": 665,
+          "attempted_landings": 666,
           "successful_landings_spacecraft": 61,
           "failed_landings_spacecraft": 3,
           "attempted_landings_spacecraft": 65,
@@ -5656,15 +6280,15 @@
         "sso_capacity": null,
         "to_thrust": 7607.0,
         "apogee": 200.0,
-        "total_launch_count": 598,
+        "total_launch_count": 599,
         "consecutive_successful_launches": 300,
         "successful_launches": 597,
         "failed_launches": 1,
         "pending_launches": 116,
-        "attempted_landings": 589,
-        "successful_landings": 584,
+        "attempted_landings": 590,
+        "successful_landings": 585,
         "failed_landings": 5,
-        "consecutive_successful_landings": 284,
+        "consecutive_successful_landings": 285,
         "fastest_turnaround": "PT1H5M"
       },
       "launcher_stage": [
@@ -6133,15 +6757,15 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 693,
+      "total_launch_count": 694,
       "consecutive_successful_launches": 178,
       "successful_launches": 678,
       "failed_launches": 15,
       "pending_launches": 133,
-      "consecutive_successful_landings": 14,
-      "successful_landings": 638,
+      "consecutive_successful_landings": 15,
+      "successful_landings": 639,
       "failed_landings": 28,
-      "attempted_landings": 665,
+      "attempted_landings": 666,
       "successful_landings_spacecraft": 61,
       "failed_landings_spacecraft": 3,
       "attempted_landings_spacecraft": 65,
@@ -6320,15 +6944,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -6514,15 +7138,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -6788,15 +7412,15 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 693,
+          "total_launch_count": 694,
           "consecutive_successful_launches": 178,
           "successful_launches": 678,
           "failed_launches": 15,
           "pending_launches": 133,
-          "consecutive_successful_landings": 14,
-          "successful_landings": 638,
+          "consecutive_successful_landings": 15,
+          "successful_landings": 639,
           "failed_landings": 28,
-          "attempted_landings": 665,
+          "attempted_landings": 666,
           "successful_landings_spacecraft": 61,
           "failed_landings_spacecraft": 3,
           "attempted_landings_spacecraft": 65,
@@ -7068,15 +7692,15 @@
         "sso_capacity": null,
         "to_thrust": 7607.0,
         "apogee": 200.0,
-        "total_launch_count": 598,
+        "total_launch_count": 599,
         "consecutive_successful_launches": 300,
         "successful_launches": 597,
         "failed_launches": 1,
         "pending_launches": 116,
-        "attempted_landings": 589,
-        "successful_landings": 584,
+        "attempted_landings": 590,
+        "successful_landings": 585,
         "failed_landings": 5,
-        "consecutive_successful_landings": 284,
+        "consecutive_successful_landings": 285,
         "fastest_turnaround": "PT1H5M"
       },
       "launcher_stage": [
@@ -8063,7 +8687,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -9059,7 +9683,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -9871,15 +10495,15 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 693,
+      "total_launch_count": 694,
       "consecutive_successful_launches": 178,
       "successful_launches": 678,
       "failed_launches": 15,
       "pending_launches": 133,
-      "consecutive_successful_landings": 14,
-      "successful_landings": 638,
+      "consecutive_successful_landings": 15,
+      "successful_landings": 639,
       "failed_landings": 28,
-      "attempted_landings": 665,
+      "attempted_landings": 666,
       "successful_landings_spacecraft": 61,
       "failed_landings_spacecraft": 3,
       "attempted_landings_spacecraft": 65,
@@ -10058,15 +10682,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -10252,15 +10876,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -10526,15 +11150,15 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 693,
+          "total_launch_count": 694,
           "consecutive_successful_launches": 178,
           "successful_launches": 678,
           "failed_launches": 15,
           "pending_launches": 133,
-          "consecutive_successful_landings": 14,
-          "successful_landings": 638,
+          "consecutive_successful_landings": 15,
+          "successful_landings": 639,
           "failed_landings": 28,
-          "attempted_landings": 665,
+          "attempted_landings": 666,
           "successful_landings_spacecraft": 61,
           "failed_landings_spacecraft": 3,
           "attempted_landings_spacecraft": 65,
@@ -10806,15 +11430,15 @@
         "sso_capacity": null,
         "to_thrust": 7607.0,
         "apogee": 200.0,
-        "total_launch_count": 598,
+        "total_launch_count": 599,
         "consecutive_successful_launches": 300,
         "successful_launches": 597,
         "failed_launches": 1,
         "pending_launches": 116,
-        "attempted_landings": 589,
-        "successful_landings": 584,
+        "attempted_landings": 590,
+        "successful_landings": 585,
         "failed_landings": 5,
-        "consecutive_successful_landings": 284,
+        "consecutive_successful_landings": 285,
         "fastest_turnaround": "PT1H5M"
       },
       "launcher_stage": [],
@@ -11161,15 +11785,15 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 693,
+      "total_launch_count": 694,
       "consecutive_successful_launches": 178,
       "successful_launches": 678,
       "failed_launches": 15,
       "pending_launches": 133,
-      "consecutive_successful_landings": 14,
-      "successful_landings": 638,
+      "consecutive_successful_landings": 15,
+      "successful_landings": 639,
       "failed_landings": 28,
-      "attempted_landings": 665,
+      "attempted_landings": 666,
       "successful_landings_spacecraft": 61,
       "failed_landings_spacecraft": 3,
       "attempted_landings_spacecraft": 65,
@@ -11348,15 +11972,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -11542,15 +12166,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -11816,15 +12440,15 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 693,
+          "total_launch_count": 694,
           "consecutive_successful_launches": 178,
           "successful_launches": 678,
           "failed_launches": 15,
           "pending_launches": 133,
-          "consecutive_successful_landings": 14,
-          "successful_landings": 638,
+          "consecutive_successful_landings": 15,
+          "successful_landings": 639,
           "failed_landings": 28,
-          "attempted_landings": 665,
+          "attempted_landings": 666,
           "successful_landings_spacecraft": 61,
           "failed_landings_spacecraft": 3,
           "attempted_landings_spacecraft": 65,
@@ -12096,15 +12720,15 @@
         "sso_capacity": null,
         "to_thrust": 7607.0,
         "apogee": 200.0,
-        "total_launch_count": 598,
+        "total_launch_count": 599,
         "consecutive_successful_launches": 300,
         "successful_launches": 597,
         "failed_launches": 1,
         "pending_launches": 116,
-        "attempted_landings": 589,
-        "successful_landings": 584,
+        "attempted_landings": 590,
+        "successful_landings": 585,
         "failed_landings": 5,
-        "consecutive_successful_landings": 284,
+        "consecutive_successful_landings": 285,
         "fastest_turnaround": "PT1H5M"
       },
       "launcher_stage": [],
@@ -12305,7 +12929,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -13184,7 +13808,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -13898,7 +14522,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -15152,7 +15776,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -16687,7 +17311,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -17023,15 +17647,15 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 693,
+      "total_launch_count": 694,
       "consecutive_successful_launches": 178,
       "successful_launches": 678,
       "failed_launches": 15,
       "pending_launches": 133,
-      "consecutive_successful_landings": 14,
-      "successful_landings": 638,
+      "consecutive_successful_landings": 15,
+      "successful_landings": 639,
       "failed_landings": 28,
-      "attempted_landings": 665,
+      "attempted_landings": 666,
       "successful_landings_spacecraft": 61,
       "failed_landings_spacecraft": 3,
       "attempted_landings_spacecraft": 65,
@@ -17210,15 +17834,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -17404,15 +18028,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -17678,15 +18302,15 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 693,
+          "total_launch_count": 694,
           "consecutive_successful_launches": 178,
           "successful_launches": 678,
           "failed_launches": 15,
           "pending_launches": 133,
-          "consecutive_successful_landings": 14,
-          "successful_landings": 638,
+          "consecutive_successful_landings": 15,
+          "successful_landings": 639,
           "failed_landings": 28,
-          "attempted_landings": 665,
+          "attempted_landings": 666,
           "successful_landings_spacecraft": 61,
           "failed_landings_spacecraft": 3,
           "attempted_landings_spacecraft": 65,
@@ -17958,15 +18582,15 @@
         "sso_capacity": null,
         "to_thrust": 7607.0,
         "apogee": 200.0,
-        "total_launch_count": 598,
+        "total_launch_count": 599,
         "consecutive_successful_launches": 300,
         "successful_launches": 597,
         "failed_launches": 1,
         "pending_launches": 116,
-        "attempted_landings": 589,
-        "successful_landings": 584,
+        "attempted_landings": 590,
+        "successful_landings": 585,
         "failed_landings": 5,
-        "consecutive_successful_landings": 284,
+        "consecutive_successful_landings": 285,
         "fastest_turnaround": "PT1H5M"
       },
       "launcher_stage": [
@@ -20842,15 +21466,15 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 693,
+      "total_launch_count": 694,
       "consecutive_successful_launches": 178,
       "successful_launches": 678,
       "failed_launches": 15,
       "pending_launches": 133,
-      "consecutive_successful_landings": 14,
-      "successful_landings": 638,
+      "consecutive_successful_landings": 15,
+      "successful_landings": 639,
       "failed_landings": 28,
-      "attempted_landings": 665,
+      "attempted_landings": 666,
       "successful_landings_spacecraft": 61,
       "failed_landings_spacecraft": 3,
       "attempted_landings_spacecraft": 65,
@@ -21029,15 +21653,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -21223,15 +21847,15 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 693,
+                "total_launch_count": 694,
                 "consecutive_successful_launches": 178,
                 "successful_launches": 678,
                 "failed_launches": 15,
                 "pending_launches": 133,
-                "consecutive_successful_landings": 14,
-                "successful_landings": 638,
+                "consecutive_successful_landings": 15,
+                "successful_landings": 639,
                 "failed_landings": 28,
-                "attempted_landings": 665,
+                "attempted_landings": 666,
                 "successful_landings_spacecraft": 61,
                 "failed_landings_spacecraft": 3,
                 "attempted_landings_spacecraft": 65,
@@ -21497,15 +22121,15 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 693,
+          "total_launch_count": 694,
           "consecutive_successful_launches": 178,
           "successful_launches": 678,
           "failed_launches": 15,
           "pending_launches": 133,
-          "consecutive_successful_landings": 14,
-          "successful_landings": 638,
+          "consecutive_successful_landings": 15,
+          "successful_landings": 639,
           "failed_landings": 28,
-          "attempted_landings": 665,
+          "attempted_landings": 666,
           "successful_landings_spacecraft": 61,
           "failed_landings_spacecraft": 3,
           "attempted_landings_spacecraft": 65,
@@ -21777,15 +22401,15 @@
         "sso_capacity": null,
         "to_thrust": 7607.0,
         "apogee": 200.0,
-        "total_launch_count": 598,
+        "total_launch_count": 599,
         "consecutive_successful_launches": 300,
         "successful_launches": 597,
         "failed_launches": 1,
         "pending_launches": 116,
-        "attempted_landings": 589,
-        "successful_landings": 584,
+        "attempted_landings": 590,
+        "successful_landings": 585,
         "failed_landings": 5,
-        "consecutive_successful_landings": 284,
+        "consecutive_successful_landings": 285,
         "fastest_turnaround": "PT1H5M"
       },
       "launcher_stage": [],
@@ -21958,7 +22582,7 @@
         "longitude": -80.577778,
         "latitude": 28.488889,
         "timezone_name": "America/New_York",
-        "total_launch_count": 1115,
+        "total_launch_count": 1116,
         "total_landing_count": 75
       }
     },
@@ -21987,957 +22611,6 @@
     "vid_urls": [],
     "timeline": [],
     "pad_turnaround": "P31D",
-    "mission_patches": []
-  },
-  {
-    "id": "ed2bf159-ee2d-4b60-bb8e-e964c005c8d9",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/ed2bf159-ee2d-4b60-bb8e-e964c005c8d9/",
-    "name": "Zéphyr | Maiden Flight",
-    "response_mode": "detailed",
-    "slug": "zephyr-maiden-flight",
-    "launch_designator": null,
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD",
-      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-    },
-    "last_updated": "2025-11-16T18:33:05Z",
-    "net": "2026-12-31T00:00:00Z",
-    "net_precision": {
-      "id": 14,
-      "name": "Year",
-      "abbrev": "Y",
-      "description": "The T-0 is expected in the given year."
-    },
-    "window_end": "2026-12-31T00:00:00Z",
-    "window_start": "2026-12-31T00:00:00Z",
-    "image": {
-      "id": 2545,
-      "name": "Zéphyr launch render",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_20251116181217.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_thumbnail_20251116181217.jpeg",
-      "credit": "Latitude",
-      "license": {
-        "id": 20,
-        "name": "CC BY-SA 4.0",
-        "priority": 6,
-        "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-      },
-      "single_use": false,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 1100,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1100/",
-      "name": "Latitude",
-      "abbrev": "LAT",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 1,
-          "name": "France",
-          "alpha_2_code": "FR",
-          "alpha_3_code": "FRA",
-          "nationality_name": "French",
-          "nationality_name_composed": "Franco"
-        }
-      ],
-      "description": "Latitude (formerly Venture Orbital Systems) is a French rocket manufacturing company developing the Zéphyr rocket.",
-      "administrator": "CEO: Aurélie Bressollette",
-      "founding_year": 2019,
-      "launchers": "Zéphyr",
-      "spacecraft": "",
-      "parent": null,
-      "image": {
-        "id": 2545,
-        "name": "Zéphyr launch render",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_20251116181217.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_thumbnail_20251116181217.jpeg",
-        "credit": "Latitude",
-        "license": {
-          "id": 20,
-          "name": "CC BY-SA 4.0",
-          "priority": 6,
-          "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "logo": {
-        "id": 2546,
-        "name": "Latitude logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_logo_image_20251116181423.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_logo_image_thumbnail_20251116181423.png",
-        "credit": "Latitude",
-        "license": {
-          "id": 20,
-          "name": "CC BY-SA 4.0",
-          "priority": 6,
-          "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 2547,
-        "name": "Latitude social logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_social_image_20251116181449.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_social_image_thumbnail_20251116181449.jpeg",
-        "credit": "Latitude",
-        "license": {
-          "id": 20,
-          "name": "CC BY-SA 4.0",
-          "priority": 6,
-          "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 0,
-      "consecutive_successful_launches": 0,
-      "successful_launches": 0,
-      "failed_launches": 0,
-      "pending_launches": 1,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.latitude.eu",
-      "wiki_url": "https://en.wikipedia.org/wiki/Latitude_(company)",
-      "social_media_links": [
-        {
-          "id": 330,
-          "social_media": {
-            "id": 1,
-            "name": "X",
-            "url": "https://x.com",
-            "logo": {
-              "id": 2320,
-              "name": "X logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-              "credit": "X",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://x.com/Latitude_eu"
-        },
-        {
-          "id": 331,
-          "social_media": {
-            "id": 2,
-            "name": "Instagram",
-            "url": "https://instagram.com",
-            "logo": {
-              "id": 2322,
-              "name": "Instagram logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
-              "credit": "Instagram",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://instagram.com/latitude_eu/"
-        },
-        {
-          "id": 332,
-          "social_media": {
-            "id": 3,
-            "name": "Homepage",
-            "url": null,
-            "logo": null
-          },
-          "url": "https://www.latitude.eu"
-        },
-        {
-          "id": 333,
-          "social_media": {
-            "id": 4,
-            "name": "LinkedIn",
-            "url": "https://www.linkedin.com/",
-            "logo": {
-              "id": 2321,
-              "name": "LinkedIn logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-              "credit": "LinkedIn",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.linkedin.com/company/latitude-eu/"
-        },
-        {
-          "id": 334,
-          "social_media": {
-            "id": 6,
-            "name": "Youtube",
-            "url": "https://www.youtube.com/",
-            "logo": {
-              "id": 2356,
-              "name": "YouTube logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-              "credit": "YouTube",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            }
-          },
-          "url": "https://www.youtube.com/@latitude_space"
-        }
-      ]
-    },
-    "rocket": {
-      "id": 8803,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 534,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/534/",
-        "name": "Zéphyr",
-        "families": [],
-        "full_name": "Zéphyr",
-        "variant": "",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 1100,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1100/",
-          "name": "Latitude",
-          "abbrev": "LAT",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 1,
-              "name": "France",
-              "alpha_2_code": "FR",
-              "alpha_3_code": "FRA",
-              "nationality_name": "French",
-              "nationality_name_composed": "Franco"
-            }
-          ],
-          "description": "Latitude (formerly Venture Orbital Systems) is a French rocket manufacturing company developing the Zéphyr rocket.",
-          "administrator": "CEO: Aurélie Bressollette",
-          "founding_year": 2019,
-          "launchers": "Zéphyr",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 2545,
-            "name": "Zéphyr launch render",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_20251116181217.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_thumbnail_20251116181217.jpeg",
-            "credit": "Latitude",
-            "license": {
-              "id": 20,
-              "name": "CC BY-SA 4.0",
-              "priority": 6,
-              "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-            },
-            "single_use": false,
-            "variants": []
-          },
-          "logo": {
-            "id": 2546,
-            "name": "Latitude logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_logo_image_20251116181423.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_logo_image_thumbnail_20251116181423.png",
-            "credit": "Latitude",
-            "license": {
-              "id": 20,
-              "name": "CC BY-SA 4.0",
-              "priority": 6,
-              "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 2547,
-            "name": "Latitude social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_social_image_20251116181449.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_social_image_thumbnail_20251116181449.jpeg",
-            "credit": "Latitude",
-            "license": {
-              "id": 20,
-              "name": "CC BY-SA 4.0",
-              "priority": 6,
-              "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 0,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 0,
-          "failed_launches": 0,
-          "pending_launches": 1,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.latitude.eu",
-          "wiki_url": "https://en.wikipedia.org/wiki/Latitude_(company)",
-          "social_media_links": [
-            {
-              "id": 330,
-              "social_media": {
-                "id": 1,
-                "name": "X",
-                "url": "https://x.com",
-                "logo": {
-                  "id": 2320,
-                  "name": "X logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                  "credit": "X",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://x.com/Latitude_eu"
-            },
-            {
-              "id": 331,
-              "social_media": {
-                "id": 2,
-                "name": "Instagram",
-                "url": "https://instagram.com",
-                "logo": {
-                  "id": 2322,
-                  "name": "Instagram logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
-                  "credit": "Instagram",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://instagram.com/latitude_eu/"
-            },
-            {
-              "id": 332,
-              "social_media": {
-                "id": 3,
-                "name": "Homepage",
-                "url": null,
-                "logo": null
-              },
-              "url": "https://www.latitude.eu"
-            },
-            {
-              "id": 333,
-              "social_media": {
-                "id": 4,
-                "name": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "logo": {
-                  "id": 2321,
-                  "name": "LinkedIn logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                  "credit": "LinkedIn",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.linkedin.com/company/latitude-eu/"
-            },
-            {
-              "id": 334,
-              "social_media": {
-                "id": 6,
-                "name": "Youtube",
-                "url": "https://www.youtube.com/",
-                "logo": {
-                  "id": 2356,
-                  "name": "YouTube logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                  "credit": "YouTube",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.youtube.com/@latitude_space"
-            }
-          ]
-        },
-        "program": [],
-        "reusable": false,
-        "image": {
-          "id": 2545,
-          "name": "Zéphyr launch render",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_20251116181217.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_thumbnail_20251116181217.jpeg",
-          "credit": "Latitude",
-          "license": {
-            "id": 20,
-            "name": "CC BY-SA 4.0",
-            "priority": 6,
-            "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-          },
-          "single_use": false,
-          "variants": []
-        },
-        "info_url": "https://www.latitude.eu/zephyr-launcher/",
-        "wiki_url": "https://en.wikipedia.org/wiki/Latitude_(company)#Zephyr",
-        "description": "Small launch vehicle developed by French company Latitude, capable of delivering 100 kg to Low Earth orbit (LEO).",
-        "alias": "",
-        "min_stage": 2,
-        "max_stage": 2,
-        "length": 19.0,
-        "diameter": 1.5,
-        "maiden_flight": null,
-        "launch_cost": null,
-        "launch_mass": null,
-        "leo_capacity": 100.0,
-        "gto_capacity": null,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": 315.0,
-        "apogee": null,
-        "total_launch_count": 0,
-        "consecutive_successful_launches": 0,
-        "successful_launches": 0,
-        "failed_launches": 0,
-        "pending_launches": 1,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": null
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 7394,
-      "name": "Maiden Flight",
-      "type": "Test Flight",
-      "description": "Maiden flight of the Zéphyr small launch vehicle.",
-      "image": null,
-      "orbit": {
-        "id": 8,
-        "name": "Low Earth Orbit",
-        "abbrev": "LEO",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 1100,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1100/",
-          "name": "Latitude",
-          "abbrev": "LAT",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 1,
-              "name": "France",
-              "alpha_2_code": "FR",
-              "alpha_3_code": "FRA",
-              "nationality_name": "French",
-              "nationality_name_composed": "Franco"
-            }
-          ],
-          "description": "Latitude (formerly Venture Orbital Systems) is a French rocket manufacturing company developing the Zéphyr rocket.",
-          "administrator": "CEO: Aurélie Bressollette",
-          "founding_year": 2019,
-          "launchers": "Zéphyr",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 2545,
-            "name": "Zéphyr launch render",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_20251116181217.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_thumbnail_20251116181217.jpeg",
-            "credit": "Latitude",
-            "license": {
-              "id": 20,
-              "name": "CC BY-SA 4.0",
-              "priority": 6,
-              "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-            },
-            "single_use": false,
-            "variants": []
-          },
-          "logo": {
-            "id": 2546,
-            "name": "Latitude logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_logo_image_20251116181423.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_logo_image_thumbnail_20251116181423.png",
-            "credit": "Latitude",
-            "license": {
-              "id": 20,
-              "name": "CC BY-SA 4.0",
-              "priority": 6,
-              "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 2547,
-            "name": "Latitude social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_social_image_20251116181449.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/latitude_social_image_thumbnail_20251116181449.jpeg",
-            "credit": "Latitude",
-            "license": {
-              "id": 20,
-              "name": "CC BY-SA 4.0",
-              "priority": 6,
-              "link": "https://creativecommons.org/licenses/by-sa/4.0/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 0,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 0,
-          "failed_launches": 0,
-          "pending_launches": 1,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.latitude.eu",
-          "wiki_url": "https://en.wikipedia.org/wiki/Latitude_(company)",
-          "social_media_links": [
-            {
-              "id": 330,
-              "social_media": {
-                "id": 1,
-                "name": "X",
-                "url": "https://x.com",
-                "logo": {
-                  "id": 2320,
-                  "name": "X logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                  "credit": "X",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://x.com/Latitude_eu"
-            },
-            {
-              "id": 331,
-              "social_media": {
-                "id": 2,
-                "name": "Instagram",
-                "url": "https://instagram.com",
-                "logo": {
-                  "id": 2322,
-                  "name": "Instagram logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
-                  "credit": "Instagram",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://instagram.com/latitude_eu/"
-            },
-            {
-              "id": 332,
-              "social_media": {
-                "id": 3,
-                "name": "Homepage",
-                "url": null,
-                "logo": null
-              },
-              "url": "https://www.latitude.eu"
-            },
-            {
-              "id": 333,
-              "social_media": {
-                "id": 4,
-                "name": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "logo": {
-                  "id": 2321,
-                  "name": "LinkedIn logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                  "credit": "LinkedIn",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.linkedin.com/company/latitude-eu/"
-            },
-            {
-              "id": 334,
-              "social_media": {
-                "id": 6,
-                "name": "Youtube",
-                "url": "https://www.youtube.com/",
-                "logo": {
-                  "id": 2356,
-                  "name": "YouTube logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                  "credit": "YouTube",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.youtube.com/@latitude_space"
-            }
-          ]
-        }
-      ],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 125,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/125/",
-      "active": false,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 46,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/46/",
-          "name": "National Center of Space Research",
-          "abbrev": "CNES",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 1,
-              "name": "France",
-              "alpha_2_code": "FR",
-              "alpha_3_code": "FRA",
-              "nationality_name": "French",
-              "nationality_name_composed": "Franco"
-            }
-          ],
-          "description": "The National Center of Space Research, or CNES, is a French National Agency in charge of France's space program. In partnership with the US and Russia, they have put 10 people in space. CNES works in tandem with the larger ESA to develop the Ariane 5 and work on other probes and satellites. They are working with Germany to develop a cheaper and more efficient reusable rocket, which hopefully will be ready to fly by 2026.",
-          "administrator": "CEO: François Jacq",
-          "founding_year": 1961,
-          "launchers": "Ariane 5",
-          "spacecraft": "Mars/Venus Express | Rosetta",
-          "parent": null,
-          "image": {
-            "id": 2425,
-            "name": "CNES Toulouse entrance",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_toulouse_e_image_20250722090314.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_toulouse_e_image_thumbnail_20250722090314.jpeg",
-            "credit": "CNES",
-            "license": {
-              "id": 26,
-              "name": "CNES Image Use Policy",
-              "priority": 2,
-              "link": "https://phototheque.cnes.fr/cnes/info2.do"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 2426,
-            "name": "CNES logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_logo_image_20250722090832.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_logo_image_thumbnail_20250722090832.png",
-            "credit": "CNES",
-            "license": {
-              "id": 26,
-              "name": "CNES Image Use Policy",
-              "priority": 2,
-              "link": "https://phototheque.cnes.fr/cnes/info2.do"
-            },
-            "single_use": true,
-            "variants": [
-              {
-                "id": 17,
-                "type": {
-                  "id": 1,
-                  "name": "transparent for light background"
-                },
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/logo_cnes_2017__image_20250722090832.png"
-              },
-              {
-                "id": 18,
-                "type": {
-                  "id": 2,
-                  "name": "transparent for dark background"
-                },
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/logo_cnes_2017__image_20250722090832.png"
-              }
-            ]
-          },
-          "social_logo": {
-            "id": 2427,
-            "name": "CNES social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_social_log_image_20250722090952.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_social_log_image_thumbnail_20250722090953.jpeg",
-            "credit": "CNES",
-            "license": {
-              "id": 26,
-              "name": "CNES Image Use Policy",
-              "priority": 2,
-              "link": "https://phototheque.cnes.fr/cnes/info2.do"
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Diamant Launch Area",
-      "image": {
-        "id": 2477,
-        "name": "ELM Diamant render",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/elm_diamant_ren_image_20250916111400.webp",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/elm_diamant_ren_image_thumbnail_20250916111400.jpeg",
-        "credit": "CNES/L'Œil du Chat",
-        "license": {
-          "id": 26,
-          "name": "CNES Image Use Policy",
-          "priority": 2,
-          "link": "https://phototheque.cnes.fr/cnes/info2.do"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "description": "",
-      "info_url": null,
-      "wiki_url": null,
-      "map_url": "https://www.google.com/maps?q=5.2222222,-52.7758051",
-      "latitude": 5.2222222,
-      "longitude": -52.7758051,
-      "country": {
-        "id": 50,
-        "name": "French Guiana",
-        "alpha_2_code": "GF",
-        "alpha_3_code": "GUF",
-        "nationality_name": "French Guianan",
-        "nationality_name_composed": "Franco-Guiano"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_125_20200803143236.jpg",
-      "total_launch_count": 8,
-      "orbital_launch_attempt_count": 8,
-      "fastest_turnaround": "P99DT17H57M",
-      "location": {
-        "response_mode": "normal",
-        "id": 13,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/13/",
-        "name": "Guiana Space Centre, French Guiana",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7544,
-          "successful_launches": 6988,
-          "failed_launches": 556,
-          "total_attempted_landings": 1327,
-          "successful_landings": 1279,
-          "failed_landings": 48
-        },
-        "active": true,
-        "country": {
-          "id": 50,
-          "name": "French Guiana",
-          "alpha_2_code": "GF",
-          "alpha_3_code": "GUF",
-          "nationality_name": "French Guianan",
-          "nationality_name_composed": "Franco-Guiano"
-        },
-        "description": "The Guiana Space Centre is a European spaceport to the northwest of Kourou in French Guiana, a region of France in South America. Kourou is located at a latitude of 5°. In operation since 1968, it is a suitable location for a spaceport because of its equatorial location and open sea to the east.",
-        "image": {
-          "id": 2203,
-          "name": "Vega & Ariane 5 pads at the Guiana Space Centre",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_20240918154413.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_thumbnail_20240918154414.jpeg",
-          "credit": "ESA/S. Corvaja",
-          "license": {
-            "id": 2,
-            "name": "ESA Standard Licence",
-            "priority": 2,
-            "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_13_20200803142412.jpg",
-        "longitude": -52.6903,
-        "latitude": 5.169,
-        "timezone_name": "America/Cayenne",
-        "total_launch_count": 334,
-        "total_landing_count": 0
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7490,
-    "location_launch_attempt_count": 345,
-    "pad_launch_attempt_count": 10,
-    "agency_launch_attempt_count": 1,
-    "orbital_launch_attempt_count_year": 317,
-    "location_launch_attempt_count_year": 15,
-    "pad_launch_attempt_count_year": 2,
-    "agency_launch_attempt_count_year": 1,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 12912,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding launch",
-        "info_url": "https://europeanspaceflight.com/latitude-commits-e8m-to-launch-facility-in-french-guiana/",
-        "created_by": "Nosu",
-        "created_on": "2025-11-16T18:33:00Z"
-      }
-    ],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P18722DT15H23M",
     "mission_patches": []
   }
 ]
