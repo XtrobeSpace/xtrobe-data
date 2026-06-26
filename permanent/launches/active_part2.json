@@ -4188,17 +4188,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -11662,17 +11662,17 @@
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
@@ -17002,14 +17002,14 @@
     "name": "Falcon 9 Block 5 | Starlink Group 17-45",
     "response_mode": "detailed",
     "slug": "falcon-9-block-5-starlink-group-17-45",
-    "launch_designator": null,
+    "launch_designator": "2026-146",
     "status": {
       "id": 3,
       "name": "Launch Successful",
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-06-25T04:50:21Z",
+    "last_updated": "2026-06-26T15:59:50Z",
     "net": "2026-06-25T03:30:38Z",
     "net_precision": {
       "id": 0,
@@ -18760,15 +18760,15 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-06-26T04:31:48Z",
-    "net": "2026-06-26T16:45:00Z",
+    "last_updated": "2026-06-26T17:15:50Z",
+    "net": "2026-06-26T17:43:00Z",
     "net_precision": {
       "id": 1,
       "name": "Minute",
       "abbrev": "MIN",
       "description": "The T-0 is accurate to the minute."
     },
-    "window_end": "2026-06-26T16:45:00Z",
+    "window_end": "2026-06-26T17:43:00Z",
     "window_start": "2026-06-26T16:45:00Z",
     "image": {
       "id": 1727,
@@ -19149,18 +19149,106 @@
       "vid_urls": []
     },
     "pad": {
-      "id": 210,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/210/",
+      "id": 185,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/185/",
       "active": true,
-      "agencies": [],
-      "name": "Unknown Pad",
-      "image": null,
-      "description": null,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 147,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
+          "name": "Rocket Lab",
+          "abbrev": "RL",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
+          "administrator": "CEO: Peter Beck",
+          "founding_year": 2006,
+          "launchers": "Electron",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 24,
+            "name": "[AUTO] Rocket Lab - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 176,
+            "name": "[AUTO] Rocket Lab - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 88,
+            "name": "[AUTO] Rocket Lab - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Rocket Lab Launch Complex 1B",
+      "image": {
+        "id": 1358,
+        "name": "Electron on LC-1B (CAPSTONE)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron25202_image_20231125062347.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192519.jpeg",
+        "credit": "Rocket Lab",
+        "license": {
+          "id": 7,
+          "name": "Rocket Lab Image Use Policy",
+          "priority": 3,
+          "link": "https://www.rocketlabusa.com/about/gallery/"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
       "info_url": null,
-      "wiki_url": null,
-      "map_url": null,
-      "latitude": -39.260881,
-      "longitude": 177.865826,
+      "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
+      "map_url": "https://www.google.com/maps?q=-39.262833,177.864469",
+      "latitude": -39.262833,
+      "longitude": 177.864469,
       "country": {
         "id": 51,
         "name": "New Zealand",
@@ -19169,10 +19257,10 @@
         "nationality_name": "Kiwi",
         "nationality_name_composed": "Kiwi"
       },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_210_20230819165718.jpg",
-      "total_launch_count": 0,
-      "orbital_launch_attempt_count": 0,
-      "fastest_turnaround": null,
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_185_20200803143540.jpg",
+      "total_launch_count": 36,
+      "orbital_launch_attempt_count": 36,
+      "fastest_turnaround": "P7DT3H27M",
       "location": {
         "response_mode": "normal",
         "id": 10,
@@ -19248,18 +19336,58 @@
         "total_landing_count": 17
       }
     },
-    "webcast_live": false,
+    "webcast_live": true,
     "program": [],
     "orbital_launch_attempt_count": 7325,
     "location_launch_attempt_count": 78,
-    "pad_launch_attempt_count": 1,
+    "pad_launch_attempt_count": 37,
     "agency_launch_attempt_count": 91,
     "orbital_launch_attempt_count_year": 152,
     "location_launch_attempt_count_year": 9,
-    "pad_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 3,
     "agency_launch_attempt_count_year": 12,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15381,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by Rocket Lab has started",
+        "info_url": "https://www.youtube.com/watch?v=mD-rTeRXx8o",
+        "created_by": "LL2",
+        "created_on": "2026-06-26T17:15:00Z"
+      },
+      {
+        "id": 15380,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "New T-0 17:43 UTC due to weather. This is the last opportunity for today.",
+        "info_url": "https://x.com/RocketLab/status/2070553298084712730",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-06-26T17:04:00Z"
+      },
+      {
+        "id": 15379,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "New T-0.",
+        "info_url": "https://x.com/RocketLab/status/2070544477786407187",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-26T16:28:00Z"
+      },
+      {
+        "id": 15378,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "New T-0 16:49 UTC",
+        "info_url": "https://x.com/i/status/2070534912898412822",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-06-26T15:51:00Z"
+      },
+      {
+        "id": 15377,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Updated launch pad.",
+        "info_url": "https://x.com/RocketLab/status/2070506506072752367",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-26T14:55:00Z"
+      },
       {
         "id": 15361,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -19338,13 +19466,13 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-06-26T16:20:00Z",
+        "start_time": "2026-06-26T17:15:36Z",
         "end_time": null,
-        "live": false
+        "live": true
       }
     ],
     "timeline": [],
-    "pad_turnaround": "P0D",
+    "pad_turnaround": "P35DT8H10M",
     "mission_patches": [
       {
         "id": 1328,
@@ -20988,7 +21116,192 @@
         "live": false
       }
     ],
-    "timeline": [],
+    "timeline": [
+      {
+        "type": {
+          "id": 1,
+          "abbrev": "GO for Prop Load",
+          "description": "Launch director verifies go for propellant load"
+        },
+        "relative_time": "-PT38M"
+      },
+      {
+        "type": {
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
+        },
+        "relative_time": "-PT35M"
+      },
+      {
+        "type": {
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
+        },
+        "relative_time": "-PT35M"
+      },
+      {
+        "type": {
+          "id": 4,
+          "abbrev": "Stage 2 LOX Load",
+          "description": "Start of liquid oxygen loading in the second stage"
+        },
+        "relative_time": "-PT16M"
+      },
+      {
+        "type": {
+          "id": 5,
+          "abbrev": "Engine Chill",
+          "description": "Start of engine chilling"
+        },
+        "relative_time": "-PT7M"
+      },
+      {
+        "type": {
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
+        },
+        "relative_time": "-PT1M"
+      },
+      {
+        "type": {
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
+        },
+        "relative_time": "-PT1M"
+      },
+      {
+        "type": {
+          "id": 8,
+          "abbrev": "GO for Launch",
+          "description": "Launch director verifies go for launch"
+        },
+        "relative_time": "-PT45S"
+      },
+      {
+        "type": {
+          "id": 9,
+          "abbrev": "Ignition",
+          "description": "Start of the engine ignition sequence"
+        },
+        "relative_time": "-PT3S"
+      },
+      {
+        "type": {
+          "id": 10,
+          "abbrev": "Liftoff",
+          "description": "First upwards movement of the rocket"
+        },
+        "relative_time": "P0D"
+      },
+      {
+        "type": {
+          "id": 11,
+          "abbrev": "Max-Q",
+          "description": "Maximum dynamic pressure"
+        },
+        "relative_time": "PT1M8S"
+      },
+      {
+        "type": {
+          "id": 12,
+          "abbrev": "MECO",
+          "description": "Cut-off of the main engine"
+        },
+        "relative_time": "PT2M26S"
+      },
+      {
+        "type": {
+          "id": 13,
+          "abbrev": "Stage 2 Separation",
+          "description": "Separation of the second stage from the first"
+        },
+        "relative_time": "PT2M29S"
+      },
+      {
+        "type": {
+          "id": 14,
+          "abbrev": "SES-1",
+          "description": "First start of the second engine"
+        },
+        "relative_time": "PT2M36S"
+      },
+      {
+        "type": {
+          "id": 15,
+          "abbrev": "Fairing Separation",
+          "description": "Separation of the payload fairing"
+        },
+        "relative_time": "PT2M57S"
+      },
+      {
+        "type": {
+          "id": 16,
+          "abbrev": "Entry Burn Startup",
+          "description": "Start of the atmospheric entry burn"
+        },
+        "relative_time": "PT5M59S"
+      },
+      {
+        "type": {
+          "id": 17,
+          "abbrev": "Entry Burn Shutdown",
+          "description": "End of the atmospheric entry burn"
+        },
+        "relative_time": "PT6M22S"
+      },
+      {
+        "type": {
+          "id": 18,
+          "abbrev": "Stage 1 Landing Burn",
+          "description": "Start of the first stage landing burn"
+        },
+        "relative_time": "PT7M55S"
+      },
+      {
+        "type": {
+          "id": 19,
+          "abbrev": "Stage 1 Landing",
+          "description": "Landing of the first stage"
+        },
+        "relative_time": "PT8M18S"
+      },
+      {
+        "type": {
+          "id": 20,
+          "abbrev": "SECO-1",
+          "description": "First cut-off of the second engine"
+        },
+        "relative_time": "PT8M40S"
+      },
+      {
+        "type": {
+          "id": 21,
+          "abbrev": "SES-2",
+          "description": "Second start of the second engine"
+        },
+        "relative_time": "PT52M39S"
+      },
+      {
+        "type": {
+          "id": 22,
+          "abbrev": "SECO-2",
+          "description": "Second cut-off of the second engine"
+        },
+        "relative_time": "PT52M40S"
+      },
+      {
+        "type": {
+          "id": 23,
+          "abbrev": "Starlink Deployment",
+          "description": "Deployment of the Starlink stack from the rocket"
+        },
+        "relative_time": "PT1H1M30S"
+      }
+    ],
     "pad_turnaround": "P3DT10H29M22S",
     "mission_patches": [
       {
