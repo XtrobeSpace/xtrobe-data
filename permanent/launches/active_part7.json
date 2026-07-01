@@ -5662,12 +5662,12 @@
     "webcast_live": false,
     "program": [],
     "orbital_launch_attempt_count": 7497,
-    "location_launch_attempt_count": 344,
-    "pad_launch_attempt_count": 10,
+    "location_launch_attempt_count": 343,
+    "pad_launch_attempt_count": 9,
     "agency_launch_attempt_count": 2,
     "orbital_launch_attempt_count_year": 324,
-    "location_launch_attempt_count_year": 14,
-    "pad_launch_attempt_count_year": 2,
+    "location_launch_attempt_count_year": 13,
+    "pad_launch_attempt_count_year": 1,
     "agency_launch_attempt_count_year": 1,
     "flightclub_url": null,
     "updates": [
@@ -17940,7 +17940,7 @@
       "abbrev": "TBD",
       "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
     },
-    "last_updated": "2025-11-16T18:33:05Z",
+    "last_updated": "2026-07-01T13:10:27Z",
     "net": "2026-12-31T00:00:00Z",
     "net_precision": {
       "id": 14,
@@ -18647,140 +18647,35 @@
       "vid_urls": []
     },
     "pad": {
-      "id": 125,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/125/",
-      "active": false,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 46,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/46/",
-          "name": "National Center of Space Research",
-          "abbrev": "CNES",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 1,
-              "name": "France",
-              "alpha_2_code": "FR",
-              "alpha_3_code": "FRA",
-              "nationality_name": "French",
-              "nationality_name_composed": "Franco"
-            }
-          ],
-          "description": "The National Center of Space Research, or CNES, is a French National Agency in charge of France's space program. In partnership with the US and Russia, they have put 10 people in space. CNES works in tandem with the larger ESA to develop the Ariane 5 and work on other probes and satellites. They are working with Germany to develop a cheaper and more efficient reusable rocket, which hopefully will be ready to fly by 2026.",
-          "administrator": "CEO: François Jacq",
-          "founding_year": 1961,
-          "launchers": "Ariane 5",
-          "spacecraft": "Mars/Venus Express | Rosetta",
-          "parent": null,
-          "image": {
-            "id": 2425,
-            "name": "CNES Toulouse entrance",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_toulouse_e_image_20250722090314.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_toulouse_e_image_thumbnail_20250722090314.jpeg",
-            "credit": "CNES",
-            "license": {
-              "id": 26,
-              "name": "CNES Image Use Policy",
-              "priority": 2,
-              "link": "https://phototheque.cnes.fr/cnes/info2.do"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 2426,
-            "name": "CNES logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_logo_image_20250722090832.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_logo_image_thumbnail_20250722090832.png",
-            "credit": "CNES",
-            "license": {
-              "id": 26,
-              "name": "CNES Image Use Policy",
-              "priority": 2,
-              "link": "https://phototheque.cnes.fr/cnes/info2.do"
-            },
-            "single_use": true,
-            "variants": [
-              {
-                "id": 17,
-                "type": {
-                  "id": 1,
-                  "name": "transparent for light background"
-                },
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/logo_cnes_2017__image_20250722090832.png"
-              },
-              {
-                "id": 18,
-                "type": {
-                  "id": 2,
-                  "name": "transparent for dark background"
-                },
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/logo_cnes_2017__image_20250722090832.png"
-              }
-            ]
-          },
-          "social_logo": {
-            "id": 2427,
-            "name": "CNES social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_social_log_image_20250722090952.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cnes_social_log_image_thumbnail_20250722090953.jpeg",
-            "credit": "CNES",
-            "license": {
-              "id": 26,
-              "name": "CNES Image Use Policy",
-              "priority": 2,
-              "link": "https://phototheque.cnes.fr/cnes/info2.do"
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Diamant Launch Area",
-      "image": {
-        "id": 2477,
-        "name": "ELM Diamant render",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/elm_diamant_ren_image_20250916111400.webp",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/elm_diamant_ren_image_thumbnail_20250916111400.jpeg",
-        "credit": "CNES/L'Œil du Chat",
-        "license": {
-          "id": 26,
-          "name": "CNES Image Use Policy",
-          "priority": 2,
-          "link": "https://phototheque.cnes.fr/cnes/info2.do"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "description": "",
-      "info_url": null,
-      "wiki_url": null,
-      "map_url": "https://www.google.com/maps?q=5.2222222,-52.7758051",
-      "latitude": 5.2222222,
-      "longitude": -52.7758051,
+      "id": 254,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/254/",
+      "active": true,
+      "agencies": [],
+      "name": "Launch Complex 3",
+      "image": null,
+      "description": "Pad for microlaunchers and suborbital vehicles",
+      "info_url": "https://etlaq.om/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Etlaq_Spaceport",
+      "map_url": "https://www.google.com/maps?q=18.7862,56.822",
+      "latitude": 18.7862,
+      "longitude": 56.822,
       "country": {
-        "id": 50,
-        "name": "French Guiana",
-        "alpha_2_code": "GF",
-        "alpha_3_code": "GUF",
-        "nationality_name": "French Guianan",
-        "nationality_name_composed": "Franco-Guiano"
+        "id": 103,
+        "name": "Oman",
+        "alpha_2_code": "OM",
+        "alpha_3_code": "OMN",
+        "nationality_name": "Omani",
+        "nationality_name_composed": "Omani"
       },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_125_20200803143236.jpg",
-      "total_launch_count": 8,
-      "orbital_launch_attempt_count": 8,
-      "fastest_turnaround": "P99DT17H57M",
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_launch_complex_3_20260701130900.jpg",
+      "total_launch_count": 0,
+      "orbital_launch_attempt_count": 0,
+      "fastest_turnaround": null,
       "location": {
         "response_mode": "normal",
-        "id": 13,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/13/",
-        "name": "Guiana Space Centre, French Guiana",
+        "id": 186,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/186/",
+        "name": "Etlaq Spaceport",
         "celestial_body": {
           "response_mode": "normal",
           "id": 1,
@@ -18820,46 +18715,32 @@
         },
         "active": true,
         "country": {
-          "id": 50,
-          "name": "French Guiana",
-          "alpha_2_code": "GF",
-          "alpha_3_code": "GUF",
-          "nationality_name": "French Guianan",
-          "nationality_name_composed": "Franco-Guiano"
+          "id": 103,
+          "name": "Oman",
+          "alpha_2_code": "OM",
+          "alpha_3_code": "OMN",
+          "nationality_name": "Omani",
+          "nationality_name_composed": "Omani"
         },
-        "description": "The Guiana Space Centre is a European spaceport to the northwest of Kourou in French Guiana, a region of France in South America. Kourou is located at a latitude of 5°. In operation since 1968, it is a suitable location for a spaceport because of its equatorial location and open sea to the east.",
-        "image": {
-          "id": 2203,
-          "name": "Vega & Ariane 5 pads at the Guiana Space Centre",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_20240918154413.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_thumbnail_20240918154414.jpeg",
-          "credit": "ESA/S. Corvaja",
-          "license": {
-            "id": 2,
-            "name": "ESA Standard Licence",
-            "priority": 2,
-            "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_13_20200803142412.jpg",
-        "longitude": -52.6903,
-        "latitude": 5.169,
-        "timezone_name": "America/Cayenne",
-        "total_launch_count": 334,
+        "description": "Etlaq Spaceport is a commercial spaceport located near the Special Economic Zone of Duqm, Oman.",
+        "image": null,
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_186_20260701130942.jpg",
+        "longitude": 56.822,
+        "latitude": 18.7862,
+        "timezone_name": "Asia/Muscat",
+        "total_launch_count": 0,
         "total_landing_count": 0
       }
     },
     "webcast_live": false,
     "program": [],
     "orbital_launch_attempt_count": 7497,
-    "location_launch_attempt_count": 344,
-    "pad_launch_attempt_count": 10,
+    "location_launch_attempt_count": 1,
+    "pad_launch_attempt_count": 1,
     "agency_launch_attempt_count": 1,
     "orbital_launch_attempt_count_year": 324,
-    "location_launch_attempt_count_year": 14,
-    "pad_launch_attempt_count_year": 2,
+    "location_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 1,
     "agency_launch_attempt_count_year": 1,
     "flightclub_url": null,
     "updates": [
@@ -18875,7 +18756,7 @@
     "info_urls": [],
     "vid_urls": [],
     "timeline": [],
-    "pad_turnaround": "P18722DT15H23M",
+    "pad_turnaround": "P0D",
     "mission_patches": []
   },
   {
