@@ -1,546 +1,5 @@
 [
   {
-    "id": "8bd239c0-2ca4-4e43-8dd8-b9a299e6fb0f",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/8bd239c0-2ca4-4e43-8dd8-b9a299e6fb0f/",
-    "name": "Neutron | NZSA Venus Mission",
-    "response_mode": "detailed",
-    "slug": "neutron-nzsa-venus-mission",
-    "launch_designator": null,
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD",
-      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-    },
-    "last_updated": "2026-02-26T21:44:08Z",
-    "net": "2027-12-31T00:00:00Z",
-    "net_precision": {
-      "id": 14,
-      "name": "Year",
-      "abbrev": "Y",
-      "description": "The T-0 is expected in the given year."
-    },
-    "window_end": "2027-12-31T00:00:00Z",
-    "window_start": "2027-12-31T00:00:00Z",
-    "image": {
-      "id": 1793,
-      "name": "[AUTO] Neutron - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/neutron_image_20230727171443.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193800.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 147,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
-      "name": "Rocket Lab",
-      "abbrev": "RL",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-      "administrator": "CEO: Peter Beck",
-      "founding_year": 2006,
-      "launchers": "Electron",
-      "spacecraft": "",
-      "parent": null,
-      "image": {
-        "id": 24,
-        "name": "[AUTO] Rocket Lab - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 176,
-        "name": "[AUTO] Rocket Lab - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 88,
-        "name": "[AUTO] Rocket Lab - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 91,
-      "consecutive_successful_launches": 50,
-      "successful_launches": 87,
-      "failed_launches": 4,
-      "pending_launches": 43,
-      "consecutive_successful_landings": 4,
-      "successful_landings": 7,
-      "failed_landings": 2,
-      "attempted_landings": 9,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://rocketlabcorp.com",
-      "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab",
-      "social_media_links": []
-    },
-    "rocket": {
-      "id": 8056,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 476,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/476/",
-        "name": "Neutron",
-        "families": [],
-        "full_name": "Neutron",
-        "variant": "",
-        "active": false,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 147,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
-          "name": "Rocket Lab",
-          "abbrev": "RL",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-          "administrator": "CEO: Peter Beck",
-          "founding_year": 2006,
-          "launchers": "Electron",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 24,
-            "name": "[AUTO] Rocket Lab - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 176,
-            "name": "[AUTO] Rocket Lab - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 88,
-            "name": "[AUTO] Rocket Lab - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 91,
-          "consecutive_successful_launches": 50,
-          "successful_launches": 87,
-          "failed_launches": 4,
-          "pending_launches": 43,
-          "consecutive_successful_landings": 4,
-          "successful_landings": 7,
-          "failed_landings": 2,
-          "attempted_landings": 9,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://rocketlabcorp.com",
-          "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab",
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": true,
-        "image": {
-          "id": 1793,
-          "name": "[AUTO] Neutron - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/neutron_image_20230727171443.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193800.jpeg",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": "https://www.rocketlabusa.com/launch/neutron/",
-        "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Neutron",
-        "description": "Neutron is an upcoming medium-lift two-stage launch vehicle under development by Rocket Lab. Neutron features a reusable first stage fueled by LOX and Methane.",
-        "alias": "",
-        "min_stage": 2,
-        "max_stage": 2,
-        "length": 40.0,
-        "diameter": 7.0,
-        "maiden_flight": null,
-        "launch_cost": null,
-        "launch_mass": 480.0,
-        "leo_capacity": 15000.0,
-        "gto_capacity": null,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": 5960.0,
-        "apogee": null,
-        "total_launch_count": 0,
-        "consecutive_successful_launches": 0,
-        "successful_launches": 0,
-        "failed_launches": 0,
-        "pending_launches": 2,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": null
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 6609,
-      "name": "NZSA Venus Mission",
-      "type": "Planetary Science",
-      "description": "NZSA Venus Mission is a small direct Venus entry probe with a single 1 kg low-mass, low-cost autofluorescing nephelometer riding on a satellite bus based on the Photon Upper stage of the Electron rocket.\r\n\r\nThe probe mission will spend approximately 5 minutes in the Venus cloud layers, 48-60 km above the surface, collecting in situ measurements to search for organic molecules in cloud particles and constrain particle composition.",
-      "image": null,
-      "orbit": {
-        "id": 6,
-        "name": "Heliocentric N/A",
-        "abbrev": "Helio-N/A",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 234,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/234/",
-      "active": true,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 147,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
-          "name": "Rocket Lab",
-          "abbrev": "RL",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-          "administrator": "CEO: Peter Beck",
-          "founding_year": 2006,
-          "launchers": "Electron",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 24,
-            "name": "[AUTO] Rocket Lab - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 176,
-            "name": "[AUTO] Rocket Lab - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 88,
-            "name": "[AUTO] Rocket Lab - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Rocket Lab Launch Complex 3 (Launch Area 0 D)",
-      "image": null,
-      "description": "",
-      "info_url": null,
-      "wiki_url": null,
-      "map_url": "https://www.google.com/maps?q=37.8321693,-75.4899046",
-      "latitude": 37.8321693,
-      "longitude": -75.4899046,
-      "country": {
-        "id": 2,
-        "name": "United States of America",
-        "alpha_2_code": "US",
-        "alpha_3_code": "USA",
-        "nationality_name": "American",
-        "nationality_name_composed": "Americano"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_rocket_lab_launch_complex_3_2528launch_area_0_d2529_20241115175136.jpg",
-      "total_launch_count": 0,
-      "orbital_launch_attempt_count": 0,
-      "fastest_turnaround": null,
-      "location": {
-        "response_mode": "normal",
-        "id": 21,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/21/",
-        "name": "Wallops Flight Facility, Virginia, USA",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7551,
-          "successful_launches": 6994,
-          "failed_launches": 557,
-          "total_attempted_landings": 1332,
-          "successful_landings": 1284,
-          "failed_landings": 48
-        },
-        "active": true,
-        "country": {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        },
-        "description": "Wallops Flight Facility is a rocket launch site on Wallops Island on the Eastern Shore of Virginia, United States, just east of the Delmarva Peninsula and north-northeast of Norfolk. The facility is operated by the Goddard Space Flight Center in Greenbelt, Maryland, and primarily serves to support science and exploration missions for NASA and other federal agencies. WFF includes an extensively instrumented range to support launches of more than a dozen types of sounding rockets; small expendable suborbital and orbital rockets; high-altitude balloon flights carrying scientific instruments for atmospheric and astronomical research; and, using its Research Airport, flight tests of aeronautical research aircraft, including uncrewed aerial vehicles.",
-        "image": {
-          "id": 2227,
-          "name": "Wallops Flight Facility",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/wallops_flight__image_20240920083715.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/wallops_flight__image_thumbnail_20240920083715.jpeg",
-          "credit": "NASA",
-          "license": {
-            "id": 4,
-            "name": "NASA Image and Media Guidelines",
-            "priority": 0,
-            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_21_20200803142423.jpg",
-        "longitude": -75.467778,
-        "latitude": 37.933333,
-        "timezone_name": "America/New_York",
-        "total_launch_count": 87,
-        "total_landing_count": 0
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7592,
-    "location_launch_attempt_count": 94,
-    "pad_launch_attempt_count": 2,
-    "agency_launch_attempt_count": 119,
-    "orbital_launch_attempt_count_year": 95,
-    "location_launch_attempt_count_year": 2,
-    "pad_launch_attempt_count_year": 1,
-    "agency_launch_attempt_count_year": 8,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 9214,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Switch in launch vehicle planned.",
-        "info_url": "https://www.youtube.com/watch?v=MO9y8HsEgKk",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2024-11-15T18:02:00Z"
-      },
-      {
-        "id": 9211,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET 2026.",
-        "info_url": "https://x.com/scotto2050/status/1857220373907165463",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2024-11-15T15:52:00Z"
-      },
-      {
-        "id": 5546,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Added launch.",
-        "info_url": "https://twitter.com/SpcPlcyOnline/status/1719106829349704017",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2023-10-31T02:14:44Z"
-      }
-    ],
-    "info_urls": [
-      {
-        "priority": 10,
-        "source": "arxiv.org",
-        "title": "Rocket Lab Mission to Venus",
-        "description": "",
-        "feature_image": null,
-        "url": "https://arxiv.org/abs/2208.07724",
-        "type": {
-          "id": 1,
-          "name": "Official Page"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        }
-      }
-    ],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P365D",
-    "mission_patches": []
-  },
-  {
     "id": "8f8bfb94-b9b6-4bbf-a513-2d052c70908b",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/8f8bfb94-b9b6-4bbf-a513-2d052c70908b/",
     "name": "Electron | StriX Launch 15",
@@ -11463,8 +10922,8 @@
         "variants": []
       },
       "total_launch_count": 175,
-      "consecutive_successful_launches": 174,
-      "successful_launches": 174,
+      "consecutive_successful_launches": 175,
+      "successful_launches": 175,
       "failed_launches": 0,
       "pending_launches": 36,
       "consecutive_successful_landings": 0,
@@ -11616,8 +11075,8 @@
                   "variants": []
                 },
                 "total_launch_count": 175,
-                "consecutive_successful_launches": 174,
-                "successful_launches": 174,
+                "consecutive_successful_launches": 175,
+                "successful_launches": 175,
                 "failed_launches": 0,
                 "pending_launches": 36,
                 "consecutive_successful_landings": 0,
@@ -11776,8 +11235,8 @@
                   "variants": []
                 },
                 "total_launch_count": 175,
-                "consecutive_successful_launches": 174,
-                "successful_launches": 174,
+                "consecutive_successful_launches": 175,
+                "successful_launches": 175,
                 "failed_launches": 0,
                 "pending_launches": 36,
                 "consecutive_successful_landings": 0,
@@ -11998,8 +11457,8 @@
             "variants": []
           },
           "total_launch_count": 175,
-          "consecutive_successful_launches": 174,
-          "successful_launches": 174,
+          "consecutive_successful_launches": 175,
+          "successful_launches": 175,
           "failed_launches": 0,
           "pending_launches": 36,
           "consecutive_successful_landings": 0,
@@ -12356,10 +11815,10 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7592,
-    "location_launch_attempt_count": 1210,
-    "pad_launch_attempt_count": 146,
-    "agency_launch_attempt_count": 203,
+    "orbital_launch_attempt_count": 7591,
+    "location_launch_attempt_count": 1209,
+    "pad_launch_attempt_count": 145,
+    "agency_launch_attempt_count": 202,
     "orbital_launch_attempt_count_year": 95,
     "location_launch_attempt_count_year": 39,
     "pad_launch_attempt_count_year": 5,
@@ -22537,6 +21996,513 @@
     "vid_urls": [],
     "timeline": [],
     "pad_turnaround": "P275D",
+    "mission_patches": []
+  },
+  {
+    "id": "f8f0f404-f149-4c1a-89ba-0022d19f4b9e",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/f8f0f404-f149-4c1a-89ba-0022d19f4b9e/",
+    "name": "SpaceShipTwo | Purdue 1",
+    "response_mode": "detailed",
+    "slug": "spaceshiptwo-purdue-1",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2025-09-29T09:37:44Z",
+    "net": "2027-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 14,
+      "name": "Year",
+      "abbrev": "Y",
+      "description": "The T-0 is expected in the given year."
+    },
+    "window_end": "2027-12-31T00:00:00Z",
+    "window_start": "2027-12-31T00:00:00Z",
+    "image": {
+      "id": 1839,
+      "name": "[AUTO] SpaceShipTwo - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193914.jpeg",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 1024,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1024/",
+      "name": "Virgin Galactic",
+      "abbrev": "VG",
+      "type": {
+        "id": 5,
+        "name": "Private"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "Virgin Galactic is an American spaceflight company within the Virgin Group. It is developing commercial spacecraft and aims to provide suborbital spaceflights to space tourists. Virgin Galactic's suborbital spacecraft are air launched from beneath a carrier airplane known as White Knight Two.",
+      "administrator": "Founder: Richard Branson",
+      "founding_year": 2004,
+      "launchers": "VMS Eve",
+      "spacecraft": "VSS Enterprise | VSS Unity",
+      "parent": null,
+      "image": {
+        "id": 32,
+        "name": "[AUTO] Virgin Galactic - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin_galactic_image_20210522131723.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184711.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 196,
+        "name": "[AUTO] Virgin Galactic - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin2520galactic_logo_20230509082346.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185159.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 101,
+        "name": "[AUTO] Virgin Galactic - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin2520galactic_nation_20230617045127.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184858.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 67,
+      "consecutive_successful_launches": 11,
+      "successful_launches": 62,
+      "failed_launches": 5,
+      "pending_launches": 1,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 66,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 66,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.virgingalactic.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Virgin_Galactic",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 8731,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 465,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/465/",
+        "name": "SpaceShipTwo",
+        "families": [],
+        "full_name": "SpaceShipTwo",
+        "variant": "",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 1024,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1024/",
+          "name": "Virgin Galactic",
+          "abbrev": "VG",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Virgin Galactic is an American spaceflight company within the Virgin Group. It is developing commercial spacecraft and aims to provide suborbital spaceflights to space tourists. Virgin Galactic's suborbital spacecraft are air launched from beneath a carrier airplane known as White Knight Two.",
+          "administrator": "Founder: Richard Branson",
+          "founding_year": 2004,
+          "launchers": "VMS Eve",
+          "spacecraft": "VSS Enterprise | VSS Unity",
+          "parent": null,
+          "image": {
+            "id": 32,
+            "name": "[AUTO] Virgin Galactic - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin_galactic_image_20210522131723.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184711.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 196,
+            "name": "[AUTO] Virgin Galactic - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin2520galactic_logo_20230509082346.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185159.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 101,
+            "name": "[AUTO] Virgin Galactic - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin2520galactic_nation_20230617045127.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184858.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 67,
+          "consecutive_successful_launches": 11,
+          "successful_launches": 62,
+          "failed_launches": 5,
+          "pending_launches": 1,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 66,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 66,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.virgingalactic.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Virgin_Galactic",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": true,
+        "image": {
+          "id": 1839,
+          "name": "[AUTO] SpaceShipTwo - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spaceshiptwo_image_20210522140909.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193914.jpeg",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/SpaceShipTwo",
+        "description": "The Scaled Composites Model 339 SpaceShipTwo (SS2) is an air-launched suborbital spaceplane type designed for space tourism. It is manufactured by The Spaceship Company, a California-based company owned by Virgin Galactic.",
+        "alias": "",
+        "min_stage": 1,
+        "max_stage": 1,
+        "length": 18.0,
+        "diameter": 8.2,
+        "maiden_flight": "2010-10-10",
+        "launch_cost": null,
+        "launch_mass": 9.0,
+        "leo_capacity": 0.0,
+        "gto_capacity": 0.0,
+        "geo_capacity": 0.0,
+        "sso_capacity": 0.0,
+        "to_thrust": 310.0,
+        "apogee": 110.0,
+        "total_launch_count": 67,
+        "consecutive_successful_launches": 11,
+        "successful_launches": 62,
+        "failed_launches": 5,
+        "pending_launches": 1,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": "P1D"
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7322,
+      "name": "Purdue 1",
+      "type": "Materials Science",
+      "description": "Suborbital research flight for Purdue University carrying a professor, student and three alumni.",
+      "image": null,
+      "orbit": {
+        "id": 15,
+        "name": "Suborbital",
+        "abbrev": "Sub",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 191,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/191/",
+      "active": true,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 1024,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1024/",
+          "name": "Virgin Galactic",
+          "abbrev": "VG",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Virgin Galactic is an American spaceflight company within the Virgin Group. It is developing commercial spacecraft and aims to provide suborbital spaceflights to space tourists. Virgin Galactic's suborbital spacecraft are air launched from beneath a carrier airplane known as White Knight Two.",
+          "administrator": "Founder: Richard Branson",
+          "founding_year": 2004,
+          "launchers": "VMS Eve",
+          "spacecraft": "VSS Enterprise | VSS Unity",
+          "parent": null,
+          "image": {
+            "id": 32,
+            "name": "[AUTO] Virgin Galactic - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin_galactic_image_20210522131723.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184711.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 196,
+            "name": "[AUTO] Virgin Galactic - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin2520galactic_logo_20230509082346.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185159.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 101,
+            "name": "[AUTO] Virgin Galactic - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin2520galactic_nation_20230617045127.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184858.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Spaceport America",
+      "image": null,
+      "description": null,
+      "info_url": "https://www.spaceportamerica.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Spaceport_America",
+      "map_url": "https://www.google.com/maps?q=32.9902778,-106.9719162",
+      "latitude": 32.9902778,
+      "longitude": -106.9719162,
+      "country": {
+        "id": 2,
+        "name": "United States of America",
+        "alpha_2_code": "US",
+        "alpha_3_code": "USA",
+        "nationality_name": "American",
+        "nationality_name_composed": "Americano"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_spaceport_america_20210522162030.jpg",
+      "total_launch_count": 14,
+      "orbital_launch_attempt_count": 0,
+      "fastest_turnaround": "P26DT23H33M30S",
+      "location": {
+        "response_mode": "normal",
+        "id": 144,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/144/",
+        "name": "Air launch to Suborbital flight",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7551,
+          "successful_launches": 6994,
+          "failed_launches": 557,
+          "total_attempted_landings": 1332,
+          "successful_landings": 1284,
+          "failed_landings": 48
+        },
+        "active": true,
+        "country": {
+          "id": 17,
+          "name": "Unknown",
+          "alpha_2_code": "??",
+          "alpha_3_code": "???",
+          "nationality_name": "Earthling",
+          "nationality_name_composed": "Earthling"
+        },
+        "description": "",
+        "image": {
+          "id": 32,
+          "name": "[AUTO] Virgin Galactic - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/virgin_galactic_image_20210522131723.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184711.jpeg",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_144_20200803142439.jpg",
+        "longitude": null,
+        "latitude": null,
+        "timezone_name": "",
+        "total_launch_count": 86,
+        "total_landing_count": 0
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": null,
+    "location_launch_attempt_count": 87,
+    "pad_launch_attempt_count": 15,
+    "agency_launch_attempt_count": 68,
+    "orbital_launch_attempt_count_year": null,
+    "location_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 1,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 12408,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding flight",
+        "info_url": "https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/",
+        "created_by": "Nosu",
+        "created_on": "2025-09-29T09:37:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P1300DT8H34M",
     "mission_patches": []
   }
 ]
