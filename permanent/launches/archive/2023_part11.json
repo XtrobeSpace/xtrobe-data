@@ -16839,28 +16839,135 @@
   {
     "id": "ec053d2b-acfc-4cf8-ba16-874bd8533651",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/ec053d2b-acfc-4cf8-ba16-874bd8533651/",
-    "slug": "south-korean-add-solid-fuel-slv-3-stage-s-step",
-    "name": "South Korean ADD Solid-Fuel SLV (3 stage) | S-STEP",
+    "name": "Mir (3 stage) | S-STEP",
+    "response_mode": "detailed",
+    "slug": "mir-3-stage-s-step",
+    "launch_designator": "2023-188",
     "status": {
       "id": 3,
       "name": "Launch Successful",
-      "abbrev": "Success"
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
+    "last_updated": "2026-07-03T13:38:48Z",
     "net": "2023-12-04T05:00:00Z",
-    "window_start": "2023-12-04T05:00:00Z",
+    "net_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
     "window_end": "2023-12-04T05:00:00Z",
+    "window_start": "2023-12-04T05:00:00Z",
+    "image": {
+      "id": 1338,
+      "name": "South Korean ADD Solid-Fuel SLV (3 stage) liftoff (S-STEP)",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
+      "credit": "Yonhap",
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 1079,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1079/",
+      "name": "Agency for Defense Development",
+      "abbrev": "ADD",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 35,
+          "name": "South Korea",
+          "alpha_2_code": "KR",
+          "alpha_3_code": "KOR",
+          "nationality_name": "South Korean",
+          "nationality_name_composed": "South Korean"
+        }
+      ],
+      "description": "The Agency for Defense Development (ADD) is the South Korean national agency for research and development in defense technology, funded by the Defense Acquisition Program Administration (DAPA). Its purpose is contributing to enforcing the national defence, to improving the national R&D capacity, and to fostering the domestic defense industry.",
+      "administrator": null,
+      "founding_year": 1970,
+      "launchers": "South Korean ADD Solid-Fuel SLV",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 105,
+        "name": "[AUTO] Agency for Defense Development - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_logo_20231204144839.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184905.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 36,
+        "name": "[AUTO] Agency for Defense Development - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_nation_20231204144840.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184722.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 1,
+      "consecutive_successful_launches": 1,
+      "successful_launches": 1,
+      "failed_launches": 0,
+      "pending_launches": 1,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.add.re.kr/eps",
+      "wiki_url": "https://en.wikipedia.org/wiki/Agency_for_Defense_Development",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 8142,
       "configuration": {
         "response_mode": "detailed",
         "id": 501,
         "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/501/",
-        "name": "South Korean ADD Solid-Fuel SLV (3 stage)",
+        "name": "Mir (3 stage)",
         "families": [
           {
             "response_mode": "detailed",
             "id": 146,
-            "name": "South Korean ADD Solid-Fuel SLV",
+            "name": "Mir",
             "manufacturer": [
               {
                 "response_mode": "normal",
@@ -16924,7 +17031,7 @@
                 "consecutive_successful_launches": 1,
                 "successful_launches": 1,
                 "failed_launches": 0,
-                "pending_launches": 0,
+                "pending_launches": 1,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 0,
@@ -16948,16 +17055,16 @@
             "consecutive_successful_launches": 1,
             "successful_launches": 1,
             "failed_launches": 0,
-            "pending_launches": 0,
+            "pending_launches": 1,
             "attempted_landings": 0,
             "successful_landings": 0,
             "failed_landings": 0,
             "consecutive_successful_landings": 0
           }
         ],
-        "full_name": "South Korean ADD Solid-Fuel SLV (3 stage)",
+        "full_name": "Mir (3 stage)",
         "variant": "",
-        "active": true,
+        "active": false,
         "is_placeholder": false,
         "manufacturer": {
           "response_mode": "normal",
@@ -17021,7 +17128,7 @@
           "consecutive_successful_launches": 1,
           "successful_launches": 1,
           "failed_launches": 0,
-          "pending_launches": 0,
+          "pending_launches": 1,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 0,
@@ -17040,9 +17147,9 @@
         "reusable": false,
         "image": null,
         "info_url": null,
-        "wiki_url": null,
-        "description": "",
-        "alias": "",
+        "wiki_url": "https://en.wikipedia.org/wiki/Solid-fuel_space_launch_vehicle",
+        "description": "Mir (Korean for a kind of dragon, and previously only known as \"Solid-fuel space launch vehicle\") is a South Korean military developed small satellite launch vehicle for \"quick response\" usage. First orbital test launch in December 2023 omits the 2nd stage but still carries satellite into orbit.",
+        "alias": "South Korean ADD Solid-Fuel SLV (3 stage)",
         "min_stage": 3,
         "max_stage": 3,
         "length": null,
@@ -17165,12 +17272,12 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7553,
+          "successful_launches": 6997,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
-          "failed_landings": 47
+          "total_attempted_landings": 1333,
+          "successful_landings": 1285,
+          "failed_landings": 48
         },
         "active": true,
         "country": {
@@ -17205,104 +17312,54 @@
         "total_landing_count": 0
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 1079,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1079/",
-      "name": "Agency for Defense Development",
-      "abbrev": "ADD",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 35,
-          "name": "South Korea",
-          "alpha_2_code": "KR",
-          "alpha_3_code": "KOR",
-          "nationality_name": "South Korean",
-          "nationality_name_composed": "South Korean"
-        }
-      ],
-      "description": "The Agency for Defense Development (ADD) is the South Korean national agency for research and development in defense technology, funded by the Defense Acquisition Program Administration (DAPA). Its purpose is contributing to enforcing the national defence, to improving the national R&D capacity, and to fostering the domestic defense industry.",
-      "administrator": null,
-      "founding_year": 1970,
-      "launchers": "South Korean ADD Solid-Fuel SLV",
-      "spacecraft": "",
-      "parent": null,
-      "image": null,
-      "logo": {
-        "id": 105,
-        "name": "[AUTO] Agency for Defense Development - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_logo_20231204144839.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184905.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 36,
-        "name": "[AUTO] Agency for Defense Development - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_nation_20231204144840.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184722.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 1,
-      "consecutive_successful_launches": 1,
-      "successful_launches": 1,
-      "failed_launches": 0,
-      "pending_launches": 0,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.add.re.kr/eps",
-      "wiki_url": "https://en.wikipedia.org/wiki/Agency_for_Defense_Development",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 1338,
-      "name": "South Korean ADD Solid-Fuel SLV (3 stage) liftoff (S-STEP)",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
-      "credit": "Yonhap",
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": false,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2024-03-05T17:57:31Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 6565,
+    "location_launch_attempt_count": 40,
+    "pad_launch_attempt_count": 1,
+    "agency_launch_attempt_count": 1,
+    "orbital_launch_attempt_count_year": 197,
+    "location_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 1,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 5864,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Launch success.",
+        "info_url": "https://en.yna.co.kr/view/AEN20231204002651315?section=nk/nk",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2023-12-04T14:26:40Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "유용원TV",
+        "title": "우주 공간에서 발사체와 분리되는 국산 소형 SAR 위성! 국내 최초 순수 우리기술로 개발한 지구 관측 위성이 자체 발사와 교신 모두 성공!",
+        "description": "오늘 14시 정각에 발사한 한화시스템의 소형 SAR위성이 목표한 우주궤도에 안착 후 15시 45분 40초에 첫 교신에 성공하고,  방금전인 17시 38분 01초에 용인연구소 지상관제센터와 쌍방교신에 성공했습니다. 이로써 국내 최초 순수 우리기술로 개발한 민간 주도의 상용 지구관측 ...",
+        "feature_image": "https://i.ytimg.com/vi/FL3Pm1_wzhc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FL3Pm1_wzhc",
+        "type": {
+          "id": 6,
+          "name": "Recap"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2023-12-04T09:04:55Z",
+        "end_time": "2023-12-04T09:06:52Z",
+        "live": false
+      }
+    ],
+    "timeline": [],
+    "pad_turnaround": "P0D",
+    "mission_patches": []
   },
   {
     "id": "85a274e3-f171-4f6b-9469-3bd8ab9f2fe6",
