@@ -6847,16 +6847,16 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-07-02T00:37:44Z",
-    "net": "2026-07-14T14:47:00Z",
+    "last_updated": "2026-07-07T13:57:37Z",
+    "net": "2026-07-14T14:47:50Z",
     "net_precision": {
       "id": 0,
       "name": "Second",
       "abbrev": "SEC",
       "description": "The T-0 is accurate to the second."
     },
-    "window_end": "2026-07-14T14:47:00Z",
-    "window_start": "2026-07-14T14:47:00Z",
+    "window_end": "2026-07-14T14:47:50Z",
+    "window_start": "2026-07-14T14:47:50Z",
     "image": {
       "id": 1828,
       "name": "[AUTO] Soyuz 2.1a - image",
@@ -8387,61 +8387,6 @@
     "program": [
       {
         "response_mode": "normal",
-        "id": 8,
-        "url": "https://ll.thespacedevs.com/2.3.0/programs/8/",
-        "name": "Soyuz",
-        "image": {
-          "id": 1892,
-          "name": "[AUTO] Soyuz - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_program_20201129185543.png",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194048.png",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": null,
-        "wiki_url": "https://en.wikipedia.org/wiki/Soyuz_programme",
-        "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
-        "agencies": [
-          {
-            "response_mode": "list",
-            "id": 63,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/63/",
-            "name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "abbrev": "RFSA",
-            "type": {
-              "id": 1,
-              "name": "Government"
-            }
-          },
-          {
-            "response_mode": "list",
-            "id": 66,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
-            "name": "Soviet Space Program",
-            "abbrev": "CCCP",
-            "type": {
-              "id": 1,
-              "name": "Government"
-            }
-          }
-        ],
-        "start_date": "1966-11-28T11:02:00Z",
-        "end_date": null,
-        "mission_patches": [],
-        "type": {
-          "id": 2,
-          "name": "Human Spaceflight"
-        }
-      },
-      {
-        "response_mode": "normal",
         "id": 17,
         "url": "https://ll.thespacedevs.com/2.3.0/programs/17/",
         "name": "International Space Station",
@@ -8527,6 +8472,61 @@
           "id": 2,
           "name": "Human Spaceflight"
         }
+      },
+      {
+        "response_mode": "normal",
+        "id": 8,
+        "url": "https://ll.thespacedevs.com/2.3.0/programs/8/",
+        "name": "Soyuz",
+        "image": {
+          "id": 1892,
+          "name": "[AUTO] Soyuz - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_program_20201129185543.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194048.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Soyuz_programme",
+        "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
+        "agencies": [
+          {
+            "response_mode": "list",
+            "id": 63,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/63/",
+            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "abbrev": "RFSA",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            }
+          },
+          {
+            "response_mode": "list",
+            "id": 66,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
+            "name": "Soviet Space Program",
+            "abbrev": "CCCP",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            }
+          }
+        ],
+        "start_date": "1966-11-28T11:02:00Z",
+        "end_date": null,
+        "mission_patches": [],
+        "type": {
+          "id": 2,
+          "name": "Human Spaceflight"
+        }
       }
     ],
     "orbital_launch_attempt_count": 7343,
@@ -8539,6 +8539,14 @@
     "agency_launch_attempt_count_year": 4,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15501,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Refined T-0.",
+        "info_url": "https://nasa-public-data.s3.amazonaws.com/iss-coords/current/ISS_OEM/ISS.OEM_J2K_EPH.txt",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-07T13:57:00Z"
+      },
       {
         "id": 15456,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -8567,7 +8575,7 @@
     "info_urls": [],
     "vid_urls": [],
     "timeline": [],
-    "pad_turnaround": "P79DT16H25M13S",
+    "pad_turnaround": "P79DT16H26M3S",
     "mission_patches": []
   },
   {
