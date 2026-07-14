@@ -17937,6 +17937,72 @@
         "program": [
           {
             "response_mode": "normal",
+            "id": 5,
+            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
+            "name": "Commercial Crew Program",
+            "image": {
+              "id": 1869,
+              "name": "Commercial Crew Program logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
+            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
+            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
+            "agencies": [
+              {
+                "response_mode": "list",
+                "id": 80,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                "name": "Boeing",
+                "abbrev": "BA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 44,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                "name": "National Aeronautics and Space Administration",
+                "abbrev": "NASA",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 121,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+                "name": "SpaceX",
+                "abbrev": "SpX",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              }
+            ],
+            "start_date": "2011-04-18T00:00:00Z",
+            "end_date": null,
+            "mission_patches": [],
+            "type": {
+              "id": 2,
+              "name": "Human Spaceflight"
+            }
+          },
+          {
+            "response_mode": "normal",
             "id": 11,
             "url": "https://ll.thespacedevs.com/2.3.0/programs/11/",
             "name": "Commercial Resupply Services",
@@ -18005,72 +18071,6 @@
               }
             ],
             "start_date": "2008-12-23T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          },
-          {
-            "response_mode": "normal",
-            "id": 5,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
-            "name": "Commercial Crew Program",
-            "image": {
-              "id": 1869,
-              "name": "Commercial Crew Program logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
-              "credit": "NASA",
-              "license": {
-                "id": 4,
-                "name": "NASA Image and Media Guidelines",
-                "priority": 0,
-                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
-            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
-                "name": "Boeing",
-                "abbrev": "BA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2011-04-18T00:00:00Z",
             "end_date": null,
             "mission_patches": [],
             "type": {
@@ -19080,12 +19080,12 @@
     "slug": "soyuz-21a-soyuz-ms-29",
     "launch_designator": null,
     "status": {
-      "id": 1,
-      "name": "Go for Launch",
-      "abbrev": "Go",
-      "description": "Current T-0 confirmed by official or reliable sources."
+      "id": 3,
+      "name": "Launch Successful",
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-07-13T18:40:11Z",
+    "last_updated": "2026-07-14T15:20:16Z",
     "net": "2026-07-14T14:47:43Z",
     "net_precision": {
       "id": 0,
@@ -19187,11 +19187,11 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 341,
-      "consecutive_successful_launches": 65,
-      "successful_launches": 330,
+      "total_launch_count": 342,
+      "consecutive_successful_launches": 66,
+      "successful_launches": 331,
       "failed_launches": 11,
-      "pending_launches": 4,
+      "pending_launches": 3,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
@@ -19534,11 +19534,11 @@
         "sso_capacity": 4230.0,
         "to_thrust": 4149.0,
         "apogee": null,
-        "total_launch_count": 57,
-        "consecutive_successful_launches": 50,
-        "successful_launches": 56,
+        "total_launch_count": 58,
+        "consecutive_successful_launches": 51,
+        "successful_launches": 57,
         "failed_launches": 1,
-        "pending_launches": 1,
+        "pending_launches": 0,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
@@ -20484,11 +20484,11 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 341,
-          "consecutive_successful_launches": 65,
-          "successful_launches": 330,
+          "total_launch_count": 342,
+          "consecutive_successful_launches": 66,
+          "successful_launches": 331,
           "failed_launches": 11,
-          "pending_launches": 4,
+          "pending_launches": 3,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 0,
@@ -20543,8 +20543,8 @@
         "nationality_name_composed": "Kazakhstani"
       },
       "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_20_20200803143516.jpg",
-      "total_launch_count": 428,
-      "orbital_launch_attempt_count": 428,
+      "total_launch_count": 429,
+      "orbital_launch_attempt_count": 429,
       "fastest_turnaround": "P1DT23H9M9S",
       "location": {
         "response_mode": "normal",
@@ -20617,67 +20617,12 @@
         "longitude": 63.305,
         "latitude": 45.965,
         "timezone_name": "Asia/Qyzylorda",
-        "total_launch_count": 1563,
+        "total_launch_count": 1564,
         "total_landing_count": 0
       }
     },
     "webcast_live": false,
     "program": [
-      {
-        "response_mode": "normal",
-        "id": 8,
-        "url": "https://ll.thespacedevs.com/2.3.0/programs/8/",
-        "name": "Soyuz",
-        "image": {
-          "id": 1892,
-          "name": "[AUTO] Soyuz - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_program_20201129185543.png",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194048.png",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": null,
-        "wiki_url": "https://en.wikipedia.org/wiki/Soyuz_programme",
-        "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
-        "agencies": [
-          {
-            "response_mode": "list",
-            "id": 63,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/63/",
-            "name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "abbrev": "RFSA",
-            "type": {
-              "id": 1,
-              "name": "Government"
-            }
-          },
-          {
-            "response_mode": "list",
-            "id": 66,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
-            "name": "Soviet Space Program",
-            "abbrev": "CCCP",
-            "type": {
-              "id": 1,
-              "name": "Government"
-            }
-          }
-        ],
-        "start_date": "1966-11-28T11:02:00Z",
-        "end_date": null,
-        "mission_patches": [],
-        "type": {
-          "id": 2,
-          "name": "Human Spaceflight"
-        }
-      },
       {
         "response_mode": "normal",
         "id": 17,
@@ -20765,6 +20710,61 @@
           "id": 2,
           "name": "Human Spaceflight"
         }
+      },
+      {
+        "response_mode": "normal",
+        "id": 8,
+        "url": "https://ll.thespacedevs.com/2.3.0/programs/8/",
+        "name": "Soyuz",
+        "image": {
+          "id": 1892,
+          "name": "[AUTO] Soyuz - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_program_20201129185543.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194048.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Soyuz_programme",
+        "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
+        "agencies": [
+          {
+            "response_mode": "list",
+            "id": 63,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/63/",
+            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "abbrev": "RFSA",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            }
+          },
+          {
+            "response_mode": "list",
+            "id": 66,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
+            "name": "Soviet Space Program",
+            "abbrev": "CCCP",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            }
+          }
+        ],
+        "start_date": "1966-11-28T11:02:00Z",
+        "end_date": null,
+        "mission_patches": [],
+        "type": {
+          "id": 2,
+          "name": "Human Spaceflight"
+        }
       }
     ],
     "orbital_launch_attempt_count": 7341,
@@ -20777,6 +20777,30 @@
     "agency_launch_attempt_count_year": 4,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15561,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Launch success, spacecraft in nominal operation.",
+        "info_url": "https://www.youtube.com/watch?v=SwhPXxNtdoc",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-14T15:10:00Z"
+      },
+      {
+        "id": 15560,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "Liftoff",
+        "info_url": "https://www.youtube.com/watch?v=d_CsFH3uIbc",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-07-14T14:48:00Z"
+      },
+      {
+        "id": 15559,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by NASA has started",
+        "info_url": "https://www.youtube.com/watch?v=SwhPXxNtdoc",
+        "created_by": "LL2",
+        "created_on": "2026-07-14T13:45:00Z"
+      },
       {
         "id": 15548,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -20826,7 +20850,7 @@
         "publisher": "NASA",
         "title": "NASA Astronaut Anil Menon Soyuz MS-29 Launch",
         "description": "Watch NASA astronaut Anil Menon's first mission to space begin as he launches to the International Space Station. He and cosmonauts Pyotr Dubrov and Anna Kikina will lift off aboard the Roscosmos Soyuz MS-29 spacecraft.\n\nLiftoff is scheduled for 10:47 a.m. EDT (1447 UTC) on July 14, 2026. The spacecraft and crew are scheduled to dock at the station at about 1:56 p.m. EDT (1756 UTC) on the same day.\n\nMenon, Dubrov, and Kikina will spend about eight months aboard the space station. During his stay on the station, Menon will conduct scientific research and technology demonstrations aimed at advancing human space exploration and benefiting life on Earth.\n\nLearn more about the International Space Station: https://www.nasa.gov/international-space-station/\n\nCredit: NASA",
-        "feature_image": "https://i.ytimg.com/vi/SwhPXxNtdoc/maxresdefault_live.jpg",
+        "feature_image": "https://i.ytimg.com/vi/SwhPXxNtdoc/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SwhPXxNtdoc",
         "type": {
           "id": 1,
@@ -20837,8 +20861,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-14T13:45:00Z",
-        "end_time": null,
+        "start_time": "2026-07-14T13:44:19Z",
+        "end_time": "2026-07-14T15:05:20Z",
         "live": false
       },
       {
@@ -20859,7 +20883,28 @@
           "code": "en"
         },
         "start_time": "2026-07-14T13:45:00Z",
-        "end_time": "2026-07-14T16:00:00Z",
+        "end_time": "2026-07-14T15:05:00Z",
+        "live": false
+      },
+      {
+        "priority": 12,
+        "source": "youtube.com",
+        "publisher": "Роскосмос ТВ",
+        "title": "Трансляция запуска корабля «Союз МС‑29»",
+        "description": "14 июля с космодрома Байконур запланирован запуск корабля «Союз МС‑29». В экипаже — космонавты Роскосмоса Пётр Дубров и Анна Кикина, а также астронавт NASA Анил Менон. \n\nСайт Роскосмоса: https://www.roscosmos.ru/\nРоскосмос в социальных сетях: \nVk: https://vk.com/roscosmos\nOk: https://ok.ru/roscosmos  \nTelegram: https://t.me/roscosmos_gk \nRutube: https://rutube.ru/channel/770606/\n\n\n#Роскосмос  #РоскосмосТВ",
+        "feature_image": "https://i.ytimg.com/vi/d_CsFH3uIbc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d_CsFH3uIbc",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 3,
+          "name": "Russian",
+          "code": "ru"
+        },
+        "start_time": "2026-07-14T13:17:42Z",
+        "end_time": "2026-07-14T15:10:32Z",
         "live": false
       }
     ],
