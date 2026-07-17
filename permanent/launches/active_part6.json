@@ -1,661 +1,5 @@
 [
   {
-    "id": "06201706-da6b-467e-83b2-ef2ff8596e05",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/06201706-da6b-467e-83b2-ef2ff8596e05/",
-    "name": "Vulcan | USSF-23",
-    "response_mode": "detailed",
-    "slug": "vulcan-ussf-23",
-    "launch_designator": null,
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD",
-      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-    },
-    "last_updated": "2025-08-29T16:13:08Z",
-    "net": "2026-12-31T00:00:00Z",
-    "net_precision": {
-      "id": 14,
-      "name": "Year",
-      "abbrev": "Y",
-      "description": "The T-0 is expected in the given year."
-    },
-    "window_end": "2026-12-31T00:00:00Z",
-    "window_start": "2026-12-31T00:00:00Z",
-    "image": {
-      "id": 1863,
-      "name": "Vulcan VC2S at SLC-41",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193953.jpeg",
-      "credit": "United Launch Alliance",
-      "license": {
-        "id": 10,
-        "name": "ULA Image Use Policy",
-        "priority": 3,
-        "link": "https://www.ulalaunch.com/terms-and-conditions"
-      },
-      "single_use": false,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 124,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
-      "name": "United Launch Alliance",
-      "abbrev": "ULA",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
-      "administrator": "Interim CEO: John Elbon",
-      "founding_year": 2006,
-      "launchers": "Atlas | Delta | Vulcan",
-      "spacecraft": "",
-      "parent": null,
-      "image": {
-        "id": 30,
-        "name": "[AUTO] United Launch Alliance - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 191,
-        "name": "[AUTO] United Launch Alliance - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 97,
-        "name": "[AUTO] United Launch Alliance - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 175,
-      "consecutive_successful_launches": 175,
-      "successful_launches": 175,
-      "failed_launches": 0,
-      "pending_launches": 36,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.ulalaunch.com/",
-      "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
-      "social_media_links": []
-    },
-    "rocket": {
-      "id": 7591,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 200,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/200/",
-        "name": "Vulcan",
-        "families": [
-          {
-            "response_mode": "detailed",
-            "id": 170,
-            "name": "Vulcan",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 124,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
-                "name": "United Launch Alliance",
-                "abbrev": "ULA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 2,
-                    "name": "United States of America",
-                    "alpha_2_code": "US",
-                    "alpha_3_code": "USA",
-                    "nationality_name": "American",
-                    "nationality_name_composed": "Americano"
-                  }
-                ],
-                "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
-                "administrator": "Interim CEO: John Elbon",
-                "founding_year": 2006,
-                "launchers": "Atlas | Delta | Vulcan",
-                "spacecraft": "",
-                "parent": null,
-                "image": {
-                  "id": 30,
-                  "name": "[AUTO] United Launch Alliance - image",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 191,
-                  "name": "[AUTO] United Launch Alliance - logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 97,
-                  "name": "[AUTO] United Launch Alliance - social_logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 175,
-                "consecutive_successful_launches": 175,
-                "successful_launches": 175,
-                "failed_launches": 0,
-                "pending_launches": 36,
-                "consecutive_successful_landings": 0,
-                "successful_landings": 0,
-                "failed_landings": 0,
-                "attempted_landings": 0,
-                "successful_landings_spacecraft": 0,
-                "failed_landings_spacecraft": 0,
-                "attempted_landings_spacecraft": 0,
-                "successful_landings_payload": 0,
-                "failed_landings_payload": 0,
-                "attempted_landings_payload": 0,
-                "info_url": "https://www.ulalaunch.com/",
-                "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
-                "social_media_links": []
-              }
-            ],
-            "parent": null,
-            "description": "",
-            "active": true,
-            "maiden_flight": "2024-01-08",
-            "total_launch_count": 4,
-            "consecutive_successful_launches": 4,
-            "successful_launches": 4,
-            "failed_launches": 0,
-            "pending_launches": 30,
-            "attempted_landings": 0,
-            "successful_landings": 0,
-            "failed_landings": 0,
-            "consecutive_successful_landings": 0
-          }
-        ],
-        "full_name": "Vulcan",
-        "variant": "Vulcan",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 124,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
-          "name": "United Launch Alliance",
-          "abbrev": "ULA",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
-          "administrator": "Interim CEO: John Elbon",
-          "founding_year": 2006,
-          "launchers": "Atlas | Delta | Vulcan",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 30,
-            "name": "[AUTO] United Launch Alliance - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 191,
-            "name": "[AUTO] United Launch Alliance - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 97,
-            "name": "[AUTO] United Launch Alliance - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 175,
-          "consecutive_successful_launches": 175,
-          "successful_launches": 175,
-          "failed_launches": 0,
-          "pending_launches": 36,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.ulalaunch.com/",
-          "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": false,
-        "image": {
-          "id": 1863,
-          "name": "Vulcan VC2S at SLC-41",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193953.jpeg",
-          "credit": "United Launch Alliance",
-          "license": {
-            "id": 10,
-            "name": "ULA Image Use Policy",
-            "priority": 3,
-            "link": "https://www.ulalaunch.com/terms-and-conditions"
-          },
-          "single_use": false,
-          "variants": []
-        },
-        "info_url": "https://www.ulalaunch.com/rockets/vulcan-centaur",
-        "wiki_url": "https://en.wikipedia.org/wiki/Vulcan_Centaur#Certification_flights",
-        "description": "Vulcan",
-        "alias": "",
-        "min_stage": 2,
-        "max_stage": 2,
-        "length": null,
-        "diameter": 5.4,
-        "maiden_flight": null,
-        "launch_cost": null,
-        "launch_mass": null,
-        "leo_capacity": null,
-        "gto_capacity": null,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": null,
-        "apogee": null,
-        "total_launch_count": 0,
-        "consecutive_successful_launches": 0,
-        "successful_launches": 0,
-        "failed_launches": 0,
-        "pending_launches": 25,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": null
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 6033,
-      "name": "USSF-23",
-      "type": "Government/Top Secret",
-      "description": "Classified payload for the US Space Force.",
-      "image": null,
-      "orbit": {
-        "id": 25,
-        "name": "Unknown",
-        "abbrev": "N/A",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 1041,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1041/",
-          "name": "United States Space Force",
-          "abbrev": "USSF",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "The United States Space Force (USSF) is the space service branch of the U.S. Armed Forces, one of the eight U.S. uniformed services.",
-          "administrator": null,
-          "founding_year": 2019,
-          "launchers": "",
-          "spacecraft": "",
-          "parent": null,
-          "image": null,
-          "logo": {
-            "id": 194,
-            "name": "United States Space Force logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520space2520force_logo_20221102113048.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185155.png",
-            "credit": "USSF",
-            "license": {
-              "id": 17,
-              "name": "Department of Defense Image Use Policy",
-              "priority": 6,
-              "link": "https://www.dimoc.mil/resources/limitations/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 2472,
-            "name": "United States Space Force social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_states_s_image_20250916065613.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_states_s_image_thumbnail_20250916065613.jpeg",
-            "credit": "USSF",
-            "license": {
-              "id": 17,
-              "name": "Department of Defense Image Use Policy",
-              "priority": 6,
-              "link": "https://www.dimoc.mil/resources/limitations/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 0,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 0,
-          "failed_launches": 0,
-          "pending_launches": 0,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.spaceforce.mil/",
-          "wiki_url": "https://en.wikipedia.org/wiki/United_States_Space_Force",
-          "social_media_links": []
-        }
-      ],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 29,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/29/",
-      "active": true,
-      "agencies": [],
-      "name": "Space Launch Complex 41",
-      "image": {
-        "id": 1394,
-        "name": "Atlas V 541 on the pad (Mars 2020/Perseverance rover & Ingenuity helicopter)",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v252_image_20200729144937.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192627.jpeg",
-        "credit": "United Launch Alliance",
-        "license": {
-          "id": 10,
-          "name": "ULA Image Use Policy",
-          "priority": 3,
-          "link": "https://www.ulalaunch.com/terms-and-conditions"
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "description": "",
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41",
-      "map_url": "https://www.google.com/maps?q=28.58341025,-80.58303644",
-      "latitude": 28.58341025,
-      "longitude": -80.58303644,
-      "country": {
-        "id": 2,
-        "name": "United States of America",
-        "alpha_2_code": "US",
-        "alpha_3_code": "USA",
-        "nationality_name": "American",
-        "nationality_name_composed": "Americano"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_29_20200803143528.jpg",
-      "total_launch_count": 125,
-      "orbital_launch_attempt_count": 125,
-      "fastest_turnaround": "P15DT22H26M17S",
-      "location": {
-        "response_mode": "normal",
-        "id": 12,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
-        "name": "Cape Canaveral SFS, FL, USA",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7564,
-          "successful_launches": 7008,
-          "failed_launches": 556,
-          "total_attempted_landings": 1340,
-          "successful_landings": 1292,
-          "failed_landings": 48
-        },
-        "active": true,
-        "country": {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        },
-        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
-        "image": {
-          "id": 2200,
-          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
-          "credit": "NASA",
-          "license": {
-            "id": 4,
-            "name": "NASA Image and Media Guidelines",
-            "priority": 0,
-            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
-        "longitude": -80.577778,
-        "latitude": 28.488889,
-        "timezone_name": "America/New_York",
-        "total_launch_count": 1121,
-        "total_landing_count": 75
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7501,
-    "location_launch_attempt_count": 1168,
-    "pad_launch_attempt_count": 139,
-    "agency_launch_attempt_count": 196,
-    "orbital_launch_attempt_count_year": 328,
-    "location_launch_attempt_count_year": 92,
-    "pad_launch_attempt_count_year": 19,
-    "agency_launch_attempt_count_year": 26,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 1748,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding launch",
-        "info_url": "https://www.ssc.spaceforce.mil/Portals/3/Documents/PRESS%20RELEASES/SSC%20Issues%20Launch%20Task%20Orders%20for%20FY22%20NSS%20Missions.pdf",
-        "created_by": "Nosu",
-        "created_on": "2022-05-27T10:18:23Z"
-      }
-    ],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P92D",
-    "mission_patches": [
-      {
-        "id": 743,
-        "name": "US Space Force Patch",
-        "priority": 10,
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/us2520space25_mission_patch_20221102113104.png",
-        "agency": {
-          "response_mode": "list",
-          "id": 1041,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1041/",
-          "name": "United States Space Force",
-          "abbrev": "USSF",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          }
-        },
-        "response_mode": "normal"
-      }
-    ]
-  },
-  {
     "id": "1e74ee8f-c0fe-4ad6-9db3-26ae953d8a2e",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/1e74ee8f-c0fe-4ad6-9db3-26ae953d8a2e/",
     "name": "Vulcan | SDA Tranche 2 Transport Layer B",
@@ -12454,7 +11798,7 @@
       "consecutive_successful_launches": 30,
       "successful_launches": 589,
       "failed_launches": 15,
-      "pending_launches": 7,
+      "pending_launches": 8,
       "consecutive_successful_landings": 1,
       "successful_landings": 1,
       "failed_landings": 1,
@@ -12558,7 +11902,7 @@
                 "consecutive_successful_launches": 30,
                 "successful_launches": 589,
                 "failed_launches": 15,
-                "pending_launches": 7,
+                "pending_launches": 8,
                 "consecutive_successful_landings": 1,
                 "successful_landings": 1,
                 "failed_landings": 1,
@@ -12669,7 +12013,7 @@
                 "consecutive_successful_launches": 30,
                 "successful_launches": 589,
                 "failed_launches": 15,
-                "pending_launches": 7,
+                "pending_launches": 8,
                 "consecutive_successful_landings": 1,
                 "successful_landings": 1,
                 "failed_landings": 1,
@@ -12860,7 +12204,7 @@
           "consecutive_successful_launches": 30,
           "successful_launches": 589,
           "failed_launches": 15,
-          "pending_launches": 7,
+          "pending_launches": 8,
           "consecutive_successful_landings": 1,
           "successful_landings": 1,
           "failed_landings": 1,
@@ -22706,6 +22050,573 @@
         "info_url": "https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/",
         "created_by": "Jay",
         "created_on": "2023-06-09T12:30:43Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P92D",
+    "mission_patches": []
+  },
+  {
+    "id": "649bf8ed-f2a6-4923-aaf0-6086ad0227f5",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/649bf8ed-f2a6-4923-aaf0-6086ad0227f5/",
+    "name": "Vulcan | WGS-11",
+    "response_mode": "detailed",
+    "slug": "vulcan-wgs-11",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2026-01-28T18:53:33Z",
+    "net": "2026-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 14,
+      "name": "Year",
+      "abbrev": "Y",
+      "description": "The T-0 is expected in the given year."
+    },
+    "window_end": "2026-12-31T00:00:00Z",
+    "window_start": "2026-12-31T00:00:00Z",
+    "image": {
+      "id": 1863,
+      "name": "Vulcan VC2S at SLC-41",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193953.jpeg",
+      "credit": "United Launch Alliance",
+      "license": {
+        "id": 10,
+        "name": "ULA Image Use Policy",
+        "priority": 3,
+        "link": "https://www.ulalaunch.com/terms-and-conditions"
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 124,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+      "name": "United Launch Alliance",
+      "abbrev": "ULA",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+      "administrator": "Interim CEO: John Elbon",
+      "founding_year": 2006,
+      "launchers": "Atlas | Delta | Vulcan",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 30,
+        "name": "[AUTO] United Launch Alliance - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 191,
+        "name": "[AUTO] United Launch Alliance - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 97,
+        "name": "[AUTO] United Launch Alliance - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 175,
+      "consecutive_successful_launches": 175,
+      "successful_launches": 175,
+      "failed_launches": 0,
+      "pending_launches": 36,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.ulalaunch.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 7593,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 200,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/200/",
+        "name": "Vulcan",
+        "families": [
+          {
+            "response_mode": "detailed",
+            "id": 170,
+            "name": "Vulcan",
+            "manufacturer": [
+              {
+                "response_mode": "normal",
+                "id": 124,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                "name": "United Launch Alliance",
+                "abbrev": "ULA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                },
+                "featured": true,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                "administrator": "Interim CEO: John Elbon",
+                "founding_year": 2006,
+                "launchers": "Atlas | Delta | Vulcan",
+                "spacecraft": "",
+                "parent": null,
+                "image": {
+                  "id": 30,
+                  "name": "[AUTO] United Launch Alliance - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 191,
+                  "name": "[AUTO] United Launch Alliance - logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 97,
+                  "name": "[AUTO] United Launch Alliance - social_logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 175,
+                "consecutive_successful_launches": 175,
+                "successful_launches": 175,
+                "failed_launches": 0,
+                "pending_launches": 36,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://www.ulalaunch.com/",
+                "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+                "social_media_links": []
+              }
+            ],
+            "parent": null,
+            "description": "",
+            "active": true,
+            "maiden_flight": "2024-01-08",
+            "total_launch_count": 4,
+            "consecutive_successful_launches": 4,
+            "successful_launches": 4,
+            "failed_launches": 0,
+            "pending_launches": 30,
+            "attempted_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "consecutive_successful_landings": 0
+          }
+        ],
+        "full_name": "Vulcan",
+        "variant": "Vulcan",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 124,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+          "name": "United Launch Alliance",
+          "abbrev": "ULA",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+          "administrator": "Interim CEO: John Elbon",
+          "founding_year": 2006,
+          "launchers": "Atlas | Delta | Vulcan",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 30,
+            "name": "[AUTO] United Launch Alliance - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 191,
+            "name": "[AUTO] United Launch Alliance - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 97,
+            "name": "[AUTO] United Launch Alliance - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 175,
+          "consecutive_successful_launches": 175,
+          "successful_launches": 175,
+          "failed_launches": 0,
+          "pending_launches": 36,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.ulalaunch.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 1863,
+          "name": "Vulcan VC2S at SLC-41",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193953.jpeg",
+          "credit": "United Launch Alliance",
+          "license": {
+            "id": 10,
+            "name": "ULA Image Use Policy",
+            "priority": 3,
+            "link": "https://www.ulalaunch.com/terms-and-conditions"
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "info_url": "https://www.ulalaunch.com/rockets/vulcan-centaur",
+        "wiki_url": "https://en.wikipedia.org/wiki/Vulcan_Centaur#Certification_flights",
+        "description": "Vulcan",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": null,
+        "diameter": 5.4,
+        "maiden_flight": null,
+        "launch_cost": null,
+        "launch_mass": null,
+        "leo_capacity": null,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": null,
+        "to_thrust": null,
+        "apogee": null,
+        "total_launch_count": 0,
+        "consecutive_successful_launches": 0,
+        "successful_launches": 0,
+        "failed_launches": 0,
+        "pending_launches": 25,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 6035,
+      "name": "WGS-11",
+      "type": "Communications",
+      "description": "Last mission of the Wideband Global SatCom (WGS) series.",
+      "image": null,
+      "orbit": {
+        "id": 4,
+        "name": "Geosynchronous Transfer Orbit",
+        "abbrev": "GSTO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 29,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/29/",
+      "active": true,
+      "agencies": [],
+      "name": "Space Launch Complex 41",
+      "image": {
+        "id": 1394,
+        "name": "Atlas V 541 on the pad (Mars 2020/Perseverance rover & Ingenuity helicopter)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v252_image_20200729144937.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192627.jpeg",
+        "credit": "United Launch Alliance",
+        "license": {
+          "id": 10,
+          "name": "ULA Image Use Policy",
+          "priority": 3,
+          "link": "https://www.ulalaunch.com/terms-and-conditions"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41",
+      "map_url": "https://www.google.com/maps?q=28.58341025,-80.58303644",
+      "latitude": 28.58341025,
+      "longitude": -80.58303644,
+      "country": {
+        "id": 2,
+        "name": "United States of America",
+        "alpha_2_code": "US",
+        "alpha_3_code": "USA",
+        "nationality_name": "American",
+        "nationality_name_composed": "Americano"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_29_20200803143528.jpg",
+      "total_launch_count": 125,
+      "orbital_launch_attempt_count": 125,
+      "fastest_turnaround": "P15DT22H26M17S",
+      "location": {
+        "response_mode": "normal",
+        "id": 12,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+        "name": "Cape Canaveral SFS, FL, USA",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7565,
+          "successful_launches": 7009,
+          "failed_launches": 556,
+          "total_attempted_landings": 1341,
+          "successful_landings": 1293,
+          "failed_landings": 48
+        },
+        "active": true,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+        "image": {
+          "id": 2200,
+          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+          "credit": "NASA",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+        "longitude": -80.577778,
+        "latitude": 28.488889,
+        "timezone_name": "America/New_York",
+        "total_launch_count": 1121,
+        "total_landing_count": 75
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7502,
+    "location_launch_attempt_count": 1168,
+    "pad_launch_attempt_count": 139,
+    "agency_launch_attempt_count": 196,
+    "orbital_launch_attempt_count_year": 329,
+    "location_launch_attempt_count_year": 92,
+    "pad_launch_attempt_count_year": 19,
+    "agency_launch_attempt_count_year": 26,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 12031,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET Q1 2026.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=58631.msg2700795#msg2700795",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-08-29T14:10:00Z"
+      },
+      {
+        "id": 1751,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding launch",
+        "info_url": "https://www.ssc.spaceforce.mil/Portals/3/Documents/PRESS%20RELEASES/SSC%20Issues%20Launch%20Task%20Orders%20for%20FY22%20NSS%20Missions.pdf",
+        "created_by": "Nosu",
+        "created_on": "2022-05-27T10:18:53Z"
       }
     ],
     "info_urls": [],
