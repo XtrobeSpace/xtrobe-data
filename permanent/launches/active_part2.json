@@ -1817,17 +1817,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -1849,17 +1849,17 @@
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
@@ -6652,17 +6652,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -6684,17 +6684,17 @@
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
@@ -12330,17 +12330,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -12362,17 +12362,17 @@
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
@@ -13495,16 +13495,16 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-07-20T12:34:35Z",
-    "net": "2026-07-20T14:36:26Z",
+    "last_updated": "2026-07-20T15:14:27Z",
+    "net": "2026-07-21T14:00:00Z",
     "net_precision": {
-      "id": 0,
-      "name": "Second",
-      "abbrev": "SEC",
-      "description": "The T-0 is accurate to the second."
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
     },
-    "window_end": "2026-07-20T18:00:00Z",
-    "window_start": "2026-07-20T14:00:00Z",
+    "window_end": "2026-07-21T17:47:00Z",
+    "window_start": "2026-07-21T14:00:00Z",
     "image": {
       "id": 1296,
       "name": "Starlink night fairing",
@@ -14584,7 +14584,7 @@
             "fastest_turnaround": "P25DT10M"
           },
           "previous_flight_date": "2026-05-30T15:25:10Z",
-          "turn_around_time": "P50DT23H11M16S",
+          "turn_around_time": "P51DT22H34M50S",
           "landing": {
             "id": 1892,
             "url": "https://ll.thespacedevs.com/2.3.0/landings/1892/",
@@ -15054,6 +15054,38 @@
     "flightclub_url": "https://flightclub.io/result?llId=e1079d3a-c0a6-4b42-bc1d-92e48a5a78fc",
     "updates": [
       {
+        "id": 15612,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Rescheduled for July 21.",
+        "info_url": "https://www.spacex.com/launches/sl-17-39",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-20T15:14:00Z"
+      },
+      {
+        "id": 15611,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Abort at ignition.",
+        "info_url": "https://x.com/i/broadcasts/1qGoNNQZvEMKv",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-20T14:50:00Z"
+      },
+      {
+        "id": 15610,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Unofficial Re-stream by SPACE AFFAIRS has started",
+        "info_url": "https://www.youtube.com/watch?v=p648NlL0fi4",
+        "created_by": "LL2",
+        "created_on": "2026-07-20T14:37:00Z"
+      },
+      {
+        "id": 15608,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Now targeting Jul 20 at 14:49 UTC",
+        "info_url": "https://www.spacex.com/launches/sl-17-39",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-20T13:23:00Z"
+      },
+      {
         "id": 15602,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
         "comment": "Now targeting Jul 20 at 14:36 UTC",
@@ -15110,9 +15142,9 @@
         "priority": 8,
         "source": "youtube.com",
         "publisher": "SPACE AFFAIRS",
-        "title": "GO! - SpaceX - Falcon 9 - Starlink 17-39 - SLC-4E - Vandenberg SFB - Space Affairs Live",
-        "description": "Launch Date: July 20, 2026 PDT\nLaunch Time:  7:36 a.m. PDT 14:36 UTC, 16:36 CEST\nLaunch Window: Open until 11:00 a.m.  PDT\nLaunch Site: SLC-4E - Vandenberg Space Force Base, California\nTargeted Orbit: Low Earth Orbit (LEO)\nLaunch Inclination: South\nLaunch Status: Scheduled and announced\n\nMission: Starlink Group 17-39\nLaunch Provider: SpaceX\nLauncher System: Falcon 9 (Booster 1092 - Turnaround time 49 days)\nFlight for the Booster: 23\nPrevious Flights of the Booster: 22 - USSF-62, OneWeb Launch 20, NROL-145, and 19 Starlink missions\nDroneship: Of Course I Still Love You (OCISLY)\n\nPrice: $74 million (without payload)\nDiameter: 3,7 m\nHeight: 70 meters\nPayload to Orbit: 22,800 LEO / 8,300 GTO\nLift-Off Thrust: 7,607 kilonewtons\nFairing: Diameter 5,2 meters / Height 13 meters\nStages: 2\n\nSpac...",
-        "feature_image": "https://i.ytimg.com/vi/p648NlL0fi4/maxresdefault_live.jpg",
+        "title": "SCRUBBED - SpaceX - Falcon 9 - Starlink 17-39 - SLC-4E - Vandenberg SFB - July 20, 2026",
+        "description": "Launch Date: July 20, 2026 PDT\nLaunch Time:  7:49 a.m. PDT 14:49 UTC, 16:49 CEST\nLaunch Window: Open until 11:00 a.m.  PDT\nLaunch Site: SLC-4E - Vandenberg Space Force Base, California\nTargeted Orbit: Low Earth Orbit (LEO)\nLaunch Inclination: South\nLaunch Status: The automated launch system initiated an abort shortly after Merlin engine ignition. \n\nMission: Starlink Group 17-39\nLaunch Provider: SpaceX\nLauncher System: Falcon 9 (Booster 1092 - Turnaround time 49 days)\nFlight for the Booster: 23\nPrevious Flights of the Booster: 22 - USSF-62, OneWeb Launch 20, NROL-145, and 19 Starlink missions\nDroneship: Of Course I Still Love You (OCISLY)\n\nPrice: $74 million (without payload)\nDiameter: 3,7 m\nHeight: 70 meters\nPayload to Orbit: 22,800 LEO / 8,300 GTO\nLift-Off Thrust: 7,607 kilonewtons\nF...",
+        "feature_image": "https://i.ytimg.com/vi/p648NlL0fi4/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=p648NlL0fi4",
         "type": {
           "id": 4,
@@ -15123,8 +15155,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-20T14:26:00Z",
-        "end_time": null,
+        "start_time": "2026-07-20T14:36:53Z",
+        "end_time": "2026-07-20T14:54:21Z",
         "live": false
       },
       {
@@ -15132,8 +15164,8 @@
         "source": "youtube.com",
         "publisher": "Spaceflight Now",
         "title": "Live: SpaceX Falcon 9 rocket launches 24 Starlink internet satellites from Vandenberg, California",
-        "description": "Watch live coverage as SpaceX launches a Falcon 9 rocket from California with 24 satellites for the company's Starlink space-based internet service. Liftoff from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base is scheduled for Monday, July 20, during a window that opens at 7:36 a.m. PDT (10:36 a.m. EDT / 1436 UTC).\n\nThe first-stage booster, serial number B1082, launching for a 23rd time, will land on the drone ship 'Of Course I Still Love You' nearly 8.5 minutes into the flight.\n\nThe Starlink 17-39 mission will take a southerly trajectory upon departure from Vandenberg. \n\nLive commentary from Spaceflight Now's Will Robinson-Smith will be provided starting about 30 minutes prior to launch.\n\nVideos like this are made possible by the support of our members. Join this chan...",
-        "feature_image": "https://i.ytimg.com/vi/mXVL1SQKNvE/maxresdefault_live.jpg",
+        "description": "Watch live coverage as SpaceX launches a Falcon 9 rocket from California with 24 satellites for the company's Starlink space-based internet service. Liftoff from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base is scheduled for Monday, July 20, during a window that opens at 7:49 a.m. PDT (10:49 a.m. EDT / 1449 UTC).\n\nThe first-stage booster, serial number B1082, launching for a 23rd time, will land on the drone ship 'Of Course I Still Love You' nearly 8.5 minutes into the flight.\n\nThe Starlink 17-39 mission will take a southerly trajectory upon departure from Vandenberg. \n\nLive commentary from Spaceflight Now's Will Robinson-Smith will be provided starting about 30 minutes prior to launch.\n\nVideos like this are made possible by the support of our members. Join this chan...",
+        "feature_image": "https://i.ytimg.com/vi/mXVL1SQKNvE/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mXVL1SQKNvE",
         "type": {
           "id": 3,
@@ -15144,8 +15176,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-20T14:06:00Z",
-        "end_time": null,
+        "start_time": "2026-07-20T14:19:25Z",
+        "end_time": "2026-07-20T14:56:34Z",
         "live": false
       },
       {
@@ -15165,8 +15197,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-20T14:26:00Z",
-        "end_time": "2026-07-20T17:30:00Z",
+        "start_time": "2026-07-20T14:42:31Z",
+        "end_time": "2026-07-20T14:50:20Z",
         "live": false
       }
     ],
@@ -15181,17 +15213,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -15356,7 +15388,7 @@
         "relative_time": "PT1H1M33S"
       }
     ],
-    "pad_turnaround": "P3DT18H3M50S",
+    "pad_turnaround": "P4DT17H27M24S",
     "mission_patches": [
       {
         "id": 7,
@@ -15391,7 +15423,7 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-07-20T09:03:02Z",
+    "last_updated": "2026-07-20T15:45:24Z",
     "net": "2026-07-21T21:15:00Z",
     "net_precision": {
       "id": 1,
@@ -15417,8 +15449,8 @@
       "variants": []
     },
     "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
+    "probability": 75,
+    "weather_concerns": "Cumulus Cloud Rule, Anvil Cloud Rules",
     "failreason": "",
     "hashtag": null,
     "launch_service_provider": {
@@ -16785,6 +16817,14 @@
     "flightclub_url": "https://flightclub.io/result?llId=0f6780cf-edae-4d7c-99d6-ce7de784d140",
     "updates": [
       {
+        "id": 15613,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Updated launch weather, 75% GO.",
+        "info_url": "https://45thweathersquadron.nebula.spaceforce.mil/assets/LaunchForecasts/Falcon%209%20NORTHROP%20MRV-MEP%20L-1%20Forecast%20-%2021%20Jul%20Launch.pdf",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-20T15:45:00Z"
+      },
+      {
         "id": 15563,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
         "comment": "Tweaked launch window.",
@@ -16939,17 +16979,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -20191,17 +20231,17 @@
       },
       {
         "type": {
-          "id": 91,
-          "abbrev": "Excitement Guaranteed",
-          "description": "Excitement guaranteed"
+          "id": 10,
+          "abbrev": "Liftoff",
+          "description": "First upwards movement of the rocket"
         },
         "relative_time": "P0D"
       },
       {
         "type": {
-          "id": 10,
-          "abbrev": "Liftoff",
-          "description": "First upwards movement of the rocket"
+          "id": 91,
+          "abbrev": "Excitement Guaranteed",
+          "description": "Excitement guaranteed"
         },
         "relative_time": "P0D"
       },
