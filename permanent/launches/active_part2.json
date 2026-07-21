@@ -2261,7 +2261,7 @@
             "consecutive_successful_launches": 30,
             "successful_launches": 638,
             "failed_launches": 19,
-            "pending_launches": 8,
+            "pending_launches": 7,
             "attempted_landings": 2,
             "successful_landings": 1,
             "failed_landings": 1,
@@ -9362,8 +9362,8 @@
               "variants": []
             },
             "in_space": true,
-            "time_in_space": "P5DT10H54M25S",
-            "time_docked": "P5DT7H50M8S",
+            "time_in_space": "P6DT11H41M36S",
+            "time_docked": "P6DT8H37M19S",
             "flights_count": 1,
             "mission_ends_count": 0,
             "status": {
@@ -9614,7 +9614,7 @@
               "description": "Unpowered landing using parachute(s)."
             }
           },
-          "duration": "P5DT10H56M58.942529S",
+          "duration": "P6DT11H45M44.034449S",
           "turn_around_time": null,
           "response_mode": "detailed",
           "launch_crew": [
@@ -9665,7 +9665,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P360DT14H34M27S",
+                "time_in_space": "P361DT15H21M1S",
                 "eva_time": "P1DT5H49M",
                 "age": 48,
                 "date_of_birth": "1978-01-30",
@@ -9734,7 +9734,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P5DT10H49M44S",
+                "time_in_space": "P6DT11H36M27S",
                 "eva_time": "P0D",
                 "age": 50,
                 "date_of_birth": "1976-01-01",
@@ -9828,7 +9828,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P162DT20H50M10S",
+                "time_in_space": "P163DT21H36M45S",
                 "eva_time": "P0D",
                 "age": 41,
                 "date_of_birth": "1984-08-27",
@@ -9900,7 +9900,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P360DT14H34M27S",
+                "time_in_space": "P361DT15H21M1S",
                 "eva_time": "P1DT5H49M",
                 "age": 48,
                 "date_of_birth": "1978-01-30",
@@ -9969,7 +9969,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P5DT10H49M44S",
+                "time_in_space": "P6DT11H36M27S",
                 "eva_time": "P0D",
                 "age": 50,
                 "date_of_birth": "1976-01-01",
@@ -10063,7 +10063,7 @@
                   "name": "Government"
                 },
                 "in_space": true,
-                "time_in_space": "P162DT20H50M10S",
+                "time_in_space": "P163DT21H36M45S",
                 "eva_time": "P0D",
                 "age": 41,
                 "date_of_birth": "1984-08-27",
@@ -13495,13 +13495,13 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-07-20T15:14:27Z",
-    "net": "2026-07-21T14:00:00Z",
+    "last_updated": "2026-07-20T22:53:14Z",
+    "net": "2026-07-21T14:43:04Z",
     "net_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
+      "id": 0,
+      "name": "Second",
+      "abbrev": "SEC",
+      "description": "The T-0 is accurate to the second."
     },
     "window_end": "2026-07-21T17:47:00Z",
     "window_start": "2026-07-21T14:00:00Z",
@@ -14584,7 +14584,7 @@
             "fastest_turnaround": "P25DT10M"
           },
           "previous_flight_date": "2026-05-30T15:25:10Z",
-          "turn_around_time": "P51DT22H34M50S",
+          "turn_around_time": "P51DT23H17M54S",
           "landing": {
             "id": 1892,
             "url": "https://ll.thespacedevs.com/2.3.0/landings/1892/",
@@ -15054,6 +15054,14 @@
     "flightclub_url": "https://flightclub.io/result?llId=e1079d3a-c0a6-4b42-bc1d-92e48a5a78fc",
     "updates": [
       {
+        "id": 15616,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Now targeting Jul 21 at 14:43 UTC",
+        "info_url": "https://www.spacex.com/launches/sl-17-39",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-20T22:53:00Z"
+      },
+      {
         "id": 15612,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
         "comment": "Rescheduled for July 21.",
@@ -15213,17 +15221,17 @@
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
@@ -15388,7 +15396,7 @@
         "relative_time": "PT1H1M33S"
       }
     ],
-    "pad_turnaround": "P4DT17H27M24S",
+    "pad_turnaround": "P4DT18H10M28S",
     "mission_patches": [
       {
         "id": 7,
@@ -16285,6 +16293,72 @@
         "program": [
           {
             "response_mode": "normal",
+            "id": 5,
+            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
+            "name": "Commercial Crew Program",
+            "image": {
+              "id": 1869,
+              "name": "Commercial Crew Program logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
+            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
+            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
+            "agencies": [
+              {
+                "response_mode": "list",
+                "id": 80,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                "name": "Boeing",
+                "abbrev": "BA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 44,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                "name": "National Aeronautics and Space Administration",
+                "abbrev": "NASA",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 121,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+                "name": "SpaceX",
+                "abbrev": "SpX",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              }
+            ],
+            "start_date": "2011-04-18T00:00:00Z",
+            "end_date": null,
+            "mission_patches": [],
+            "type": {
+              "id": 2,
+              "name": "Human Spaceflight"
+            }
+          },
+          {
+            "response_mode": "normal",
             "id": 11,
             "url": "https://ll.thespacedevs.com/2.3.0/programs/11/",
             "name": "Commercial Resupply Services",
@@ -16353,72 +16427,6 @@
               }
             ],
             "start_date": "2008-12-23T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          },
-          {
-            "response_mode": "normal",
-            "id": 5,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
-            "name": "Commercial Crew Program",
-            "image": {
-              "id": 1869,
-              "name": "Commercial Crew Program logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
-              "credit": "NASA",
-              "license": {
-                "id": 4,
-                "name": "NASA Image and Media Guidelines",
-                "priority": 0,
-                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
-            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
-                "name": "Boeing",
-                "abbrev": "BA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2011-04-18T00:00:00Z",
             "end_date": null,
             "mission_patches": [],
             "type": {
@@ -16979,17 +16987,17 @@
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
@@ -17915,7 +17923,7 @@
             "consecutive_successful_launches": 30,
             "successful_launches": 638,
             "failed_launches": 19,
-            "pending_launches": 8,
+            "pending_launches": 7,
             "attempted_landings": 2,
             "successful_landings": 1,
             "failed_landings": 1,
@@ -21722,6 +21730,72 @@
         "program": [
           {
             "response_mode": "normal",
+            "id": 5,
+            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
+            "name": "Commercial Crew Program",
+            "image": {
+              "id": 1869,
+              "name": "Commercial Crew Program logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
+            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
+            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
+            "agencies": [
+              {
+                "response_mode": "list",
+                "id": 80,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                "name": "Boeing",
+                "abbrev": "BA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 44,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                "name": "National Aeronautics and Space Administration",
+                "abbrev": "NASA",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 121,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+                "name": "SpaceX",
+                "abbrev": "SpX",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              }
+            ],
+            "start_date": "2011-04-18T00:00:00Z",
+            "end_date": null,
+            "mission_patches": [],
+            "type": {
+              "id": 2,
+              "name": "Human Spaceflight"
+            }
+          },
+          {
+            "response_mode": "normal",
             "id": 11,
             "url": "https://ll.thespacedevs.com/2.3.0/programs/11/",
             "name": "Commercial Resupply Services",
@@ -21790,72 +21864,6 @@
               }
             ],
             "start_date": "2008-12-23T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          },
-          {
-            "response_mode": "normal",
-            "id": 5,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
-            "name": "Commercial Crew Program",
-            "image": {
-              "id": 1869,
-              "name": "Commercial Crew Program logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
-              "credit": "NASA",
-              "license": {
-                "id": 4,
-                "name": "NASA Image and Media Guidelines",
-                "priority": 0,
-                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
-            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
-                "name": "Boeing",
-                "abbrev": "BA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2011-04-18T00:00:00Z",
             "end_date": null,
             "mission_patches": [],
             "type": {
@@ -22496,17 +22504,17 @@
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
@@ -22671,7 +22679,7 @@
         "relative_time": "PT1H1M46S"
       }
     ],
-    "pad_turnaround": "P4D",
+    "pad_turnaround": "P3DT23H16M56S",
     "mission_patches": [
       {
         "id": 7,
