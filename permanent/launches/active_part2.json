@@ -4064,7 +4064,7 @@
       "consecutive_successful_launches": 67,
       "successful_launches": 332,
       "failed_launches": 11,
-      "pending_launches": 2,
+      "pending_launches": 3,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
@@ -5428,7 +5428,7 @@
           "consecutive_successful_launches": 67,
           "successful_launches": 332,
           "failed_launches": 11,
-          "pending_launches": 2,
+          "pending_launches": 3,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 0,
@@ -8687,7 +8687,7 @@
       "consecutive_successful_launches": 67,
       "successful_launches": 332,
       "failed_launches": 11,
-      "pending_launches": 2,
+      "pending_launches": 3,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
@@ -15265,6 +15265,433 @@
     "mission_patches": []
   },
   {
+    "id": "fa42624c-1e30-4b4b-a06b-59b6153bc4e5",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/fa42624c-1e30-4b4b-a06b-59b6153bc4e5/",
+    "name": "Kinetica 1 | Unknown Payload",
+    "response_mode": "detailed",
+    "slug": "kinetica-1-unknown-payload",
+    "launch_designator": null,
+    "status": {
+      "id": 1,
+      "name": "Go for Launch",
+      "abbrev": "Go",
+      "description": "Current T-0 confirmed by official or reliable sources."
+    },
+    "last_updated": "2026-07-19T08:22:20Z",
+    "net": "2026-07-23T23:30:00Z",
+    "net_precision": {
+      "id": 2,
+      "name": "Hour",
+      "abbrev": "HR",
+      "description": "The T-0 is accurate to the hour."
+    },
+    "window_end": "2026-07-23T23:50:00Z",
+    "window_start": "2026-07-23T23:24:00Z",
+    "image": {
+      "id": 1755,
+      "name": "[AUTO] Kinetica 1 - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193659.png",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 1040,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1040/",
+      "name": "CAS Space",
+      "abbrev": "CAS",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 6,
+          "name": "China",
+          "alpha_2_code": "CN",
+          "alpha_3_code": "CHN",
+          "nationality_name": "Chinese",
+          "nationality_name_composed": "Sino"
+        }
+      ],
+      "description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
+      "administrator": null,
+      "founding_year": 2018,
+      "launchers": "Zhongke",
+      "spacecraft": "",
+      "parent": null,
+      "image": null,
+      "logo": {
+        "id": 122,
+        "name": "[AUTO] CAS Space - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_logo_20220727081352.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184930.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 48,
+        "name": "[AUTO] CAS Space - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_nation_20230604193435.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184743.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 15,
+      "consecutive_successful_launches": 9,
+      "successful_launches": 14,
+      "failed_launches": 1,
+      "pending_launches": 1,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://cas-space.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/CAS_Space",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 9090,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 483,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/483/",
+        "name": "Kinetica 1",
+        "families": [],
+        "full_name": "Kinetica 1",
+        "variant": "",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 1040,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1040/",
+          "name": "CAS Space",
+          "abbrev": "CAS",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 6,
+              "name": "China",
+              "alpha_2_code": "CN",
+              "alpha_3_code": "CHN",
+              "nationality_name": "Chinese",
+              "nationality_name_composed": "Sino"
+            }
+          ],
+          "description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
+          "administrator": null,
+          "founding_year": 2018,
+          "launchers": "Zhongke",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 122,
+            "name": "[AUTO] CAS Space - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_logo_20220727081352.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184930.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 48,
+            "name": "[AUTO] CAS Space - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_nation_20230604193435.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184743.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 15,
+          "consecutive_successful_launches": 9,
+          "successful_launches": 14,
+          "failed_launches": 1,
+          "pending_launches": 1,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://cas-space.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/CAS_Space",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 1755,
+          "name": "[AUTO] Kinetica 1 - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193659.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://en.cas-space.com/index/index/technology",
+        "wiki_url": null,
+        "description": "Kinetica 1 (also known as Lijian-1, Chinese: 力箭一号) is a Chinese solid-propellant light launch vehicle. It is capable of placing about 2 tons into low earth orbit and 1.5 tons into sun-synchronous orbit. It is developed by CAS Space, a subsidiary of the Chinese Academy of Sciences. Kinetica 1 is a light launcher whose first stage seems to be derived from the DF-31 long-range intercontinental ballistic missile. It is 30 m high and has a diameter of 2.65 m, with a liftoff mass of 135 t. It's the largest Chinese solid propellant launcher to date, with four stages with a thrust of 200, 100, 50 and 10 tons respectively. The fairing has a diameter of 3.35 meters.",
+        "alias": "",
+        "min_stage": 4,
+        "max_stage": 4,
+        "length": 30.0,
+        "diameter": 2.65,
+        "maiden_flight": "2022-07-27",
+        "launch_cost": null,
+        "launch_mass": 135.0,
+        "leo_capacity": 2000.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": 1500.0,
+        "to_thrust": 1961.0,
+        "apogee": null,
+        "total_launch_count": 14,
+        "consecutive_successful_launches": 8,
+        "successful_launches": 13,
+        "failed_launches": 1,
+        "pending_launches": 1,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": "P20DT23H59M"
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7685,
+      "name": "Unknown Payload",
+      "type": "Unknown",
+      "description": "Details TBD.",
+      "image": null,
+      "orbit": {
+        "id": 25,
+        "name": "Unknown",
+        "abbrev": "N/A",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 151,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/151/",
+      "active": true,
+      "agencies": [],
+      "name": "Launch Area 130",
+      "image": {
+        "id": 1460,
+        "name": "Kinetica 1 liftoff from LA-130 (Flight 2)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica25201_image_20230727064618.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192832.jpeg",
+        "credit": "CAS Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center",
+      "map_url": "https://www.google.com/maps?q=40.8182,100.22514",
+      "latitude": 40.8182,
+      "longitude": 100.22514,
+      "country": {
+        "id": 6,
+        "name": "China",
+        "alpha_2_code": "CN",
+        "alpha_3_code": "CHN",
+        "nationality_name": "Chinese",
+        "nationality_name_composed": "Sino"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_151_20200803143425.jpg",
+      "total_launch_count": 14,
+      "orbital_launch_attempt_count": 14,
+      "fastest_turnaround": "P20DT23H59M",
+      "location": {
+        "response_mode": "normal",
+        "id": 17,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/17/",
+        "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7570,
+          "successful_launches": 7014,
+          "failed_launches": 556,
+          "total_attempted_landings": 1342,
+          "successful_landings": 1294,
+          "failed_landings": 48
+        },
+        "active": true,
+        "country": {
+          "id": 6,
+          "name": "China",
+          "alpha_2_code": "CN",
+          "alpha_3_code": "CHN",
+          "nationality_name": "Chinese",
+          "nationality_name_composed": "Sino"
+        },
+        "description": "Jiuquan Satellite Launch Center is a Chinese spaceport located between the Ejin, Alxa, Inner Mongolia and Hangtian Town, Jinta County, Jiuquan, Gansu Province. It is part of the Dongfeng Aerospace City (Base 10).",
+        "image": {
+          "id": 1374,
+          "name": "Long March 2F/G liftoff (Shenzhou 16)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20240101085213.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192548.jpeg",
+          "credit": "CMS",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_17_20200803142429.jpg",
+        "longitude": 100.291111,
+        "latitude": 40.958056,
+        "timezone_name": "Asia/Shanghai",
+        "total_launch_count": 291,
+        "total_landing_count": 2
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7349,
+    "location_launch_attempt_count": 292,
+    "pad_launch_attempt_count": 15,
+    "agency_launch_attempt_count": 16,
+    "orbital_launch_attempt_count_year": 176,
+    "location_launch_attempt_count_year": 19,
+    "pad_launch_attempt_count_year": 4,
+    "agency_launch_attempt_count_year": 5,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 15600,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Refined launch window per new NOTAMs.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=57867.msg2806735#msg2806735",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-19T08:22:00Z"
+      },
+      {
+        "id": 15585,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added launch per NOTAMs; Payload and launch vehicle identities uncertain.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=57867.msg2806451#msg2806451",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-17T04:36:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P38DT19H46M",
+    "mission_patches": []
+  },
+  {
     "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/ac897b9f-44d2-4ff4-8416-1a0a076e98a2/",
     "name": "Starship | Flight 13",
@@ -15277,16 +15704,16 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-07-23T16:42:29Z",
-    "net": "2026-07-23T22:45:00Z",
+    "last_updated": "2026-07-23T20:09:59Z",
+    "net": "2026-07-24T22:45:00Z",
     "net_precision": {
       "id": 1,
       "name": "Minute",
       "abbrev": "MIN",
       "description": "The T-0 is accurate to the minute."
     },
-    "window_end": "2026-07-24T00:15:00Z",
-    "window_start": "2026-07-23T22:45:00Z",
+    "window_end": "2026-07-25T00:15:00Z",
+    "window_start": "2026-07-24T22:45:00Z",
     "image": {
       "id": 2301,
       "name": "Starship on the launch pad during WDR (Flight 7)",
@@ -16803,6 +17230,14 @@
     "flightclub_url": "https://flightclub.io/result?llId=ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
     "updates": [
       {
+        "id": 15646,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Rescheduled to July 24 due to launch site weather.",
+        "info_url": "https://x.com/SpaceX/status/2080384481043656948",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-23T20:09:00Z"
+      },
+      {
         "id": 15601,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
         "comment": "Delayed to NET July 23.",
@@ -16940,7 +17375,7 @@
         "source": "youtube.com",
         "publisher": "SPACE AFFAIRS",
         "title": "GO! - SpaceX - Starship - Starship Flight 13 - Pad 2 - Starbase, TX - Space Affairs Live",
-        "description": "Launch Date: July 23, 2026\nLaunch Time: 3:45 p.m. PDT, 5:45 p.m. CDT, 6:45 p.m. EDT, 2245 UTC (July 24, 00:45 CEST)\nLaunch Window: 90 minutes, open until 8:15 p.m. CDT\nStatus: Scheduled and announced. Two Raptor engines have been replaced after the scrub on July 16. \nLaunch Provider: SpaceX\nLauncher System: Starship-Super Heavy (Prototype) - (Vehicles: Starship 20  & Booster 20)\nMission: Starship Test Flight 13 - Suborbital\nFlight: 1st flight for Super Heavy Booster 20 - 1st flight for Starship 40\nLaunch Location: Pad 2, Starbase, Texas, USA\n\nThe thirteenth flight test of Starship is preparing to launch as soon as Thursday, July 23. The 90-minute launch window will open at 5:45 p.m. CDT, 2245 UTC (July 17, 00:45 CEST)\nAs with all developmental testing, the schedule is dynamic and like...",
+        "description": "Launch Date: July 24, 2026\nLaunch Time: 3:45 p.m. PDT, 5:45 p.m. CDT, 6:45 p.m. EDT, 2245 UTC (July 25, 00:45 CEST)\nLaunch Window: 90 minutes, open until 8:15 p.m. CDT\nStatus: Scheduled and announced. Two Raptor engines have been replaced after the scrub on July 16. \nLaunch Provider: SpaceX\nLauncher System: Starship-Super Heavy (Prototype) - (Vehicles: Starship 20  & Booster 20)\nMission: Starship Test Flight 13 - Suborbital\nFlight: 1st flight for Super Heavy Booster 20 - 1st flight for Starship 40\nLaunch Location: Pad 2, Starbase, Texas, USA\n\nThe thirteenth flight test of Starship is preparing to launch as soon as Thursday, July 23. The 90-minute launch window will open at 5:45 p.m. CDT, 2245 UTC (July 17, 00:45 CEST)\nAs with all developmental testing, the schedule is dynamic and like...",
         "feature_image": "https://i.ytimg.com/vi/0EnOQCjgq4E/maxresdefault_live.jpg",
         "url": "https://www.youtube.com/watch?v=0EnOQCjgq4E",
         "type": {
@@ -16952,7 +17387,7 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-23T22:05:00Z",
+        "start_time": "2026-07-24T22:05:00Z",
         "end_time": null,
         "live": false
       },
@@ -16961,7 +17396,7 @@
         "source": "youtube.com",
         "publisher": "Spaceflight Now",
         "title": "Watch Live: SpaceX Starship launches on 13th test flight",
-        "description": "Watch live as SpaceX launches its revolutionary Starship launcher for a 13th test flight. Liftoff of the Version 3 integrated Starship vehicle from Starbase in Texas is scheduled during a launch window that opens at 5:45 p.m. CDT / 6:45 p.m. EDT / 2245 UTC on Thursday, July 23.\n\nThe mission will see splashdowns of the Super Heavy booster (Booster 20) in the Gulf of Mexico and the Starship upper stage (Ship 40) in the Indian Ocean.\n\nThe Starship upper stage will deploy 20 production Starlink V3 satellites for a 20-minute sub-orbital test.\n\nOur live coverage, hosted by Will Robinson-Smith, will begin about two hours before launch.\n\nCamera support from our friends at Avid Space @LabPadre .  \n\nVideos like this are made possible by the support of our members. Join this channel to get acces...",
+        "description": "Watch live as SpaceX launches its revolutionary Starship launcher for a 13th test flight. Liftoff of the Version 3 integrated Starship vehicle from Starbase in Texas is scheduled during a launch window that opens at 5:45 p.m. CDT / 6:45 p.m. EDT / 2245 UTC on Friday, July 24.\n\nThe mission will see splashdowns of the Super Heavy booster (Booster 20) in the Gulf of Mexico and the Starship upper stage (Ship 40) in the Indian Ocean.\n\nThe Starship upper stage will deploy 20 production Starlink V3 satellites for a 20-minute sub-orbital test.\n\nOur live coverage, hosted by Will Robinson-Smith, will begin about two hours before launch.\n\nCamera support from our friends at Avid Space @LabPadre .  \n\nVideos like this are made possible by the support of our members. Join this channel to get access ...",
         "feature_image": "https://i.ytimg.com/vi/Ew0Xu1RT8oc/maxresdefault_live.jpg",
         "url": "https://www.youtube.com/watch?v=Ew0Xu1RT8oc",
         "type": {
@@ -16973,7 +17408,7 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-23T20:45:00Z",
+        "start_time": "2026-07-24T20:45:00Z",
         "end_time": null,
         "live": false
       },
@@ -16981,8 +17416,8 @@
         "priority": 9,
         "source": "youtube.com",
         "publisher": "NASASpaceflight",
-        "title": "SpaceX Starship Flight 13 - Launch & Landing - ATTEMPT 2 LAUNCH STREAM",
-        "description": "Starship launches Flight 13, the second launch of the Block 3 vehicle from Pad 2 at Starbase at the second attempt following a T-0 abort on July 16.\n\nLaunch Window: July 20th at 5:45PM to 7:15PM CDT (22:45-00:15 UTC)\nCurrent T0: July 20th at 5:45PM CDT (22:45 UTC)\n\nMission: Starship's 13th integrated flight test. Correcting issues from version 3's debut flight.\nLaunch location: Pad 2, Starbase, Earth. \nTarget orbit: Trans-atmospheric\nBooster: B20-1\nShip: S40-1\nBooster recovery: Expended - will attempt a water splashdown, no recovery.\nShip recovery: Expended - will attempt a water splashdown, no recovery.\nRocket trajectory: Southeast passing between Cuba and the Yucatan Peninsula.\nPayload onboard: 20 Starlink v3 satellites, 6 of them fitted with a suite of cameras for heatshield inspec...",
+        "title": "SpaceX Starship Flight 13 - Launch & Landing - ATTEMPT 3 LAUNCH STREAM",
+        "description": "Starship launches Flight 13, the second launch of the Block 3 vehicle from Pad 2 at Starbase. This is the third attempt following a T-0 abort on July 16, and a weather scrub on July 23.\n\nLaunch Window: July 24th at 5:45PM to 7:15PM CDT (22:45-00:15 UTC)\n\nMission: Starship's 13th integrated flight test. Correcting issues from version 3's debut flight.\nLaunch location: Pad 2, Starbase, Earth. \nTarget orbit: Trans-atmospheric\nBooster: B20-1\nShip: S40-1\nBooster recovery: Expended - will attempt a water splashdown, no recovery.\nShip recovery: Expended - will attempt a water splashdown, no recovery.\nRocket trajectory: Southeast passing between Cuba and the Yucatan Peninsula.\nPayload onboard: 20 Starlink v3 satellites, 6 of them fitted with a suite of cameras for heatshield inspection.\nPaylo...",
         "feature_image": "https://i.ytimg.com/vi/lC3RDO7tdLc/maxresdefault_live.jpg",
         "url": "https://www.youtube.com/watch?v=lC3RDO7tdLc",
         "type": {
@@ -16994,7 +17429,7 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-23T19:45:00Z",
+        "start_time": "2026-07-24T20:00:00Z",
         "end_time": null,
         "live": false
       },
@@ -17015,8 +17450,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-23T22:12:00Z",
-        "end_time": "2026-07-24T03:12:00Z",
+        "start_time": "2026-07-24T22:12:00Z",
+        "end_time": "2026-07-25T03:13:00Z",
         "live": false
       },
       {
@@ -17036,7 +17471,7 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-23T21:15:00Z",
+        "start_time": "2026-07-24T21:15:00Z",
         "end_time": null,
         "live": false
       }
@@ -17299,7 +17734,7 @@
         "relative_time": "PT1H5M21S"
       }
     ],
-    "pad_turnaround": "P62DT14M36S",
+    "pad_turnaround": "P63DT14M36S",
     "mission_patches": [
       {
         "id": 773,
@@ -17320,433 +17755,6 @@
         "response_mode": "normal"
       }
     ]
-  },
-  {
-    "id": "fa42624c-1e30-4b4b-a06b-59b6153bc4e5",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/fa42624c-1e30-4b4b-a06b-59b6153bc4e5/",
-    "name": "Kinetica 1 | Unknown Payload",
-    "response_mode": "detailed",
-    "slug": "kinetica-1-unknown-payload",
-    "launch_designator": null,
-    "status": {
-      "id": 1,
-      "name": "Go for Launch",
-      "abbrev": "Go",
-      "description": "Current T-0 confirmed by official or reliable sources."
-    },
-    "last_updated": "2026-07-19T08:22:20Z",
-    "net": "2026-07-23T23:30:00Z",
-    "net_precision": {
-      "id": 2,
-      "name": "Hour",
-      "abbrev": "HR",
-      "description": "The T-0 is accurate to the hour."
-    },
-    "window_end": "2026-07-23T23:50:00Z",
-    "window_start": "2026-07-23T23:24:00Z",
-    "image": {
-      "id": 1755,
-      "name": "[AUTO] Kinetica 1 - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193659.png",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 1040,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1040/",
-      "name": "CAS Space",
-      "abbrev": "CAS",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": false,
-      "country": [
-        {
-          "id": 6,
-          "name": "China",
-          "alpha_2_code": "CN",
-          "alpha_3_code": "CHN",
-          "nationality_name": "Chinese",
-          "nationality_name_composed": "Sino"
-        }
-      ],
-      "description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
-      "administrator": null,
-      "founding_year": 2018,
-      "launchers": "Zhongke",
-      "spacecraft": "",
-      "parent": null,
-      "image": null,
-      "logo": {
-        "id": 122,
-        "name": "[AUTO] CAS Space - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_logo_20220727081352.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184930.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 48,
-        "name": "[AUTO] CAS Space - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_nation_20230604193435.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184743.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 15,
-      "consecutive_successful_launches": 9,
-      "successful_launches": 14,
-      "failed_launches": 1,
-      "pending_launches": 1,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://cas-space.com/",
-      "wiki_url": "https://en.wikipedia.org/wiki/CAS_Space",
-      "social_media_links": []
-    },
-    "rocket": {
-      "id": 9090,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 483,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/483/",
-        "name": "Kinetica 1",
-        "families": [],
-        "full_name": "Kinetica 1",
-        "variant": "",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 1040,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1040/",
-          "name": "CAS Space",
-          "abbrev": "CAS",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 6,
-              "name": "China",
-              "alpha_2_code": "CN",
-              "alpha_3_code": "CHN",
-              "nationality_name": "Chinese",
-              "nationality_name_composed": "Sino"
-            }
-          ],
-          "description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
-          "administrator": null,
-          "founding_year": 2018,
-          "launchers": "Zhongke",
-          "spacecraft": "",
-          "parent": null,
-          "image": null,
-          "logo": {
-            "id": 122,
-            "name": "[AUTO] CAS Space - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_logo_20220727081352.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184930.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 48,
-            "name": "[AUTO] CAS Space - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_nation_20230604193435.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184743.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 15,
-          "consecutive_successful_launches": 9,
-          "successful_launches": 14,
-          "failed_launches": 1,
-          "pending_launches": 1,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://cas-space.com/",
-          "wiki_url": "https://en.wikipedia.org/wiki/CAS_Space",
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": false,
-        "image": {
-          "id": 1755,
-          "name": "[AUTO] Kinetica 1 - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193659.png",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": "https://en.cas-space.com/index/index/technology",
-        "wiki_url": null,
-        "description": "Kinetica 1 (also known as Lijian-1, Chinese: 力箭一号) is a Chinese solid-propellant light launch vehicle. It is capable of placing about 2 tons into low earth orbit and 1.5 tons into sun-synchronous orbit. It is developed by CAS Space, a subsidiary of the Chinese Academy of Sciences. Kinetica 1 is a light launcher whose first stage seems to be derived from the DF-31 long-range intercontinental ballistic missile. It is 30 m high and has a diameter of 2.65 m, with a liftoff mass of 135 t. It's the largest Chinese solid propellant launcher to date, with four stages with a thrust of 200, 100, 50 and 10 tons respectively. The fairing has a diameter of 3.35 meters.",
-        "alias": "",
-        "min_stage": 4,
-        "max_stage": 4,
-        "length": 30.0,
-        "diameter": 2.65,
-        "maiden_flight": "2022-07-27",
-        "launch_cost": null,
-        "launch_mass": 135.0,
-        "leo_capacity": 2000.0,
-        "gto_capacity": null,
-        "geo_capacity": null,
-        "sso_capacity": 1500.0,
-        "to_thrust": 1961.0,
-        "apogee": null,
-        "total_launch_count": 14,
-        "consecutive_successful_launches": 8,
-        "successful_launches": 13,
-        "failed_launches": 1,
-        "pending_launches": 1,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": "P20DT23H59M"
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 7685,
-      "name": "Unknown Payload",
-      "type": "Unknown",
-      "description": "Details TBD.",
-      "image": null,
-      "orbit": {
-        "id": 25,
-        "name": "Unknown",
-        "abbrev": "N/A",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 151,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/151/",
-      "active": true,
-      "agencies": [],
-      "name": "Launch Area 130",
-      "image": {
-        "id": 1460,
-        "name": "Kinetica 1 liftoff from LA-130 (Flight 2)",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica25201_image_20230727064618.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192832.jpeg",
-        "credit": "CAS Space",
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "description": "",
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center",
-      "map_url": "https://www.google.com/maps?q=40.8182,100.22514",
-      "latitude": 40.8182,
-      "longitude": 100.22514,
-      "country": {
-        "id": 6,
-        "name": "China",
-        "alpha_2_code": "CN",
-        "alpha_3_code": "CHN",
-        "nationality_name": "Chinese",
-        "nationality_name_composed": "Sino"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_151_20200803143425.jpg",
-      "total_launch_count": 14,
-      "orbital_launch_attempt_count": 14,
-      "fastest_turnaround": "P20DT23H59M",
-      "location": {
-        "response_mode": "normal",
-        "id": 17,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/17/",
-        "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7570,
-          "successful_launches": 7014,
-          "failed_launches": 556,
-          "total_attempted_landings": 1342,
-          "successful_landings": 1294,
-          "failed_landings": 48
-        },
-        "active": true,
-        "country": {
-          "id": 6,
-          "name": "China",
-          "alpha_2_code": "CN",
-          "alpha_3_code": "CHN",
-          "nationality_name": "Chinese",
-          "nationality_name_composed": "Sino"
-        },
-        "description": "Jiuquan Satellite Launch Center is a Chinese spaceport located between the Ejin, Alxa, Inner Mongolia and Hangtian Town, Jinta County, Jiuquan, Gansu Province. It is part of the Dongfeng Aerospace City (Base 10).",
-        "image": {
-          "id": 1374,
-          "name": "Long March 2F/G liftoff (Shenzhou 16)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20240101085213.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192548.jpeg",
-          "credit": "CMS",
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": false,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_17_20200803142429.jpg",
-        "longitude": 100.291111,
-        "latitude": 40.958056,
-        "timezone_name": "Asia/Shanghai",
-        "total_launch_count": 291,
-        "total_landing_count": 2
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7349,
-    "location_launch_attempt_count": 292,
-    "pad_launch_attempt_count": 15,
-    "agency_launch_attempt_count": 16,
-    "orbital_launch_attempt_count_year": 176,
-    "location_launch_attempt_count_year": 19,
-    "pad_launch_attempt_count_year": 4,
-    "agency_launch_attempt_count_year": 5,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 15600,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Refined launch window per new NOTAMs.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=57867.msg2806735#msg2806735",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-07-19T08:22:00Z"
-      },
-      {
-        "id": 15585,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Added launch per NOTAMs; Payload and launch vehicle identities uncertain.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=57867.msg2806451#msg2806451",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-07-17T04:36:00Z"
-      }
-    ],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P38DT19H46M",
-    "mission_patches": []
   },
   {
     "id": "5b2f05d7-9052-49fb-9bd7-2a05d4910576",
@@ -19367,10 +19375,10 @@
       {
         "priority": 10,
         "source": "x.com",
-        "publisher": "SpaceX",
-        "title": "Starlink Mission",
+        "publisher": "X",
+        "title": "Livestream on X",
         "description": "Livestream on X",
-        "feature_image": "https://pbs.twimg.com/media/HM4PVnDWwAAQTwe.jpg",
+        "feature_image": null,
         "url": "https://x.com/i/broadcasts/1wxWjjQvmrkJQ",
         "type": {
           "id": 1,
@@ -19381,8 +19389,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-07-23T13:50:00Z",
-        "end_time": "2026-07-24T13:50:00Z",
+        "start_time": null,
+        "end_time": null,
         "live": false
       }
     ],
