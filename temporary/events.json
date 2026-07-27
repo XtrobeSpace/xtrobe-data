@@ -228,6 +228,27 @@
     ],
     "vid_urls": [
       {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA Astronaut Chris Williams Soyuz MS-28 Re-entry and Landing",
+        "description": "After 241 days in orbit, astronaut Chris Williams is returning home from his first mission to the International Space Station.\n\nWilliams, along with cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev, will touch down on Earth at 6:25 a.m. EDT (1025 UTC) in their Soyuz spacecraft after undocking from the station earlier on July 26. After landing on the steppe of Kazakhstan, they will fly by helicopter to Karaganda, Kazakhstan. \n\nDuring his time in space, Williams orbited the Earth 3,856 times, went on two spacewalks, and supported numerous experiments that are helping us learn how to live in space while making life better back on our home planet.\n\nLearn more about Chris Williams: https://www.nasa.gov/people/nasa-astronaut-christopher-l-williams/\nFollow the latest updates from the Intern...",
+        "feature_image": "https://i.ytimg.com/vi/4h884umjihw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4h884umjihw",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-07-26T09:14:20Z",
+        "end_time": "2026-07-26T11:07:03Z",
+        "live": false
+      },
+      {
         "priority": 11,
         "source": "plus.nasa.gov",
         "publisher": "NASA",
@@ -245,7 +266,7 @@
           "code": "en"
         },
         "start_time": "2026-07-26T09:15:00Z",
-        "end_time": "2026-07-26T13:00:00Z",
+        "end_time": "2026-07-26T11:07:00Z",
         "live": false
       }
     ],
@@ -280,8 +301,16 @@
       "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
-    "duration": null,
+    "duration": "PT1H52M43S",
     "updates": [
+      {
+        "id": 15665,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by NASA has started",
+        "info_url": "https://www.youtube.com/watch?v=4h884umjihw",
+        "created_by": "LL2",
+        "created_on": "2026-07-26T09:15:00Z"
+      },
       {
         "id": 15636,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -291,7 +320,7 @@
         "created_on": "2026-07-22T23:17:00Z"
       }
     ],
-    "last_updated": "2026-07-22T23:17:38Z"
+    "last_updated": "2026-07-26T11:18:53Z"
   },
   {
     "id": 1496,
@@ -335,7 +364,7 @@
           "code": "en"
         },
         "start_time": "2026-07-26T06:30:00Z",
-        "end_time": "2026-07-26T09:00:00Z",
+        "end_time": "2026-07-26T07:22:00Z",
         "live": false
       }
     ],
@@ -370,8 +399,16 @@
       "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
-    "duration": null,
+    "duration": "PT2H30M",
     "updates": [
+      {
+        "id": 15664,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by NASA has started",
+        "info_url": "https://plus.nasa.gov/scheduled-video/nasa-astronaut-chris-williams-soyuz-ms-28-undocking/",
+        "created_by": "LL2",
+        "created_on": "2026-07-26T06:35:00Z"
+      },
       {
         "id": 15635,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -389,7 +426,7 @@
         "created_on": "2026-07-14T00:53:00Z"
       }
     ],
-    "last_updated": "2026-07-22T23:16:59Z"
+    "last_updated": "2026-07-26T07:31:45Z"
   },
   {
     "id": 1503,
@@ -433,8 +470,8 @@
           "code": "en"
         },
         "start_time": "2026-07-26T03:10:00Z",
-        "end_time": "2026-07-27T03:49:00Z",
-        "live": true
+        "end_time": "2026-07-26T08:38:00Z",
+        "live": false
       }
     ],
     "image": {
@@ -459,7 +496,7 @@
       "name": "Farewell Ceremony"
     },
     "description": "NASA will livestream the farewell ceremony and hatch closing of the Soyuz MS-278crew ahead of its return to Earth.",
-    "webcast_live": true,
+    "webcast_live": false,
     "location": "International Space Station",
     "date_precision": {
       "id": 1,
@@ -487,7 +524,7 @@
         "created_on": "2026-07-23T12:08:00Z"
       }
     ],
-    "last_updated": "2026-07-26T03:21:43Z"
+    "last_updated": "2026-07-26T08:47:27Z"
   },
   {
     "id": 1502,
