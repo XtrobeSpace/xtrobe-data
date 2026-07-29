@@ -212,7 +212,7 @@
       "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
-    "duration": null,
+    "duration": "PT6H30M",
     "updates": [
       {
         "id": 15670,
@@ -223,7 +223,97 @@
         "created_on": "2026-07-27T16:22:00Z"
       }
     ],
-    "last_updated": "2026-07-27T16:26:59Z"
+    "last_updated": "2026-07-28T08:41:18Z"
+  },
+  {
+    "id": 1508,
+    "url": "https://ll.thespacedevs.com/2.3.0/events/1508/",
+    "name": "Chris Williams Post-Flight News Conference",
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": "nasa.gov",
+        "title": "Astronaut Chris Williams to Discuss Space Station Mission",
+        "description": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT",
+        "feature_image": null,
+        "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+        "type": {
+          "id": 1,
+          "name": "Official Page"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA Astronaut Chris Williams Postflight News Conference (Aug. 4, 2026)",
+        "description": "Tune in as astronaut Chris Williams recaps his eight-month mission aboard the International Space Station. \n\nAfter logging 241 days aboard the orbital laboratory, Williams returned to Earth on July 26, 2026. During his mission, he contributed to a wide range of scientific investigations and technology demonstrations, including research on new cancer treatments and manufacturing materials used in high-performance computers and electronics.\n \nLearn more about the science Williams conducted: https://go.nasa.gov/4fjNCry\nLearn more about the International Space Station: https://www.nasa.gov/station\n\nCredit: NASA",
+        "feature_image": "https://i.ytimg.com/vi/mpWTcLv72oE/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=mpWTcLv72oE",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-04T18:45:00Z",
+        "end_time": null,
+        "live": false
+      }
+    ],
+    "image": {
+      "id": 2792,
+      "name": "Chris Williams on the ISS",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chris_williams__image_20260728083641.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chris_williams__image_thumbnail_20260728083642.jpeg",
+      "credit": "NASA/Chris Williams",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "date": "2026-08-04T18:45:00Z",
+    "slug": "chris-williams-post-flight-news-conference",
+    "type": {
+      "id": 20,
+      "name": "Press Event"
+    },
+    "description": "NASA astronaut Chris Williams will recap his recent mission aboard the International Space Station during a news conference from the agency’s Johnson Space Center in Houston.",
+    "webcast_live": false,
+    "location": "Johnson Space Center, Houston, TX, USA",
+    "date_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
+    "response_mode": "normal",
+    "duration": null,
+    "updates": [
+      {
+        "id": 15680,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding event",
+        "info_url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+        "created_by": "Nosu",
+        "created_on": "2026-07-28T08:37:00Z"
+      }
+    ],
+    "last_updated": "2026-07-28T08:37:48Z"
   },
   {
     "id": 1498,
@@ -248,7 +338,29 @@
         }
       }
     ],
-    "vid_urls": [],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA's SpaceX Crew-13 Flight Crew News Conference (Aug. 3, 2026)",
+        "description": "The four members of NASA's SpaceX Crew-13 mission to the International Space Station, targeted to launch no earlier than mid-September, are talking about their upcoming journey in a news conference from NASA's Johnson Space Center.\n\nMeet the crew:\n- Jessica Watkins, commander, NASA \n- Luke Delaney, pilot, NASA \n- Joshua Kutryk, mission specialist, CSA \n- Sergey Teteryatnikov, mission specialist, Roscosmos \n\nLearn more about the mission: https://www.nasa.gov/commercialcrew\nGet daily updates from the station: https://www.nasa.gov/blogs/spacestation/\n\nCredit: NASA",
+        "feature_image": "https://i.ytimg.com/vi/x8344PSeH30/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=x8344PSeH30",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-03T18:00:00Z",
+        "end_time": null,
+        "live": false
+      }
+    ],
     "image": {
       "id": 2786,
       "name": "Crew-13 crew in Dragon",
@@ -291,7 +403,7 @@
         "created_on": "2026-07-21T14:50:00Z"
       }
     ],
-    "last_updated": "2026-07-21T14:50:09Z"
+    "last_updated": "2026-07-28T09:16:39Z"
   },
   {
     "id": 1497,
@@ -316,7 +428,29 @@
         }
       }
     ],
-    "vid_urls": [],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA's SpaceX Crew-13 Mission Overview News Conference (Aug. 3, 2026)",
+        "description": "Leaders from NASA and agency partners are holding a news conference at NASA's Johnson Space Center to discuss final preparations for our upcoming SpaceX Crew-13 mission to the International Space Station, targeted to launch no earlier than mid-September. \n\nParticipants include:\n- Joel Montalbano, deputy associate administrator, Human Spaceflight Mission Directorate, NASA Headquarters\n- Dana Weigel, manager, Low Earth Orbit Program, NASA Johnson\n- Mathieu Caron, director, Astronauts, Life Sciences, and Space Medicine, CSA\n- Julianna Scheiman, director, NASA Science and Dragon Programs, SpaceX\n\nLearn more about the mission: https://www.nasa.gov/commercialcrew\nGet daily updates from the station: https://www.nasa.gov/blogs/spacestation/\n\nCredit: NASA",
+        "feature_image": "https://i.ytimg.com/vi/IDUtReQSlb0/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=IDUtReQSlb0",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-03T16:00:00Z",
+        "end_time": null,
+        "live": false
+      }
+    ],
     "image": {
       "id": 2252,
       "name": "Falcon 9 on SLC-40 (Crew-9)",
@@ -359,7 +493,7 @@
         "created_on": "2026-07-21T14:47:00Z"
       }
     ],
-    "last_updated": "2026-07-21T14:47:14Z"
+    "last_updated": "2026-07-28T09:16:32Z"
   },
   {
     "id": 1507,
@@ -384,7 +518,29 @@
         }
       }
     ],
-    "vid_urls": [],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "U.S. Spacewalk Preview News Conference (July 30, 2026)",
+        "description": "August will be a month of spacewalks. Tune in and find out what's happening!\n\nNASA experts are speaking about three upcoming spacewalks outside the International Space Station in a live news conference taking place at NASA's Johnson Space Center. These spacewalks, currently scheduled for Aug. 6, Aug. 13 and Aug. 25, will make upgrades and repairs to the orbiting laboratory.\n\nParticipants include: \n- Bill Spetch, deputy manager of Commercial, Low Earth Orbit Program\n- Chris Dobbins, spacewalk flight director\n- Chloe Mehring, spacewalk flight director \n\nLearn more about our upcoming spacewalks: https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/\nGet daily updates from the space station: https://www.nasa.gov/blogs/spacestation/",
+        "feature_image": "https://i.ytimg.com/vi/ea9gZp_KxBU/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=ea9gZp_KxBU",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-07-30T18:00:00Z",
+        "end_time": null,
+        "live": false
+      }
+    ],
     "image": {
       "id": 1240,
       "name": "US EVA Astronaut outside the ISS",
@@ -427,7 +583,7 @@
         "created_on": "2026-07-27T16:32:00Z"
       }
     ],
-    "last_updated": "2026-07-27T16:32:07Z"
+    "last_updated": "2026-07-28T08:40:13Z"
   },
   {
     "id": 1500,
@@ -452,7 +608,29 @@
         }
       }
     ],
-    "vid_urls": [],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "Nancy Grace Roman Space Telescope Mission Preview News Conference (July 29, 2026)",
+        "description": "Tune in as we preview the Nancy Grace Roman Space Telescope mission one month ahead of its scheduled launch on Aug. 30! Experts from NASA are providing an overview of the mission and its current status:\n\n- Shawn Domagal-Goldman, director, Astrophysics Division, NASA Headquarters \n- Jackie Townsend, Roman telescope project manager, NASA’s Goddard Space Flight Center\n- Julie McEnery, Roman telescope senior project scientist, NASA Goddard \n- Jeremy Perkins, Roman telescope integration and test scientist, NASA Goddard \n\nNamed after NASA’s first chief astronomer, the Nancy Grace Roman Space Telescope will have a deep, panoramic view of the cosmos, generating never-before-seen pictures that will revolutionize our understanding of the universe.\n\nLearn more about Roman: https://science.nasa.g...",
+        "feature_image": "https://i.ytimg.com/vi/7I-yAwdxWQo/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=7I-yAwdxWQo",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-07-29T18:00:00Z",
+        "end_time": null,
+        "live": false
+      }
+    ],
     "image": {
       "id": 2737,
       "name": "Roman Space Telescope in the clean room",
@@ -495,7 +673,7 @@
         "created_on": "2026-07-22T09:54:00Z"
       }
     ],
-    "last_updated": "2026-07-22T09:54:15Z"
+    "last_updated": "2026-07-28T09:16:21Z"
   },
   {
     "id": 1501,
