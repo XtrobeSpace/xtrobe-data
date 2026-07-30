@@ -5639,16 +5639,137 @@
   {
     "id": "1c040590-5157-4850-86e2-f878dd7d49d4",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/1c040590-5157-4850-86e2-f878dd7d49d4/",
-    "slug": "lvm-3-bluebird-block-2-1",
-    "name": "LVM-3 | BlueBird Block 2 #1",
+    "name": "LVM-3 | BlueBird 6 (Block 2 #1)",
+    "response_mode": "detailed",
+    "slug": "lvm-3-bluebird-6-block-2-1",
+    "launch_designator": "2025-309",
     "status": {
       "id": 3,
       "name": "Launch Successful",
-      "abbrev": "Success"
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
+    "last_updated": "2026-07-30T05:36:16Z",
     "net": "2025-12-24T03:25:30Z",
-    "window_start": "2025-12-24T02:50:00Z",
+    "net_precision": {
+      "id": 0,
+      "name": "Second",
+      "abbrev": "SEC",
+      "description": "The T-0 is accurate to the second."
+    },
     "window_end": "2025-12-24T06:50:00Z",
+    "window_start": "2025-12-24T02:50:00Z",
+    "image": {
+      "id": 1784,
+      "name": "[AUTO] LVM-3 (GSLV Mk III) - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520iii_image_20190604000938.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193746.jpeg",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 31,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
+      "name": "Indian Space Research Organization",
+      "abbrev": "ISRO",
+      "type": {
+        "id": 1,
+        "name": "Government"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 9,
+          "name": "India",
+          "alpha_2_code": "IN",
+          "alpha_3_code": "IND",
+          "nationality_name": "Indian",
+          "nationality_name_composed": "Indo"
+        }
+      ],
+      "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+      "administrator": "Chairman: V. Narayanan",
+      "founding_year": 1969,
+      "launchers": "PSLV | GSLV",
+      "spacecraft": "Gaganyaan",
+      "parent": null,
+      "image": {
+        "id": 14,
+        "name": "[AUTO] Indian Space Research Organization - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 141,
+        "name": "[AUTO] Indian Space Research Organization - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 63,
+        "name": "[AUTO] Indian Space Research Organization - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 99,
+      "consecutive_successful_launches": 0,
+      "successful_launches": 84,
+      "failed_launches": 15,
+      "pending_launches": 18,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 1,
+      "failed_landings_payload": 1,
+      "attempted_landings_payload": 2,
+      "info_url": "https://www.isro.gov.in/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
+      "social_media_links": []
+    },
     "rocket": {
       "id": 8407,
       "configuration": {
@@ -5738,7 +5859,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 84,
                 "failed_launches": 15,
-                "pending_launches": 17,
+                "pending_launches": 18,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 0,
@@ -5849,7 +5970,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 84,
           "failed_launches": 15,
-          "pending_launches": 17,
+          "pending_launches": 18,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 0,
@@ -5915,7 +6036,7 @@
     },
     "mission": {
       "id": 6995,
-      "name": "BlueBird Block 2 #1",
+      "name": "BlueBird 6 (Block 2 #1)",
       "type": "Communications",
       "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature a single satellite.",
       "image": null,
@@ -6081,12 +6202,12 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7507,
-          "successful_launches": 6951,
+          "total_attempted_launches": 7575,
+          "successful_launches": 7019,
           "failed_launches": 556,
-          "total_attempted_landings": 1307,
-          "successful_landings": 1260,
-          "failed_landings": 47
+          "total_attempted_landings": 1346,
+          "successful_landings": 1297,
+          "failed_landings": 49
         },
         "active": true,
         "country": {
@@ -6117,122 +6238,322 @@
         "longitude": 80.23,
         "latitude": 13.72,
         "timezone_name": "Asia/Kolkata",
-        "total_launch_count": 103,
+        "total_launch_count": 104,
         "total_landing_count": 0
       }
     },
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 31,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-      "name": "Indian Space Research Organization",
-      "abbrev": "ISRO",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 9,
-          "name": "India",
-          "alpha_2_code": "IN",
-          "alpha_3_code": "IND",
-          "nationality_name": "Indian",
-          "nationality_name_composed": "Indo"
-        }
-      ],
-      "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "administrator": "Chairman: V. Narayanan",
-      "founding_year": 1969,
-      "launchers": "PSLV | GSLV",
-      "spacecraft": "Gaganyaan",
-      "parent": null,
-      "image": {
-        "id": 14,
-        "name": "[AUTO] Indian Space Research Organization - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 141,
-        "name": "[AUTO] Indian Space Research Organization - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 63,
-        "name": "[AUTO] Indian Space Research Organization - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 99,
-      "consecutive_successful_launches": 0,
-      "successful_launches": 84,
-      "failed_launches": 15,
-      "pending_launches": 17,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 1,
-      "failed_landings_payload": 1,
-      "attempted_landings_payload": 2,
-      "info_url": "https://www.isro.gov.in/",
-      "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-      "social_media_links": []
-    },
-    "image": {
-      "id": 1784,
-      "name": "[AUTO] LVM-3 (GSLV Mk III) - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520iii_image_20190604000938.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193746.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "vidURLs": [],
+    "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt": null,
-    "suborbital_launch_attempt": null,
-    "last_updated": "2025-12-24T12:54:02Z",
-    "_imported": true
+    "orbital_launch_attempt_count": 7167,
+    "location_launch_attempt_count": 102,
+    "pad_launch_attempt_count": 32,
+    "agency_launch_attempt_count": 98,
+    "orbital_launch_attempt_count_year": 318,
+    "location_launch_attempt_count_year": 5,
+    "pad_launch_attempt_count_year": 4,
+    "agency_launch_attempt_count_year": 5,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 13455,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Satellite in contact.",
+        "info_url": "https://x.com/AbelAvellan/status/2003686320950988812",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-24T05:22:00Z"
+      },
+      {
+        "id": 13453,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Spacecraft separation.",
+        "info_url": "https://www.youtube.com/watch?v=tNpY3wLE3nE",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-24T03:43:00Z"
+      },
+      {
+        "id": 13452,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by ISRO Official has started",
+        "info_url": "https://www.youtube.com/watch?v=tNpY3wLE3nE",
+        "created_by": "LL2",
+        "created_on": "2025-12-24T03:26:00Z"
+      },
+      {
+        "id": 13451,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Liftoff.",
+        "info_url": "https://www.youtube.com/watch?v=tNpY3wLE3nE",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-24T03:25:00Z"
+      },
+      {
+        "id": 13450,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by ISRO Official has started",
+        "info_url": "https://www.youtube.com/watch?v=tNpY3wLE3nE",
+        "created_by": "LL2",
+        "created_on": "2025-12-24T02:55:00Z"
+      },
+      {
+        "id": 13449,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Tweaked T-0.",
+        "info_url": "https://x.com/isro/status/2003630674050449707",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-24T01:24:00Z"
+      },
+      {
+        "id": 13389,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding T-0 and setting GO",
+        "info_url": "https://lvg.shar.gov.in/VSCREGISTRATION/index.jsp",
+        "created_by": "Nosu",
+        "created_on": "2025-12-18T12:34:00Z"
+      },
+      {
+        "id": 13348,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to NET December 24.",
+        "info_url": "https://www.andhrajyothy.com/2025/andhra-pradesh/isro-to-launch-6500-kg-bluebird-communication-satellite-on-dec-24-1475573.html",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-16T03:11:00Z"
+      },
+      {
+        "id": 13305,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to December 21.",
+        "info_url": "https://www.andhrajyothy.com/2025/andhra-pradesh/isro-bluebird-satellite-launch-postponed-to-december-21-1474445.html",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-13T21:45:00Z"
+      },
+      {
+        "id": 13184,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Rescheduled for NET December 20 per new NOTAMs.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=61952.msg2741121#msg2741121",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-08T14:27:00Z"
+      },
+      {
+        "id": 13042,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added tentative launch window.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=61952.msg2737994#msg2737994",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-11-26T13:51:00Z"
+      },
+      {
+        "id": 12974,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET December 15.",
+        "info_url": "https://www.businesswire.com/news/home/20251121182027/en/AST-SpaceMobile-Announces-BlueBird-6-Launch-Date-the-Largest-Commercial-Communications-Array-Ever-Deployed-in-Low-Earth-Orbit",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-11-21T13:13:00Z"
+      },
+      {
+        "id": 12648,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET early December.",
+        "info_url": "https://timesofindia.indiatimes.com/science/lvm-3-to-launch-cms-03-on-november-2-nisar-to-begin-operations-soon/articleshow/124758812.cms",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-10-23T13:38:00Z"
+      },
+      {
+        "id": 11718,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET Q4 2025.",
+        "info_url": "https://www.thehindu.com/sci-tech/science/after-nisar-isro-gearing-up-for-next-us-collaboration-with-bluebird-communications-satellite-launch/article69882412.ece/amp/",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-08-01T18:20:00Z"
+      },
+      {
+        "id": 11468,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET August.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=61952.msg2698508#msg2698508",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-07-02T10:51:00Z"
+      },
+      {
+        "id": 10755,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET July.",
+        "info_url": "https://x.com/TitaniumSV5/status/1913248212325933506",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-04-18T16:08:00Z"
+      },
+      {
+        "id": 10499,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET May.",
+        "info_url": "https://www.rediff.com/news/report/isro-arm-all-set-to-launch-us-satellite/20250318.htm",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-03-18T22:06:00Z"
+      },
+      {
+        "id": 10140,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET Q2.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=61952.msg2665944#msg2665944",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-02-21T07:49:00Z"
+      },
+      {
+        "id": 9752,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET March.",
+        "info_url": "https://www.thehindu.com/news/national/karnataka/jitendra-singh-reviews-upcoming-isro-missions/article69080798.ece",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-01-10T10:02:00Z"
+      },
+      {
+        "id": 9205,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Fixed rocket variant.",
+        "info_url": "https://www.youtube.com/watch?v=zLRpEdyX_Zc",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2024-11-15T13:26:00Z"
+      },
+      {
+        "id": 9201,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added launch.",
+        "info_url": "https://spacenews.com/ast-spacemobile-leans-on-blue-origin-to-ramp-up-satellite-launches/",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2024-11-15T07:19:00Z"
+      }
+    ],
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": null,
+        "title": null,
+        "description": null,
+        "feature_image": null,
+        "url": "https://www.isro.gov.in/media_isro/pdf/LVM3M6/LVM3M6_Brochure_201225.pdf",
+        "type": {
+          "id": 2,
+          "name": "Official Press Kit"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "ISRO Official",
+        "title": "LVM3-M6 / BlueBird Block-2 Mission | Live Launch | ISRO-NSIL",
+        "description": "Watch the LVM3-M6 / BlueBird Block-2 mission live, conducted by ISRO-NSIL, deploying the BlueBird Block-2 communication satellite of AST SpaceMobile into Low Earth Orbit.\n🚀 Launch: 24 December | 08:54 IST\n📡 Livestream: 24 December | 08:24 IST onwards\n\nThis mission marks the 6th operational flight of the LVM3 launch vehicle. LVM3-M6 will place the BlueBird Block-2 satellite into Low Earth Orbit, and it is the largest commercial communications satellite to be deployed in Low Earth Orbit as well as the heaviest payload to be launched by LVM3 from Indian soil.",
+        "feature_image": "https://i.ytimg.com/vi/tNpY3wLE3nE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tNpY3wLE3nE",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2025-12-24T02:55:17Z",
+        "end_time": "2025-12-24T04:11:51Z",
+        "live": false
+      },
+      {
+        "priority": 11,
+        "source": "youtube.com",
+        "publisher": "AST SpaceMobile",
+        "title": "Webcast: AST SpaceMobile BlueBird 6 Mission Live Launch",
+        "description": "AST SpaceMobile is scheduled to launch the first of its next-generation satellites to low Earth orbit on December 23, 2025 at 10:25 p.m. EST. The mission, called BlueBird 6, will lift off from the Satish Dhawan Space Center aboard the LVM3 rocket. Watch AST SpaceMobile's webcast featuring new videos, a word from President Scott Wisniewski, a tour of our Midland facility, and interviews with our strategic partners American Tower and Rakuten. The broadcast will begin approximately 30 minutes before launch time. The exact timing of launch is subject to change based on a number of factors, including readiness of the launch vehicle, weather conditions, and other factors – so stay tuned to AST SpaceMobile's social media channels for the latest updates.",
+        "feature_image": "https://i.ytimg.com/vi/vwdATsLffyU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vwdATsLffyU",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2025-12-24T02:52:36Z",
+        "end_time": "2025-12-24T03:43:05Z",
+        "live": false
+      }
+    ],
+    "timeline": [
+      {
+        "type": {
+          "id": 129,
+          "abbrev": "Booster Ignition",
+          "description": "Ignition of the solid rocket boosters."
+        },
+        "relative_time": "P0D"
+      },
+      {
+        "type": {
+          "id": 9,
+          "abbrev": "Ignition",
+          "description": "Start of the engine ignition sequence"
+        },
+        "relative_time": "PT1M45.98S"
+      },
+      {
+        "type": {
+          "id": 77,
+          "abbrev": "SRB Separation",
+          "description": "The solid rocket boosters are separated from the launcher."
+        },
+        "relative_time": "PT2M12.46S"
+      },
+      {
+        "type": {
+          "id": 15,
+          "abbrev": "Fairing Separation",
+          "description": "Separation of the payload fairing"
+        },
+        "relative_time": "PT2M54S"
+      },
+      {
+        "type": {
+          "id": 13,
+          "abbrev": "Stage 2 Separation",
+          "description": "Separation of the second stage from the first"
+        },
+        "relative_time": "PT5M1.96S"
+      },
+      {
+        "type": {
+          "id": 31,
+          "abbrev": "SES",
+          "description": "Start of the second engine"
+        },
+        "relative_time": "PT5M4.36S"
+      },
+      {
+        "type": {
+          "id": 24,
+          "abbrev": "SECO",
+          "description": "Cut-off of the second engine"
+        },
+        "relative_time": "PT15M39S"
+      },
+      {
+        "type": {
+          "id": 35,
+          "abbrev": "Payload Separation",
+          "description": "Final deployment of the payload from the rocket"
+        },
+        "relative_time": "PT15M42.52S"
+      }
+    ],
+    "pad_turnaround": "P51DT15H29M30S",
+    "mission_patches": []
   },
   {
     "id": "7b60de1e-7d8a-4213-a2f5-44a01ae21e28",
