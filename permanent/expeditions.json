@@ -1,5 +1,66 @@
 [
   {
+    "id": 168,
+    "url": "https://ll.thespacedevs.com/2.3.0/expeditions/168/",
+    "name": "Expedition 75",
+    "start": "2026-07-26T07:02:00Z",
+    "end": null,
+    "response_mode": "normal",
+    "spacestation": {
+      "id": 4,
+      "url": "https://ll.thespacedevs.com/2.3.0/space_stations/4/",
+      "name": "International Space Station",
+      "image": {
+        "id": 1952,
+        "name": "ISS as seen from Shuttle Atlantis (STS-132)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/international2520space2520station_image_20190220215716.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194230.jpeg",
+        "credit": "NASA",
+        "license": {
+          "id": 4,
+          "name": "NASA Image and Media Guidelines",
+          "priority": 0,
+          "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "status": {
+        "id": 1,
+        "name": "Active"
+      },
+      "founded": "1998-11-20",
+      "deorbited": null,
+      "description": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. Its first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date. The last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030. Development and assembly of the station continues, with several new elements scheduled for launch in 2019. The ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets, and American Space Shuttles.",
+      "orbit": "Low Earth Orbit",
+      "type": {
+        "id": 2,
+        "name": "Government"
+      }
+    },
+    "mission_patches": [
+      {
+        "id": 1335,
+        "name": "Expedition 75 Patch",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/expedition2520_mission_patch_20260723115147.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 44,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+          "name": "National Aeronautics and Space Administration",
+          "abbrev": "NASA",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ],
+    "spacewalks": []
+  },
+  {
     "id": 167,
     "url": "https://ll.thespacedevs.com/2.3.0/expeditions/167/",
     "name": "Shenzhou 23",
@@ -65,7 +126,7 @@
     "url": "https://ll.thespacedevs.com/2.3.0/expeditions/165/",
     "name": "Expedition 74",
     "start": "2025-12-09T01:41:00Z",
-    "end": null,
+    "end": "2026-07-26T07:02:00Z",
     "response_mode": "normal",
     "spacestation": {
       "id": 4,
