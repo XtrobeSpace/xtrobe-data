@@ -5945,16 +5945,16 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-07-30T21:36:33Z",
-    "net": "2026-08-10T14:50:00Z",
+    "last_updated": "2026-07-31T14:57:09Z",
+    "net": "2026-08-10T14:49:00Z",
     "net_precision": {
       "id": 1,
       "name": "Minute",
       "abbrev": "MIN",
       "description": "The T-0 is accurate to the minute."
     },
-    "window_end": "2026-08-10T18:50:00Z",
-    "window_start": "2026-08-10T14:50:00Z",
+    "window_end": "2026-08-10T18:49:00Z",
+    "window_start": "2026-08-10T14:49:00Z",
     "image": {
       "id": 1296,
       "name": "Starlink night fairing",
@@ -6807,72 +6807,6 @@
         "program": [
           {
             "response_mode": "normal",
-            "id": 5,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
-            "name": "Commercial Crew Program",
-            "image": {
-              "id": 1869,
-              "name": "Commercial Crew Program logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
-              "credit": "NASA",
-              "license": {
-                "id": 4,
-                "name": "NASA Image and Media Guidelines",
-                "priority": 0,
-                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
-            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
-                "name": "Boeing",
-                "abbrev": "BA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2011-04-18T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          },
-          {
-            "response_mode": "normal",
             "id": 11,
             "url": "https://ll.thespacedevs.com/2.3.0/programs/11/",
             "name": "Commercial Resupply Services",
@@ -6941,6 +6875,72 @@
               }
             ],
             "start_date": "2008-12-23T00:00:00Z",
+            "end_date": null,
+            "mission_patches": [],
+            "type": {
+              "id": 2,
+              "name": "Human Spaceflight"
+            }
+          },
+          {
+            "response_mode": "normal",
+            "id": 5,
+            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
+            "name": "Commercial Crew Program",
+            "image": {
+              "id": 1869,
+              "name": "Commercial Crew Program logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
+            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
+            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
+            "agencies": [
+              {
+                "response_mode": "list",
+                "id": 80,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                "name": "Boeing",
+                "abbrev": "BA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 44,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                "name": "National Aeronautics and Space Administration",
+                "abbrev": "NASA",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 121,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+                "name": "SpaceX",
+                "abbrev": "SpX",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              }
+            ],
+            "start_date": "2011-04-18T00:00:00Z",
             "end_date": null,
             "mission_patches": [],
             "type": {
@@ -7034,7 +7034,7 @@
             "fastest_turnaround": "P23DT7H36M10S"
           },
           "previous_flight_date": "2026-06-29T02:25:00Z",
-          "turn_around_time": "P42DT12H25M",
+          "turn_around_time": "P42DT12H24M",
           "landing": {
             "id": 1902,
             "url": "https://ll.thespacedevs.com/2.3.0/landings/1902/",
@@ -7578,6 +7578,14 @@
     "flightclub_url": "https://flightclub.io/result?llId=36ab6924-bb36-416a-b71d-cda9e88004be",
     "updates": [
       {
+        "id": 15714,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "Now targeting Aug 10 at 14:49 UTC",
+        "info_url": "https://www.spacex.com/launches/sl-10-19",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-07-31T14:57:00Z"
+      },
+      {
         "id": 15712,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
         "comment": "Tweaked launch window.",
@@ -7822,7 +7830,7 @@
         "relative_time": "PT1H4M3S"
       }
     ],
-    "pad_turnaround": "P5DT7H8M",
+    "pad_turnaround": "P5DT7H7M",
     "mission_patches": [
       {
         "id": 7,
