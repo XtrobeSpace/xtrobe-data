@@ -412,7 +412,7 @@
             "consecutive_successful_launches": 319,
             "successful_launches": 682,
             "failed_launches": 7,
-            "pending_launches": 125,
+            "pending_launches": 124,
             "attempted_landings": 661,
             "successful_landings": 643,
             "failed_landings": 19,
@@ -686,7 +686,7 @@
             "consecutive_successful_launches": 317,
             "successful_launches": 668,
             "failed_launches": 4,
-            "pending_launches": 111,
+            "pending_launches": 110,
             "attempted_landings": 636,
             "successful_landings": 622,
             "failed_landings": 15,
@@ -7030,7 +7030,7 @@
             "consecutive_successful_launches": 319,
             "successful_launches": 682,
             "failed_launches": 7,
-            "pending_launches": 125,
+            "pending_launches": 124,
             "attempted_landings": 661,
             "successful_landings": 643,
             "failed_landings": 19,
@@ -7304,7 +7304,7 @@
             "consecutive_successful_launches": 317,
             "successful_launches": 668,
             "failed_launches": 4,
-            "pending_launches": 111,
+            "pending_launches": 110,
             "attempted_landings": 636,
             "successful_landings": 622,
             "failed_landings": 15,
@@ -10549,7 +10549,7 @@
             "consecutive_successful_launches": 319,
             "successful_launches": 682,
             "failed_launches": 7,
-            "pending_launches": 125,
+            "pending_launches": 124,
             "attempted_landings": 661,
             "successful_landings": 643,
             "failed_landings": 19,
@@ -10823,7 +10823,7 @@
             "consecutive_successful_launches": 317,
             "successful_launches": 668,
             "failed_launches": 4,
-            "pending_launches": 111,
+            "pending_launches": 110,
             "attempted_landings": 636,
             "successful_landings": 622,
             "failed_landings": 15,
@@ -12443,7 +12443,7 @@
             "consecutive_successful_launches": 319,
             "successful_launches": 682,
             "failed_launches": 7,
-            "pending_launches": 125,
+            "pending_launches": 124,
             "attempted_landings": 661,
             "successful_landings": 643,
             "failed_landings": 19,
@@ -12717,7 +12717,7 @@
             "consecutive_successful_launches": 317,
             "successful_launches": 668,
             "failed_launches": 4,
-            "pending_launches": 111,
+            "pending_launches": 110,
             "attempted_landings": 636,
             "successful_landings": 622,
             "failed_landings": 15,
@@ -14747,13 +14747,13 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-07-30T05:41:04Z",
-    "net": "2026-08-04T14:00:00Z",
+    "last_updated": "2026-08-04T02:20:16Z",
+    "net": "2026-08-04T16:24:55Z",
     "net_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
+      "id": 0,
+      "name": "Second",
+      "abbrev": "SEC",
+      "description": "The T-0 is accurate to the second."
     },
     "window_end": "2026-08-04T18:00:00Z",
     "window_start": "2026-08-04T14:00:00Z",
@@ -15147,7 +15147,7 @@
             "consecutive_successful_launches": 319,
             "successful_launches": 682,
             "failed_launches": 7,
-            "pending_launches": 125,
+            "pending_launches": 124,
             "attempted_landings": 661,
             "successful_landings": 643,
             "failed_landings": 19,
@@ -15421,7 +15421,7 @@
             "consecutive_successful_launches": 317,
             "successful_launches": 668,
             "failed_launches": 4,
-            "pending_launches": 111,
+            "pending_launches": 110,
             "attempted_landings": 636,
             "successful_landings": 622,
             "failed_landings": 15,
@@ -15609,72 +15609,6 @@
         "program": [
           {
             "response_mode": "normal",
-            "id": 5,
-            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
-            "name": "Commercial Crew Program",
-            "image": {
-              "id": 1869,
-              "name": "Commercial Crew Program logo",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
-              "credit": "NASA",
-              "license": {
-                "id": 4,
-                "name": "NASA Image and Media Guidelines",
-                "priority": 0,
-                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
-            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-            "agencies": [
-              {
-                "response_mode": "list",
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
-                "name": "Boeing",
-                "abbrev": "BA",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 44,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
-                "name": "National Aeronautics and Space Administration",
-                "abbrev": "NASA",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                }
-              },
-              {
-                "response_mode": "list",
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-                "name": "SpaceX",
-                "abbrev": "SpX",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                }
-              }
-            ],
-            "start_date": "2011-04-18T00:00:00Z",
-            "end_date": null,
-            "mission_patches": [],
-            "type": {
-              "id": 2,
-              "name": "Human Spaceflight"
-            }
-          },
-          {
-            "response_mode": "normal",
             "id": 11,
             "url": "https://ll.thespacedevs.com/2.3.0/programs/11/",
             "name": "Commercial Resupply Services",
@@ -15743,6 +15677,72 @@
               }
             ],
             "start_date": "2008-12-23T00:00:00Z",
+            "end_date": null,
+            "mission_patches": [],
+            "type": {
+              "id": 2,
+              "name": "Human Spaceflight"
+            }
+          },
+          {
+            "response_mode": "normal",
+            "id": 5,
+            "url": "https://ll.thespacedevs.com/2.3.0/programs/5/",
+            "name": "Commercial Crew Program",
+            "image": {
+              "id": 1869,
+              "name": "Commercial Crew Program logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/commercial2520_program_20200820201209.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194004.png",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
+            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program",
+            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
+            "agencies": [
+              {
+                "response_mode": "list",
+                "id": 80,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                "name": "Boeing",
+                "abbrev": "BA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 44,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                "name": "National Aeronautics and Space Administration",
+                "abbrev": "NASA",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                }
+              },
+              {
+                "response_mode": "list",
+                "id": 121,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+                "name": "SpaceX",
+                "abbrev": "SpX",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                }
+              }
+            ],
+            "start_date": "2011-04-18T00:00:00Z",
             "end_date": null,
             "mission_patches": [],
             "type": {
@@ -15836,7 +15836,7 @@
             "fastest_turnaround": "P32DT18H36M20S"
           },
           "previous_flight_date": "2026-06-21T16:39:06Z",
-          "turn_around_time": "P43DT21H20M54S",
+          "turn_around_time": "P43DT23H45M49S",
           "landing": {
             "id": 1899,
             "url": "https://ll.thespacedevs.com/2.3.0/landings/1899/",
@@ -16306,6 +16306,22 @@
     "flightclub_url": "https://flightclub.io/result?llId=0448d030-5175-4c1f-bd0b-4f3f87072921",
     "updates": [
       {
+        "id": 15730,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Tweaked T-0.",
+        "info_url": "https://www.spacex.com/launches/sl-17-53",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-04T02:20:00Z"
+      },
+      {
+        "id": 15729,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Now targeting Aug 04 at 16:24 UTC",
+        "info_url": "https://www.spacex.com/launches/sl-17-53",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-03T23:31:00Z"
+      },
+      {
         "id": 15692,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
         "comment": "Now targeting Aug 04 at 14:00 UTC",
@@ -16380,6 +16396,27 @@
         "live": false
       },
       {
+        "priority": 9,
+        "source": "youtube.com",
+        "publisher": "Spaceflight Now",
+        "title": "Live: SpaceX Falcon 9 rocket launches 24 Starlink internet satellites from California",
+        "description": "Watch live coverage as SpaceX launches a Falcon 9 rocket from California with 24 satellites for the company's Starlink space-based internet service. Liftoff from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base is scheduled for Tuesday, August 4, at 9:24 a.m. PDT (12:24 p.m. EDT / 1624 UTC).\n\nThe first-stage booster, serial number B1063, launching for a 34th time, will land on the drone ship 'Of Course I Still Love You' nearly 8.5 minutes into the flight.\n\nThe Starlink 17-53 mission will take a southerly trajectory upon departure from Vandenberg. \n\nLive commentary from Spaceflight Now's Will Robinson-Smith will be provided starting about 30 minutes prior to launch.\n\nVideos like this are made possible by the support of our members. Join this channel to get access to perk...",
+        "feature_image": "https://i.ytimg.com/vi/cUU6opP_GDg/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=cUU6opP_GDg",
+        "type": {
+          "id": 3,
+          "name": "Unofficial Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-04T16:54:00Z",
+        "end_time": null,
+        "live": false
+      },
+      {
         "priority": 10,
         "source": "x.com",
         "publisher": "SpaceX",
@@ -16396,8 +16433,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-08-04T13:50:00Z",
-        "end_time": "2026-08-04T15:51:00Z",
+        "start_time": "2026-08-04T16:14:00Z",
+        "end_time": "2026-08-05T16:14:00Z",
         "live": false
       }
     ],
@@ -16587,7 +16624,7 @@
         "relative_time": "PT1H1M16S"
       }
     ],
-    "pad_turnaround": "P3DT10H51M17S",
+    "pad_turnaround": "P3DT13H16M12S",
     "mission_patches": [
       {
         "id": 7,
@@ -17621,7 +17658,7 @@
             "consecutive_successful_launches": 319,
             "successful_launches": 682,
             "failed_launches": 7,
-            "pending_launches": 125,
+            "pending_launches": 124,
             "attempted_landings": 661,
             "successful_landings": 643,
             "failed_landings": 19,
@@ -17895,7 +17932,7 @@
             "consecutive_successful_launches": 317,
             "successful_launches": 668,
             "failed_launches": 4,
-            "pending_launches": 111,
+            "pending_launches": 110,
             "attempted_landings": 636,
             "successful_landings": 622,
             "failed_landings": 15,
@@ -19299,7 +19336,7 @@
             "consecutive_successful_launches": 319,
             "successful_launches": 682,
             "failed_launches": 7,
-            "pending_launches": 125,
+            "pending_launches": 124,
             "attempted_landings": 661,
             "successful_landings": 643,
             "failed_landings": 19,
@@ -19573,7 +19610,7 @@
             "consecutive_successful_launches": 317,
             "successful_launches": 668,
             "failed_launches": 4,
-            "pending_launches": 111,
+            "pending_launches": 110,
             "attempted_landings": 636,
             "successful_landings": 622,
             "failed_landings": 15,
@@ -20447,11 +20484,11 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7360,
+    "orbital_launch_attempt_count": 7359,
     "location_launch_attempt_count": 904,
     "pad_launch_attempt_count": 288,
     "agency_launch_attempt_count": 714,
-    "orbital_launch_attempt_count_year": 187,
+    "orbital_launch_attempt_count_year": 186,
     "location_launch_attempt_count_year": 52,
     "pad_launch_attempt_count_year": 50,
     "agency_launch_attempt_count_year": 95,
@@ -20710,7 +20747,7 @@
         "relative_time": "PT1H1M16S"
       }
     ],
-    "pad_turnaround": "P4D",
+    "pad_turnaround": "P3DT21H35M14S",
     "mission_patches": [
       {
         "id": 7,
@@ -21457,11 +21494,11 @@
     },
     "webcast_live": false,
     "program": [],
-    "orbital_launch_attempt_count": 7361,
+    "orbital_launch_attempt_count": 7360,
     "location_launch_attempt_count": 71,
     "pad_launch_attempt_count": 33,
     "agency_launch_attempt_count": 609,
-    "orbital_launch_attempt_count_year": 188,
+    "orbital_launch_attempt_count_year": 187,
     "location_launch_attempt_count_year": 16,
     "pad_launch_attempt_count_year": 5,
     "agency_launch_attempt_count_year": 39,
