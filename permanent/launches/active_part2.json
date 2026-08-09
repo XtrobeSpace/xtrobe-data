@@ -15441,16 +15441,16 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-08-08T05:05:04Z",
-    "net": "2026-08-10T19:00:00Z",
+    "last_updated": "2026-08-09T08:35:41Z",
+    "net": "2026-08-10T19:23:31Z",
     "net_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
+      "id": 0,
+      "name": "Second",
+      "abbrev": "SEC",
+      "description": "The T-0 is accurate to the second."
     },
-    "window_end": "2026-08-10T20:30:00Z",
-    "window_start": "2026-08-10T19:00:00Z",
+    "window_end": "2026-08-10T20:23:31Z",
+    "window_start": "2026-08-10T19:23:31Z",
     "image": {
       "id": 2496,
       "name": "H3-22 liftoff (VEP-4)",
@@ -16047,6 +16047,14 @@
     "flightclub_url": null,
     "updates": [
       {
+        "id": 15780,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Refined launch window.",
+        "info_url": "https://www.jaxa.jp/press/2026/08/20260809-1_j.html",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-09T08:35:00Z"
+      },
+      {
         "id": 15773,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
         "comment": "Delayed to NET August 10 UTC due to launch site weather.",
@@ -16187,7 +16195,7 @@
         "relative_time": "PT29M2S"
       }
     ],
-    "pad_turnaround": "P59DT18H6M1S",
+    "pad_turnaround": "P59DT18H29M32S",
     "mission_patches": [
       {
         "id": 1095,
