@@ -22,7 +22,29 @@
         }
       }
     ],
-    "vid_urls": [],
+    "vid_urls": [
+      {
+        "priority": 11,
+        "source": "plus.nasa.gov",
+        "publisher": "NASA",
+        "title": "U.S. Spacewalk 97",
+        "description": "",
+        "feature_image": "https://plus.nasa.gov/wp-content/uploads/2026/08/us-spacewalk-97-key-art-r1-horizontal-program-tile-16-9-without-title.jpg",
+        "url": "https://plus.nasa.gov/scheduled-video/u-s-spacewalk-97/",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-18T11:00:00Z",
+        "end_time": "2026-08-18T20:00:00Z",
+        "live": false
+      }
+    ],
     "image": {
       "id": 1240,
       "name": "US EVA Astronaut outside the ISS",
@@ -38,7 +60,7 @@
       "single_use": false,
       "variants": []
     },
-    "date": "2026-08-18T00:00:00Z",
+    "date": "2026-08-18T12:00:00Z",
     "slug": "us-eva-97",
     "type": {
       "id": 3,
@@ -48,14 +70,22 @@
     "webcast_live": false,
     "location": "International Space Station",
     "date_precision": {
-      "id": 5,
-      "name": "Day",
-      "abbrev": "DAY",
-      "description": "The T-0 is expected on the given day."
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
     "duration": null,
     "updates": [
+      {
+        "id": 15803,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Updated EVA time.",
+        "info_url": "https://plus.nasa.gov/scheduled-video/u-s-spacewalk-97/",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-11T14:17:00Z"
+      },
       {
         "id": 15772,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -73,7 +103,7 @@
         "created_on": "2026-07-27T16:24:00Z"
       }
     ],
-    "last_updated": "2026-08-10T20:03:52Z"
+    "last_updated": "2026-08-11T14:17:42Z"
   },
   {
     "id": 1504,
@@ -185,103 +215,5 @@
       }
     ],
     "last_updated": "2026-08-06T19:58:27Z"
-  },
-  {
-    "id": 1508,
-    "url": "https://ll.thespacedevs.com/2.3.0/events/1508/",
-    "name": "Chris Williams Post-Flight News Conference",
-    "info_urls": [
-      {
-        "priority": 10,
-        "source": "nasa.gov",
-        "title": "Astronaut Chris Williams to Discuss Space Station Mission",
-        "description": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT",
-        "feature_image": null,
-        "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-        "type": {
-          "id": 1,
-          "name": "Official Page"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        }
-      }
-    ],
-    "vid_urls": [
-      {
-        "priority": 10,
-        "source": "youtube.com",
-        "publisher": "NASA",
-        "title": "NASA Astronaut Chris Williams Postflight News Conference (Aug. 4, 2026)",
-        "description": "Tune in as astronaut Chris Williams recaps his eight-month mission aboard the International Space Station. \n\nAfter logging 241 days aboard the orbital laboratory, Williams returned to Earth on July 26, 2026. During his mission, he contributed to a wide range of scientific investigations and technology demonstrations, including research on new cancer treatments and manufacturing materials used in high-performance computers and electronics.\n \nLearn more about the science Williams conducted: https://go.nasa.gov/4fjNCry\nLearn more about the International Space Station: https://www.nasa.gov/station\n\nCredit: NASA",
-        "feature_image": "https://i.ytimg.com/vi/mpWTcLv72oE/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mpWTcLv72oE",
-        "type": {
-          "id": 1,
-          "name": "Official Webcast"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        },
-        "start_time": "2026-08-04T18:44:13Z",
-        "end_time": "2026-08-04T19:11:13Z",
-        "live": false
-      }
-    ],
-    "image": {
-      "id": 2792,
-      "name": "Chris Williams on the ISS",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chris_williams__image_20260728083641.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/chris_williams__image_thumbnail_20260728083642.jpeg",
-      "credit": "NASA/Chris Williams",
-      "license": {
-        "id": 4,
-        "name": "NASA Image and Media Guidelines",
-        "priority": 0,
-        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "date": "2026-08-04T18:45:00Z",
-    "slug": "chris-williams-post-flight-news-conference",
-    "type": {
-      "id": 20,
-      "name": "Press Event"
-    },
-    "description": "NASA astronaut Chris Williams will recap his recent mission aboard the International Space Station during a news conference from the agency’s Johnson Space Center in Houston.",
-    "webcast_live": false,
-    "location": "Johnson Space Center, Houston, TX, USA",
-    "date_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
-    },
-    "response_mode": "normal",
-    "duration": "PT27M",
-    "updates": [
-      {
-        "id": 15740,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
-        "comment": "Official Webcast by NASA has started",
-        "info_url": "https://www.youtube.com/watch?v=mpWTcLv72oE",
-        "created_by": "LL2",
-        "created_on": "2026-08-04T18:44:00Z"
-      },
-      {
-        "id": 15680,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding event",
-        "info_url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-        "created_by": "Nosu",
-        "created_on": "2026-07-28T08:37:00Z"
-      }
-    ],
-    "last_updated": "2026-08-04T19:11:25Z"
   }
 ]
