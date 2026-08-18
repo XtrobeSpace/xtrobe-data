@@ -24,11 +24,32 @@
     ],
     "vid_urls": [
       {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "U.S. Spacewalk 97",
+        "description": "At approximately 8:35 a.m. EDT (1235 UTC) on Aug. 18, 2026, NASA astronaut Anil Menon and ESA astronaut Sophie Adenot will venture outside the International Space Station for an approximately six-and-a-half-hour spacewalk. The pair will replace a Space-to-Ground antenna that enables high-speed communications between the Mission Control Center in Houston and the orbital complex. \n\nThis spacewalk will be Menon’s second and Adenot’s first. Adenot will become the first French woman to conduct a spacewalk.\n\nLearn more about this spacewalk: https://go.nasa.gov/4x9ASdi\nRead the latest mission updates from the station: https://nasa.gov/blogs/spacestation/\n\nCredit: NASA",
+        "feature_image": "https://i.ytimg.com/vi/yW-VAhqVJok/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=yW-VAhqVJok",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-18T11:00:00Z",
+        "end_time": null,
+        "live": false
+      },
+      {
         "priority": 11,
         "source": "plus.nasa.gov",
         "publisher": "NASA",
         "title": "U.S. Spacewalk 97",
-        "description": "",
+        "description": "At approximately 8:35 a.m. EDT (1235 UTC) on Aug. 18, 2026, NASA astronaut Anil Menon and ESA astronaut Sophie Adenot will venture outside the International Space Station for an approximately […]",
         "feature_image": "https://plus.nasa.gov/wp-content/uploads/2026/08/us-spacewalk-97-key-art-r1-horizontal-program-tile-16-9-without-title.jpg",
         "url": "https://plus.nasa.gov/scheduled-video/u-s-spacewalk-97/",
         "type": {
@@ -60,7 +81,7 @@
       "single_use": false,
       "variants": []
     },
-    "date": "2026-08-18T12:00:00Z",
+    "date": "2026-08-18T12:35:00Z",
     "slug": "us-eva-97",
     "type": {
       "id": 3,
@@ -78,6 +99,14 @@
     "response_mode": "normal",
     "duration": null,
     "updates": [
+      {
+        "id": 15883,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Tweaked EVA starting time.",
+        "info_url": "https://www.youtube.com/watch?v=yW-VAhqVJok",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-17T23:41:00Z"
+      },
       {
         "id": 15803,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -103,7 +132,7 @@
         "created_on": "2026-07-27T16:24:00Z"
       }
     ],
-    "last_updated": "2026-08-11T14:17:42Z"
+    "last_updated": "2026-08-17T23:41:58Z"
   },
   {
     "id": 1454,
