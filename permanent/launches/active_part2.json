@@ -16409,18 +16409,18 @@
     "slug": "ariane-62-mtg-i2",
     "launch_designator": null,
     "status": {
-      "id": 1,
-      "name": "Go for Launch",
-      "abbrev": "Go",
-      "description": "Current T-0 confirmed by official or reliable sources."
+      "id": 6,
+      "name": "Launch in Flight",
+      "abbrev": "In Flight",
+      "description": "The launch vehicle has lifted off from the launchpad."
     },
-    "last_updated": "2026-08-25T04:32:59Z",
-    "net": "2026-08-27T20:10:00Z",
+    "last_updated": "2026-08-27T20:11:16Z",
+    "net": "2026-08-27T20:11:00Z",
     "net_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
+      "id": 0,
+      "name": "Second",
+      "abbrev": "SEC",
+      "description": "The T-0 is accurate to the second."
     },
     "window_end": "2026-08-27T22:40:00Z",
     "window_start": "2026-08-27T20:10:00Z",
@@ -16533,11 +16533,11 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 327,
+      "total_launch_count": 328,
       "consecutive_successful_launches": 15,
       "successful_launches": 312,
       "failed_launches": 15,
-      "pending_launches": 28,
+      "pending_launches": 27,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
@@ -16737,11 +16737,11 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 327,
+                "total_launch_count": 328,
                 "consecutive_successful_launches": 15,
                 "successful_launches": 312,
                 "failed_launches": 15,
-                "pending_launches": 28,
+                "pending_launches": 27,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 0,
@@ -16948,11 +16948,11 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 327,
+                "total_launch_count": 328,
                 "consecutive_successful_launches": 15,
                 "successful_launches": 312,
                 "failed_launches": 15,
-                "pending_launches": 28,
+                "pending_launches": 27,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 0,
@@ -17416,11 +17416,11 @@
         "sso_capacity": 6450.0,
         "to_thrust": 10370.0,
         "apogee": null,
-        "total_launch_count": 5,
+        "total_launch_count": 6,
         "consecutive_successful_launches": 5,
         "successful_launches": 5,
         "failed_launches": 0,
-        "pending_launches": 9,
+        "pending_launches": 8,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
@@ -18009,8 +18009,8 @@
         "nationality_name_composed": "Franco-Guiano"
       },
       "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_67_20200803143559.jpg",
-      "total_launch_count": 8,
-      "orbital_launch_attempt_count": 8,
+      "total_launch_count": 9,
+      "orbital_launch_attempt_count": 9,
       "fastest_turnaround": "P42DT7H59M41S",
       "location": {
         "response_mode": "normal",
@@ -18083,11 +18083,11 @@
         "longitude": -52.6903,
         "latitude": 5.169,
         "timezone_name": "America/Cayenne",
-        "total_launch_count": 334,
+        "total_launch_count": 335,
         "total_landing_count": 0
       }
     },
-    "webcast_live": false,
+    "webcast_live": true,
     "program": [],
     "orbital_launch_attempt_count": 7378,
     "location_launch_attempt_count": 335,
@@ -18099,6 +18099,30 @@
     "agency_launch_attempt_count_year": 4,
     "flightclub_url": null,
     "updates": [
+      {
+        "id": 15964,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Liftoff.",
+        "info_url": "https://www.youtube.com/watch?v=CLTbPdGfMJw",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-27T20:11:00Z"
+      },
+      {
+        "id": 15963,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Updated T-0.",
+        "info_url": "https://www.youtube.com/watch?v=CLTbPdGfMJw",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-27T20:01:00Z"
+      },
+      {
+        "id": 15962,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by Arianespace has started",
+        "info_url": "https://www.youtube.com/watch?v=CLTbPdGfMJw",
+        "created_by": "LL2",
+        "created_on": "2026-08-27T19:44:00Z"
+      },
       {
         "id": 15727,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -18183,9 +18207,9 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-08-27T19:45:00Z",
+        "start_time": "2026-08-27T19:44:14Z",
         "end_time": null,
-        "live": false
+        "live": true
       },
       {
         "priority": 11,
@@ -18204,9 +18228,51 @@
           "name": "French",
           "code": "fr"
         },
-        "start_time": "2026-08-27T19:45:00Z",
+        "start_time": "2026-08-27T19:44:12Z",
         "end_time": null,
-        "live": false
+        "live": true
+      },
+      {
+        "priority": 12,
+        "source": "youtube.com",
+        "publisher": "European Space Agency, ESA",
+        "title": "MTG-I2 weather satellite launch (Official broadcast)",
+        "description": "MTG-I2, the next Meteosat Third Generation weather satellite, is set for launch on 27 August aboard an Ariane 6 rocket from Europe’s Spaceport in French Guiana. It will complete the MTG constellation, delivering more detailed and frequent weather observations over Europe and northern Africa.\n\nWatch the launch live from 21:42 CEST, with liftoff expected at 22:10 CEST (17:10 local time).\n\n★ Subscribe: http://bit.ly/ESAsubscribe and click twice on the bell button to receive our notifications.\n\nWe are Europe's gateway to space. Our mission is to shape the development of Europe's space capability and ensure that investment in space continues to deliver benefits to the citizens of Europe and the world. Check out https://www.esa.int/ to get up to speed on everything space related.\n\nCopyright...",
+        "feature_image": "https://i.ytimg.com/vi/vzytcrGSqUU/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=vzytcrGSqUU",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-27T19:43:42Z",
+        "end_time": null,
+        "live": true
+      },
+      {
+        "priority": 13,
+        "source": "youtube.com",
+        "publisher": "NASASpaceflight",
+        "title": "Ariane 6 launches MTG-I2 Weather Satellite for EUMETSAT",
+        "description": "Launch Window: August 27 - Window: 20:10 to 22:40 UTC.\n\nMTG (Meteosat Third Generation) is the follow-up system to the Meteosat MSG series of geostationary satellites.\n\nThe satellite system will consist of a twin configuration of 3-axis-stabilised satellites: the Imaging mission satellite (MTG-I) and the Sounding mission satellite (MTG-S).\n\nThe payload proposed for MTG-I consists of the Flexible Combined Imager (FCI), Lightning Imager (LI), Data Collection System (DCS), and search and rescue (GEOSAR).\n\nThe FCI is expected to outperform MSG Spinning and Enhanced Visible and Infrared Imager (SEVIRI) observations on clouds, aerosol, moisture, and fire by adding new channels in the solar domain and by improving temporal, spatial, and radiometric resolution. For instance, the FCI in its Hi...",
+        "feature_image": "https://i.ytimg.com/vi/eF4s2Zga3uw/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=eF4s2Zga3uw",
+        "type": {
+          "id": 3,
+          "name": "Unofficial Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-08-27T19:08:56Z",
+        "end_time": null,
+        "live": true
       }
     ],
     "timeline": [
@@ -18244,6 +18310,14 @@
       },
       {
         "type": {
+          "id": 12,
+          "abbrev": "MECO",
+          "description": "Cut-off of the main engine"
+        },
+        "relative_time": "PT7M43S"
+      },
+      {
+        "type": {
           "id": 13,
           "abbrev": "Stage 2 Separation",
           "description": "Separation of the second stage from the first"
@@ -18272,10 +18346,10 @@
           "abbrev": "Payload Separation",
           "description": "Final deployment of the payload from the rocket"
         },
-        "relative_time": "PT36M"
+        "relative_time": "PT36M27S"
       }
     ],
-    "pad_turnaround": "P71DT7H48M8S",
+    "pad_turnaround": "P71DT7H49M8S",
     "mission_patches": [
       {
         "id": 1333,
@@ -19908,8 +19982,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-08-30T09:16:00Z",
-        "end_time": "2026-08-30T13:16:00Z",
+        "start_time": "2026-08-30T10:18:00Z",
+        "end_time": "2026-08-30T14:16:00Z",
         "live": false
       },
       {
