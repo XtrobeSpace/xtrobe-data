@@ -14984,122 +14984,6 @@
       },
       "launcher_stage": [
         {
-          "id": 916,
-          "type": "Core",
-          "reused": false,
-          "launcher_flight_number": 1,
-          "launcher": {
-            "response_mode": "normal",
-            "id": 251,
-            "url": "https://ll.thespacedevs.com/2.3.0/launchers/251/",
-            "flight_proven": false,
-            "serial_number": "B1105",
-            "is_placeholder": false,
-            "status": {
-              "id": 3,
-              "name": "active"
-            },
-            "image": {
-              "id": 1739,
-              "name": "[AUTO] Falcon Heavy - image",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193632.jpeg",
-              "credit": null,
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "details": "Falcon Heavy core booster.",
-            "successful_landings": 0,
-            "attempted_landings": 0,
-            "flights": 0,
-            "last_launch_date": null,
-            "first_launch_date": null,
-            "fastest_turnaround": null
-          },
-          "previous_flight_date": null,
-          "turn_around_time": null,
-          "landing": {
-            "id": 1911,
-            "url": "https://ll.thespacedevs.com/2.3.0/landings/1911/",
-            "attempt": false,
-            "success": null,
-            "description": "The Falcon Heavy center core B1105 will be expended.",
-            "downrange_distance": null,
-            "landing_location": {
-              "id": 6,
-              "name": "Atlantic Ocean",
-              "active": true,
-              "abbrev": "ATL",
-              "description": "Atlantic Ocean",
-              "location": null,
-              "longitude": null,
-              "latitude": null,
-              "image": {
-                "id": 2230,
-                "name": "Sun glint on the Atlantic Ocean",
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_20240920085841.jpg",
-                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_thumbnail_20240920085841.jpeg",
-                "credit": "NASA",
-                "license": {
-                  "id": 4,
-                  "name": "NASA Image and Media Guidelines",
-                  "priority": 0,
-                  "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                },
-                "single_use": true,
-                "variants": []
-              },
-              "successful_landings": 38,
-              "attempted_landings": 42,
-              "failed_landings": 4,
-              "celestial_body": {
-                "response_mode": "normal",
-                "id": 1,
-                "name": "Earth",
-                "type": {
-                  "id": 1,
-                  "name": "Planet"
-                },
-                "diameter": 12742000.0,
-                "mass": 5.972168e+24,
-                "gravity": 9.80655,
-                "length_of_day": "1 00:00:00",
-                "atmosphere": true,
-                "image": {
-                  "id": 2040,
-                  "name": "Earth (Apollo 17)",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-                  "credit": "NASA",
-                  "license": {
-                    "id": 4,
-                    "name": "NASA Image and Media Guidelines",
-                    "priority": 0,
-                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
-              }
-            },
-            "type": {
-              "id": 8,
-              "name": "Expended",
-              "abbrev": "EXP",
-              "description": "Vehicle did not perform any landing operations after launch"
-            }
-          },
-          "previous_flight": null
-        },
-        {
           "id": 917,
           "type": "Strap-On Booster",
           "reused": false,
@@ -15406,6 +15290,122 @@
             "url": "https://ll.thespacedevs.com/2.3.0/launches/4cc237b2-c61a-491e-9532-466cce81f524/",
             "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)"
           }
+        },
+        {
+          "id": 916,
+          "type": "Core",
+          "reused": false,
+          "launcher_flight_number": 1,
+          "launcher": {
+            "response_mode": "normal",
+            "id": 251,
+            "url": "https://ll.thespacedevs.com/2.3.0/launchers/251/",
+            "flight_proven": false,
+            "serial_number": "B1105",
+            "is_placeholder": false,
+            "status": {
+              "id": 3,
+              "name": "active"
+            },
+            "image": {
+              "id": 1739,
+              "name": "[AUTO] Falcon Heavy - image",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193632.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "details": "Falcon Heavy core booster.",
+            "successful_landings": 0,
+            "attempted_landings": 0,
+            "flights": 0,
+            "last_launch_date": null,
+            "first_launch_date": null,
+            "fastest_turnaround": null
+          },
+          "previous_flight_date": null,
+          "turn_around_time": null,
+          "landing": {
+            "id": 1911,
+            "url": "https://ll.thespacedevs.com/2.3.0/landings/1911/",
+            "attempt": false,
+            "success": null,
+            "description": "The Falcon Heavy center core B1105 will be expended.",
+            "downrange_distance": null,
+            "landing_location": {
+              "id": 6,
+              "name": "Atlantic Ocean",
+              "active": true,
+              "abbrev": "ATL",
+              "description": "Atlantic Ocean",
+              "location": null,
+              "longitude": null,
+              "latitude": null,
+              "image": {
+                "id": 2230,
+                "name": "Sun glint on the Atlantic Ocean",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_20240920085841.jpg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_thumbnail_20240920085841.jpeg",
+                "credit": "NASA",
+                "license": {
+                  "id": 4,
+                  "name": "NASA Image and Media Guidelines",
+                  "priority": 0,
+                  "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                },
+                "single_use": true,
+                "variants": []
+              },
+              "successful_landings": 38,
+              "attempted_landings": 42,
+              "failed_landings": 4,
+              "celestial_body": {
+                "response_mode": "normal",
+                "id": 1,
+                "name": "Earth",
+                "type": {
+                  "id": 1,
+                  "name": "Planet"
+                },
+                "diameter": 12742000.0,
+                "mass": 5.972168e+24,
+                "gravity": 9.80655,
+                "length_of_day": "1 00:00:00",
+                "atmosphere": true,
+                "image": {
+                  "id": 2040,
+                  "name": "Earth (Apollo 17)",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                  "credit": "NASA",
+                  "license": {
+                    "id": 4,
+                    "name": "NASA Image and Media Guidelines",
+                    "priority": 0,
+                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
+              }
+            },
+            "type": {
+              "id": 8,
+              "name": "Expended",
+              "abbrev": "EXP",
+              "description": "Vehicle did not perform any landing operations after launch"
+            }
+          },
+          "previous_flight": null
         }
       ],
       "spacecraft_stage": [],
