@@ -14352,7 +14352,7 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-08-29T11:45:51Z",
+    "last_updated": "2026-08-29T15:22:33Z",
     "net": "2026-08-30T11:25:49Z",
     "net_precision": {
       "id": 0,
@@ -14360,7 +14360,7 @@
       "abbrev": "SEC",
       "description": "The T-0 is accurate to the second."
     },
-    "window_end": "2026-08-30T11:25:49Z",
+    "window_end": "2026-08-30T11:26:19Z",
     "window_start": "2026-08-30T11:25:49Z",
     "image": {
       "id": 1739,
@@ -14378,7 +14378,7 @@
       "variants": []
     },
     "infographic": null,
-    "probability": 60,
+    "probability": 50,
     "weather_concerns": "Cumulus Cloud Rule, Surface Electric Fields Rule",
     "failreason": "",
     "hashtag": null,
@@ -14984,26 +14984,26 @@
       },
       "launcher_stage": [
         {
-          "id": 917,
-          "type": "Strap-On Booster",
-          "reused": null,
-          "launcher_flight_number": null,
+          "id": 916,
+          "type": "Core",
+          "reused": false,
+          "launcher_flight_number": 1,
           "launcher": {
             "response_mode": "normal",
-            "id": 117,
-            "url": "https://ll.thespacedevs.com/2.3.0/launchers/117/",
+            "id": 251,
+            "url": "https://ll.thespacedevs.com/2.3.0/launchers/251/",
             "flight_proven": false,
-            "serial_number": "Unknown FH",
-            "is_placeholder": true,
+            "serial_number": "B1105",
+            "is_placeholder": false,
             "status": {
-              "id": 8,
-              "name": "N/A"
+              "id": 3,
+              "name": "active"
             },
             "image": {
-              "id": 1675,
-              "name": "[AUTO] Unknown FH - image",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/117_image_20230723180948.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193445.png",
+              "id": 1739,
+              "name": "[AUTO] Falcon Heavy - image",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193632.jpeg",
               "credit": null,
               "license": {
                 "id": 1,
@@ -15014,10 +15014,126 @@
               "single_use": true,
               "variants": []
             },
-            "details": "Booster serial number unknown.",
-            "successful_landings": null,
-            "attempted_landings": null,
-            "flights": null,
+            "details": "Falcon Heavy core booster.",
+            "successful_landings": 0,
+            "attempted_landings": 0,
+            "flights": 0,
+            "last_launch_date": null,
+            "first_launch_date": null,
+            "fastest_turnaround": null
+          },
+          "previous_flight_date": null,
+          "turn_around_time": null,
+          "landing": {
+            "id": 1911,
+            "url": "https://ll.thespacedevs.com/2.3.0/landings/1911/",
+            "attempt": false,
+            "success": null,
+            "description": "The Falcon Heavy center core B1105 will be expended.",
+            "downrange_distance": null,
+            "landing_location": {
+              "id": 6,
+              "name": "Atlantic Ocean",
+              "active": true,
+              "abbrev": "ATL",
+              "description": "Atlantic Ocean",
+              "location": null,
+              "longitude": null,
+              "latitude": null,
+              "image": {
+                "id": 2230,
+                "name": "Sun glint on the Atlantic Ocean",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_20240920085841.jpg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_thumbnail_20240920085841.jpeg",
+                "credit": "NASA",
+                "license": {
+                  "id": 4,
+                  "name": "NASA Image and Media Guidelines",
+                  "priority": 0,
+                  "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                },
+                "single_use": true,
+                "variants": []
+              },
+              "successful_landings": 38,
+              "attempted_landings": 42,
+              "failed_landings": 4,
+              "celestial_body": {
+                "response_mode": "normal",
+                "id": 1,
+                "name": "Earth",
+                "type": {
+                  "id": 1,
+                  "name": "Planet"
+                },
+                "diameter": 12742000.0,
+                "mass": 5.972168e+24,
+                "gravity": 9.80655,
+                "length_of_day": "1 00:00:00",
+                "atmosphere": true,
+                "image": {
+                  "id": 2040,
+                  "name": "Earth (Apollo 17)",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                  "credit": "NASA",
+                  "license": {
+                    "id": 4,
+                    "name": "NASA Image and Media Guidelines",
+                    "priority": 0,
+                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
+              }
+            },
+            "type": {
+              "id": 8,
+              "name": "Expended",
+              "abbrev": "EXP",
+              "description": "Vehicle did not perform any landing operations after launch"
+            }
+          },
+          "previous_flight": null
+        },
+        {
+          "id": 917,
+          "type": "Strap-On Booster",
+          "reused": false,
+          "launcher_flight_number": 1,
+          "launcher": {
+            "response_mode": "normal",
+            "id": 250,
+            "url": "https://ll.thespacedevs.com/2.3.0/launchers/250/",
+            "flight_proven": false,
+            "serial_number": "B1104",
+            "is_placeholder": false,
+            "status": {
+              "id": 3,
+              "name": "active"
+            },
+            "image": {
+              "id": 1736,
+              "name": "Falcon 9 liftoff from LC-39A",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
+              "credit": "SpaceX",
+              "license": {
+                "id": 5,
+                "name": "CC BY-NC 2.0",
+                "priority": 1,
+                "link": "https://creativecommons.org/licenses/by-nc/2.0/"
+              },
+              "single_use": false,
+              "variants": []
+            },
+            "details": "Falcon 9 booster.",
+            "successful_landings": 0,
+            "attempted_landings": 0,
+            "flights": 0,
             "last_launch_date": null,
             "first_launch_date": null,
             "fastest_turnaround": null
@@ -15029,7 +15145,7 @@
             "url": "https://ll.thespacedevs.com/2.3.0/landings/1912/",
             "attempt": true,
             "success": null,
-            "description": "The Falcon Heavy side booster will land back at the launch site at Landing Zone 40 after its flight.",
+            "description": "The Falcon Heavy side booster B1104 will land back at the launch site at Landing Zone 40 after its 1st flight.",
             "downrange_distance": 5.8,
             "landing_location": {
               "id": 62,
@@ -15290,122 +15406,6 @@
             "url": "https://ll.thespacedevs.com/2.3.0/launches/4cc237b2-c61a-491e-9532-466cce81f524/",
             "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)"
           }
-        },
-        {
-          "id": 916,
-          "type": "Core",
-          "reused": null,
-          "launcher_flight_number": null,
-          "launcher": {
-            "response_mode": "normal",
-            "id": 117,
-            "url": "https://ll.thespacedevs.com/2.3.0/launchers/117/",
-            "flight_proven": false,
-            "serial_number": "Unknown FH",
-            "is_placeholder": true,
-            "status": {
-              "id": 8,
-              "name": "N/A"
-            },
-            "image": {
-              "id": 1675,
-              "name": "[AUTO] Unknown FH - image",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/117_image_20230723180948.png",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193445.png",
-              "credit": null,
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "details": "Booster serial number unknown.",
-            "successful_landings": null,
-            "attempted_landings": null,
-            "flights": null,
-            "last_launch_date": null,
-            "first_launch_date": null,
-            "fastest_turnaround": null
-          },
-          "previous_flight_date": null,
-          "turn_around_time": null,
-          "landing": {
-            "id": 1911,
-            "url": "https://ll.thespacedevs.com/2.3.0/landings/1911/",
-            "attempt": false,
-            "success": null,
-            "description": "The Falcon Heavy center core will be expended.",
-            "downrange_distance": null,
-            "landing_location": {
-              "id": 6,
-              "name": "Atlantic Ocean",
-              "active": true,
-              "abbrev": "ATL",
-              "description": "Atlantic Ocean",
-              "location": null,
-              "longitude": null,
-              "latitude": null,
-              "image": {
-                "id": 2230,
-                "name": "Sun glint on the Atlantic Ocean",
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_20240920085841.jpg",
-                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_thumbnail_20240920085841.jpeg",
-                "credit": "NASA",
-                "license": {
-                  "id": 4,
-                  "name": "NASA Image and Media Guidelines",
-                  "priority": 0,
-                  "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                },
-                "single_use": true,
-                "variants": []
-              },
-              "successful_landings": 38,
-              "attempted_landings": 42,
-              "failed_landings": 4,
-              "celestial_body": {
-                "response_mode": "normal",
-                "id": 1,
-                "name": "Earth",
-                "type": {
-                  "id": 1,
-                  "name": "Planet"
-                },
-                "diameter": 12742000.0,
-                "mass": 5.972168e+24,
-                "gravity": 9.80655,
-                "length_of_day": "1 00:00:00",
-                "atmosphere": true,
-                "image": {
-                  "id": 2040,
-                  "name": "Earth (Apollo 17)",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-                  "credit": "NASA",
-                  "license": {
-                    "id": 4,
-                    "name": "NASA Image and Media Guidelines",
-                    "priority": 0,
-                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
-              }
-            },
-            "type": {
-              "id": 8,
-              "name": "Expended",
-              "abbrev": "EXP",
-              "description": "Vehicle did not perform any landing operations after launch"
-            }
-          },
-          "previous_flight": null
         }
       ],
       "spacecraft_stage": [],
@@ -15811,6 +15811,14 @@
     "agency_launch_attempt_count_year": 105,
     "flightclub_url": "https://flightclub.io/result?llId=521f3a1c-f977-4306-9b7f-495858719adf",
     "updates": [
+      {
+        "id": 15978,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Updated launch weather, 50% GO (launch window per https://x.com/spaceflightnow/status/2093717878302216462).",
+        "info_url": "https://45thweathersquadron.nebula.spaceforce.mil/assets/LaunchForecasts/Falcon%20Heavy%20Roman%20Space%20Telescope%20L-1%20Forecast%20-%2030%20Aug%20Launch.pdf",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-29T15:22:00Z"
+      },
       {
         "id": 15974,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
