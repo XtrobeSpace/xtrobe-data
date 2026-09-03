@@ -5507,11 +5507,11 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 99,
-      "consecutive_successful_launches": 0,
-      "successful_launches": 84,
+      "total_launch_count": 100,
+      "consecutive_successful_launches": 1,
+      "successful_launches": 85,
       "failed_launches": 15,
-      "pending_launches": 18,
+      "pending_launches": 19,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
@@ -5611,11 +5611,11 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 99,
-                "consecutive_successful_launches": 0,
-                "successful_launches": 84,
+                "total_launch_count": 100,
+                "consecutive_successful_launches": 1,
+                "successful_launches": 85,
                 "failed_launches": 15,
-                "pending_launches": 18,
+                "pending_launches": 19,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 0,
@@ -5722,11 +5722,11 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 99,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 84,
+          "total_launch_count": 100,
+          "consecutive_successful_launches": 1,
+          "successful_launches": 85,
           "failed_launches": 15,
-          "pending_launches": 18,
+          "pending_launches": 19,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 0,
@@ -5775,9 +5775,9 @@
         "sso_capacity": null,
         "to_thrust": 7420.0,
         "apogee": 40000.0,
-        "total_launch_count": 12,
-        "consecutive_successful_launches": 4,
-        "successful_launches": 10,
+        "total_launch_count": 13,
+        "consecutive_successful_launches": 5,
+        "successful_launches": 11,
         "failed_launches": 2,
         "pending_launches": 5,
         "attempted_landings": 0,
@@ -5806,7 +5806,99 @@
           "name": "Earth"
         }
       },
-      "agencies": [],
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 31,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
+          "name": "Indian Space Research Organization",
+          "abbrev": "ISRO",
+          "type": {
+            "id": 1,
+            "name": "Government"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 9,
+              "name": "India",
+              "alpha_2_code": "IN",
+              "alpha_3_code": "IND",
+              "nationality_name": "Indian",
+              "nationality_name_composed": "Indo"
+            }
+          ],
+          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+          "administrator": "Chairman: V. Narayanan",
+          "founding_year": 1969,
+          "launchers": "PSLV | GSLV",
+          "spacecraft": "Gaganyaan",
+          "parent": null,
+          "image": {
+            "id": 14,
+            "name": "[AUTO] Indian Space Research Organization - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 141,
+            "name": "[AUTO] Indian Space Research Organization - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 63,
+            "name": "[AUTO] Indian Space Research Organization - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 100,
+          "consecutive_successful_launches": 1,
+          "successful_launches": 85,
+          "failed_launches": 15,
+          "pending_launches": 19,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 1,
+          "failed_landings_payload": 1,
+          "attempted_landings_payload": 2,
+          "info_url": "https://www.isro.gov.in/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
+          "social_media_links": []
+        }
+      ],
       "info_urls": [],
       "vid_urls": []
     },
@@ -5920,8 +6012,8 @@
         "nationality_name_composed": "Indo"
       },
       "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_82_20200803143602.jpg",
-      "total_launch_count": 32,
-      "orbital_launch_attempt_count": 31,
+      "total_launch_count": 33,
+      "orbital_launch_attempt_count": 32,
       "fastest_turnaround": "P31DT31M",
       "location": {
         "response_mode": "normal",
@@ -5994,7 +6086,7 @@
         "longitude": 80.23,
         "latitude": 13.72,
         "timezone_name": "Asia/Kolkata",
-        "total_launch_count": 104,
+        "total_launch_count": 105,
         "total_landing_count": 0
       }
     },
@@ -15666,11 +15758,11 @@
         "single_use": true,
         "variants": []
       },
-      "total_launch_count": 99,
-      "consecutive_successful_launches": 0,
-      "successful_launches": 84,
+      "total_launch_count": 100,
+      "consecutive_successful_launches": 1,
+      "successful_launches": 85,
       "failed_launches": 15,
-      "pending_launches": 18,
+      "pending_launches": 19,
       "consecutive_successful_landings": 0,
       "successful_landings": 0,
       "failed_landings": 0,
@@ -15770,11 +15862,11 @@
                   "single_use": true,
                   "variants": []
                 },
-                "total_launch_count": 99,
-                "consecutive_successful_launches": 0,
-                "successful_launches": 84,
+                "total_launch_count": 100,
+                "consecutive_successful_launches": 1,
+                "successful_launches": 85,
                 "failed_launches": 15,
-                "pending_launches": 18,
+                "pending_launches": 19,
                 "consecutive_successful_landings": 0,
                 "successful_landings": 0,
                 "failed_landings": 0,
@@ -15881,11 +15973,11 @@
             "single_use": true,
             "variants": []
           },
-          "total_launch_count": 99,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 84,
+          "total_launch_count": 100,
+          "consecutive_successful_launches": 1,
+          "successful_launches": 85,
           "failed_launches": 15,
-          "pending_launches": 18,
+          "pending_launches": 19,
           "consecutive_successful_landings": 0,
           "successful_landings": 0,
           "failed_landings": 0,
@@ -15938,7 +16030,7 @@
         "consecutive_successful_launches": 9,
         "successful_launches": 9,
         "failed_launches": 0,
-        "pending_launches": 6,
+        "pending_launches": 7,
         "attempted_landings": 0,
         "successful_landings": 0,
         "failed_landings": 0,
@@ -16321,8 +16413,8 @@
         "nationality_name_composed": "Indo"
       },
       "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_82_20200803143602.jpg",
-      "total_launch_count": 32,
-      "orbital_launch_attempt_count": 31,
+      "total_launch_count": 33,
+      "orbital_launch_attempt_count": 32,
       "fastest_turnaround": "P31DT31M",
       "location": {
         "response_mode": "normal",
@@ -16359,11 +16451,11 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7604,
-          "successful_launches": 7047,
+          "total_attempted_launches": 7606,
+          "successful_launches": 7049,
           "failed_launches": 557,
-          "total_attempted_landings": 1363,
-          "successful_landings": 1314,
+          "total_attempted_landings": 1364,
+          "successful_landings": 1315,
           "failed_landings": 49
         },
         "active": true,
@@ -16395,7 +16487,7 @@
         "longitude": 80.23,
         "latitude": 13.72,
         "timezone_name": "Asia/Kolkata",
-        "total_launch_count": 104,
+        "total_launch_count": 105,
         "total_landing_count": 0
       }
     },
@@ -16446,11 +16538,11 @@
         }
       }
     ],
-    "orbital_launch_attempt_count": 7521,
+    "orbital_launch_attempt_count": 7522,
     "location_launch_attempt_count": 114,
     "pad_launch_attempt_count": 38,
     "agency_launch_attempt_count": 109,
-    "orbital_launch_attempt_count_year": 348,
+    "orbital_launch_attempt_count_year": 349,
     "location_launch_attempt_count_year": 12,
     "pad_launch_attempt_count_year": 6,
     "agency_launch_attempt_count_year": 11,
