@@ -1,763 +1,5 @@
 [
   {
-    "id": "cb6f4df1-c045-423b-904c-e63bf1ee5168",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/cb6f4df1-c045-423b-904c-e63bf1ee5168/",
-    "name": "Long March 2C | Satellite for Earth Observation (SEO)",
-    "response_mode": "detailed",
-    "slug": "long-march-2c-satellite-for-earth-observation-seo",
-    "launch_designator": "2026-188",
-    "status": {
-      "id": 3,
-      "name": "Launch Successful",
-      "abbrev": "Success",
-      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-    },
-    "last_updated": "2026-09-13T00:55:11Z",
-    "net": "2026-08-17T03:02:00Z",
-    "net_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
-    },
-    "window_end": "2026-08-17T03:17:00Z",
-    "window_start": "2026-08-17T02:53:00Z",
-    "image": {
-      "id": 1764,
-      "name": "[AUTO] Long March 2 - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193713.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 88,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/88/",
-      "name": "China Aerospace Science and Technology Corporation",
-      "abbrev": "CASC",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 6,
-          "name": "China",
-          "alpha_2_code": "CN",
-          "alpha_3_code": "CHN",
-          "nationality_name": "Chinese",
-          "nationality_name_composed": "Sino"
-        }
-      ],
-      "description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "administrator": "Chairman & President: Lei Fanpei",
-      "founding_year": 1999,
-      "launchers": "Long March",
-      "spacecraft": "",
-      "parent": null,
-      "image": {
-        "id": 8,
-        "name": "[AUTO] China Aerospace Science and Technology Corporation - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_image_20191228094408.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184558.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 124,
-        "name": "[AUTO] China Aerospace Science and Technology Corporation - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184933.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 50,
-        "name": "[AUTO] China Aerospace Science and Technology Corporation - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_nation_20230604193716.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184746.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 613,
-      "consecutive_successful_launches": 4,
-      "successful_launches": 597,
-      "failed_launches": 16,
-      "pending_launches": 10,
-      "consecutive_successful_landings": 1,
-      "successful_landings": 1,
-      "failed_landings": 1,
-      "attempted_landings": 2,
-      "successful_landings_spacecraft": 3,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 3,
-      "successful_landings_payload": 2,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 2,
-      "info_url": "https://english.spacechina.com/",
-      "wiki_url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation",
-      "social_media_links": []
-    },
-    "rocket": {
-      "id": 9114,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 61,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/61/",
-        "name": "Long March 2C",
-        "families": [
-          {
-            "response_mode": "detailed",
-            "id": 106,
-            "name": "Long March",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/88/",
-                "name": "China Aerospace Science and Technology Corporation",
-                "abbrev": "CASC",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 6,
-                    "name": "China",
-                    "alpha_2_code": "CN",
-                    "alpha_3_code": "CHN",
-                    "nationality_name": "Chinese",
-                    "nationality_name_composed": "Sino"
-                  }
-                ],
-                "description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-                "administrator": "Chairman & President: Lei Fanpei",
-                "founding_year": 1999,
-                "launchers": "Long March",
-                "spacecraft": "",
-                "parent": null,
-                "image": {
-                  "id": 8,
-                  "name": "[AUTO] China Aerospace Science and Technology Corporation - image",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_image_20191228094408.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184558.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 124,
-                  "name": "[AUTO] China Aerospace Science and Technology Corporation - logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184933.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 50,
-                  "name": "[AUTO] China Aerospace Science and Technology Corporation - social_logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_nation_20230604193716.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184746.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 613,
-                "consecutive_successful_launches": 4,
-                "successful_launches": 597,
-                "failed_launches": 16,
-                "pending_launches": 10,
-                "consecutive_successful_landings": 1,
-                "successful_landings": 1,
-                "failed_landings": 1,
-                "attempted_landings": 2,
-                "successful_landings_spacecraft": 3,
-                "failed_landings_spacecraft": 0,
-                "attempted_landings_spacecraft": 3,
-                "successful_landings_payload": 2,
-                "failed_landings_payload": 0,
-                "attempted_landings_payload": 2,
-                "info_url": "https://english.spacechina.com/",
-                "wiki_url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation",
-                "social_media_links": []
-              }
-            ],
-            "parent": null,
-            "description": "",
-            "active": true,
-            "maiden_flight": "1970-04-24",
-            "total_launch_count": 666,
-            "consecutive_successful_launches": 4,
-            "successful_launches": 646,
-            "failed_launches": 20,
-            "pending_launches": 10,
-            "attempted_landings": 2,
-            "successful_landings": 1,
-            "failed_landings": 1,
-            "consecutive_successful_landings": 1
-          },
-          {
-            "response_mode": "detailed",
-            "id": 109,
-            "name": "Long March 2",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/88/",
-                "name": "China Aerospace Science and Technology Corporation",
-                "abbrev": "CASC",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 6,
-                    "name": "China",
-                    "alpha_2_code": "CN",
-                    "alpha_3_code": "CHN",
-                    "nationality_name": "Chinese",
-                    "nationality_name_composed": "Sino"
-                  }
-                ],
-                "description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-                "administrator": "Chairman & President: Lei Fanpei",
-                "founding_year": 1999,
-                "launchers": "Long March",
-                "spacecraft": "",
-                "parent": null,
-                "image": {
-                  "id": 8,
-                  "name": "[AUTO] China Aerospace Science and Technology Corporation - image",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_image_20191228094408.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184558.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 124,
-                  "name": "[AUTO] China Aerospace Science and Technology Corporation - logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184933.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 50,
-                  "name": "[AUTO] China Aerospace Science and Technology Corporation - social_logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_nation_20230604193716.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184746.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 613,
-                "consecutive_successful_launches": 4,
-                "successful_launches": 597,
-                "failed_launches": 16,
-                "pending_launches": 10,
-                "consecutive_successful_landings": 1,
-                "successful_landings": 1,
-                "failed_landings": 1,
-                "attempted_landings": 2,
-                "successful_landings_spacecraft": 3,
-                "failed_landings_spacecraft": 0,
-                "attempted_landings_spacecraft": 3,
-                "successful_landings_payload": 2,
-                "failed_landings_payload": 0,
-                "attempted_landings_payload": 2,
-                "info_url": "https://english.spacechina.com/",
-                "wiki_url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation",
-                "social_media_links": []
-              }
-            ],
-            "parent": {
-              "response_mode": "normal",
-              "id": 106,
-              "name": "Long March",
-              "manufacturer": [
-                {
-                  "response_mode": "normal",
-                  "id": 88,
-                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/88/",
-                  "name": "China Aerospace Science and Technology Corporation",
-                  "abbrev": "CASC",
-                  "type": {
-                    "id": 1,
-                    "name": "Government"
-                  },
-                  "featured": true,
-                  "country": [
-                    {
-                      "id": 6,
-                      "name": "China",
-                      "alpha_2_code": "CN",
-                      "alpha_3_code": "CHN",
-                      "nationality_name": "Chinese",
-                      "nationality_name_composed": "Sino"
-                    }
-                  ],
-                  "description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-                  "administrator": "Chairman & President: Lei Fanpei",
-                  "founding_year": 1999,
-                  "launchers": "Long March",
-                  "spacecraft": "",
-                  "parent": null,
-                  "image": {
-                    "id": 8,
-                    "name": "[AUTO] China Aerospace Science and Technology Corporation - image",
-                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_image_20191228094408.jpeg",
-                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184558.jpeg",
-                    "credit": null,
-                    "license": {
-                      "id": 1,
-                      "name": "Unknown",
-                      "priority": 9,
-                      "link": null
-                    },
-                    "single_use": true,
-                    "variants": []
-                  },
-                  "logo": {
-                    "id": 124,
-                    "name": "[AUTO] China Aerospace Science and Technology Corporation - logo",
-                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184933.png",
-                    "credit": null,
-                    "license": {
-                      "id": 1,
-                      "name": "Unknown",
-                      "priority": 9,
-                      "link": null
-                    },
-                    "single_use": true,
-                    "variants": []
-                  },
-                  "social_logo": {
-                    "id": 50,
-                    "name": "[AUTO] China Aerospace Science and Technology Corporation - social_logo",
-                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_nation_20230604193716.png",
-                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184746.png",
-                    "credit": null,
-                    "license": {
-                      "id": 1,
-                      "name": "Unknown",
-                      "priority": 9,
-                      "link": null
-                    },
-                    "single_use": true,
-                    "variants": []
-                  }
-                }
-              ],
-              "parent": null
-            },
-            "description": "",
-            "active": true,
-            "maiden_flight": "1974-11-05",
-            "total_launch_count": 232,
-            "consecutive_successful_launches": 38,
-            "successful_launches": 226,
-            "failed_launches": 6,
-            "pending_launches": 2,
-            "attempted_landings": 0,
-            "successful_landings": 0,
-            "failed_landings": 0,
-            "consecutive_successful_landings": 0
-          }
-        ],
-        "full_name": "Long March 2C",
-        "variant": "C",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 88,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/88/",
-          "name": "China Aerospace Science and Technology Corporation",
-          "abbrev": "CASC",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 6,
-              "name": "China",
-              "alpha_2_code": "CN",
-              "alpha_3_code": "CHN",
-              "nationality_name": "Chinese",
-              "nationality_name_composed": "Sino"
-            }
-          ],
-          "description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-          "administrator": "Chairman & President: Lei Fanpei",
-          "founding_year": 1999,
-          "launchers": "Long March",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 8,
-            "name": "[AUTO] China Aerospace Science and Technology Corporation - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_image_20191228094408.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184558.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 124,
-            "name": "[AUTO] China Aerospace Science and Technology Corporation - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184933.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 50,
-            "name": "[AUTO] China Aerospace Science and Technology Corporation - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_nation_20230604193716.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184746.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 613,
-          "consecutive_successful_launches": 4,
-          "successful_launches": 597,
-          "failed_launches": 16,
-          "pending_launches": 10,
-          "consecutive_successful_landings": 1,
-          "successful_landings": 1,
-          "failed_landings": 1,
-          "attempted_landings": 2,
-          "successful_landings_spacecraft": 3,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 3,
-          "successful_landings_payload": 2,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 2,
-          "info_url": "https://english.spacechina.com/",
-          "wiki_url": "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation",
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": false,
-        "image": {
-          "id": 1764,
-          "name": "[AUTO] Long March 2 - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193713.jpeg",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": null,
-        "wiki_url": "https://en.wikipedia.org/wiki/Long_March_2C",
-        "description": "The Long March 2C is a family of expendable launch vehicles made and operated by China. It is a two stage launch vehicle with storable propellants, consisting of Nitrogen Tetroxide and Unsymmetrical Dimethylhydrazine.",
-        "alias": "",
-        "min_stage": 2,
-        "max_stage": 2,
-        "length": 42.0,
-        "diameter": 3.35,
-        "maiden_flight": "1982-09-09",
-        "launch_cost": null,
-        "launch_mass": 233.0,
-        "leo_capacity": 3850.0,
-        "gto_capacity": null,
-        "geo_capacity": null,
-        "sso_capacity": 1400.0,
-        "to_thrust": null,
-        "apogee": null,
-        "total_launch_count": 66,
-        "consecutive_successful_launches": 44,
-        "successful_launches": 65,
-        "failed_launches": 1,
-        "pending_launches": 0,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": "P15DT20H"
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 7709,
-      "name": "Satellite for Earth Observation (SEO)",
-      "type": "Earth Science",
-      "description": "Satellite for Earth Observation (SEO) is an Earth observation satellite project of the United Arab Emirates (UAE) by the National Space Science and Technology Center (NSSTC) at the United Arab Emirates University. \r\n\r\nThe SEO mission aims to develop advanced space technologies and represents an ambitious step toward utilizing space technologies to support sustainability and future development, including giving Emirati talent hands-on experiences in various stages of satellite development and operations including ground station facilities, assembly, integration, and testing (AIT) capabilities. \r\n\r\nThe mission seeks to provide data and insights that contribute to environmental protection, natural resource management, and enhanced planning and decision-making efficiency.",
-      "image": null,
-      "orbit": {
-        "id": 17,
-        "name": "Sun-Synchronous Orbit",
-        "abbrev": "SSO",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 25,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/25/",
-      "active": true,
-      "agencies": [],
-      "name": "Launch Complex 9",
-      "image": {
-        "id": 2125,
-        "name": "CZ-4B liftoff from LC-9 (Gaofen-11-05)",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-4b_liftoff__image_20240719064703.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-4b_liftoff__image_thumbnail_20240719064704.jpeg",
-        "credit": "中国航天科技集团",
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": false,
-        "variants": []
-      },
-      "description": "",
-      "info_url": null,
-      "wiki_url": null,
-      "map_url": "https://www.google.com/maps?q=38.863128,111.589567",
-      "latitude": 38.863128,
-      "longitude": 111.589567,
-      "country": {
-        "id": 6,
-        "name": "China",
-        "alpha_2_code": "CN",
-        "alpha_3_code": "CHN",
-        "nationality_name": "Chinese",
-        "nationality_name_composed": "Sino"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_25_20200803143501.jpg",
-      "total_launch_count": 79,
-      "orbital_launch_attempt_count": 79,
-      "fastest_turnaround": "P16DT20H3M",
-      "location": {
-        "response_mode": "normal",
-        "id": 19,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/19/",
-        "name": "Taiyuan Satellite Launch Center, People's Republic of China",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
-          "failed_launches": 557,
-          "total_attempted_landings": 1367,
-          "successful_landings": 1318,
-          "failed_landings": 49
-        },
-        "active": true,
-        "country": {
-          "id": 6,
-          "name": "China",
-          "alpha_2_code": "CN",
-          "alpha_3_code": "CHN",
-          "nationality_name": "Chinese",
-          "nationality_name_composed": "Sino"
-        },
-        "description": "The Taiyuan Satellite Launch Center is a People's Republic of China space and defense launch facility. It is situated in Kelan County, Xinzhou, Shanxi Province and is the second of four launch sites having been founded in March 1966 and coming into full operation in 1968.",
-        "image": {
-          "id": 1369,
-          "name": "[AUTO] Long March 2D | 6 x Jilin-1, Qilu-2/3 & others - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907134308.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192538.jpeg",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_19_20200803142421.jpg",
-        "longitude": 111.608,
-        "latitude": 38.8491,
-        "timezone_name": "Asia/Shanghai",
-        "total_launch_count": 160,
-        "total_landing_count": 0
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7368,
-    "location_launch_attempt_count": 159,
-    "pad_launch_attempt_count": 79,
-    "agency_launch_attempt_count": 611,
-    "orbital_launch_attempt_count_year": 195,
-    "location_launch_attempt_count_year": 10,
-    "pad_launch_attempt_count_year": 2,
-    "agency_launch_attempt_count_year": 41,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 15877,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Launch success.",
-        "info_url": "https://mp.weixin.qq.com/s/YMsC1bhvWvZ2hqisaDvP7A",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-08-17T07:27:00Z"
-      },
-      {
-        "id": 15815,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Added launch per NOTAMs; Payload and launch vehicle identities highly uncertain.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=57867.msg2813042#msg2813042",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-08-12T17:56:00Z"
-      }
-    ],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P144DT4H11M",
-    "mission_patches": []
-  },
-  {
     "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/ef02e2cf-e617-4b38-a526-951ac9204b0a/",
     "name": "Zhuque-3 | Honghu-03",
@@ -972,11 +214,11 @@
             "description": "",
             "active": true,
             "maiden_flight": "2018-10-27",
-            "total_launch_count": 11,
-            "consecutive_successful_launches": 4,
-            "successful_launches": 8,
+            "total_launch_count": 12,
+            "consecutive_successful_launches": 5,
+            "successful_launches": 9,
             "failed_launches": 3,
-            "pending_launches": 1,
+            "pending_launches": 0,
             "attempted_landings": 2,
             "successful_landings": 1,
             "failed_landings": 1,
@@ -1392,8 +634,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -2954,8 +2196,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -4010,8 +3252,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -5842,8 +5084,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -7840,8 +7082,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -9029,8 +8271,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -9811,8 +9053,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -11415,8 +10657,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -13364,8 +12606,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -15499,8 +14741,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -17259,8 +16501,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -18347,8 +17589,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -19912,8 +19154,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -20947,8 +20189,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -21980,8 +21222,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7613,
-          "successful_launches": 7056,
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
           "failed_launches": 557,
           "total_attempted_landings": 1367,
           "successful_landings": 1318,
@@ -22222,5 +21464,1068 @@
     "timeline": [],
     "pad_turnaround": "P253DT17H59M30S",
     "mission_patches": []
+  },
+  {
+    "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/1b23eb18-e06e-4058-9b42-e95ca0980511/",
+    "name": "Spectrum | Onward and Upward",
+    "response_mode": "detailed",
+    "slug": "spectrum-onward-and-upward",
+    "launch_designator": "2026-203",
+    "status": {
+      "id": 3,
+      "name": "Launch Successful",
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+    },
+    "last_updated": "2026-09-13T03:55:24Z",
+    "net": "2026-09-05T20:12:00Z",
+    "net_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
+    "window_end": "2026-09-05T21:00:00Z",
+    "window_start": "2026-09-05T20:00:00Z",
+    "image": {
+      "id": 2355,
+      "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+      "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 1046,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1046/",
+      "name": "Isar Aerospace",
+      "abbrev": "ISAR",
+      "type": {
+        "id": 5,
+        "name": "Private"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 4,
+          "name": "Germany",
+          "alpha_2_code": "DE",
+          "alpha_3_code": "DEU",
+          "nationality_name": "German",
+          "nationality_name_composed": "Germano"
+        }
+      ],
+      "description": "Isar Aerospace is a German aerospace company based in Munich, Germany. The company was founded in 2018.",
+      "administrator": "CEO: Daniel Metzler",
+      "founding_year": 2018,
+      "launchers": "Spectrum",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 2355,
+        "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+        "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "logo": {
+        "id": 147,
+        "name": "[AUTO] Isar Aerospace - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar2520aerospace_logo_20230125151814.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185015.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 2262,
+        "name": "Isar Aerospace Social Logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_20241021093234.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_thumbnail_20241021093234.png",
+        "credit": "Isar Aerospace",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 2,
+      "consecutive_successful_launches": 1,
+      "successful_launches": 1,
+      "failed_launches": 1,
+      "pending_launches": 9,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.isaraerospace.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Isar_Aerospace",
+      "social_media_links": [
+        {
+          "id": 283,
+          "social_media": {
+            "id": 3,
+            "name": "Homepage",
+            "url": null,
+            "logo": null
+          },
+          "url": "https://www.isaraerospace.com/"
+        },
+        {
+          "id": 284,
+          "social_media": {
+            "id": 2,
+            "name": "Instagram",
+            "url": "https://instagram.com",
+            "logo": {
+              "id": 2322,
+              "name": "Instagram logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+              "credit": "Instagram",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.instagram.com/isaraerospace/"
+        },
+        {
+          "id": 285,
+          "social_media": {
+            "id": 1,
+            "name": "X",
+            "url": "https://x.com",
+            "logo": {
+              "id": 2320,
+              "name": "X logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+              "credit": "X",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://x.com/isaraerospace/status/1845769149634503064"
+        },
+        {
+          "id": 286,
+          "social_media": {
+            "id": 4,
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/",
+            "logo": {
+              "id": 2321,
+              "name": "LinkedIn logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+              "credit": "LinkedIn",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.linkedin.com/company/isaraerospace"
+        },
+        {
+          "id": 287,
+          "social_media": {
+            "id": 6,
+            "name": "Youtube",
+            "url": "https://www.youtube.com/",
+            "logo": {
+              "id": 2356,
+              "name": "YouTube logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
+              "credit": "YouTube",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          },
+          "url": "https://www.youtube.com/channel/UCjRAGiZtCpR6lrkirDtJP0Q"
+        }
+      ]
+    },
+    "rocket": {
+      "id": 8716,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 491,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/491/",
+        "name": "Spectrum",
+        "families": [],
+        "full_name": "Spectrum",
+        "variant": "",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 1046,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1046/",
+          "name": "Isar Aerospace",
+          "abbrev": "ISAR",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 4,
+              "name": "Germany",
+              "alpha_2_code": "DE",
+              "alpha_3_code": "DEU",
+              "nationality_name": "German",
+              "nationality_name_composed": "Germano"
+            }
+          ],
+          "description": "Isar Aerospace is a German aerospace company based in Munich, Germany. The company was founded in 2018.",
+          "administrator": "CEO: Daniel Metzler",
+          "founding_year": 2018,
+          "launchers": "Spectrum",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 2355,
+            "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+            "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": false,
+            "variants": []
+          },
+          "logo": {
+            "id": 147,
+            "name": "[AUTO] Isar Aerospace - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar2520aerospace_logo_20230125151814.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185015.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 2262,
+            "name": "Isar Aerospace Social Logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_20241021093234.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar_aerospace__image_thumbnail_20241021093234.png",
+            "credit": "Isar Aerospace",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 2,
+          "consecutive_successful_launches": 1,
+          "successful_launches": 1,
+          "failed_launches": 1,
+          "pending_launches": 9,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.isaraerospace.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Isar_Aerospace",
+          "social_media_links": [
+            {
+              "id": 283,
+              "social_media": {
+                "id": 3,
+                "name": "Homepage",
+                "url": null,
+                "logo": null
+              },
+              "url": "https://www.isaraerospace.com/"
+            },
+            {
+              "id": 284,
+              "social_media": {
+                "id": 2,
+                "name": "Instagram",
+                "url": "https://instagram.com",
+                "logo": {
+                  "id": 2322,
+                  "name": "Instagram logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                  "credit": "Instagram",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.instagram.com/isaraerospace/"
+            },
+            {
+              "id": 285,
+              "social_media": {
+                "id": 1,
+                "name": "X",
+                "url": "https://x.com",
+                "logo": {
+                  "id": 2320,
+                  "name": "X logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                  "credit": "X",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://x.com/isaraerospace/status/1845769149634503064"
+            },
+            {
+              "id": 286,
+              "social_media": {
+                "id": 4,
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "logo": {
+                  "id": 2321,
+                  "name": "LinkedIn logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                  "credit": "LinkedIn",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.linkedin.com/company/isaraerospace"
+            },
+            {
+              "id": 287,
+              "social_media": {
+                "id": 6,
+                "name": "Youtube",
+                "url": "https://www.youtube.com/",
+                "logo": {
+                  "id": 2356,
+                  "name": "YouTube logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
+                  "credit": "YouTube",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.youtube.com/channel/UCjRAGiZtCpR6lrkirDtJP0Q"
+            }
+          ]
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 2355,
+          "name": "Spectrum on the pad at Andøya Spaceport (Maiden Flight)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+          "credit": "Isar Aerospace | Robin Brillert, Wingmen Media",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "info_url": "https://www.isaraerospace.com/spectrum",
+        "wiki_url": null,
+        "description": "Spectrum is a small launch vehicle developed by German company Isar Aerospace.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": 28.0,
+        "diameter": 2.0,
+        "maiden_flight": "2025-03-30",
+        "launch_cost": null,
+        "launch_mass": null,
+        "leo_capacity": 1000.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": 700.0,
+        "to_thrust": 675.0,
+        "apogee": null,
+        "total_launch_count": 2,
+        "consecutive_successful_launches": 1,
+        "successful_launches": 1,
+        "failed_launches": 1,
+        "pending_launches": 9,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": "P524DT9H42M"
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7309,
+      "name": "Onward and Upward",
+      "type": "Test Flight",
+      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+      "image": null,
+      "orbit": {
+        "id": 17,
+        "name": "Sun-Synchronous Orbit",
+        "abbrev": "SSO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 51,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/51/",
+      "active": true,
+      "agencies": [],
+      "name": "Orbital Launch Pad",
+      "image": null,
+      "description": null,
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/And%C3%B8ya_Space",
+      "map_url": "https://www.google.com/maps?q=69.1084,15.5895",
+      "latitude": 69.1084,
+      "longitude": 15.5895,
+      "country": {
+        "id": 49,
+        "name": "Norway",
+        "alpha_2_code": "NO",
+        "alpha_3_code": "NOR",
+        "nationality_name": "Norwegian",
+        "nationality_name_composed": "Norwegian"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_51_20200803143605.jpg",
+      "total_launch_count": 2,
+      "orbital_launch_attempt_count": 2,
+      "fastest_turnaround": "P524DT9H42M",
+      "location": {
+        "response_mode": "normal",
+        "id": 161,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/161/",
+        "name": "Andøya Spaceport",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7616,
+          "successful_launches": 7059,
+          "failed_launches": 557,
+          "total_attempted_landings": 1367,
+          "successful_landings": 1318,
+          "failed_landings": 49
+        },
+        "active": true,
+        "country": {
+          "id": 49,
+          "name": "Norway",
+          "alpha_2_code": "NO",
+          "alpha_3_code": "NOR",
+          "nationality_name": "Norwegian",
+          "nationality_name_composed": "Norwegian"
+        },
+        "description": "Andøya Space, also named Andøya Space Center and formerly Andøya Rocket Range, is a rocket launch site, rocket range, and spaceport on Andøya island (the northernmost in the Vesterålen archipelago) in Andøy Municipality in Nordland county, Norway.",
+        "image": {
+          "id": 2137,
+          "name": "Andøya Spaceport",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/and25c325b8ya_image_20240808093551.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/and25c325b8ya_image_thumbnail_20240808093552.jpeg",
+          "credit": "Andøya Space",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_161_20240109072235.jpg",
+        "longitude": 16.020833,
+        "latitude": 69.294167,
+        "timezone_name": "Europe/Oslo",
+        "total_launch_count": 2,
+        "total_landing_count": 0
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7384,
+    "location_launch_attempt_count": 2,
+    "pad_launch_attempt_count": 2,
+    "agency_launch_attempt_count": 2,
+    "orbital_launch_attempt_count_year": 211,
+    "location_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 1,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 16069,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Launch success.",
+        "info_url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-05T22:56:00Z"
+      },
+      {
+        "id": 16067,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Payload separation confirmed.",
+        "info_url": "https://x.com/isaraerospace/status/2096361245062357238",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-05T22:19:00Z"
+      },
+      {
+        "id": 16065,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "Liftoff!",
+        "info_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-09-05T20:12:00Z"
+      },
+      {
+        "id": 16064,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "New T-0 (6 minute delay)",
+        "info_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-09-05T19:57:00Z"
+      },
+      {
+        "id": 16063,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "Adjusted T-0",
+        "info_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-09-05T19:18:00Z"
+      },
+      {
+        "id": 16062,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by Isar Aerospace has started",
+        "info_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "created_by": "LL2",
+        "created_on": "2026-09-05T19:14:00Z"
+      },
+      {
+        "id": 16061,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "GO for launch.",
+        "info_url": "https://x.com/isaraerospace/status/2096191144124182678",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-05T11:02:00Z"
+      },
+      {
+        "id": 16025,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET September 5 per NOTAMs, TBC.",
+        "info_url": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82328483",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-04T13:12:00Z"
+      },
+      {
+        "id": 16024,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Scrubbed for the day.",
+        "info_url": "https://www.nrk.no/nordland/avlyser-dagens-oppskytning-pa-andoya-1.18014118",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-04T13:05:00Z"
+      },
+      {
+        "id": 15960,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET September 4 per air space closure notices, TBC.",
+        "info_url": "https://andoyaspace.no/info-messages/farevarsel-danger-area-4-10sept/",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-27T15:57:00Z"
+      },
+      {
+        "id": 15524,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET August 6, TBC.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2804574#msg2804574",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-07-10T13:43:00Z"
+      },
+      {
+        "id": 15309,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Reverted back to NET June TBD with cancellation of closure notices.",
+        "info_url": "https://andoyaspace.no/info-messages/farevarsel-danger-area-15-21-juni/",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-18T04:23:00Z"
+      },
+      {
+        "id": 15305,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET June 20 per new NOTAMs, TBC.",
+        "info_url": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=81487761",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-17T14:17:00Z"
+      },
+      {
+        "id": 15287,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET June 18 per new NOTAMs, TBC.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2798038#msg2798038",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-16T12:46:00Z"
+      },
+      {
+        "id": 15282,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Scrubbed for the day due to vehicle fluid system issues.",
+        "info_url": "https://x.com/isaraerospace/status/2066598242020700345",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-15T19:19:00Z"
+      },
+      {
+        "id": 15273,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Go for launch.",
+        "info_url": "https://x.com/isaraerospace/status/2066061416256192744",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-14T08:15:00Z"
+      },
+      {
+        "id": 15232,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET June 15.",
+        "info_url": "https://isaraerospace.com/press/isar-aerospace-secures-eur-270m-to-provide-sovereign-space-capabilities-globally",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-06-09T11:01:00Z"
+      },
+      {
+        "id": 15001,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET mid-June.",
+        "info_url": "https://www.vol.no/nyheter/n/rrzJPm/har-faatt-tidsvindu-for-nytt-forsoek",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-05-19T21:52:00Z"
+      },
+      {
+        "id": 14735,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to NET May.",
+        "info_url": "https://partner.avinor.no/siteassets/ais-portalen-forside/aip-sup/en_sup_2026_a_028_en.pdf",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-18T16:10:00Z"
+      },
+      {
+        "id": 14622,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "Launch attempt scrubbed due to COPV leaks. New date tbd",
+        "info_url": "https://x.com/i/status/2042314041708732676",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-04-09T19:00:00Z"
+      },
+      {
+        "id": 14604,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET April 9.",
+        "info_url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380#1.17836596.1.17836596",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-07T12:52:00Z"
+      },
+      {
+        "id": 14598,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET April 8 per marine navigation warnings, TBC.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2777198#msg2777198",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-04-07T03:12:00Z"
+      },
+      {
+        "id": 14474,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to NET April.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2773128#msg2773128",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-28T16:05:00Z"
+      },
+      {
+        "id": 14464,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Reverted back to NET March TBD with cancellation of NOTAMs.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2772948#msg2772948",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-27T20:20:00Z"
+      },
+      {
+        "id": 14446,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET March 28 per new NOTAMs, to be confirmed.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2772481#msg2772481",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-26T12:50:00Z"
+      },
+      {
+        "id": 14441,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "Launch attempt aborted, new date to be determined",
+        "info_url": "https://www.youtube.com/watch?v=MsbZj8PxmUk",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-03-25T20:31:00Z"
+      },
+      {
+        "id": 14440,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "Hold!",
+        "info_url": "https://www.youtube.com/watch?v=MsbZj8PxmUk",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-03-25T20:21:00Z"
+      },
+      {
+        "id": 14438,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/lucas2520stauder_profile_20230526163835.jpg",
+        "comment": "New T-0",
+        "info_url": "https://www.youtube.com/watch?v=MsbZj8PxmUk",
+        "created_by": "hitura-nobad",
+        "created_on": "2026-03-25T19:56:00Z"
+      },
+      {
+        "id": 14436,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "New T-0.",
+        "info_url": "https://www.youtube.com/watch?v=MsbZj8PxmUk",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-25T19:10:00Z"
+      },
+      {
+        "id": 14435,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by Isar Aerospace has started",
+        "info_url": "https://www.youtube.com/watch?v=MsbZj8PxmUk",
+        "created_by": "LL2",
+        "created_on": "2026-03-25T19:01:00Z"
+      },
+      {
+        "id": 14429,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "GO for launch.",
+        "info_url": "https://x.com/isaraerospace/status/2036505170490888606",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-25T04:36:00Z"
+      },
+      {
+        "id": 14404,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to NET March 25 due to launch site weather.",
+        "info_url": "https://x.com/isaraerospace/status/2035993194597429506",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-23T11:03:00Z"
+      },
+      {
+        "id": 14350,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET March 23 due to launch site weather.",
+        "info_url": "https://x.com/isaraerospace/status/2034238990375686447",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-18T12:13:00Z"
+      },
+      {
+        "id": 14165,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added daily launch window.",
+        "info_url": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=80255718",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-04T20:00:00Z"
+      },
+      {
+        "id": 13840,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET March 19.",
+        "info_url": "https://isaraerospace.com/press/new-available-launch-window-for-mission-onward-and-upward-opens-net-19-march",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-01-30T12:52:00Z"
+      },
+      {
+        "id": 13734,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to next range window in February.",
+        "info_url": "https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt-a-b6161249-7561-4055-acde-b718f530dc7e",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-01-21T19:07:00Z"
+      },
+      {
+        "id": 13731,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Scrubbed for the day due to pressurization valve issue.",
+        "info_url": "https://x.com/isaraerospace/status/2013940928835178662",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-01-21T11:55:00Z"
+      },
+      {
+        "id": 13665,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "GO for launch.",
+        "info_url": "https://isaraerospace.com/press/isar-aerospace-targets-second-launch-not-earlier-than-21-january-2026",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-01-16T12:02:00Z"
+      },
+      {
+        "id": 13620,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET January 20 per new NOTAMs.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2750598#msg2750598",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-01-13T15:52:00Z"
+      },
+      {
+        "id": 13447,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET January 17.",
+        "info_url": "https://www.vol.no/nyheter/i/XMgMMg/forbereder-seg-paa-ny-oppskyting",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-23T19:21:00Z"
+      },
+      {
+        "id": 13226,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Delayed to NET 13 January 2026.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2741767#msg2741767",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-10T01:42:00Z"
+      },
+      {
+        "id": 13124,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Moved to NET December 2025 with possibly related NOTAMs/marine navigation warnings issued for December 6-19, to be confirmed as for Spectrum.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=63983.msg2739811#msg2739811",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-03T20:54:00Z"
+      },
+      {
+        "id": 12262,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding launch",
+        "info_url": "https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/",
+        "created_by": "Nosu",
+        "created_on": "2025-09-16T06:44:00Z"
+      }
+    ],
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": "isaraerospace.com",
+        "title": "",
+        "description": "The second flight of our ‘Spectrum’ launch vehicle marks a significant milestone serving as both the vehicle’s qualification mission and its first flight carrying payload.\n\n \"Onward and Upward\" symbolizes our relentless drive for progress and continuous improvement, reflecting our determination to b...",
+        "feature_image": null,
+        "url": "https://isaraerospace.com/mission-2",
+        "type": {
+          "id": 1,
+          "name": "Official Page"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "Isar Aerospace",
+        "title": "\"Onward and Upward\" Mission of Isar Aerospace",
+        "description": "Mission Name: 'Onward and Upward'\n\nLaunch Date: Updates via https://isaraerospace.com/mission-updates-overview\n\nLaunch site: Andøya Space\n\nThe second flight of our ‘Spectrum’ launch vehicle marks a significant milestone serving as both the vehicle’s qualification mission and its first flight carrying payload.\n\n\"Onward and Upward\" symbolizes our relentless drive for progress and continuous improvement, reflecting our determination to build upon the successes and lessons learned from our inaugural test flight.\n\nThe livestream is produced in collaboration with the @NASASpaceflight team.\n\nMore information on the Mission ‘Onward and Upward’ here: https://isaraerospace.com/mission-2\n\nWant to be part of our next mission? \nWe are looking for ambitious talent across all teams to engineer the f...",
+        "feature_image": "https://i.ytimg.com/vi/Ss1DUqLjecc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-09-05T19:13:37Z",
+        "end_time": "2026-09-05T20:32:55Z",
+        "live": false
+      },
+      {
+        "priority": 11,
+        "source": null,
+        "publisher": "NASASpaceflight",
+        "title": "Isar Aerospace Launches \"Onward and Upward\" Mission",
+        "description": "Mission Name: 'Onward and Upward'\n\nLaunch Date: Updates via https://isaraerospace.com/mission-updates-overview\n\nLaunch site: Andøya Space\n\nThe second flight of Isar's ‘Spectrum’ launch vehicle marks a significant milestone serving as both the vehicle’s qualification mission and its first flight carrying payload.\n\n\"Onward and Upward\" symbolizes Isar's relentless drive for progress and continuous improvement, reflecting their determination to build upon the successes and lessons learned from our inaugural test flight.\n\nNSF/NASASpaceflight LLC is providing live stream production services for Isar Aerospace's second flight of Spectrum.\n\nMore information on the Mission ‘Onward and Upward’ here: https://isaraerospace.com/mission-2\n\nLDAPAABJRG2UMCU3",
+        "feature_image": "https://i.ytimg.com/vi/uUc2d_NPBN0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uUc2d_NPBN0",
+        "type": {
+          "id": 3,
+          "name": "Unofficial Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-09-05T19:13:26Z",
+        "end_time": "2026-09-05T20:32:47Z",
+        "live": false
+      }
+    ],
+    "timeline": [],
+    "pad_turnaround": "P524DT9H42M",
+    "mission_patches": [
+      {
+        "id": 1298,
+        "name": "Onward and Upward Patch",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/onward2520and_mission_patch_20260120112758.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 1046,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1046/",
+          "name": "Isar Aerospace",
+          "abbrev": "ISAR",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ]
   }
 ]
