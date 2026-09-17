@@ -17254,7 +17254,7 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-09-16T19:22:48Z",
+    "last_updated": "2026-09-17T21:05:26Z",
     "net": "2026-09-26T11:56:00Z",
     "net_precision": {
       "id": 1,
@@ -18649,7 +18649,7 @@
     "location_launch_attempt_count_year": 63,
     "pad_launch_attempt_count_year": 61,
     "agency_launch_attempt_count_year": 112,
-    "flightclub_url": null,
+    "flightclub_url": "https://flightclub.io/result?llId=7330d83b-c478-426c-8859-f9e3a335876d",
     "updates": [
       {
         "id": 16132,
@@ -18729,17 +18729,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -20360,50 +20360,6 @@
     "program": [
       {
         "response_mode": "normal",
-        "id": 1,
-        "url": "https://ll.thespacedevs.com/2.3.0/programs/1/",
-        "name": "SpaceX Starship",
-        "image": {
-          "id": 2301,
-          "name": "Starship on the launch pad during WDR (Flight 7)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_thumbnail_20250111100521.jpeg",
-          "credit": "SpaceX",
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": false,
-          "variants": []
-        },
-        "info_url": "https://www.spacex.com/vehicles/starship/",
-        "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
-        "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
-        "agencies": [
-          {
-            "response_mode": "list",
-            "id": 121,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-            "name": "SpaceX",
-            "abbrev": "SpX",
-            "type": {
-              "id": 3,
-              "name": "Commercial"
-            }
-          }
-        ],
-        "start_date": "2019-03-01T05:00:00Z",
-        "end_date": null,
-        "mission_patches": [],
-        "type": {
-          "id": 7,
-          "name": "Technology"
-        }
-      },
-      {
-        "response_mode": "normal",
         "id": 25,
         "url": "https://ll.thespacedevs.com/2.3.0/programs/25/",
         "name": "Starlink",
@@ -20463,6 +20419,50 @@
         "type": {
           "id": 3,
           "name": "Communication Constellation"
+        }
+      },
+      {
+        "response_mode": "normal",
+        "id": 1,
+        "url": "https://ll.thespacedevs.com/2.3.0/programs/1/",
+        "name": "SpaceX Starship",
+        "image": {
+          "id": 2301,
+          "name": "Starship on the launch pad during WDR (Flight 7)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_thumbnail_20250111100521.jpeg",
+          "credit": "SpaceX",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "info_url": "https://www.spacex.com/vehicles/starship/",
+        "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+        "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
+        "agencies": [
+          {
+            "response_mode": "list",
+            "id": 121,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+            "name": "SpaceX",
+            "abbrev": "SpX",
+            "type": {
+              "id": 3,
+              "name": "Commercial"
+            }
+          }
+        ],
+        "start_date": "2019-03-01T05:00:00Z",
+        "end_date": null,
+        "mission_patches": [],
+        "type": {
+          "id": 7,
+          "name": "Technology"
         }
       }
     ],
@@ -20703,17 +20703,17 @@
       },
       {
         "type": {
-          "id": 91,
-          "abbrev": "Excitement Guaranteed",
-          "description": "Excitement guaranteed"
+          "id": 10,
+          "abbrev": "Liftoff",
+          "description": "First upwards movement of the rocket"
         },
         "relative_time": "P0D"
       },
       {
         "type": {
-          "id": 10,
-          "abbrev": "Liftoff",
-          "description": "First upwards movement of the rocket"
+          "id": 91,
+          "abbrev": "Excitement Guaranteed",
+          "description": "Excitement guaranteed"
         },
         "relative_time": "P0D"
       },
