@@ -7981,7 +7981,7 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-09-26T21:07:41Z",
+    "last_updated": "2026-09-28T03:40:54Z",
     "net": "2026-09-28T12:15:00Z",
     "net_precision": {
       "id": 1,
@@ -9453,6 +9453,50 @@
     "program": [
       {
         "response_mode": "normal",
+        "id": 1,
+        "url": "https://ll.thespacedevs.com/2.3.0/programs/1/",
+        "name": "SpaceX Starship",
+        "image": {
+          "id": 2301,
+          "name": "Starship on the launch pad during WDR (Flight 7)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_thumbnail_20250111100521.jpeg",
+          "credit": "SpaceX",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "info_url": "https://www.spacex.com/vehicles/starship/",
+        "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+        "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
+        "agencies": [
+          {
+            "response_mode": "list",
+            "id": 121,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
+            "name": "SpaceX",
+            "abbrev": "SpX",
+            "type": {
+              "id": 3,
+              "name": "Commercial"
+            }
+          }
+        ],
+        "start_date": "2019-03-01T05:00:00Z",
+        "end_date": null,
+        "mission_patches": [],
+        "type": {
+          "id": 7,
+          "name": "Technology"
+        }
+      },
+      {
+        "response_mode": "normal",
         "id": 25,
         "url": "https://ll.thespacedevs.com/2.3.0/programs/25/",
         "name": "Starlink",
@@ -9512,50 +9556,6 @@
         "type": {
           "id": 3,
           "name": "Communication Constellation"
-        }
-      },
-      {
-        "response_mode": "normal",
-        "id": 1,
-        "url": "https://ll.thespacedevs.com/2.3.0/programs/1/",
-        "name": "SpaceX Starship",
-        "image": {
-          "id": 2301,
-          "name": "Starship on the launch pad during WDR (Flight 7)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_thumbnail_20250111100521.jpeg",
-          "credit": "SpaceX",
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": false,
-          "variants": []
-        },
-        "info_url": "https://www.spacex.com/vehicles/starship/",
-        "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
-        "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
-        "agencies": [
-          {
-            "response_mode": "list",
-            "id": 121,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/121/",
-            "name": "SpaceX",
-            "abbrev": "SpX",
-            "type": {
-              "id": 3,
-              "name": "Commercial"
-            }
-          }
-        ],
-        "start_date": "2019-03-01T05:00:00Z",
-        "end_date": null,
-        "mission_patches": [],
-        "type": {
-          "id": 7,
-          "name": "Technology"
         }
       }
     ],
@@ -9687,7 +9687,49 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-09-28T11:45:00Z",
+        "start_time": "2026-09-28T11:33:00Z",
+        "end_time": null,
+        "live": false
+      },
+      {
+        "priority": 10,
+        "source": "x.com",
+        "publisher": "SpaceX",
+        "title": "Starship Flight 14",
+        "description": "Livestream on X",
+        "feature_image": "https://pbs.twimg.com/media/HTQqmPxXMAAFz7s.jpg",
+        "url": "https://x.com/i/broadcasts/1qxvvenMPMQxB",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-09-28T11:38:00Z",
+        "end_time": "2026-09-29T11:38:00Z",
+        "live": false
+      },
+      {
+        "priority": 11,
+        "source": "youtube.com",
+        "publisher": "Spaceflight Now",
+        "title": "Watch Live: SpaceX Starship heads for orbit on 14th flight",
+        "description": "Watch live as SpaceX launches its revolutionary Starship launcher into orbit from the first time. Liftoff of the Version 3 integrated Starship vehicle from Starbase in Texas is scheduled during a launch window that opens at 7:15 a.m. CDT / 8:15 a.m. EDT / 1215 UTC on Monday, Sept. 28.\n\nFlight 14 will use the Ship 41 upper stage and Booster 21 as the first stage Super Heavy booster. SpaceX plans to deploy 26 Starlink Version 3 satellites from S41, marking the first orbital deployment of the next generation satellites. \n\nIf all goes according to plan the Ship will remain in orbit for nearly 10 hours, making six orbits of the planet, before it splashes down in the Pacific Ocean off the coast of Chile.\n\nThe Super Heavy booster will splashdown in the Gulf of Mexico.\n\nOur live coverage, hos...",
+        "feature_image": "https://i.ytimg.com/vi/FyQU5NdpfXQ/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=FyQU5NdpfXQ",
+        "type": {
+          "id": 3,
+          "name": "Unofficial Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-09-28T10:15:00Z",
         "end_time": null,
         "live": false
       },
@@ -9709,6 +9751,27 @@
           "code": "en"
         },
         "start_time": "2026-09-28T08:15:00Z",
+        "end_time": null,
+        "live": false
+      },
+      {
+        "priority": 13,
+        "source": "youtube.com",
+        "publisher": "Everyday Astronaut",
+        "title": "[4K] Watch the FIRST Orbital Starship Mission!!!",
+        "description": "SpaceX is targeting Starship Flight 14 NET Monday, September 28, 2026 at 7:15 a.m. CT (12:15 UTC). This will be the FIRST orbital launch attempt of Starship with Ship 41 and Booster 21, carrying the first operational batch of 26 Starlink V3 satellites on a roughly 10-hour mission of about six orbits at around 275 km before a Pacific Ocean splashdown. Booster 21 will splash down in the Gulf after boostback, making this a major step from prior suborbital tests toward sustained orbit, payload ops, and eventual full reuse.\n\nWant to know why Starship's V3 Booster only has 3 grid fins instead of 4? Watch this!! - https://youtu.be/suZNTDISXKw\n\nWant to support what I do? Consider becoming a Patreon supporter for access to exclusive livestreams, our discord channel! - http://patreon.com/everyd...",
+        "feature_image": "https://i.ytimg.com/vi/LeKY53pwArw/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=LeKY53pwArw",
+        "type": {
+          "id": 3,
+          "name": "Unofficial Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-09-28T11:00:00Z",
         "end_time": null,
         "live": false
       }
@@ -9804,17 +9867,17 @@
       },
       {
         "type": {
-          "id": 10,
-          "abbrev": "Liftoff",
-          "description": "First upwards movement of the rocket"
+          "id": 91,
+          "abbrev": "Excitement Guaranteed",
+          "description": "Excitement guaranteed"
         },
         "relative_time": "P0D"
       },
       {
         "type": {
-          "id": 91,
-          "abbrev": "Excitement Guaranteed",
-          "description": "Excitement guaranteed"
+          "id": 10,
+          "abbrev": "Liftoff",
+          "description": "First upwards movement of the rocket"
         },
         "relative_time": "P0D"
       },
@@ -16520,162 +16583,6 @@
       },
       "launcher_stage": [
         {
-          "id": 988,
-          "type": "Strap-On Booster",
-          "reused": true,
-          "launcher_flight_number": 2,
-          "launcher": {
-            "response_mode": "normal",
-            "id": 250,
-            "url": "https://ll.thespacedevs.com/2.3.0/launchers/250/",
-            "flight_proven": true,
-            "serial_number": "B1104",
-            "is_placeholder": false,
-            "status": {
-              "id": 3,
-              "name": "active"
-            },
-            "image": {
-              "id": 1736,
-              "name": "Falcon 9 liftoff from LC-39A",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
-              "credit": "SpaceX",
-              "license": {
-                "id": 5,
-                "name": "CC BY-NC 2.0",
-                "priority": 1,
-                "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-              },
-              "single_use": false,
-              "variants": []
-            },
-            "details": "Falcon 9 booster.",
-            "successful_landings": 1,
-            "attempted_landings": 1,
-            "flights": 1,
-            "last_launch_date": "2026-08-30T11:26:04Z",
-            "first_launch_date": "2026-08-30T11:26:04Z",
-            "fastest_turnaround": null
-          },
-          "previous_flight_date": "2026-08-30T11:26:04Z",
-          "turn_around_time": "P32DT16H26M56S",
-          "landing": {
-            "id": 1959,
-            "url": "https://ll.thespacedevs.com/2.3.0/landings/1959/",
-            "attempt": true,
-            "success": null,
-            "description": "The Falcon Heavy side booster B1104 will land back at the launch site at Landing Zone 1 after its 2nd flight.",
-            "downrange_distance": 14.9,
-            "landing_location": {
-              "id": 4,
-              "name": "Landing Zone 1",
-              "active": false,
-              "abbrev": "LZ-1",
-              "description": "LZ-1 Pad located at Cape Canaveral Space Force Station at the previous LC-13.",
-              "location": {
-                "response_mode": "normal",
-                "id": 12,
-                "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
-                "name": "Cape Canaveral SFS, FL, USA",
-                "active": true,
-                "country": {
-                  "id": 2,
-                  "name": "United States of America",
-                  "alpha_2_code": "US",
-                  "alpha_3_code": "USA",
-                  "nationality_name": "American",
-                  "nationality_name_composed": "Americano"
-                },
-                "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
-                "image": {
-                  "id": 2200,
-                  "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
-                  "credit": "NASA",
-                  "license": {
-                    "id": 4,
-                    "name": "NASA Image and Media Guidelines",
-                    "priority": 0,
-                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
-                "longitude": -80.577778,
-                "latitude": 28.488889,
-                "timezone_name": "America/New_York",
-                "total_launch_count": 1129,
-                "total_landing_count": 79
-              },
-              "longitude": -80.542963,
-              "latitude": 28.485712,
-              "image": {
-                "id": 1968,
-                "name": "LZ-1 empty",
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/lz-1_empty_image_20240310163411.jpg",
-                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/lz-1_empty_image_thumbnail_20240310163411.jpeg",
-                "credit": "SpaceX",
-                "license": {
-                  "id": 5,
-                  "name": "CC BY-NC 2.0",
-                  "priority": 1,
-                  "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-                },
-                "single_use": true,
-                "variants": []
-              },
-              "successful_landings": 53,
-              "attempted_landings": 54,
-              "failed_landings": 1,
-              "celestial_body": {
-                "response_mode": "normal",
-                "id": 1,
-                "name": "Earth",
-                "type": {
-                  "id": 1,
-                  "name": "Planet"
-                },
-                "diameter": 12742000.0,
-                "mass": 5.972168e+24,
-                "gravity": 9.80655,
-                "length_of_day": "1 00:00:00",
-                "atmosphere": true,
-                "image": {
-                  "id": 2040,
-                  "name": "Earth (Apollo 17)",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-                  "credit": "NASA",
-                  "license": {
-                    "id": 4,
-                    "name": "NASA Image and Media Guidelines",
-                    "priority": 0,
-                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
-              }
-            },
-            "type": {
-              "id": 2,
-              "name": "Return to Launch Site",
-              "abbrev": "RTLS",
-              "description": "A return to launch site usually means that after stage separation the booster flips and does a burn back towards the launch site, landing near where it initially launched from."
-            }
-          },
-          "previous_flight": {
-            "id": "521f3a1c-f977-4306-9b7f-495858719adf",
-            "url": "https://ll.thespacedevs.com/2.3.0/launches/521f3a1c-f977-4306-9b7f-495858719adf/",
-            "name": "Falcon Heavy | Nancy Grace Roman Space Telescope"
-          }
-        },
-        {
           "id": 989,
           "type": "Strap-On Booster",
           "reused": true,
@@ -16946,6 +16853,162 @@
             }
           },
           "previous_flight": null
+        },
+        {
+          "id": 988,
+          "type": "Strap-On Booster",
+          "reused": true,
+          "launcher_flight_number": 2,
+          "launcher": {
+            "response_mode": "normal",
+            "id": 250,
+            "url": "https://ll.thespacedevs.com/2.3.0/launchers/250/",
+            "flight_proven": true,
+            "serial_number": "B1104",
+            "is_placeholder": false,
+            "status": {
+              "id": 3,
+              "name": "active"
+            },
+            "image": {
+              "id": 1736,
+              "name": "Falcon 9 liftoff from LC-39A",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193628.jpeg",
+              "credit": "SpaceX",
+              "license": {
+                "id": 5,
+                "name": "CC BY-NC 2.0",
+                "priority": 1,
+                "link": "https://creativecommons.org/licenses/by-nc/2.0/"
+              },
+              "single_use": false,
+              "variants": []
+            },
+            "details": "Falcon 9 booster.",
+            "successful_landings": 1,
+            "attempted_landings": 1,
+            "flights": 1,
+            "last_launch_date": "2026-08-30T11:26:04Z",
+            "first_launch_date": "2026-08-30T11:26:04Z",
+            "fastest_turnaround": null
+          },
+          "previous_flight_date": "2026-08-30T11:26:04Z",
+          "turn_around_time": "P32DT16H26M56S",
+          "landing": {
+            "id": 1959,
+            "url": "https://ll.thespacedevs.com/2.3.0/landings/1959/",
+            "attempt": true,
+            "success": null,
+            "description": "The Falcon Heavy side booster B1104 will land back at the launch site at Landing Zone 1 after its 2nd flight.",
+            "downrange_distance": 14.9,
+            "landing_location": {
+              "id": 4,
+              "name": "Landing Zone 1",
+              "active": false,
+              "abbrev": "LZ-1",
+              "description": "LZ-1 Pad located at Cape Canaveral Space Force Station at the previous LC-13.",
+              "location": {
+                "response_mode": "normal",
+                "id": 12,
+                "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+                "name": "Cape Canaveral SFS, FL, USA",
+                "active": true,
+                "country": {
+                  "id": 2,
+                  "name": "United States of America",
+                  "alpha_2_code": "US",
+                  "alpha_3_code": "USA",
+                  "nationality_name": "American",
+                  "nationality_name_composed": "Americano"
+                },
+                "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+                "image": {
+                  "id": 2200,
+                  "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+                  "credit": "NASA",
+                  "license": {
+                    "id": 4,
+                    "name": "NASA Image and Media Guidelines",
+                    "priority": 0,
+                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+                "longitude": -80.577778,
+                "latitude": 28.488889,
+                "timezone_name": "America/New_York",
+                "total_launch_count": 1129,
+                "total_landing_count": 79
+              },
+              "longitude": -80.542963,
+              "latitude": 28.485712,
+              "image": {
+                "id": 1968,
+                "name": "LZ-1 empty",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/lz-1_empty_image_20240310163411.jpg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/lz-1_empty_image_thumbnail_20240310163411.jpeg",
+                "credit": "SpaceX",
+                "license": {
+                  "id": 5,
+                  "name": "CC BY-NC 2.0",
+                  "priority": 1,
+                  "link": "https://creativecommons.org/licenses/by-nc/2.0/"
+                },
+                "single_use": true,
+                "variants": []
+              },
+              "successful_landings": 53,
+              "attempted_landings": 54,
+              "failed_landings": 1,
+              "celestial_body": {
+                "response_mode": "normal",
+                "id": 1,
+                "name": "Earth",
+                "type": {
+                  "id": 1,
+                  "name": "Planet"
+                },
+                "diameter": 12742000.0,
+                "mass": 5.972168e+24,
+                "gravity": 9.80655,
+                "length_of_day": "1 00:00:00",
+                "atmosphere": true,
+                "image": {
+                  "id": 2040,
+                  "name": "Earth (Apollo 17)",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                  "credit": "NASA",
+                  "license": {
+                    "id": 4,
+                    "name": "NASA Image and Media Guidelines",
+                    "priority": 0,
+                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
+              }
+            },
+            "type": {
+              "id": 2,
+              "name": "Return to Launch Site",
+              "abbrev": "RTLS",
+              "description": "A return to launch site usually means that after stage separation the booster flips and does a burn back towards the launch site, landing near where it initially launched from."
+            }
+          },
+          "previous_flight": {
+            "id": "521f3a1c-f977-4306-9b7f-495858719adf",
+            "url": "https://ll.thespacedevs.com/2.3.0/launches/521f3a1c-f977-4306-9b7f-495858719adf/",
+            "name": "Falcon Heavy | Nancy Grace Roman Space Telescope"
+          }
         }
       ],
       "spacecraft_stage": [],
