@@ -24266,5 +24266,658 @@
         "response_mode": "normal"
       }
     ]
+  },
+  {
+    "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/a927b2f9-f9a5-4196-9abb-2e275e4a6b96/",
+    "name": "Pallas-1 | Demo Flight",
+    "response_mode": "detailed",
+    "slug": "pallas-1-demo-flight",
+    "launch_designator": null,
+    "status": {
+      "id": 3,
+      "name": "Launch Successful",
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+    },
+    "last_updated": "2026-09-01T02:23:24Z",
+    "net": "2026-09-01T02:00:00Z",
+    "net_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
+    "window_end": "2026-09-01T04:09:00Z",
+    "window_start": "2026-09-01T01:52:00Z",
+    "image": {
+      "id": 2802,
+      "name": "Pallas-1 Y1",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pallas-1_y1_image_20260901030251.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pallas-1_y1_image_thumbnail_20260901030252.jpeg",
+      "credit": "Galactic Energy",
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 1021,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/1021/",
+      "name": "Galactic Energy",
+      "abbrev": "GE",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 6,
+          "name": "China",
+          "alpha_2_code": "CN",
+          "alpha_3_code": "CHN",
+          "nationality_name": "Chinese",
+          "nationality_name_composed": "Sino"
+        }
+      ],
+      "description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
+      "administrator": null,
+      "founding_year": 2018,
+      "launchers": "Ceres-1 | Pallas-1",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 11,
+        "name": "[AUTO] Galactic Energy - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic_energy_image_20201106095228.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184607.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 135,
+        "name": "[AUTO] Galactic Energy - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184957.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 59,
+        "name": "[AUTO] Galactic Energy - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_nation_20230703094321.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184759.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 25,
+      "consecutive_successful_launches": 1,
+      "successful_launches": 22,
+      "failed_launches": 3,
+      "pending_launches": 0,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.galactic-energy.cn/index.php/En",
+      "wiki_url": null,
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 8824,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 542,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/542/",
+        "name": "Pallas-1",
+        "families": [],
+        "full_name": "Pallas-1",
+        "variant": "",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 1021,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1021/",
+          "name": "Galactic Energy",
+          "abbrev": "GE",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 6,
+              "name": "China",
+              "alpha_2_code": "CN",
+              "alpha_3_code": "CHN",
+              "nationality_name": "Chinese",
+              "nationality_name_composed": "Sino"
+            }
+          ],
+          "description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
+          "administrator": null,
+          "founding_year": 2018,
+          "launchers": "Ceres-1 | Pallas-1",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 11,
+            "name": "[AUTO] Galactic Energy - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic_energy_image_20201106095228.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184607.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 135,
+            "name": "[AUTO] Galactic Energy - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184957.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 59,
+            "name": "[AUTO] Galactic Energy - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_nation_20230703094321.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184759.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 25,
+          "consecutive_successful_launches": 1,
+          "successful_launches": 22,
+          "failed_launches": 3,
+          "pending_launches": 0,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.galactic-energy.cn/index.php/En",
+          "wiki_url": null,
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": true,
+        "image": {
+          "id": 2802,
+          "name": "Pallas-1 Y1",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pallas-1_y1_image_20260901030251.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pallas-1_y1_image_thumbnail_20260901030252.jpeg",
+          "credit": "Galactic Energy",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Pallas-1",
+        "description": "Pallas-1 is a 2 stage, semi-reusable launch vehicle built by the Chinese private launch services provider Galactic Energy. Both stages are powered by the gas generator cycle rocket engine Welkin/Cangqiong 50 (CQ-50) using kerosene and liquid oxygen, with 7 engines on the 1st stage and 1 vacuum variant on the 2nd stage.\r\n\r\nIt can launch 7 tonnes to LEO and 3 tonnes to SSO when the 1st stage is recovered downrange.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 3,
+        "length": 49.6,
+        "diameter": 3.35,
+        "maiden_flight": "2026-09-01",
+        "launch_cost": null,
+        "launch_mass": 283.0,
+        "leo_capacity": 7000.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": 3000.0,
+        "to_thrust": 3435.0,
+        "apogee": null,
+        "total_launch_count": 1,
+        "consecutive_successful_launches": 1,
+        "successful_launches": 1,
+        "failed_launches": 0,
+        "pending_launches": 0,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [
+        {
+          "id": 982,
+          "type": "Core",
+          "reused": false,
+          "launcher_flight_number": 1,
+          "launcher": {
+            "response_mode": "normal",
+            "id": 259,
+            "url": "https://ll.thespacedevs.com/2.3.0/launchers/259/",
+            "flight_proven": false,
+            "serial_number": "Pallas1 F1",
+            "is_placeholder": false,
+            "status": {
+              "id": 2,
+              "name": "expended"
+            },
+            "image": {
+              "id": 2802,
+              "name": "Pallas-1 Y1",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pallas-1_y1_image_20260901030251.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pallas-1_y1_image_thumbnail_20260901030252.jpeg",
+              "credit": "Galactic Energy",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "details": "First stage booster used on the 1st flight of Galactic Energy's Pallas-1 rocket. No booster recovery was attempted.",
+            "successful_landings": 0,
+            "attempted_landings": 0,
+            "flights": 1,
+            "last_launch_date": "2026-09-01T02:00:00Z",
+            "first_launch_date": "2026-09-01T02:00:00Z",
+            "fastest_turnaround": null
+          },
+          "previous_flight_date": null,
+          "turn_around_time": null,
+          "landing": {
+            "id": 1916,
+            "url": "https://ll.thespacedevs.com/2.3.0/landings/1916/",
+            "attempt": false,
+            "success": null,
+            "description": "The Pallas-1 first stage booster was expended.",
+            "downrange_distance": null,
+            "landing_location": {
+              "id": 12,
+              "name": "Unknown",
+              "active": true,
+              "abbrev": "N/A",
+              "description": null,
+              "location": null,
+              "longitude": null,
+              "latitude": null,
+              "image": null,
+              "successful_landings": 0,
+              "attempted_landings": 0,
+              "failed_landings": 0,
+              "celestial_body": {
+                "response_mode": "normal",
+                "id": 1,
+                "name": "Earth",
+                "type": {
+                  "id": 1,
+                  "name": "Planet"
+                },
+                "diameter": 12742000.0,
+                "mass": 5.972168e+24,
+                "gravity": 9.80655,
+                "length_of_day": "1 00:00:00",
+                "atmosphere": true,
+                "image": {
+                  "id": 2040,
+                  "name": "Earth (Apollo 17)",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                  "credit": "NASA",
+                  "license": {
+                    "id": 4,
+                    "name": "NASA Image and Media Guidelines",
+                    "priority": 0,
+                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
+              }
+            },
+            "type": {
+              "id": 8,
+              "name": "Expended",
+              "abbrev": "EXP",
+              "description": "Vehicle did not perform any landing operations after launch"
+            }
+          },
+          "previous_flight": null
+        }
+      ],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7415,
+      "name": "Demo Flight",
+      "type": "Test Flight",
+      "description": "First test launch of Galactic Energy’s Pallas-1 rocket, with a dummy payload on board.",
+      "image": null,
+      "orbit": {
+        "id": 17,
+        "name": "Sun-Synchronous Orbit",
+        "abbrev": "SSO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 246,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/246/",
+      "active": true,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 1021,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1021/",
+          "name": "Galactic Energy",
+          "abbrev": "GE",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 6,
+              "name": "China",
+              "alpha_2_code": "CN",
+              "alpha_3_code": "CHN",
+              "nationality_name": "Chinese",
+              "nationality_name_composed": "Sino"
+            }
+          ],
+          "description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
+          "administrator": null,
+          "founding_year": 2018,
+          "launchers": "Ceres-1 | Pallas-1",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 11,
+            "name": "[AUTO] Galactic Energy - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic_energy_image_20201106095228.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184607.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 135,
+            "name": "[AUTO] Galactic Energy - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184957.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 59,
+            "name": "[AUTO] Galactic Energy - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_nation_20230703094321.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184759.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Pallas-1 Launch Pad",
+      "image": null,
+      "description": "",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Pallas-1",
+      "map_url": "https://www.google.com/maps?q=40.775962,100.107214",
+      "latitude": 40.775962,
+      "longitude": 100.107214,
+      "country": {
+        "id": 6,
+        "name": "China",
+        "alpha_2_code": "CN",
+        "alpha_3_code": "CHN",
+        "nationality_name": "Chinese",
+        "nationality_name_composed": "Sino"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_pallas-1_launch_pad_20251128223637.jpg",
+      "total_launch_count": 1,
+      "orbital_launch_attempt_count": 1,
+      "fastest_turnaround": null,
+      "location": {
+        "response_mode": "normal",
+        "id": 17,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/17/",
+        "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7630,
+          "successful_launches": 7073,
+          "failed_launches": 557,
+          "total_attempted_landings": 1372,
+          "successful_landings": 1323,
+          "failed_landings": 49
+        },
+        "active": true,
+        "country": {
+          "id": 6,
+          "name": "China",
+          "alpha_2_code": "CN",
+          "alpha_3_code": "CHN",
+          "nationality_name": "Chinese",
+          "nationality_name_composed": "Sino"
+        },
+        "description": "Jiuquan Satellite Launch Center is a Chinese spaceport located between the Ejin, Alxa, Inner Mongolia and Hangtian Town, Jinta County, Jiuquan, Gansu Province. It is part of the Dongfeng Aerospace City (Base 10).",
+        "image": {
+          "id": 1374,
+          "name": "Long March 2F/G liftoff (Shenzhou 16)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20240101085213.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192548.jpeg",
+          "credit": "CMS",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_17_20200803142429.jpg",
+        "longitude": 100.291111,
+        "latitude": 40.958056,
+        "timezone_name": "Asia/Shanghai",
+        "total_launch_count": 298,
+        "total_landing_count": 3
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7380,
+    "location_launch_attempt_count": 294,
+    "pad_launch_attempt_count": 1,
+    "agency_launch_attempt_count": 25,
+    "orbital_launch_attempt_count_year": 207,
+    "location_launch_attempt_count_year": 21,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 3,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 15995,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Launch success.",
+        "info_url": "https://m.weibo.cn/detail/5338281089963689",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-01T02:23:00Z"
+      },
+      {
+        "id": 15958,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET September 1 per NOTAMs; Assignment of this to the launch within the window is uncertain.",
+        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=57867.msg2818059#msg2818059",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-27T08:05:00Z"
+      },
+      {
+        "id": 15741,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Moved to NET August based on rumors.",
+        "info_url": "https://x.com/raz_liu/status/2084104219351818280",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-08-05T00:07:00Z"
+      },
+      {
+        "id": 13093,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added launch.",
+        "info_url": "https://x.com/AJ_FI/status/1985669653163860087",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2025-12-01T16:44:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P0D",
+    "mission_patches": [
+      {
+        "id": 1338,
+        "name": "Pallas-1 Y1 Mission Patch",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/pallas-12520y1_mission_patch_20260805001638.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 1021,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1021/",
+          "name": "Galactic Energy",
+          "abbrev": "GE",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ]
   }
 ]
