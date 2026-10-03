@@ -1,906 +1,5 @@
 [
   {
-    "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/17d0ec68-f466-4916-9dc5-16123eda6484/",
-    "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-    "response_mode": "detailed",
-    "slug": "gslv-mk-ii-gisat-1a-eos-05",
-    "launch_designator": "2026-202",
-    "status": {
-      "id": 3,
-      "name": "Launch Successful",
-      "abbrev": "Success",
-      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-    },
-    "last_updated": "2026-09-13T03:41:04Z",
-    "net": "2026-09-03T21:25:00Z",
-    "net_precision": {
-      "id": 0,
-      "name": "Second",
-      "abbrev": "SEC",
-      "description": "The T-0 is accurate to the second."
-    },
-    "window_end": "2026-09-04T01:00:00Z",
-    "window_start": "2026-09-03T21:00:00Z",
-    "image": {
-      "id": 1744,
-      "name": "[AUTO] GSLV Mk II - image",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193640.jpeg",
-      "credit": null,
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 31,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-      "name": "Indian Space Research Organization",
-      "abbrev": "ISRO",
-      "type": {
-        "id": 1,
-        "name": "Government"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 9,
-          "name": "India",
-          "alpha_2_code": "IN",
-          "alpha_3_code": "IND",
-          "nationality_name": "Indian",
-          "nationality_name_composed": "Indo"
-        }
-      ],
-      "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "administrator": "Chairman: V. Narayanan",
-      "founding_year": 1969,
-      "launchers": "PSLV | GSLV",
-      "spacecraft": "Gaganyaan",
-      "parent": null,
-      "image": {
-        "id": 14,
-        "name": "[AUTO] Indian Space Research Organization - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 141,
-        "name": "[AUTO] Indian Space Research Organization - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 63,
-        "name": "[AUTO] Indian Space Research Organization - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 100,
-      "consecutive_successful_launches": 1,
-      "successful_launches": 85,
-      "failed_launches": 15,
-      "pending_launches": 21,
-      "consecutive_successful_landings": 0,
-      "successful_landings": 0,
-      "failed_landings": 0,
-      "attempted_landings": 0,
-      "successful_landings_spacecraft": 0,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 0,
-      "successful_landings_payload": 1,
-      "failed_landings_payload": 1,
-      "attempted_landings_payload": 2,
-      "info_url": "https://www.isro.gov.in/",
-      "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-      "social_media_links": []
-    },
-    "rocket": {
-      "id": 2413,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 168,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/168/",
-        "name": "GSLV Mk II",
-        "families": [
-          {
-            "response_mode": "detailed",
-            "id": 84,
-            "name": "GSLV",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 31,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-                "name": "Indian Space Research Organization",
-                "abbrev": "ISRO",
-                "type": {
-                  "id": 1,
-                  "name": "Government"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 9,
-                    "name": "India",
-                    "alpha_2_code": "IN",
-                    "alpha_3_code": "IND",
-                    "nationality_name": "Indian",
-                    "nationality_name_composed": "Indo"
-                  }
-                ],
-                "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-                "administrator": "Chairman: V. Narayanan",
-                "founding_year": 1969,
-                "launchers": "PSLV | GSLV",
-                "spacecraft": "Gaganyaan",
-                "parent": null,
-                "image": {
-                  "id": 14,
-                  "name": "[AUTO] Indian Space Research Organization - image",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 141,
-                  "name": "[AUTO] Indian Space Research Organization - logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 63,
-                  "name": "[AUTO] Indian Space Research Organization - social_logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 100,
-                "consecutive_successful_launches": 1,
-                "successful_launches": 85,
-                "failed_launches": 15,
-                "pending_launches": 21,
-                "consecutive_successful_landings": 0,
-                "successful_landings": 0,
-                "failed_landings": 0,
-                "attempted_landings": 0,
-                "successful_landings_spacecraft": 0,
-                "failed_landings_spacecraft": 0,
-                "attempted_landings_spacecraft": 0,
-                "successful_landings_payload": 1,
-                "failed_landings_payload": 1,
-                "attempted_landings_payload": 2,
-                "info_url": "https://www.isro.gov.in/",
-                "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-                "social_media_links": []
-              }
-            ],
-            "parent": null,
-            "description": "",
-            "active": true,
-            "maiden_flight": "2001-04-18",
-            "total_launch_count": 28,
-            "consecutive_successful_launches": 10,
-            "successful_launches": 22,
-            "failed_launches": 6,
-            "pending_launches": 12,
-            "attempted_landings": 0,
-            "successful_landings": 0,
-            "failed_landings": 0,
-            "consecutive_successful_landings": 0
-          }
-        ],
-        "full_name": "GSLV Mk. II",
-        "variant": "",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 31,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-          "name": "Indian Space Research Organization",
-          "abbrev": "ISRO",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 9,
-              "name": "India",
-              "alpha_2_code": "IN",
-              "alpha_3_code": "IND",
-              "nationality_name": "Indian",
-              "nationality_name_composed": "Indo"
-            }
-          ],
-          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-          "administrator": "Chairman: V. Narayanan",
-          "founding_year": 1969,
-          "launchers": "PSLV | GSLV",
-          "spacecraft": "Gaganyaan",
-          "parent": null,
-          "image": {
-            "id": 14,
-            "name": "[AUTO] Indian Space Research Organization - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 141,
-            "name": "[AUTO] Indian Space Research Organization - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 63,
-            "name": "[AUTO] Indian Space Research Organization - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 100,
-          "consecutive_successful_launches": 1,
-          "successful_launches": 85,
-          "failed_launches": 15,
-          "pending_launches": 21,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 1,
-          "failed_landings_payload": 1,
-          "attempted_landings_payload": 2,
-          "info_url": "https://www.isro.gov.in/",
-          "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": false,
-        "image": {
-          "id": 1744,
-          "name": "[AUTO] GSLV Mk II - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193640.jpeg",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": null,
-        "wiki_url": "https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle",
-        "description": "Geosynchronous Satellite Launch Vehicle Mark II (GSLV Mk II) is the largest launch vehicle developed by India, which is currently in operation. This fourth generation launch vehicle is a three stage vehicle with four liquid strap-ons. The indigenously developed cryogenic Upper Stage (CUS), which is flight proven, forms the third stage of GSLV Mk II. From January 2014, the vehicle has achieved four consecutive successes.",
-        "alias": "",
-        "min_stage": 0,
-        "max_stage": 3,
-        "length": 49.0,
-        "diameter": 2.8,
-        "maiden_flight": "2010-04-15",
-        "launch_cost": null,
-        "launch_mass": 401.0,
-        "leo_capacity": 0.0,
-        "gto_capacity": 2500.0,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": 7420.0,
-        "apogee": 40000.0,
-        "total_launch_count": 13,
-        "consecutive_successful_launches": 5,
-        "successful_launches": 11,
-        "failed_launches": 2,
-        "pending_launches": 5,
-        "attempted_landings": 0,
-        "successful_landings": 0,
-        "failed_landings": 0,
-        "consecutive_successful_landings": 0,
-        "fastest_turnaround": "P182DT11H17M"
-      },
-      "launcher_stage": [],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 6523,
-      "name": "GISAT-1A (EOS-05)",
-      "type": "Earth Science",
-      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.\r\n\r\nEOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.",
-      "image": null,
-      "orbit": {
-        "id": 2,
-        "name": "Geostationary Transfer Orbit",
-        "abbrev": "GTO",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 31,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-          "name": "Indian Space Research Organization",
-          "abbrev": "ISRO",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 9,
-              "name": "India",
-              "alpha_2_code": "IN",
-              "alpha_3_code": "IND",
-              "nationality_name": "Indian",
-              "nationality_name_composed": "Indo"
-            }
-          ],
-          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-          "administrator": "Chairman: V. Narayanan",
-          "founding_year": 1969,
-          "launchers": "PSLV | GSLV",
-          "spacecraft": "Gaganyaan",
-          "parent": null,
-          "image": {
-            "id": 14,
-            "name": "[AUTO] Indian Space Research Organization - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 141,
-            "name": "[AUTO] Indian Space Research Organization - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 63,
-            "name": "[AUTO] Indian Space Research Organization - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 100,
-          "consecutive_successful_launches": 1,
-          "successful_launches": 85,
-          "failed_launches": 15,
-          "pending_launches": 21,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 1,
-          "failed_landings_payload": 1,
-          "attempted_landings_payload": 2,
-          "info_url": "https://www.isro.gov.in/",
-          "wiki_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organization",
-          "social_media_links": []
-        }
-      ],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 82,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/82/",
-      "active": true,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 31,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/31/",
-          "name": "Indian Space Research Organization",
-          "abbrev": "ISRO",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 9,
-              "name": "India",
-              "alpha_2_code": "IN",
-              "alpha_3_code": "IND",
-              "nationality_name": "Indian",
-              "nationality_name_composed": "Indo"
-            }
-          ],
-          "description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-          "administrator": "Chairman: V. Narayanan",
-          "founding_year": 1969,
-          "launchers": "PSLV | GSLV",
-          "spacecraft": "Gaganyaan",
-          "parent": null,
-          "image": {
-            "id": 14,
-            "name": "[AUTO] Indian Space Research Organization - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_image_20190215225409.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184615.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 141,
-            "name": "[AUTO] Indian Space Research Organization - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185007.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 63,
-            "name": "[AUTO] Indian Space Research Organization - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_nation_20230624125733.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184805.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Satish Dhawan Space Centre Second Launch Pad",
-      "image": {
-        "id": 1992,
-        "name": "Second Launch Pad",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/second_launch_p_image_20240311093204.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/second_launch_p_image_thumbnail_20240311093204.jpeg",
-        "credit": "Indian Space Research Organisation",
-        "license": {
-          "id": 11,
-          "name": "Government Open Data License - India (GODL)",
-          "priority": 3,
-          "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "description": "The second launch pad was built between 1999 and 2003.  It became functional in 2005 and has since been used for various rockets. This launch pad supports missions by PSLV, GSLV, LVM3 rockets and is even envisioned for India's future crewed spaceflight.",
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad",
-      "map_url": "https://www.google.com/maps?q=13.7199,80.2304",
-      "latitude": 13.7199,
-      "longitude": 80.2304,
-      "country": {
-        "id": 9,
-        "name": "India",
-        "alpha_2_code": "IN",
-        "alpha_3_code": "IND",
-        "nationality_name": "Indian",
-        "nationality_name_composed": "Indo"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_82_20200803143602.jpg",
-      "total_launch_count": 33,
-      "orbital_launch_attempt_count": 32,
-      "fastest_turnaround": "P31DT31M",
-      "location": {
-        "response_mode": "normal",
-        "id": 14,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/14/",
-        "name": "Satish Dhawan Space Centre, India",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7633,
-          "successful_launches": 7076,
-          "failed_launches": 557,
-          "total_attempted_landings": 1376,
-          "successful_landings": 1327,
-          "failed_landings": 49
-        },
-        "active": true,
-        "country": {
-          "id": 9,
-          "name": "India",
-          "alpha_2_code": "IN",
-          "alpha_3_code": "IND",
-          "nationality_name": "Indian",
-          "nationality_name_composed": "Indo"
-        },
-        "description": "Satish Dhawan Space Centre – SDSC (formerly Sriharikota Range – SHAR) is the primary spaceport of the Indian Space Research Organisation (ISRO), located in Sriharikota, Andhra Pradesh.",
-        "image": {
-          "id": 2212,
-          "name": "Satish Dhawan Space Centre",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/satish_dhawan_s_image_20240919164153.png",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/satish_dhawan_s_image_thumbnail_20240919164154.png",
-          "credit": "ISRO",
-          "license": {
-            "id": 11,
-            "name": "Government Open Data License - India (GODL)",
-            "priority": 3,
-            "link": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_14_20200803142403.jpg",
-        "longitude": 80.23,
-        "latitude": 13.72,
-        "timezone_name": "Asia/Kolkata",
-        "total_launch_count": 105,
-        "total_landing_count": 0
-      }
-    },
-    "webcast_live": false,
-    "program": [],
-    "orbital_launch_attempt_count": 7383,
-    "location_launch_attempt_count": 105,
-    "pad_launch_attempt_count": 33,
-    "agency_launch_attempt_count": 100,
-    "orbital_launch_attempt_count_year": 210,
-    "location_launch_attempt_count_year": 3,
-    "pad_launch_attempt_count_year": 1,
-    "agency_launch_attempt_count_year": 2,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 16021,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Launch success with satellite in communication and solar arrays deployed.",
-        "info_url": "https://www.youtube.com/watch?v=Q9OdYc3KpEw",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-09-03T21:49:00Z"
-      },
-      {
-        "id": 16020,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Spacecraft separation.",
-        "info_url": "https://www.youtube.com/watch?v=Q9OdYc3KpEw",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-09-03T21:44:00Z"
-      },
-      {
-        "id": 16019,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Liftoff.",
-        "info_url": "https://www.youtube.com/watch?v=Q9OdYc3KpEw",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-09-03T21:25:00Z"
-      },
-      {
-        "id": 16018,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
-        "comment": "Official Webcast by ISRO Official has started",
-        "info_url": "https://www.youtube.com/watch?v=Q9OdYc3KpEw",
-        "created_by": "LL2",
-        "created_on": "2026-09-03T20:55:00Z"
-      },
-      {
-        "id": 15975,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Updated T-0.",
-        "info_url": "https://www.reddit.com/r/ISRO/comments/1w1ho49/gslvf17_eos05_aka_gisat1a_launch_vehicle_is_at/",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-08-29T12:36:00Z"
-      },
-      {
-        "id": 15957,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET September 3 per new NOTAMs, TBC.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=49726.msg2818062#msg2818062",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-08-27T07:56:00Z"
-      },
-      {
-        "id": 15817,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET 1st week of September.",
-        "info_url": "https://www.manoramaonline.com/news/latest-news/2026/08/07/isro-gslv-launch-update.html",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-08-13T01:07:00Z"
-      },
-      {
-        "id": 15598,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET Q3.",
-        "info_url": "https://timesofindia.indiatimes.com/science/isro-targets-seven-launches-this-fiscal-next-mission-set-within-two-months/articleshow/132480449.cms",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-07-18T13:59:00Z"
-      },
-      {
-        "id": 15271,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET July.",
-        "info_url": "https://www.thehindu.com/news/national/karnataka/anomaly-in-pslv-detected-and-resolved-jitendra-singh/article71098533.ece",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-06-13T18:20:00Z"
-      },
-      {
-        "id": 15087,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET June 10.",
-        "info_url": "https://www.sakshi.com/telugu-news/national/gslv-f-17-launch-june-10th-2795229",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-05-24T01:14:00Z"
-      },
-      {
-        "id": 15039,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET early June.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=49726.msg2790890#msg2790890",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-05-22T10:07:00Z"
-      },
-      {
-        "id": 14962,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Delayed to end of May.",
-        "info_url": "https://www.andhrajyothy.com/2026/national/isro-gslvf17-eos05-satellite-launch-sriharikota-month-end-mission-1523015.html",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-05-14T14:30:00Z"
-      },
-      {
-        "id": 14905,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Rescheduled for NET May 21, TBC.",
-        "info_url": "https://www.reddit.com/r/ISRO/comments/1t649gf/notam_for_gslvf17_eos05_aka_gisat1a_launch_is_out/",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-05-07T14:08:00Z"
-      },
-      {
-        "id": 14067,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Reverted back to NET March with cancellation of NOTAMs.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=49726.msg2762923#msg2762923",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-02-23T14:44:00Z"
-      },
-      {
-        "id": 13940,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET March 6 per new NOTAMs.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=49726.msg2759578#msg2759578",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-02-12T09:04:00Z"
-      },
-      {
-        "id": 13872,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET February 20 per NOTAMs.",
-        "info_url": "https://forum.nasaspaceflight.com/index.php?topic=49726.msg2756638#msg2756638",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-02-03T08:11:00Z"
-      },
-      {
-        "id": 12240,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "NET Q1 2026.",
-        "info_url": "https://x.com/i/broadcasts/1OyKAjPpeMyGb",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2025-09-14T23:55:00Z"
-      },
-      {
-        "id": 4022,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Targeting March 2024",
-        "info_url": "https://www.cgms-info.org/Agendas/GetWpFile.ashx?wid=7a49fc94-4517-4fd8-9abe-8c12f68cb5f5&aid=e6f0e59b-8d38-4691-aea1-3f33d881db20",
-        "created_by": "Nosu",
-        "created_on": "2023-05-11T20:35:03Z"
-      }
-    ],
-    "info_urls": [
-      {
-        "priority": 10,
-        "source": "isro.gov.in",
-        "title": "GSLV-F17/EOS-05 MISSION",
-        "description": "GSLV-F17/EOS-05 MISSION",
-        "feature_image": null,
-        "url": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF17.html",
-        "type": {
-          "id": 1,
-          "name": "Official Page"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        }
-      }
-    ],
-    "vid_urls": [
-      {
-        "priority": 10,
-        "source": "youtube.com",
-        "publisher": "ISRO Official",
-        "title": "GSLV-F17/EOS-05 MISSION",
-        "description": "GSLV-F17/EOS-05 MISSION\n\nGSLV-F17/EOS-05 Mission is scheduled for launch on 04 Sept 2026 at 02:55 AM IST from Satish Dhawan Space Centre, SHAR, Sriharikota.\nGSLV-F17 is the 19th flight of India’s Geosynchronous Satellite Launch Vehicle (GSLV) and the configuration of GSLV-F17 Payload Fairing is 4 m dia Ogive (composite) version. The GSLV-F17 vehicle will place EOS-05 satellite into a Sub-Geosynchronous Transfer Orbit (Sub- GTO). Launch is planned from the Second Launch Pad (SLP) at Satish Dhawan Space Centre, SHAR.\nEOS-05 is a state-of-the-art Earth observation spacecraft. It is India’s first ever imaging satellite from Geosynchronous orbit.",
-        "feature_image": "https://i.ytimg.com/vi/Q9OdYc3KpEw/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q9OdYc3KpEw",
-        "type": {
-          "id": 1,
-          "name": "Official Webcast"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        },
-        "start_time": "2026-09-03T20:55:07Z",
-        "end_time": "2026-09-03T22:09:08Z",
-        "live": false
-      }
-    ],
-    "timeline": [],
-    "pad_turnaround": "P253DT17H59M30S",
-    "mission_patches": []
-  },
-  {
     "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/1b23eb18-e06e-4058-9b42-e95ca0980511/",
     "name": "Spectrum | Onward and Upward",
@@ -9637,14 +8736,6 @@
               "nationality_name_composed": "Swedo"
             },
             {
-              "id": 20,
-              "name": "Belgium",
-              "alpha_2_code": "BE",
-              "alpha_3_code": "BEL",
-              "nationality_name": "Belgian",
-              "nationality_name_composed": "Belgo"
-            },
-            {
               "id": 23,
               "name": "Portugal",
               "alpha_2_code": "PT",
@@ -9747,6 +8838,14 @@
               "alpha_3_code": "LUX",
               "nationality_name": "Luxembourger",
               "nationality_name_composed": "Luxembourgish"
+            },
+            {
+              "id": 20,
+              "name": "Belgium",
+              "alpha_2_code": "BE",
+              "alpha_3_code": "BEL",
+              "nationality_name": "Belgian",
+              "nationality_name_composed": "Belgo"
             },
             {
               "id": 86,
@@ -22317,5 +21416,752 @@
     "timeline": [],
     "pad_turnaround": "P30DT5H25M",
     "mission_patches": []
+  },
+  {
+    "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/9e24bef7-c44b-4fdc-ba52-68545ce9457e/",
+    "name": "Electron | Owlright, Owlright, Owlright (StriX Launch 13)",
+    "response_mode": "detailed",
+    "slug": "electron-owlright-owlright-owlright-strix-launch-1",
+    "launch_designator": "2026-223",
+    "status": {
+      "id": 3,
+      "name": "Launch Successful",
+      "abbrev": "Success",
+      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+    },
+    "last_updated": "2026-09-28T23:36:52Z",
+    "net": "2026-09-26T00:39:00Z",
+    "net_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
+    "window_end": "2026-09-26T00:39:00Z",
+    "window_start": "2026-09-26T00:39:00Z",
+    "image": {
+      "id": 1727,
+      "name": "[AUTO] Electron - image",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193613.jpeg",
+      "credit": null,
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 147,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
+      "name": "Rocket Lab",
+      "abbrev": "RL",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
+      "administrator": "CEO: Peter Beck",
+      "founding_year": 2006,
+      "launchers": "Electron",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 24,
+        "name": "[AUTO] Rocket Lab - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 176,
+        "name": "[AUTO] Rocket Lab - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 88,
+        "name": "[AUTO] Rocket Lab - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 97,
+      "consecutive_successful_launches": 56,
+      "successful_launches": 93,
+      "failed_launches": 4,
+      "pending_launches": 61,
+      "consecutive_successful_landings": 4,
+      "successful_landings": 7,
+      "failed_landings": 2,
+      "attempted_landings": 9,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://rocketlabcorp.com",
+      "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 8269,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 26,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/26/",
+        "name": "Electron",
+        "families": [],
+        "full_name": "Electron",
+        "variant": "",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 147,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
+          "name": "Rocket Lab",
+          "abbrev": "RL",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
+          "administrator": "CEO: Peter Beck",
+          "founding_year": 2006,
+          "launchers": "Electron",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 24,
+            "name": "[AUTO] Rocket Lab - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 176,
+            "name": "[AUTO] Rocket Lab - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 88,
+            "name": "[AUTO] Rocket Lab - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 97,
+          "consecutive_successful_launches": 56,
+          "successful_launches": 93,
+          "failed_launches": 4,
+          "pending_launches": 61,
+          "consecutive_successful_landings": 4,
+          "successful_landings": 7,
+          "failed_landings": 2,
+          "attempted_landings": 9,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://rocketlabcorp.com",
+          "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 1727,
+          "name": "[AUTO] Electron - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193613.jpeg",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://www.rocketlabusa.com/electron/",
+        "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Electron",
+        "description": "Electron is a two-stage orbital expendable launch vehicle (with an optional third stage) developed by the American aerospace company Rocket Lab. Electron is a small-lift launch vehicle designed to launch small satellites and cubesats to sun-synchronous orbit and low earth orbit. The Electron is the first orbital class rocket to use electric-pump-fed engines, powered by the 9 Rutherford engines on the first stage. It is also used as a suborbital testbed (called HASTE) for hypersonics research.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 3,
+        "length": 18.0,
+        "diameter": 1.2,
+        "maiden_flight": "2017-05-25",
+        "launch_cost": 6000000,
+        "launch_mass": 13.0,
+        "leo_capacity": 300.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": 225.0,
+        "to_thrust": 162.0,
+        "apogee": null,
+        "total_launch_count": 97,
+        "consecutive_successful_launches": 56,
+        "successful_launches": 93,
+        "failed_launches": 4,
+        "pending_launches": 58,
+        "attempted_landings": 9,
+        "successful_landings": 7,
+        "failed_landings": 2,
+        "consecutive_successful_landings": 4,
+        "fastest_turnaround": "PT21H55M"
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 6850,
+      "name": "Owlright, Owlright, Owlright (StriX Launch 13)",
+      "type": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "image": null,
+      "orbit": {
+        "id": 8,
+        "name": "Low Earth Orbit",
+        "abbrev": "LEO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 1071,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1071/",
+          "name": "Synspective",
+          "abbrev": "",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 28,
+              "name": "Japan",
+              "alpha_2_code": "JP",
+              "alpha_3_code": "JPN",
+              "nationality_name": "Japanese",
+              "nationality_name_composed": "Nippo"
+            }
+          ],
+          "description": "Synspective was established with the aim to integrate SAR satellite technology in society through the agility of a start-up company. Synspective derives its name from the company concept of “Synthetic Data for Perspective on Sustainable Development.",
+          "administrator": "CEO: Dr. Motoyuki Arai",
+          "founding_year": 2018,
+          "launchers": "",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": {
+            "id": 2029,
+            "name": "Synspective logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/synspective_log_image_20240325082018.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/synspective_log_image_thumbnail_20240325082018.png",
+            "credit": "Synspective",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": [
+              {
+                "id": 7,
+                "type": {
+                  "id": 1,
+                  "name": "transparent for light background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/lightbg.png_tra_image_20240325082021.png"
+              },
+              {
+                "id": 8,
+                "type": {
+                  "id": 2,
+                  "name": "transparent for dark background"
+                },
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/darkbg.png_tran_image_20240325082023.png"
+              }
+            ]
+          },
+          "social_logo": {
+            "id": 95,
+            "name": "Synspective social logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/synspective_nation_20240228091738.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184850.jpeg",
+            "credit": "Synspective",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 0,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 0,
+          "failed_launches": 0,
+          "pending_launches": 0,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://synspective.com/",
+          "wiki_url": null,
+          "social_media_links": []
+        }
+      ],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 185,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/185/",
+      "active": true,
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 147,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
+          "name": "Rocket Lab",
+          "abbrev": "RL",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
+          "administrator": "CEO: Peter Beck",
+          "founding_year": 2006,
+          "launchers": "Electron",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 24,
+            "name": "[AUTO] Rocket Lab - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_image_20190207032456.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184649.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 176,
+            "name": "[AUTO] Rocket Lab - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185115.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 88,
+            "name": "[AUTO] Rocket Lab - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_nation_20230531050352.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184840.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          }
+        }
+      ],
+      "name": "Rocket Lab Launch Complex 1B",
+      "image": {
+        "id": 1358,
+        "name": "Electron on LC-1B (CAPSTONE)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron25202_image_20231125062347.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192519.jpeg",
+        "credit": "Rocket Lab",
+        "license": {
+          "id": 7,
+          "name": "Rocket Lab Image Use Policy",
+          "priority": 3,
+          "link": "https://www.rocketlabusa.com/about/gallery/"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
+      "map_url": "https://www.google.com/maps?q=-39.262833,177.864469",
+      "latitude": -39.262833,
+      "longitude": 177.864469,
+      "country": {
+        "id": 51,
+        "name": "New Zealand",
+        "alpha_2_code": "NZ",
+        "alpha_3_code": "NZL",
+        "nationality_name": "Kiwi",
+        "nationality_name_composed": "Kiwi"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_185_20200803143540.jpg",
+      "total_launch_count": 41,
+      "orbital_launch_attempt_count": 41,
+      "fastest_turnaround": "P6DT21H17M",
+      "location": {
+        "response_mode": "normal",
+        "id": 10,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/10/",
+        "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7633,
+          "successful_launches": 7076,
+          "failed_launches": 557,
+          "total_attempted_landings": 1376,
+          "successful_landings": 1327,
+          "failed_landings": 49
+        },
+        "active": true,
+        "country": {
+          "id": 51,
+          "name": "New Zealand",
+          "alpha_2_code": "NZ",
+          "alpha_3_code": "NZL",
+          "nationality_name": "Kiwi",
+          "nationality_name_composed": "Kiwi"
+        },
+        "description": "Rocket Lab Launch Complex 1 is a commercial spaceport located close to Ahuriri Point at the southern tip of Māhia Peninsula, on the east coast of New Zealand's North Island. It is owned and operated by private spaceflight company Rocket Lab and supports launches of the company's Electron rocket for small satellites. With the launch of Electron on 25 May 2017, it became the first private spaceport to host an orbital launch attempt, and the first site in New Zealand to host an orbital launch attempt. With the Electron launch of 21 January 2018, it became the first private spaceport to host a successful orbital launch.",
+        "image": {
+          "id": 2206,
+          "name": "Rocket Lab Launch Complex 1",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket_lab_laun_image_20240918164228.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket_lab_laun_image_thumbnail_20240918164228.jpeg",
+          "credit": "Rocket Lab",
+          "license": {
+            "id": 7,
+            "name": "Rocket Lab Image Use Policy",
+            "priority": 3,
+            "link": "https://www.rocketlabusa.com/about/gallery/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_10_20200803142509.jpg",
+        "longitude": 177.86586,
+        "latitude": -39.26085,
+        "timezone_name": "Pacific/Auckland",
+        "total_launch_count": 84,
+        "total_landing_count": 17
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7404,
+    "location_launch_attempt_count": 84,
+    "pad_launch_attempt_count": 41,
+    "agency_launch_attempt_count": 97,
+    "orbital_launch_attempt_count_year": 231,
+    "location_launch_attempt_count_year": 15,
+    "pad_launch_attempt_count_year": 7,
+    "agency_launch_attempt_count_year": 18,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 16206,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Launch success with satellite in operation.",
+        "info_url": "https://www.synspective.com/news/13th_launch/",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-26T04:31:00Z"
+      },
+      {
+        "id": 16205,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Spacecraft separation.",
+        "info_url": "https://www.youtube.com/watch?v=hkLw0Kf_iSA",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-26T01:40:00Z"
+      },
+      {
+        "id": 16203,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Liftoff.",
+        "info_url": "https://www.youtube.com/watch?v=hkLw0Kf_iSA",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-26T00:40:00Z"
+      },
+      {
+        "id": 16202,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by Rocket Lab has started",
+        "info_url": "https://www.youtube.com/watch?v=hkLw0Kf_iSA",
+        "created_by": "LL2",
+        "created_on": "2026-09-26T00:16:00Z"
+      },
+      {
+        "id": 16201,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "New T-0.",
+        "info_url": "https://x.com/RocketLab/status/2103625140139692240",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-25T23:21:00Z"
+      },
+      {
+        "id": 16194,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Adjusted T-0.",
+        "info_url": "https://x.com/synspective/status/2102925993686319567",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-24T22:17:00Z"
+      },
+      {
+        "id": 16165,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "GO for launch.",
+        "info_url": "https://rocketlabcorp.com/missions/launches/owlright-owlright-owlright/",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-19T04:36:00Z"
+      },
+      {
+        "id": 16164,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Moved up to NET late September.",
+        "info_url": "https://www.youtube.com/watch?v=AnN8Pj8WvSo",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-19T04:21:00Z"
+      },
+      {
+        "id": 14460,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET December.",
+        "info_url": "https://contents.xj-storage.jp/xcontents/AS04951/4d97286f/e868/435a/bcb6/5c12a41a25b0/S100XUO9.pdf",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-03-27T00:34:00Z"
+      },
+      {
+        "id": 7862,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding launch TBD 2025-2027",
+        "info_url": "https://www.businesswire.com/news/home/20240617700318/en/Rocket-Lab-Signs-Record-Deal-for-10-Electron-Launches-with-Synspective",
+        "created_by": "Nosu",
+        "created_on": "2024-06-18T07:47:38Z"
+      }
+    ],
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": "rocketlabcorp.com",
+        "title": "Owlright, Owlright, Owlright",
+        "description": "Electron will launch a dedicated mission to a 559km low Earth orbit with a single StriX Earth-observation satellite for Synspective, a Japan-based commercial constellation operator.",
+        "feature_image": null,
+        "url": "https://rocketlabcorp.com/missions/launches/owlright-owlright-owlright/",
+        "type": {
+          "id": 1,
+          "name": "Official Page"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "Rocket Lab",
+        "title": "Rocket Lab - 'Owlright, Owlright, Owlright' Launch",
+        "description": "",
+        "feature_image": "https://i.ytimg.com/vi/hkLw0Kf_iSA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hkLw0Kf_iSA",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-09-26T00:15:53Z",
+        "end_time": "2026-09-26T01:41:14Z",
+        "live": false
+      }
+    ],
+    "timeline": [],
+    "pad_turnaround": "P6DT21H17M",
+    "mission_patches": [
+      {
+        "id": 1344,
+        "name": "Owlright, Owlright, Owlright Patch",
+        "priority": 10,
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/owlright252c2_mission_patch_20260919043529.png",
+        "agency": {
+          "response_mode": "list",
+          "id": 147,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/147/",
+          "name": "Rocket Lab",
+          "abbrev": "RL",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          }
+        },
+        "response_mode": "normal"
+      }
+    ]
   }
 ]
