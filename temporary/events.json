@@ -1,5 +1,55 @@
 [
   {
+    "id": 1525,
+    "url": "https://ll.thespacedevs.com/2.3.0/events/1525/",
+    "name": "SpaceX CRS-35 Dragon Docking",
+    "info_urls": [],
+    "vid_urls": [],
+    "image": {
+      "id": 1086,
+      "name": "Cargo Dragon docking",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/crs-28_dragon_d_image_20230530191602.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305191606.jpeg",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "date": "2026-10-15T15:00:00Z",
+    "slug": "spacex-crs-35-dragon-docking",
+    "type": {
+      "id": 2,
+      "name": "Docking"
+    },
+    "description": "Following its launch atop a Falcon 9, the CRS-35 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
+    "webcast_live": false,
+    "location": "International Space Station",
+    "date_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
+    "response_mode": "normal",
+    "duration": null,
+    "updates": [
+      {
+        "id": 16376,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added docking.",
+        "info_url": "https://nasa-public-data.s3.amazonaws.com/iss-coords/current/ISS_OEM/ISS.OEM_J2K_EPH.txt",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-10-02T17:29:00Z"
+      }
+    ],
+    "last_updated": "2026-10-02T17:29:26Z"
+  },
+  {
     "id": 1523,
     "url": "https://ll.thespacedevs.com/2.3.0/events/1523/",
     "name": "NG-24 Cygnus Release",
@@ -20,7 +70,7 @@
       "single_use": false,
       "variants": []
     },
-    "date": "2026-10-09T00:00:00Z",
+    "date": "2026-10-09T16:45:00Z",
     "slug": "ng-24-cygnus-release",
     "type": {
       "id": 13,
@@ -30,14 +80,22 @@
     "webcast_live": false,
     "location": "International Space Station",
     "date_precision": {
-      "id": 5,
-      "name": "Day",
-      "abbrev": "DAY",
-      "description": "The T-0 is expected on the given day."
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
     "duration": null,
     "updates": [
+      {
+        "id": 16375,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Tweaked spacecraft release time.",
+        "info_url": "https://nasa-public-data.s3.amazonaws.com/iss-coords/current/ISS_OEM/ISS.OEM_J2K_EPH.txt",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-10-02T17:26:00Z"
+      },
       {
         "id": 16315,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -47,7 +105,7 @@
         "created_on": "2026-09-30T12:32:00Z"
       }
     ],
-    "last_updated": "2026-09-30T12:32:30Z"
+    "last_updated": "2026-10-02T17:26:59Z"
   },
   {
     "id": 1524,
@@ -70,7 +128,7 @@
       "single_use": false,
       "variants": []
     },
-    "date": "2026-10-05T00:00:00Z",
+    "date": "2026-10-05T12:00:00Z",
     "slug": "spacex-crew-12-crew-dragon-undocking",
     "type": {
       "id": 8,
@@ -80,14 +138,22 @@
     "webcast_live": false,
     "location": "International Space Station",
     "date_precision": {
-      "id": 5,
-      "name": "Day",
-      "abbrev": "DAY",
-      "description": "The T-0 is expected on the given day."
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
     "duration": null,
     "updates": [
+      {
+        "id": 16374,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Tweaked undocking time.",
+        "info_url": "https://nasa-public-data.s3.amazonaws.com/iss-coords/current/ISS_OEM/ISS.OEM_J2K_EPH.txt",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-10-02T17:26:00Z"
+      },
       {
         "id": 16337,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -97,7 +163,100 @@
         "created_on": "2026-10-01T18:19:00Z"
       }
     ],
-    "last_updated": "2026-10-01T18:19:41Z"
+    "last_updated": "2026-10-02T17:26:20Z"
+  },
+  {
+    "id": 1526,
+    "url": "https://ll.thespacedevs.com/2.3.0/events/1526/",
+    "name": "SpaceX Crew-12 Farewell and Change of Command Ceremony",
+    "info_urls": [],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA’s SpaceX Crew-12 Farewell and International Space Station Change of Command",
+        "description": "Watch as the members of NASA's SpaceX Crew-12 mission – NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev – sum up their experiences aboard the International Space Station and say goodbye to the space station crew. Meir will also transfer command of the orbiting laboratory to Roscosmos cosmonaut Pyotr Dubrov.\n\nLearn more about Crew-12: https://www.nasa.gov/mission/nasas-spacex-crew-12/",
+        "feature_image": "https://i.ytimg.com/vi/RU6gEobXVHA/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=RU6gEobXVHA",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-10-04T14:20:00Z",
+        "end_time": null,
+        "live": false
+      },
+      {
+        "priority": 11,
+        "source": "plus.nasa.gov",
+        "publisher": "NASA",
+        "title": "NASA’s SpaceX Crew-12 Farewell and International Space Station Change of Command",
+        "description": "Coverage of NASA’s SpaceX Crew-12 Farewell and International Space Station Change of Command.",
+        "feature_image": "https://plus.nasa.gov/wp-content/uploads/2026/09/crew-12-farewell-and-iss-change-of-command-r2-horizontal-program-tile-16-9-without-title.jpg",
+        "url": "https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-12-farewell-and-international-space-station-change-of-command/",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-10-04T14:20:00Z",
+        "end_time": "2026-10-04T16:00:00Z",
+        "live": false
+      }
+    ],
+    "image": {
+      "id": 2681,
+      "name": "Crew-12 SpaceX suits mosaic",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/crew-12_spacex__image_20260126082450.png",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/crew-12_spacex__image_thumbnail_20260126082451.png",
+      "credit": "SpaceX",
+      "license": {
+        "id": 5,
+        "name": "CC BY-NC 2.0",
+        "priority": 1,
+        "link": "https://creativecommons.org/licenses/by-nc/2.0/"
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "date": "2026-10-04T14:20:00Z",
+    "slug": "spacex-crew-12-farewell-and-change-of-command-cere",
+    "type": {
+      "id": 15,
+      "name": "Change of Command"
+    },
+    "description": "Before Crew-12 astronauts return to Earth, NASA astronaut Jessica Meir will hand over command of the International Space Station to ROSCOSMOS cosmonaut Pyotr Dubrov.",
+    "webcast_live": false,
+    "location": "International Space Station",
+    "date_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
+    "response_mode": "normal",
+    "duration": null,
+    "updates": [
+      {
+        "id": 16377,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding event",
+        "info_url": "https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-12-farewell-and-international-space-station-change-of-command/",
+        "created_by": "Nosu",
+        "created_on": "2026-10-03T06:02:00Z"
+      }
+    ],
+    "last_updated": "2026-10-03T06:02:48Z"
   },
   {
     "id": 1519,
