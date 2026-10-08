@@ -4,7 +4,29 @@
     "url": "https://ll.thespacedevs.com/2.3.0/events/1525/",
     "name": "SpaceX CRS-35 Dragon Docking",
     "info_urls": [],
-    "vid_urls": [],
+    "vid_urls": [
+      {
+        "priority": 11,
+        "source": "plus.nasa.gov",
+        "publisher": "NASA",
+        "title": "NASA’s SpaceX 35th Commercial Resupply Services Rendezvous and Docking",
+        "description": "NASA’s science and other cargo arrive at the International Space Station aboard SpaceX’s Dragon spacecraft",
+        "feature_image": "https://plus.nasa.gov/wp-content/uploads/2026/10/crs-35-rendezvous-and-docking-key-art-r1-horizontal-program-tile-16-9-without-title.jpg",
+        "url": "https://plus.nasa.gov/scheduled-video/nasas-spacex-35th-commercial-resupply-services-rendezvous-and-docking/",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-10-15T13:15:00Z",
+        "end_time": "2026-10-15T16:00:00Z",
+        "live": false
+      }
+    ],
     "image": {
       "id": 1086,
       "name": "Cargo Dragon docking",
@@ -47,7 +69,7 @@
         "created_on": "2026-10-02T17:29:00Z"
       }
     ],
-    "last_updated": "2026-10-02T17:29:26Z"
+    "last_updated": "2026-10-08T05:04:53Z"
   },
   {
     "id": 1523,
@@ -57,6 +79,27 @@
     "vid_urls": [
       {
         "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA's Northrop Grumman Commercial Resupply Services 24 Departure",
+        "description": "Watch Northrop Grumman’s Cygnus XL spacecraft undock and depart from the International Space Station. \n\nFlight controllers on the ground will send commands for the space station’s Canadarm2 robotic arm to detach the Cygnus XL spacecraft from the Unity module’s Earth-facing port and maneuver it into position for release at 12:45 p.m. EDT (1645 UTC). \n\nThis Cygnus XL previously delivered more than 11,000 pounds of supplies, science experiments, and other cargo to the space station.\n\nLearn more about this NASA commercial resupply mission: https://www.nasa.gov/mission/nasas-northrop-grumman-crs-24/",
+        "feature_image": "https://i.ytimg.com/vi/IoL51xLkMSY/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=IoL51xLkMSY",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-10-09T16:30:00Z",
+        "end_time": null,
+        "live": false
+      },
+      {
+        "priority": 11,
         "source": "plus.nasa.gov",
         "publisher": "NASA",
         "title": "NASA’s Northrop Grumman Commercial Resupply Services 24 Departure",
@@ -127,7 +170,75 @@
         "created_on": "2026-09-30T12:32:00Z"
       }
     ],
-    "last_updated": "2026-10-06T18:52:48Z"
+    "last_updated": "2026-10-07T13:33:21Z"
+  },
+  {
+    "id": 1561,
+    "url": "https://ll.thespacedevs.com/2.3.0/events/1561/",
+    "name": "ISS Crew-12 Return & SpaceX CRS-35 Briefing",
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": "nasa.gov",
+        "title": "Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+        "description": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the",
+        "feature_image": null,
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+        "type": {
+          "id": 1,
+          "name": "Official Page"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [],
+    "image": {
+      "id": 1086,
+      "name": "Cargo Dragon docking",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/crs-28_dragon_d_image_20230530191602.jpeg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305191606.jpeg",
+      "credit": "NASA",
+      "license": {
+        "id": 4,
+        "name": "NASA Image and Media Guidelines",
+        "priority": 0,
+        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "date": "2026-10-08T17:15:00Z",
+    "slug": "iss-crew-12-return-spacex-crs-35-briefing",
+    "type": {
+      "id": 20,
+      "name": "Press Event"
+    },
+    "description": "International Space Station briefing for Crew-12 return, and SpaceX’s 35th Commercial Resupply Services launch with the following participants:\r\n- Bill Spetch, deputy manager of Commercial, Low Earth Orbit Program\r\n- Dr. Liz Warren, deputy chief scientist, NASA’s International Space Station Office\r\n- Lee Echerd, senior mission manager, Customer Operations and Integration, SpaceX\r\n- Andreas Mogensen, leader, Human Exploration Group, ESA (European Space Agency)",
+    "webcast_live": false,
+    "location": "Johnson Space Center, Houston, TX, USA",
+    "date_precision": {
+      "id": 1,
+      "name": "Minute",
+      "abbrev": "MIN",
+      "description": "The T-0 is accurate to the minute."
+    },
+    "response_mode": "normal",
+    "duration": null,
+    "updates": [
+      {
+        "id": 16441,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding event",
+        "info_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+        "created_by": "Nosu",
+        "created_on": "2026-10-08T07:57:00Z"
+      }
+    ],
+    "last_updated": "2026-10-08T07:57:59Z"
   },
   {
     "id": 1559,
@@ -135,6 +246,27 @@
     "name": "SpaceX Crew-12 Crew Dragon Splashdown",
     "info_urls": [],
     "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "NASA",
+        "title": "NASA's SpaceX Crew-12 Re-Entry & Splashdown",
+        "description": "Welcome Crew-12 back to Earth with us!\n\nNASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev are scheduled to splash down off the coast of California at 11:34 a.m. EDT (1534 UTC) on Thursday, Oct. 8.\n\nWe'll have live coverage from re-entry to recovery. Crew-12 spent 235 days on the International Space Station and orbited Earth nearly 3,800 times.\n\nLearn more about what Crew-12 studied during their time in space: https://go.nasa.gov/4z5jVl6\nGet the latest updates from the space station: https://www.nasa.gov/blogs/spacestation/",
+        "feature_image": "https://i.ytimg.com/vi/x6p9Ri0DlNE/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=x6p9Ri0DlNE",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-10-08T14:20:00Z",
+        "end_time": null,
+        "live": false
+      },
       {
         "priority": 11,
         "source": "plus.nasa.gov",
@@ -154,6 +286,27 @@
         },
         "start_time": "2026-10-08T14:20:00Z",
         "end_time": "2026-10-08T17:00:00Z",
+        "live": false
+      },
+      {
+        "priority": 12,
+        "source": "youtube.com",
+        "publisher": "European Space Agency, ESA",
+        "title": "Crew-12 Splashdown with Sophie Adenot | εpsilon mission (Official broadcast)",
+        "description": "On 8 October 2026, ESA astronaut Sophie Adenot and her Crew-12 crewmates will splash down off the coast of California at around 15:34 GMT/17:34 CEST, marking the end of their mission aboard the International Space Station.\n\n★ Subscribe: http://bit.ly/ESAsubscribe and click twice on the bell button to receive our notifications.\n\nWe are Europe's gateway to space. Our mission is to shape the development of Europe's space capability and ensure that investment in space continues to deliver benefits to the citizens of Europe and the world. Check out https://www.esa.int/ to get up to speed on everything space related.\n\nCopyright information about our videos is available here: https://www.esa.int/ESA_Multimedia/Terms_and_Conditions",
+        "feature_image": "https://i.ytimg.com/vi/dqI0Ds4F2nA/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=dqI0Ds4F2nA",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        },
+        "start_time": "2026-10-08T14:20:00Z",
+        "end_time": null,
         "live": false
       }
     ],
@@ -207,7 +360,7 @@
         "created_on": "2026-10-04T15:10:00Z"
       }
     ],
-    "last_updated": "2026-10-06T00:48:51Z"
+    "last_updated": "2026-10-08T07:46:39Z"
   },
   {
     "id": 1524,
@@ -221,7 +374,7 @@
         "publisher": "NASA",
         "title": "NASA's SpaceX Crew-12 Undocking",
         "description": "Watch the four members of NASA's SpaceX Crew-12 mission — NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev — set off to return to Earth. The SpaceX Dragon spacecraft will undock from the International Space Station at approximately 8:05 a.m. EDT (1205 UTC). \n\nSplashdown is scheduled to occur off the coast of California on Thursday, Oct. 8 at 11:34 a.m. EDT (1534 UTC).\n\nDuring their nearly eight months aboard the space station, Crew-12 conducted hundreds of hours of scientific research. Their work included testing stem cell production for cell‑based therapies, examining how physical characteristics may affect blood flow during spaceflight, and demonstrating the on‑demand generation of IV fluid fo...",
-        "feature_image": "https://i.ytimg.com/vi/dGSqblvgLIE/maxresdefault_live.jpg",
+        "feature_image": "https://i.ytimg.com/vi/dGSqblvgLIE/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=dGSqblvgLIE",
         "type": {
           "id": 1,
@@ -232,8 +385,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-10-07T14:45:00Z",
-        "end_time": null,
+        "start_time": "2026-10-07T11:44:17Z",
+        "end_time": "2026-10-07T12:29:23Z",
         "live": false
       },
       {
@@ -254,7 +407,7 @@
           "code": "en"
         },
         "start_time": "2026-10-07T11:45:00Z",
-        "end_time": "2026-10-07T13:00:00Z",
+        "end_time": "2026-10-07T12:29:00Z",
         "live": false
       },
       {
@@ -263,7 +416,7 @@
         "publisher": "European Space Agency, ESA",
         "title": "Crew-12 Undocking with Sophie Adenot | εpsilon mission (Official broadcast)",
         "description": "On 7 October 2026, ESA astronaut Sophie Adenot and her Crew-12 crewmates will undock from the International Space Station at around 12:05 GMT/14:05 CEST to begin their journey back to Earth.\n\n★ Subscribe: http://bit.ly/ESAsubscribe and click twice on the bell button to receive our notifications.\n\nWe are Europe's gateway to space. Our mission is to shape the development of Europe's space capability and ensure that investment in space continues to deliver benefits to the citizens of Europe and the world. Check out https://www.esa.int/ to get up to speed on everything space related.\n\nCopyright information about our videos is available here: https://www.esa.int/ESA_Multimedia/Terms_and_Conditions",
-        "feature_image": "https://i.ytimg.com/vi/S4Fnl8Z7X74/maxresdefault_live.jpg",
+        "feature_image": "https://i.ytimg.com/vi/S4Fnl8Z7X74/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=S4Fnl8Z7X74",
         "type": {
           "id": 1,
@@ -274,8 +427,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-10-07T11:45:00Z",
-        "end_time": null,
+        "start_time": "2026-10-07T11:44:17Z",
+        "end_time": "2026-10-07T12:29:27Z",
         "live": false
       }
     ],
@@ -310,8 +463,16 @@
       "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
-    "duration": null,
+    "duration": "PT45M6S",
     "updates": [
+      {
+        "id": 16437,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by NASA has started",
+        "info_url": "https://www.youtube.com/watch?v=dGSqblvgLIE",
+        "created_by": "LL2",
+        "created_on": "2026-10-07T11:44:00Z"
+      },
       {
         "id": 16424,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -345,7 +506,7 @@
         "created_on": "2026-10-01T18:19:00Z"
       }
     ],
-    "last_updated": "2026-10-06T14:52:32Z"
+    "last_updated": "2026-10-07T12:46:32Z"
   },
   {
     "id": 1560,
@@ -359,7 +520,7 @@
         "publisher": "NASA",
         "title": "NASA's SpaceX Crew-12 Hatch Close",
         "description": "Watch as NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev begin final preparations for their return to Earth aboard a SpaceX Dragon spacecraft. \n\nAfter the four enter the spacecraft, the hatch is scheduled to close at 6:20 a.m. EDT (1020 UTC). The Dragon is scheduled to undock at 8:05 a.m. EDT (1205 UTC).\n\nCrew-12’s splashdown is targeted for Thursday, Oct. 8 at 11:34 a.m. EDT (1534 UTC).\n \nLearn more about the Crew-12 mission: https://www.nasa.gov/mission/nasas-spacex-crew-12/\nFollow the latest Crew-12 updates: https://www.nasa.gov/blogs/crew-12/",
-        "feature_image": "https://i.ytimg.com/vi/JB5HKi8Pxqs/maxresdefault_live.jpg",
+        "feature_image": "https://i.ytimg.com/vi/JB5HKi8Pxqs/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JB5HKi8Pxqs",
         "type": {
           "id": 1,
@@ -370,8 +531,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-10-07T13:00:00Z",
-        "end_time": null,
+        "start_time": "2026-10-07T09:59:26Z",
+        "end_time": "2026-10-07T10:38:08Z",
         "live": false
       },
       {
@@ -392,7 +553,7 @@
           "code": "en"
         },
         "start_time": "2026-10-07T10:00:00Z",
-        "end_time": "2026-10-07T11:00:00Z",
+        "end_time": "2026-10-07T10:38:00Z",
         "live": false
       },
       {
@@ -401,7 +562,7 @@
         "publisher": "European Space Agency, ESA",
         "title": "Crew-12 Hatch Close with Sophie Adenot | εpsilon mission (Official broadcast)",
         "description": "On 7 October 2026, ESA astronaut Sophie Adenot and her Crew-12 crewmates will undock from the International Space Station at around 12:05 GMT/14:05 CEST to begin their journey back to Earth.\n\n★ Subscribe: http://bit.ly/ESAsubscribe and click twice on the bell button to receive our notifications.\n\nWe are Europe's gateway to space. Our mission is to shape the development of Europe's space capability and ensure that investment in space continues to deliver benefits to the citizens of Europe and the world. Check out https://www.esa.int/ to get up to speed on everything space related.\n\nCopyright information about our videos is available here: https://www.esa.int/ESA_Multimedia/Terms_and_Conditions",
-        "feature_image": "https://i.ytimg.com/vi/PkLG02MHV-8/maxresdefault_live.jpg",
+        "feature_image": "https://i.ytimg.com/vi/PkLG02MHV-8/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PkLG02MHV-8",
         "type": {
           "id": 1,
@@ -412,8 +573,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-10-07T10:00:00Z",
-        "end_time": null,
+        "start_time": "2026-10-07T09:57:42Z",
+        "end_time": "2026-10-07T10:37:52Z",
         "live": false
       }
     ],
@@ -448,8 +609,16 @@
       "description": "The T-0 is accurate to the minute."
     },
     "response_mode": "normal",
-    "duration": null,
+    "duration": "PT38M42S",
     "updates": [
+      {
+        "id": 16436,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
+        "comment": "Official Webcast by NASA has started",
+        "info_url": "https://www.youtube.com/watch?v=JB5HKi8Pxqs",
+        "created_by": "LL2",
+        "created_on": "2026-10-07T09:59:00Z"
+      },
       {
         "id": 16427,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
@@ -459,7 +628,7 @@
         "created_on": "2026-10-06T00:51:00Z"
       }
     ],
-    "last_updated": "2026-10-06T14:52:49Z"
+    "last_updated": "2026-10-07T10:40:43Z"
   },
   {
     "id": 1526,
@@ -805,103 +974,5 @@
       }
     ],
     "last_updated": "2026-10-01T20:05:37Z"
-  },
-  {
-    "id": 1521,
-    "url": "https://ll.thespacedevs.com/2.3.0/events/1521/",
-    "name": "SpaceX Crew-13 Pre-Launch News Conference",
-    "info_urls": [
-      {
-        "priority": 10,
-        "source": "nasa.gov",
-        "title": "Sets Crew-13 Launch, Docking Coverage",
-        "description": "NASA’s Crew-13 mission coverage is as follows (all times Eastern and subject to change based on real-time operations):",
-        "feature_image": null,
-        "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-        "type": {
-          "id": 1,
-          "name": "Official Page"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        }
-      }
-    ],
-    "vid_urls": [
-      {
-        "priority": 10,
-        "source": "youtube.com",
-        "publisher": "NASA",
-        "title": "NASA's SpaceX Crew-13 Prelaunch News Conference (Sept. 30, 2026)",
-        "description": "Mission experts give a preview of NASA's SpaceX Crew-13 mission to the International Space Station ahead of its launch.\n\nParticipants include:\n- Dr. Lori Glaze, associate administrator, Human Spaceflight Mission Directorate, NASA Headquarters\n- Dana Weigel, manager, Low Earth Orbit Program, NASA Johnson\n- Mathieu Caron, director, Astronauts, Life Sciences, and Space Medicine, CSA\n- William Gerstenmaier, vice president, Build and Flight Reliability, SpaceX\n\nCrew-13 is scheduled to launch at 11:10 a.m. EDT (1510 UTC), Thursday, Oct. 1, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, with docking planned for about 7 p.m. EDT (2300 UTC). \n\nThe SpaceX Dragon spacecraft will carry Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua K...",
-        "feature_image": "https://i.ytimg.com/vi/mlfzT_nD6GE/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mlfzT_nD6GE",
-        "type": {
-          "id": 1,
-          "name": "Official Webcast"
-        },
-        "language": {
-          "id": 1,
-          "name": "English",
-          "code": "en"
-        },
-        "start_time": "2026-09-30T21:59:18Z",
-        "end_time": "2026-09-30T22:55:55Z",
-        "live": false
-      }
-    ],
-    "image": {
-      "id": 2252,
-      "name": "Falcon 9 on SLC-40 (Crew-9)",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20240926072512.jpg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_thumbnail_20240926072513.jpeg",
-      "credit": "SpaceX",
-      "license": {
-        "id": 5,
-        "name": "CC BY-NC 2.0",
-        "priority": 1,
-        "link": "https://creativecommons.org/licenses/by-nc/2.0/"
-      },
-      "single_use": false,
-      "variants": []
-    },
-    "date": "2026-09-30T22:00:00Z",
-    "slug": "spacex-crew-13-pre-launch-news-conference",
-    "type": {
-      "id": 20,
-      "name": "Press Event"
-    },
-    "description": "NASA, CSA, and SpaceX will host a press conference ahead of Crew-13 launch to the International Space Station with the following participants:\r\n- Dr. Lori Glaze, associate administrator, Human Spaceflight Mission Directorate, NASA Headquarters\r\n- Dana Weigel, manager, Low Earth Orbit Program, NASA’s Johnson Space Center in Houston\r\n- Mathieu Caron, director, Astronauts, Life Sciences, and Space Medicine, CSA\r\n- William Gerstenmaier, vice president, Build and Flight Reliability, SpaceX\r\n- Arlena Moses, launch weather officer, Cape Canaveral Space Force Station’s 45th Weather Squadron",
-    "webcast_live": false,
-    "location": "Kennedy Space Center, FL, USA",
-    "date_precision": {
-      "id": 1,
-      "name": "Minute",
-      "abbrev": "MIN",
-      "description": "The T-0 is accurate to the minute."
-    },
-    "response_mode": "normal",
-    "duration": "PT56M37S",
-    "updates": [
-      {
-        "id": 16321,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/ll2_profile_20230311134739.png",
-        "comment": "Official Webcast by NASA has started",
-        "info_url": "https://www.youtube.com/watch?v=mlfzT_nD6GE",
-        "created_by": "LL2",
-        "created_on": "2026-09-30T21:59:00Z"
-      },
-      {
-        "id": 16313,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding event",
-        "info_url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-        "created_by": "Nosu",
-        "created_on": "2026-09-30T10:19:00Z"
-      }
-    ],
-    "last_updated": "2026-09-30T22:56:13Z"
   }
 ]
