@@ -1,5 +1,1555 @@
 [
   {
+    "id": "fa0e4897-416d-4166-99b8-9eba870288a0",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/fa0e4897-416d-4166-99b8-9eba870288a0/",
+    "name": "Vulcan VC6L | Amazon Leo (LV-19)",
+    "response_mode": "detailed",
+    "slug": "vulcan-vc6l-amazon-leo-lv-19",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2026-09-30T03:13:24Z",
+    "net": "2029-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 16,
+      "name": "Decade",
+      "abbrev": "DEC",
+      "description": "The T-0 is expected in the given decade."
+    },
+    "window_end": "2029-12-31T00:00:00Z",
+    "window_start": "2029-12-31T00:00:00Z",
+    "image": {
+      "id": 1864,
+      "name": "Vulcan VC6L render",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193955.jpeg",
+      "credit": "United Launch Alliance",
+      "license": {
+        "id": 10,
+        "name": "ULA Image Use Policy",
+        "priority": 3,
+        "link": "https://www.ulalaunch.com/terms-and-conditions"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 124,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+      "name": "United Launch Alliance",
+      "abbrev": "ULA",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+      "administrator": "CEO: Mark Peller",
+      "founding_year": 2006,
+      "launchers": "Atlas | Delta | Vulcan",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 30,
+        "name": "[AUTO] United Launch Alliance - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 191,
+        "name": "[AUTO] United Launch Alliance - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 97,
+        "name": "[AUTO] United Launch Alliance - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 175,
+      "consecutive_successful_launches": 175,
+      "successful_launches": 175,
+      "failed_launches": 0,
+      "pending_launches": 73,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.ulalaunch.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 9178,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 479,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/479/",
+        "name": "Vulcan VC6L",
+        "families": [
+          {
+            "response_mode": "detailed",
+            "id": 170,
+            "name": "Vulcan",
+            "manufacturer": [
+              {
+                "response_mode": "normal",
+                "id": 124,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                "name": "United Launch Alliance",
+                "abbrev": "ULA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                },
+                "featured": true,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                "administrator": "CEO: Mark Peller",
+                "founding_year": 2006,
+                "launchers": "Atlas | Delta | Vulcan",
+                "spacecraft": "",
+                "parent": null,
+                "image": {
+                  "id": 30,
+                  "name": "[AUTO] United Launch Alliance - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 191,
+                  "name": "[AUTO] United Launch Alliance - logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 97,
+                  "name": "[AUTO] United Launch Alliance - social_logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 175,
+                "consecutive_successful_launches": 175,
+                "successful_launches": 175,
+                "failed_launches": 0,
+                "pending_launches": 73,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://www.ulalaunch.com/",
+                "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+                "social_media_links": []
+              }
+            ],
+            "parent": null,
+            "description": "",
+            "active": true,
+            "maiden_flight": "2024-01-08",
+            "total_launch_count": 4,
+            "consecutive_successful_launches": 4,
+            "successful_launches": 4,
+            "failed_launches": 0,
+            "pending_launches": 67,
+            "attempted_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "consecutive_successful_landings": 0
+          }
+        ],
+        "full_name": "Vulcan VC6L",
+        "variant": "VC6L",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 124,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+          "name": "United Launch Alliance",
+          "abbrev": "ULA",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+          "administrator": "CEO: Mark Peller",
+          "founding_year": 2006,
+          "launchers": "Atlas | Delta | Vulcan",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 30,
+            "name": "[AUTO] United Launch Alliance - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 191,
+            "name": "[AUTO] United Launch Alliance - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 97,
+            "name": "[AUTO] United Launch Alliance - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 175,
+          "consecutive_successful_launches": 175,
+          "successful_launches": 175,
+          "failed_launches": 0,
+          "pending_launches": 73,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.ulalaunch.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 1864,
+          "name": "Vulcan VC6L render",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193955.jpeg",
+          "credit": "United Launch Alliance",
+          "license": {
+            "id": 10,
+            "name": "ULA Image Use Policy",
+            "priority": 3,
+            "link": "https://www.ulalaunch.com/terms-and-conditions"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://www.ulalaunch.com/rockets/vulcan-centaur",
+        "wiki_url": "https://en.wikipedia.org/wiki/Vulcan_Centaur",
+        "description": "Vulcan Centaur is a two-stage-to-orbit, heavy-lift launch vehicle under development by United Launch Alliance (ULA) since 2014. It is principally designed to meet launch demands for the U.S. government's National Security Space Launch (NSSL) program for use by the United States Space Force and U.S. intelligence agencies for national security satellite launches. It will replace both of ULA's existing launchers (Atlas V and Delta IV Heavy) in this role, as these launchers are retiring.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": 67.4,
+        "diameter": 5.4,
+        "maiden_flight": null,
+        "launch_cost": null,
+        "launch_mass": 877.0,
+        "leo_capacity": 27200.0,
+        "gto_capacity": 15300.0,
+        "geo_capacity": 7000.0,
+        "sso_capacity": 23900.0,
+        "to_thrust": 18110.0,
+        "apogee": null,
+        "total_launch_count": 0,
+        "consecutive_successful_launches": 0,
+        "successful_launches": 0,
+        "failed_launches": 0,
+        "pending_launches": 38,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7777,
+      "name": "Amazon Leo (LV-19)",
+      "type": "Communications",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+      "image": null,
+      "orbit": {
+        "id": 8,
+        "name": "Low Earth Orbit",
+        "abbrev": "LEO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 1058,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1058/",
+          "name": "Amazon Leo",
+          "abbrev": "Amazon",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Amazon Leo, formerly known as Kuiper Systems LLC and Project Kuiper, is a subsidiary of Amazon that was established in 2019 to deploy a large satellite internet constellation to provide low-latency broadband internet connectivity.",
+          "administrator": "President: Rajeev Badyal",
+          "founding_year": 2019,
+          "launchers": "",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": null,
+          "social_logo": {
+            "id": 2550,
+            "name": "Amazon Leo social logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/amazon_leo_soci_image_20251117075814.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/amazon_leo_soci_image_thumbnail_20251117075815.png",
+            "credit": "Amazon Leo",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 0,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 0,
+          "failed_launches": 0,
+          "pending_launches": 0,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://leo.amazon.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Kuiper_Systems",
+          "social_media_links": [
+            {
+              "id": 335,
+              "social_media": {
+                "id": 3,
+                "name": "Homepage",
+                "url": null,
+                "logo": null
+              },
+              "url": "https://leo.amazon.com/"
+            },
+            {
+              "id": 336,
+              "social_media": {
+                "id": 4,
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "logo": {
+                  "id": 2321,
+                  "name": "LinkedIn logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                  "credit": "LinkedIn",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.linkedin.com/showcase/amazonleo/"
+            },
+            {
+              "id": 337,
+              "social_media": {
+                "id": 2,
+                "name": "Instagram",
+                "url": "https://instagram.com",
+                "logo": {
+                  "id": 2322,
+                  "name": "Instagram logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                  "credit": "Instagram",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.instagram.com/amazonleo_/"
+            },
+            {
+              "id": 338,
+              "social_media": {
+                "id": 1,
+                "name": "X",
+                "url": "https://x.com",
+                "logo": {
+                  "id": 2320,
+                  "name": "X logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                  "credit": "X",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://x.com/Amazonleo"
+            },
+            {
+              "id": 339,
+              "social_media": {
+                "id": 6,
+                "name": "Youtube",
+                "url": "https://www.youtube.com/",
+                "logo": {
+                  "id": 2356,
+                  "name": "YouTube logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
+                  "credit": "YouTube",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.youtube.com/@ProjectKuiper"
+            }
+          ]
+        }
+      ],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 29,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/29/",
+      "active": true,
+      "agencies": [],
+      "name": "Space Launch Complex 41",
+      "image": {
+        "id": 1394,
+        "name": "Atlas V 541 on the pad (Mars 2020/Perseverance rover & Ingenuity helicopter)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v252_image_20200729144937.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192627.jpeg",
+        "credit": "United Launch Alliance",
+        "license": {
+          "id": 10,
+          "name": "ULA Image Use Policy",
+          "priority": 3,
+          "link": "https://www.ulalaunch.com/terms-and-conditions"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41",
+      "map_url": "https://www.google.com/maps?q=28.58341025,-80.58303644",
+      "latitude": 28.58341025,
+      "longitude": -80.58303644,
+      "country": {
+        "id": 2,
+        "name": "United States of America",
+        "alpha_2_code": "US",
+        "alpha_3_code": "USA",
+        "nationality_name": "American",
+        "nationality_name_composed": "Americano"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_29_20200803143528.jpg",
+      "total_launch_count": 125,
+      "orbital_launch_attempt_count": 125,
+      "fastest_turnaround": "P15DT22H26M17S",
+      "location": {
+        "response_mode": "normal",
+        "id": 12,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+        "name": "Cape Canaveral SFS, FL, USA",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7635,
+          "successful_launches": 7078,
+          "failed_launches": 557,
+          "total_attempted_landings": 1376,
+          "successful_landings": 1327,
+          "failed_landings": 49
+        },
+        "active": true,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+        "image": {
+          "id": 2200,
+          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+          "credit": "NASA",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+        "longitude": -80.577778,
+        "latitude": 28.488889,
+        "timezone_name": "America/New_York",
+        "total_launch_count": 1130,
+        "total_landing_count": 82
+      }
+    },
+    "webcast_live": false,
+    "program": [
+      {
+        "response_mode": "normal",
+        "id": 27,
+        "url": "https://ll.thespacedevs.com/2.3.0/programs/27/",
+        "name": "Amazon Leo",
+        "image": {
+          "id": 1898,
+          "name": "Amazon Kuiper dish",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/project2520kui_program_20231228165031.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194059.jpeg",
+          "credit": "Amazon",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://en.wikipedia.org/wiki/Kuiper_Systems",
+        "wiki_url": "https://aboutamazon.com/what-we-do/devices-services/project-kuiper",
+        "description": "Amazon Leo is a satellite internet constellation aimed at providing high-speed, low-latency broadband connectivity to underserved and remote areas globally. The project involves deploying a constellation of low Earth orbit (LEO) satellites to create a satellite internet network capable of delivering reliable internet access.",
+        "agencies": [
+          {
+            "response_mode": "list",
+            "id": 1058,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/1058/",
+            "name": "Amazon Leo",
+            "abbrev": "Amazon",
+            "type": {
+              "id": 5,
+              "name": "Private"
+            }
+          }
+        ],
+        "start_date": "2023-10-16T18:06:00Z",
+        "end_date": null,
+        "mission_patches": [],
+        "type": {
+          "id": 3,
+          "name": "Communication Constellation"
+        }
+      }
+    ],
+    "orbital_launch_attempt_count": 7859,
+    "location_launch_attempt_count": 1312,
+    "pad_launch_attempt_count": 190,
+    "agency_launch_attempt_count": 247,
+    "orbital_launch_attempt_count_year": 145,
+    "location_launch_attempt_count_year": 79,
+    "pad_launch_attempt_count_year": 43,
+    "agency_launch_attempt_count_year": 43,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 16245,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added launch.",
+        "info_url": "https://www.ulalaunch.com/about/news/2022/04/05/amazon-signs-contract-with-united-launch-alliance-for-38-project-kuiper-launches-on-vulcan-centaur",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-30T03:13:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P365D",
+    "mission_patches": []
+  },
+  {
+    "id": "d1421973-9be4-4b16-9b26-2de077a8b602",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/d1421973-9be4-4b16-9b26-2de077a8b602/",
+    "name": "Vulcan VC6L | Amazon Leo (LV-29)",
+    "response_mode": "detailed",
+    "slug": "vulcan-vc6l-amazon-leo-lv-29",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2026-09-30T03:26:46Z",
+    "net": "2029-12-31T00:00:00Z",
+    "net_precision": {
+      "id": 16,
+      "name": "Decade",
+      "abbrev": "DEC",
+      "description": "The T-0 is expected in the given decade."
+    },
+    "window_end": "2029-12-31T00:00:00Z",
+    "window_start": "2029-12-31T00:00:00Z",
+    "image": {
+      "id": 1864,
+      "name": "Vulcan VC6L render",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193955.jpeg",
+      "credit": "United Launch Alliance",
+      "license": {
+        "id": 10,
+        "name": "ULA Image Use Policy",
+        "priority": 3,
+        "link": "https://www.ulalaunch.com/terms-and-conditions"
+      },
+      "single_use": true,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 124,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+      "name": "United Launch Alliance",
+      "abbrev": "ULA",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": true,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+      "administrator": "CEO: Mark Peller",
+      "founding_year": 2006,
+      "launchers": "Atlas | Delta | Vulcan",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 30,
+        "name": "[AUTO] United Launch Alliance - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 191,
+        "name": "[AUTO] United Launch Alliance - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 97,
+        "name": "[AUTO] United Launch Alliance - social_logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 175,
+      "consecutive_successful_launches": 175,
+      "successful_launches": 175,
+      "failed_launches": 0,
+      "pending_launches": 73,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://www.ulalaunch.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 9188,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 479,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/479/",
+        "name": "Vulcan VC6L",
+        "families": [
+          {
+            "response_mode": "detailed",
+            "id": 170,
+            "name": "Vulcan",
+            "manufacturer": [
+              {
+                "response_mode": "normal",
+                "id": 124,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                "name": "United Launch Alliance",
+                "abbrev": "ULA",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                },
+                "featured": true,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                "administrator": "CEO: Mark Peller",
+                "founding_year": 2006,
+                "launchers": "Atlas | Delta | Vulcan",
+                "spacecraft": "",
+                "parent": null,
+                "image": {
+                  "id": 30,
+                  "name": "[AUTO] United Launch Alliance - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 191,
+                  "name": "[AUTO] United Launch Alliance - logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 97,
+                  "name": "[AUTO] United Launch Alliance - social_logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 175,
+                "consecutive_successful_launches": 175,
+                "successful_launches": 175,
+                "failed_launches": 0,
+                "pending_launches": 73,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://www.ulalaunch.com/",
+                "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+                "social_media_links": []
+              }
+            ],
+            "parent": null,
+            "description": "",
+            "active": true,
+            "maiden_flight": "2024-01-08",
+            "total_launch_count": 4,
+            "consecutive_successful_launches": 4,
+            "successful_launches": 4,
+            "failed_launches": 0,
+            "pending_launches": 67,
+            "attempted_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "consecutive_successful_landings": 0
+          }
+        ],
+        "full_name": "Vulcan VC6L",
+        "variant": "VC6L",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 124,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+          "name": "United Launch Alliance",
+          "abbrev": "ULA",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": true,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+          "administrator": "CEO: Mark Peller",
+          "founding_year": 2006,
+          "launchers": "Atlas | Delta | Vulcan",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 30,
+            "name": "[AUTO] United Launch Alliance - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 191,
+            "name": "[AUTO] United Launch Alliance - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 97,
+            "name": "[AUTO] United Launch Alliance - social_logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 175,
+          "consecutive_successful_launches": 175,
+          "successful_launches": 175,
+          "failed_launches": 0,
+          "pending_launches": 73,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://www.ulalaunch.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 1864,
+          "name": "Vulcan VC6L render",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193955.jpeg",
+          "credit": "United Launch Alliance",
+          "license": {
+            "id": 10,
+            "name": "ULA Image Use Policy",
+            "priority": 3,
+            "link": "https://www.ulalaunch.com/terms-and-conditions"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://www.ulalaunch.com/rockets/vulcan-centaur",
+        "wiki_url": "https://en.wikipedia.org/wiki/Vulcan_Centaur",
+        "description": "Vulcan Centaur is a two-stage-to-orbit, heavy-lift launch vehicle under development by United Launch Alliance (ULA) since 2014. It is principally designed to meet launch demands for the U.S. government's National Security Space Launch (NSSL) program for use by the United States Space Force and U.S. intelligence agencies for national security satellite launches. It will replace both of ULA's existing launchers (Atlas V and Delta IV Heavy) in this role, as these launchers are retiring.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": 67.4,
+        "diameter": 5.4,
+        "maiden_flight": null,
+        "launch_cost": null,
+        "launch_mass": 877.0,
+        "leo_capacity": 27200.0,
+        "gto_capacity": 15300.0,
+        "geo_capacity": 7000.0,
+        "sso_capacity": 23900.0,
+        "to_thrust": 18110.0,
+        "apogee": null,
+        "total_launch_count": 0,
+        "consecutive_successful_launches": 0,
+        "successful_launches": 0,
+        "failed_launches": 0,
+        "pending_launches": 38,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7787,
+      "name": "Amazon Leo (LV-29)",
+      "type": "Communications",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+      "image": null,
+      "orbit": {
+        "id": 8,
+        "name": "Low Earth Orbit",
+        "abbrev": "LEO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [
+        {
+          "response_mode": "normal",
+          "id": 1058,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1058/",
+          "name": "Amazon Leo",
+          "abbrev": "Amazon",
+          "type": {
+            "id": 5,
+            "name": "Private"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Amazon Leo, formerly known as Kuiper Systems LLC and Project Kuiper, is a subsidiary of Amazon that was established in 2019 to deploy a large satellite internet constellation to provide low-latency broadband internet connectivity.",
+          "administrator": "President: Rajeev Badyal",
+          "founding_year": 2019,
+          "launchers": "",
+          "spacecraft": "",
+          "parent": null,
+          "image": null,
+          "logo": null,
+          "social_logo": {
+            "id": 2550,
+            "name": "Amazon Leo social logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/amazon_leo_soci_image_20251117075814.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/amazon_leo_soci_image_thumbnail_20251117075815.png",
+            "credit": "Amazon Leo",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 0,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 0,
+          "failed_launches": 0,
+          "pending_launches": 0,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://leo.amazon.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Kuiper_Systems",
+          "social_media_links": [
+            {
+              "id": 335,
+              "social_media": {
+                "id": 3,
+                "name": "Homepage",
+                "url": null,
+                "logo": null
+              },
+              "url": "https://leo.amazon.com/"
+            },
+            {
+              "id": 336,
+              "social_media": {
+                "id": 4,
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "logo": {
+                  "id": 2321,
+                  "name": "LinkedIn logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                  "credit": "LinkedIn",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.linkedin.com/showcase/amazonleo/"
+            },
+            {
+              "id": 337,
+              "social_media": {
+                "id": 2,
+                "name": "Instagram",
+                "url": "https://instagram.com",
+                "logo": {
+                  "id": 2322,
+                  "name": "Instagram logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                  "credit": "Instagram",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.instagram.com/amazonleo_/"
+            },
+            {
+              "id": 338,
+              "social_media": {
+                "id": 1,
+                "name": "X",
+                "url": "https://x.com",
+                "logo": {
+                  "id": 2320,
+                  "name": "X logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                  "credit": "X",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://x.com/Amazonleo"
+            },
+            {
+              "id": 339,
+              "social_media": {
+                "id": 6,
+                "name": "Youtube",
+                "url": "https://www.youtube.com/",
+                "logo": {
+                  "id": 2356,
+                  "name": "YouTube logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
+                  "credit": "YouTube",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "url": "https://www.youtube.com/@ProjectKuiper"
+            }
+          ]
+        }
+      ],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 29,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/29/",
+      "active": true,
+      "agencies": [],
+      "name": "Space Launch Complex 41",
+      "image": {
+        "id": 1394,
+        "name": "Atlas V 541 on the pad (Mars 2020/Perseverance rover & Ingenuity helicopter)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v252_image_20200729144937.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192627.jpeg",
+        "credit": "United Launch Alliance",
+        "license": {
+          "id": 10,
+          "name": "ULA Image Use Policy",
+          "priority": 3,
+          "link": "https://www.ulalaunch.com/terms-and-conditions"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "description": "",
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41",
+      "map_url": "https://www.google.com/maps?q=28.58341025,-80.58303644",
+      "latitude": 28.58341025,
+      "longitude": -80.58303644,
+      "country": {
+        "id": 2,
+        "name": "United States of America",
+        "alpha_2_code": "US",
+        "alpha_3_code": "USA",
+        "nationality_name": "American",
+        "nationality_name_composed": "Americano"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_29_20200803143528.jpg",
+      "total_launch_count": 125,
+      "orbital_launch_attempt_count": 125,
+      "fastest_turnaround": "P15DT22H26M17S",
+      "location": {
+        "response_mode": "normal",
+        "id": 12,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+        "name": "Cape Canaveral SFS, FL, USA",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7635,
+          "successful_launches": 7078,
+          "failed_launches": 557,
+          "total_attempted_landings": 1376,
+          "successful_landings": 1327,
+          "failed_landings": 49
+        },
+        "active": true,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+        "image": {
+          "id": 2200,
+          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+          "credit": "NASA",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+        "longitude": -80.577778,
+        "latitude": 28.488889,
+        "timezone_name": "America/New_York",
+        "total_launch_count": 1130,
+        "total_landing_count": 82
+      }
+    },
+    "webcast_live": false,
+    "program": [
+      {
+        "response_mode": "normal",
+        "id": 27,
+        "url": "https://ll.thespacedevs.com/2.3.0/programs/27/",
+        "name": "Amazon Leo",
+        "image": {
+          "id": 1898,
+          "name": "Amazon Kuiper dish",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/project2520kui_program_20231228165031.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194059.jpeg",
+          "credit": "Amazon",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "info_url": "https://en.wikipedia.org/wiki/Kuiper_Systems",
+        "wiki_url": "https://aboutamazon.com/what-we-do/devices-services/project-kuiper",
+        "description": "Amazon Leo is a satellite internet constellation aimed at providing high-speed, low-latency broadband connectivity to underserved and remote areas globally. The project involves deploying a constellation of low Earth orbit (LEO) satellites to create a satellite internet network capable of delivering reliable internet access.",
+        "agencies": [
+          {
+            "response_mode": "list",
+            "id": 1058,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/1058/",
+            "name": "Amazon Leo",
+            "abbrev": "Amazon",
+            "type": {
+              "id": 5,
+              "name": "Private"
+            }
+          }
+        ],
+        "start_date": "2023-10-16T18:06:00Z",
+        "end_date": null,
+        "mission_patches": [],
+        "type": {
+          "id": 3,
+          "name": "Communication Constellation"
+        }
+      }
+    ],
+    "orbital_launch_attempt_count": 7859,
+    "location_launch_attempt_count": 1312,
+    "pad_launch_attempt_count": 190,
+    "agency_launch_attempt_count": 247,
+    "orbital_launch_attempt_count_year": 145,
+    "location_launch_attempt_count_year": 79,
+    "pad_launch_attempt_count_year": 43,
+    "agency_launch_attempt_count_year": 43,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 16255,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "Added launch.",
+        "info_url": "https://www.ulalaunch.com/about/news/2022/04/05/amazon-signs-contract-with-united-launch-alliance-for-38-project-kuiper-launches-on-vulcan-centaur",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-30T03:26:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P365D",
+    "mission_patches": []
+  },
+  {
     "id": "bce34ede-7680-4411-a65c-f2c96a3b307d",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/bce34ede-7680-4411-a65c-f2c96a3b307d/",
     "name": "Vulcan VC6L | Amazon Leo (LV-14)",
@@ -13293,7 +14843,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -13397,7 +14947,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -13508,7 +15058,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -13561,7 +15111,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -14159,7 +15709,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -14263,7 +15813,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -14374,7 +15924,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -14427,7 +15977,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -15025,7 +16575,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -15129,7 +16679,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -15240,7 +16790,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -15293,7 +16843,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -15891,7 +17441,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -15995,7 +17545,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -16106,7 +17656,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -16159,7 +17709,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -16757,7 +18307,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -16861,7 +18411,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -16972,7 +18522,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -17025,7 +18575,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -17623,7 +19173,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -17727,7 +19277,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -17838,7 +19388,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -17891,7 +19441,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -18489,7 +20039,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -18593,7 +20143,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -18704,7 +20254,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -18757,7 +20307,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -19355,7 +20905,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -19459,7 +21009,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -19570,7 +21120,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -19623,7 +21173,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -20221,7 +21771,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -20325,7 +21875,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -20436,7 +21986,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -20489,7 +22039,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -21087,7 +22637,7 @@
       "consecutive_successful_launches": 0,
       "successful_launches": 39,
       "failed_launches": 2,
-      "pending_launches": 29,
+      "pending_launches": 30,
       "consecutive_successful_landings": 12,
       "successful_landings": 38,
       "failed_landings": 3,
@@ -21191,7 +22741,7 @@
                 "consecutive_successful_launches": 0,
                 "successful_launches": 39,
                 "failed_launches": 2,
-                "pending_launches": 29,
+                "pending_launches": 30,
                 "consecutive_successful_landings": 12,
                 "successful_landings": 38,
                 "failed_landings": 3,
@@ -21302,7 +22852,7 @@
           "consecutive_successful_launches": 0,
           "successful_launches": 39,
           "failed_launches": 2,
-          "pending_launches": 29,
+          "pending_launches": 30,
           "consecutive_successful_landings": 12,
           "successful_landings": 38,
           "failed_landings": 3,
@@ -21355,7 +22905,7 @@
         "consecutive_successful_launches": 0,
         "successful_launches": 2,
         "failed_launches": 1,
-        "pending_launches": 29,
+        "pending_launches": 30,
         "attempted_landings": 3,
         "successful_landings": 2,
         "failed_landings": 1,
@@ -21826,872 +23376,6 @@
         "info_url": "https://x.com/Amazonleo/status/2059677904296919106",
         "created_by": "Cosmic_Penguin",
         "created_on": "2026-09-30T06:04:00Z"
-      }
-    ],
-    "info_urls": [],
-    "vid_urls": [],
-    "timeline": [],
-    "pad_turnaround": "P365D",
-    "mission_patches": []
-  },
-  {
-    "id": "3a079c06-5b79-48f6-b4f3-e372518d64b0",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/3a079c06-5b79-48f6-b4f3-e372518d64b0/",
-    "name": "New Glenn | Amazon Leo (LN-17)",
-    "response_mode": "detailed",
-    "slug": "new-glenn-amazon-leo-ln-17",
-    "launch_designator": null,
-    "status": {
-      "id": 2,
-      "name": "To Be Determined",
-      "abbrev": "TBD",
-      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-    },
-    "last_updated": "2026-09-30T06:10:21Z",
-    "net": "2029-12-31T00:00:00Z",
-    "net_precision": {
-      "id": 16,
-      "name": "Decade",
-      "abbrev": "DEC",
-      "description": "The T-0 is expected in the given decade."
-    },
-    "window_end": "2029-12-31T00:00:00Z",
-    "window_start": "2029-12-31T00:00:00Z",
-    "image": {
-      "id": 1794,
-      "name": "New Glenn on LC-36",
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
-      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_thumbnail_20240313170027.jpeg",
-      "credit": "Blue Origin",
-      "license": {
-        "id": 1,
-        "name": "Unknown",
-        "priority": 9,
-        "link": null
-      },
-      "single_use": true,
-      "variants": []
-    },
-    "infographic": null,
-    "probability": null,
-    "weather_concerns": null,
-    "failreason": "",
-    "hashtag": null,
-    "launch_service_provider": {
-      "response_mode": "normal",
-      "id": 141,
-      "url": "https://ll.thespacedevs.com/2.3.0/agencies/141/",
-      "name": "Blue Origin",
-      "abbrev": "BO",
-      "type": {
-        "id": 3,
-        "name": "Commercial"
-      },
-      "featured": true,
-      "country": [
-        {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        }
-      ],
-      "description": "Blue Origin is an American privately funded aerospace manufacturer and spaceflight services company set up by Amazon.com founder Jeff Bezos with its headquarters in Kent, Washington. The company is developing technologies to enable private human access to space with the goal to dramatically lower costs and increase reliability. Blue Origin currently launches its New Shepard sub-orbital vehicle from its West Texas launch site, they are currently constructing a launch pad for their orbital vehicle New Glenn at Cape Canaveral LC-36.",
-      "administrator": "CEO: Jeff Bezos",
-      "founding_year": 2000,
-      "launchers": "New Shepard | New Glenn",
-      "spacecraft": "",
-      "parent": null,
-      "image": {
-        "id": 5,
-        "name": "[AUTO] Blue Origin - image",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_image_20190207032427.jpeg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184551.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "logo": {
-        "id": 116,
-        "name": "[AUTO] Blue Origin - logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_logo_20190207032427.png",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184921.png",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "social_logo": {
-        "id": 45,
-        "name": "[AUTO] Blue Origin - social_logo",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_nation_20240222073724.jpg",
-        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184738.jpeg",
-        "credit": null,
-        "license": {
-          "id": 1,
-          "name": "Unknown",
-          "priority": 9,
-          "link": null
-        },
-        "single_use": true,
-        "variants": []
-      },
-      "total_launch_count": 41,
-      "consecutive_successful_launches": 0,
-      "successful_launches": 39,
-      "failed_launches": 2,
-      "pending_launches": 29,
-      "consecutive_successful_landings": 12,
-      "successful_landings": 38,
-      "failed_landings": 3,
-      "attempted_landings": 41,
-      "successful_landings_spacecraft": 38,
-      "failed_landings_spacecraft": 0,
-      "attempted_landings_spacecraft": 38,
-      "successful_landings_payload": 0,
-      "failed_landings_payload": 0,
-      "attempted_landings_payload": 0,
-      "info_url": "https://www.blueorigin.com/",
-      "wiki_url": "https://en.wikipedia.org/wiki/Blue_Origin",
-      "social_media_links": []
-    },
-    "rocket": {
-      "id": 9233,
-      "configuration": {
-        "response_mode": "detailed",
-        "id": 138,
-        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/138/",
-        "name": "New Glenn",
-        "families": [
-          {
-            "response_mode": "detailed",
-            "id": 214,
-            "name": "New Glenn",
-            "manufacturer": [
-              {
-                "response_mode": "normal",
-                "id": 141,
-                "url": "https://ll.thespacedevs.com/2.3.0/agencies/141/",
-                "name": "Blue Origin",
-                "abbrev": "BO",
-                "type": {
-                  "id": 3,
-                  "name": "Commercial"
-                },
-                "featured": true,
-                "country": [
-                  {
-                    "id": 2,
-                    "name": "United States of America",
-                    "alpha_2_code": "US",
-                    "alpha_3_code": "USA",
-                    "nationality_name": "American",
-                    "nationality_name_composed": "Americano"
-                  }
-                ],
-                "description": "Blue Origin is an American privately funded aerospace manufacturer and spaceflight services company set up by Amazon.com founder Jeff Bezos with its headquarters in Kent, Washington. The company is developing technologies to enable private human access to space with the goal to dramatically lower costs and increase reliability. Blue Origin currently launches its New Shepard sub-orbital vehicle from its West Texas launch site, they are currently constructing a launch pad for their orbital vehicle New Glenn at Cape Canaveral LC-36.",
-                "administrator": "CEO: Jeff Bezos",
-                "founding_year": 2000,
-                "launchers": "New Shepard | New Glenn",
-                "spacecraft": "",
-                "parent": null,
-                "image": {
-                  "id": 5,
-                  "name": "[AUTO] Blue Origin - image",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_image_20190207032427.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184551.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "logo": {
-                  "id": 116,
-                  "name": "[AUTO] Blue Origin - logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_logo_20190207032427.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184921.png",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "social_logo": {
-                  "id": 45,
-                  "name": "[AUTO] Blue Origin - social_logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_nation_20240222073724.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184738.jpeg",
-                  "credit": null,
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "total_launch_count": 41,
-                "consecutive_successful_launches": 0,
-                "successful_launches": 39,
-                "failed_launches": 2,
-                "pending_launches": 29,
-                "consecutive_successful_landings": 12,
-                "successful_landings": 38,
-                "failed_landings": 3,
-                "attempted_landings": 41,
-                "successful_landings_spacecraft": 38,
-                "failed_landings_spacecraft": 0,
-                "attempted_landings_spacecraft": 38,
-                "successful_landings_payload": 0,
-                "failed_landings_payload": 0,
-                "attempted_landings_payload": 0,
-                "info_url": "https://www.blueorigin.com/",
-                "wiki_url": "https://en.wikipedia.org/wiki/Blue_Origin",
-                "social_media_links": []
-              }
-            ],
-            "parent": null,
-            "description": "",
-            "active": true,
-            "maiden_flight": "2025-01-16",
-            "total_launch_count": 3,
-            "consecutive_successful_launches": 0,
-            "successful_launches": 2,
-            "failed_launches": 1,
-            "pending_launches": 29,
-            "attempted_landings": 3,
-            "successful_landings": 2,
-            "failed_landings": 1,
-            "consecutive_successful_landings": 2
-          }
-        ],
-        "full_name": "New Glenn",
-        "variant": "",
-        "active": true,
-        "is_placeholder": false,
-        "manufacturer": {
-          "response_mode": "normal",
-          "id": 141,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/141/",
-          "name": "Blue Origin",
-          "abbrev": "BO",
-          "type": {
-            "id": 3,
-            "name": "Commercial"
-          },
-          "featured": true,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Blue Origin is an American privately funded aerospace manufacturer and spaceflight services company set up by Amazon.com founder Jeff Bezos with its headquarters in Kent, Washington. The company is developing technologies to enable private human access to space with the goal to dramatically lower costs and increase reliability. Blue Origin currently launches its New Shepard sub-orbital vehicle from its West Texas launch site, they are currently constructing a launch pad for their orbital vehicle New Glenn at Cape Canaveral LC-36.",
-          "administrator": "CEO: Jeff Bezos",
-          "founding_year": 2000,
-          "launchers": "New Shepard | New Glenn",
-          "spacecraft": "",
-          "parent": null,
-          "image": {
-            "id": 5,
-            "name": "[AUTO] Blue Origin - image",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_image_20190207032427.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184551.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "logo": {
-            "id": 116,
-            "name": "[AUTO] Blue Origin - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_logo_20190207032427.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184921.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 45,
-            "name": "[AUTO] Blue Origin - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_nation_20240222073724.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184738.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 41,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 39,
-          "failed_launches": 2,
-          "pending_launches": 29,
-          "consecutive_successful_landings": 12,
-          "successful_landings": 38,
-          "failed_landings": 3,
-          "attempted_landings": 41,
-          "successful_landings_spacecraft": 38,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 38,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://www.blueorigin.com/",
-          "wiki_url": "https://en.wikipedia.org/wiki/Blue_Origin",
-          "social_media_links": []
-        },
-        "program": [],
-        "reusable": true,
-        "image": {
-          "id": 1794,
-          "name": "New Glenn on LC-36",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_thumbnail_20240313170027.jpeg",
-          "credit": "Blue Origin",
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": "https://www.blueorigin.com/new-glenn/",
-        "wiki_url": "https://en.wikipedia.org/wiki/New_Glenn",
-        "description": "The New Glenn is a privately funded orbital launch vehicle in development by Blue Origin. New Glenn is described as a 7-meter-diameter (23 ft), two- or three-stage rocket.",
-        "alias": "",
-        "min_stage": 2,
-        "max_stage": 2,
-        "length": 98.0,
-        "diameter": 7.0,
-        "maiden_flight": "2025-01-16",
-        "launch_cost": null,
-        "launch_mass": null,
-        "leo_capacity": 45000.0,
-        "gto_capacity": 13000.0,
-        "geo_capacity": null,
-        "sso_capacity": null,
-        "to_thrust": 17126.0,
-        "apogee": null,
-        "total_launch_count": 3,
-        "consecutive_successful_launches": 0,
-        "successful_launches": 2,
-        "failed_launches": 1,
-        "pending_launches": 29,
-        "attempted_landings": 3,
-        "successful_landings": 2,
-        "failed_landings": 1,
-        "consecutive_successful_landings": 2,
-        "fastest_turnaround": "P156DT14H29M59S"
-      },
-      "launcher_stage": [
-        {
-          "id": 1014,
-          "type": "Core",
-          "reused": null,
-          "launcher_flight_number": null,
-          "launcher": {
-            "response_mode": "normal",
-            "id": 152,
-            "url": "https://ll.thespacedevs.com/2.3.0/launchers/152/",
-            "flight_proven": false,
-            "serial_number": "Unknown NG",
-            "is_placeholder": true,
-            "status": {
-              "id": 8,
-              "name": "N/A"
-            },
-            "image": {
-              "id": 1794,
-              "name": "New Glenn on LC-36",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_thumbnail_20240313170027.jpeg",
-              "credit": "Blue Origin",
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "details": "Booster serial number unknown.",
-            "successful_landings": null,
-            "attempted_landings": null,
-            "flights": null,
-            "last_launch_date": null,
-            "first_launch_date": null,
-            "fastest_turnaround": null
-          },
-          "previous_flight_date": null,
-          "turn_around_time": null,
-          "landing": null,
-          "previous_flight": null
-        }
-      ],
-      "spacecraft_stage": [],
-      "payloads": []
-    },
-    "mission": {
-      "id": 7832,
-      "name": "Amazon Leo (LN-17)",
-      "type": "Communications",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n48 satellites will be carried on each New Glenn launch.",
-      "image": null,
-      "orbit": {
-        "id": 8,
-        "name": "Low Earth Orbit",
-        "abbrev": "LEO",
-        "celestial_body": {
-          "response_mode": "list",
-          "id": 1,
-          "name": "Earth"
-        }
-      },
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 1058,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/1058/",
-          "name": "Amazon Leo",
-          "abbrev": "Amazon",
-          "type": {
-            "id": 5,
-            "name": "Private"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "Amazon Leo, formerly known as Kuiper Systems LLC and Project Kuiper, is a subsidiary of Amazon that was established in 2019 to deploy a large satellite internet constellation to provide low-latency broadband internet connectivity.",
-          "administrator": "President: Rajeev Badyal",
-          "founding_year": 2019,
-          "launchers": "",
-          "spacecraft": "",
-          "parent": null,
-          "image": null,
-          "logo": null,
-          "social_logo": {
-            "id": 2550,
-            "name": "Amazon Leo social logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/amazon_leo_soci_image_20251117075814.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/amazon_leo_soci_image_thumbnail_20251117075815.png",
-            "credit": "Amazon Leo",
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "total_launch_count": 0,
-          "consecutive_successful_launches": 0,
-          "successful_launches": 0,
-          "failed_launches": 0,
-          "pending_launches": 0,
-          "consecutive_successful_landings": 0,
-          "successful_landings": 0,
-          "failed_landings": 0,
-          "attempted_landings": 0,
-          "successful_landings_spacecraft": 0,
-          "failed_landings_spacecraft": 0,
-          "attempted_landings_spacecraft": 0,
-          "successful_landings_payload": 0,
-          "failed_landings_payload": 0,
-          "attempted_landings_payload": 0,
-          "info_url": "https://leo.amazon.com/",
-          "wiki_url": "https://en.wikipedia.org/wiki/Kuiper_Systems",
-          "social_media_links": [
-            {
-              "id": 335,
-              "social_media": {
-                "id": 3,
-                "name": "Homepage",
-                "url": null,
-                "logo": null
-              },
-              "url": "https://leo.amazon.com/"
-            },
-            {
-              "id": 336,
-              "social_media": {
-                "id": 4,
-                "name": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "logo": {
-                  "id": 2321,
-                  "name": "LinkedIn logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
-                  "credit": "LinkedIn",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.linkedin.com/showcase/amazonleo/"
-            },
-            {
-              "id": 337,
-              "social_media": {
-                "id": 2,
-                "name": "Instagram",
-                "url": "https://instagram.com",
-                "logo": {
-                  "id": 2322,
-                  "name": "Instagram logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
-                  "credit": "Instagram",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.instagram.com/amazonleo_/"
-            },
-            {
-              "id": 338,
-              "social_media": {
-                "id": 1,
-                "name": "X",
-                "url": "https://x.com",
-                "logo": {
-                  "id": 2320,
-                  "name": "X logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
-                  "credit": "X",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://x.com/Amazonleo"
-            },
-            {
-              "id": 339,
-              "social_media": {
-                "id": 6,
-                "name": "Youtube",
-                "url": "https://www.youtube.com/",
-                "logo": {
-                  "id": 2356,
-                  "name": "YouTube logo",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_20250321073112.png",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/youtube_logo_image_thumbnail_20250321073112.png",
-                  "credit": "YouTube",
-                  "license": {
-                    "id": 1,
-                    "name": "Unknown",
-                    "priority": 9,
-                    "link": null
-                  },
-                  "single_use": true,
-                  "variants": []
-                }
-              },
-              "url": "https://www.youtube.com/@ProjectKuiper"
-            }
-          ]
-        }
-      ],
-      "info_urls": [],
-      "vid_urls": []
-    },
-    "pad": {
-      "id": 121,
-      "url": "https://ll.thespacedevs.com/2.3.0/pads/121/",
-      "active": true,
-      "agencies": [
-        {
-          "response_mode": "normal",
-          "id": 161,
-          "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
-          "name": "United States Air Force",
-          "abbrev": "USAF",
-          "type": {
-            "id": 1,
-            "name": "Government"
-          },
-          "featured": false,
-          "country": [
-            {
-              "id": 2,
-              "name": "United States of America",
-              "alpha_2_code": "US",
-              "alpha_3_code": "USA",
-              "nationality_name": "American",
-              "nationality_name_composed": "Americano"
-            }
-          ],
-          "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
-          "administrator": "Commander-in-Chief: President of the US",
-          "founding_year": 1947,
-          "launchers": "",
-          "spacecraft": "",
-          "parent": null,
-          "image": null,
-          "logo": {
-            "id": 193,
-            "name": "[AUTO] United States Air Force - logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "social_logo": {
-            "id": 99,
-            "name": "[AUTO] United States Air Force - social_logo",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
-            "credit": null,
-            "license": {
-              "id": 1,
-              "name": "Unknown",
-              "priority": 9,
-              "link": null
-            },
-            "single_use": true,
-            "variants": []
-          }
-        }
-      ],
-      "name": "Launch Complex 36A",
-      "image": null,
-      "description": null,
-      "info_url": null,
-      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_36",
-      "map_url": "https://www.google.com/maps?q=28.4705556,-80.542194",
-      "latitude": 28.4705556,
-      "longitude": -80.542194,
-      "country": {
-        "id": 2,
-        "name": "United States of America",
-        "alpha_2_code": "US",
-        "alpha_3_code": "USA",
-        "nationality_name": "American",
-        "nationality_name_composed": "Americano"
-      },
-      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_121_20200803143231.jpg",
-      "total_launch_count": 71,
-      "orbital_launch_attempt_count": 71,
-      "fastest_turnaround": "P46DT2H55M",
-      "location": {
-        "response_mode": "normal",
-        "id": 12,
-        "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
-        "name": "Cape Canaveral SFS, FL, USA",
-        "celestial_body": {
-          "response_mode": "normal",
-          "id": 1,
-          "name": "Earth",
-          "type": {
-            "id": 1,
-            "name": "Planet"
-          },
-          "diameter": 12742000.0,
-          "mass": 5.972168e+24,
-          "gravity": 9.80655,
-          "length_of_day": "1 00:00:00",
-          "atmosphere": true,
-          "image": {
-            "id": 2040,
-            "name": "Earth (Apollo 17)",
-            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-            "credit": "NASA",
-            "license": {
-              "id": 4,
-              "name": "NASA Image and Media Guidelines",
-              "priority": 0,
-              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-            },
-            "single_use": true,
-            "variants": []
-          },
-          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7635,
-          "successful_launches": 7078,
-          "failed_launches": 557,
-          "total_attempted_landings": 1376,
-          "successful_landings": 1327,
-          "failed_landings": 49
-        },
-        "active": true,
-        "country": {
-          "id": 2,
-          "name": "United States of America",
-          "alpha_2_code": "US",
-          "alpha_3_code": "USA",
-          "nationality_name": "American",
-          "nationality_name_composed": "Americano"
-        },
-        "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
-        "image": {
-          "id": 2200,
-          "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
-          "credit": "NASA",
-          "license": {
-            "id": 4,
-            "name": "NASA Image and Media Guidelines",
-            "priority": 0,
-            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
-        "longitude": -80.577778,
-        "latitude": 28.488889,
-        "timezone_name": "America/New_York",
-        "total_launch_count": 1130,
-        "total_landing_count": 82
-      }
-    },
-    "webcast_live": false,
-    "program": [
-      {
-        "response_mode": "normal",
-        "id": 27,
-        "url": "https://ll.thespacedevs.com/2.3.0/programs/27/",
-        "name": "Amazon Leo",
-        "image": {
-          "id": 1898,
-          "name": "Amazon Kuiper dish",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/project2520kui_program_20231228165031.jpeg",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194059.jpeg",
-          "credit": "Amazon",
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": "https://en.wikipedia.org/wiki/Kuiper_Systems",
-        "wiki_url": "https://aboutamazon.com/what-we-do/devices-services/project-kuiper",
-        "description": "Amazon Leo is a satellite internet constellation aimed at providing high-speed, low-latency broadband connectivity to underserved and remote areas globally. The project involves deploying a constellation of low Earth orbit (LEO) satellites to create a satellite internet network capable of delivering reliable internet access.",
-        "agencies": [
-          {
-            "response_mode": "list",
-            "id": 1058,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/1058/",
-            "name": "Amazon Leo",
-            "abbrev": "Amazon",
-            "type": {
-              "id": 5,
-              "name": "Private"
-            }
-          }
-        ],
-        "start_date": "2023-10-16T18:06:00Z",
-        "end_date": null,
-        "mission_patches": [],
-        "type": {
-          "id": 3,
-          "name": "Communication Constellation"
-        }
-      }
-    ],
-    "orbital_launch_attempt_count": 7859,
-    "location_launch_attempt_count": 1312,
-    "pad_launch_attempt_count": 100,
-    "agency_launch_attempt_count": 70,
-    "orbital_launch_attempt_count_year": 145,
-    "location_launch_attempt_count_year": 79,
-    "pad_launch_attempt_count_year": 23,
-    "agency_launch_attempt_count_year": 23,
-    "flightclub_url": null,
-    "updates": [
-      {
-        "id": 16300,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
-        "comment": "Added launch.",
-        "info_url": "https://x.com/Amazonleo/status/2059677904296919106",
-        "created_by": "Cosmic_Penguin",
-        "created_on": "2026-09-30T06:10:00Z"
       }
     ],
     "info_urls": [],
