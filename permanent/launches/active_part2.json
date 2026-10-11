@@ -5893,6 +5893,122 @@
       },
       "launcher_stage": [
         {
+          "id": 987,
+          "type": "Core",
+          "reused": false,
+          "launcher_flight_number": 1,
+          "launcher": {
+            "response_mode": "normal",
+            "id": 261,
+            "url": "https://ll.thespacedevs.com/2.3.0/launchers/261/",
+            "flight_proven": false,
+            "serial_number": "B1106",
+            "is_placeholder": false,
+            "status": {
+              "id": 2,
+              "name": "expended"
+            },
+            "image": {
+              "id": 1739,
+              "name": "[AUTO] Falcon Heavy - image",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193632.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "details": "Falcon Heavy core booster expended during the launch of the NROL-97 mission.",
+            "successful_landings": 0,
+            "attempted_landings": 0,
+            "flights": 1,
+            "last_launch_date": "2026-10-02T03:54:00Z",
+            "first_launch_date": "2026-10-02T03:54:00Z",
+            "fastest_turnaround": null
+          },
+          "previous_flight_date": null,
+          "turn_around_time": null,
+          "landing": {
+            "id": 1960,
+            "url": "https://ll.thespacedevs.com/2.3.0/landings/1960/",
+            "attempt": false,
+            "success": null,
+            "description": "The Falcon Heavy center core B1106 will be expended.",
+            "downrange_distance": null,
+            "landing_location": {
+              "id": 6,
+              "name": "Atlantic Ocean",
+              "active": true,
+              "abbrev": "ATL",
+              "description": "Atlantic Ocean",
+              "location": null,
+              "longitude": null,
+              "latitude": null,
+              "image": {
+                "id": 2230,
+                "name": "Sun glint on the Atlantic Ocean",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_20240920085841.jpg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_thumbnail_20240920085841.jpeg",
+                "credit": "NASA",
+                "license": {
+                  "id": 4,
+                  "name": "NASA Image and Media Guidelines",
+                  "priority": 0,
+                  "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                },
+                "single_use": true,
+                "variants": []
+              },
+              "successful_landings": 38,
+              "attempted_landings": 42,
+              "failed_landings": 4,
+              "celestial_body": {
+                "response_mode": "normal",
+                "id": 1,
+                "name": "Earth",
+                "type": {
+                  "id": 1,
+                  "name": "Planet"
+                },
+                "diameter": 12742000.0,
+                "mass": 5.972168e+24,
+                "gravity": 9.80655,
+                "length_of_day": "1 00:00:00",
+                "atmosphere": true,
+                "image": {
+                  "id": 2040,
+                  "name": "Earth (Apollo 17)",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                  "credit": "NASA",
+                  "license": {
+                    "id": 4,
+                    "name": "NASA Image and Media Guidelines",
+                    "priority": 0,
+                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
+              }
+            },
+            "type": {
+              "id": 8,
+              "name": "Expended",
+              "abbrev": "EXP",
+              "description": "Vehicle did not perform any landing operations after launch"
+            }
+          },
+          "previous_flight": null
+        },
+        {
           "id": 988,
           "type": "Strap-On Booster",
           "reused": true,
@@ -6047,122 +6163,6 @@
             "url": "https://ll.thespacedevs.com/2.3.0/launches/521f3a1c-f977-4306-9b7f-495858719adf/",
             "name": "Falcon Heavy | Nancy Grace Roman Space Telescope"
           }
-        },
-        {
-          "id": 987,
-          "type": "Core",
-          "reused": false,
-          "launcher_flight_number": 1,
-          "launcher": {
-            "response_mode": "normal",
-            "id": 261,
-            "url": "https://ll.thespacedevs.com/2.3.0/launchers/261/",
-            "flight_proven": false,
-            "serial_number": "B1106",
-            "is_placeholder": false,
-            "status": {
-              "id": 2,
-              "name": "expended"
-            },
-            "image": {
-              "id": 1739,
-              "name": "[AUTO] Falcon Heavy - image",
-              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193632.jpeg",
-              "credit": null,
-              "license": {
-                "id": 1,
-                "name": "Unknown",
-                "priority": 9,
-                "link": null
-              },
-              "single_use": true,
-              "variants": []
-            },
-            "details": "Falcon Heavy core booster expended during the launch of the NROL-97 mission.",
-            "successful_landings": 0,
-            "attempted_landings": 0,
-            "flights": 1,
-            "last_launch_date": "2026-10-02T03:54:00Z",
-            "first_launch_date": "2026-10-02T03:54:00Z",
-            "fastest_turnaround": null
-          },
-          "previous_flight_date": null,
-          "turn_around_time": null,
-          "landing": {
-            "id": 1960,
-            "url": "https://ll.thespacedevs.com/2.3.0/landings/1960/",
-            "attempt": false,
-            "success": null,
-            "description": "The Falcon Heavy center core B1106 will be expended.",
-            "downrange_distance": null,
-            "landing_location": {
-              "id": 6,
-              "name": "Atlantic Ocean",
-              "active": true,
-              "abbrev": "ATL",
-              "description": "Atlantic Ocean",
-              "location": null,
-              "longitude": null,
-              "latitude": null,
-              "image": {
-                "id": 2230,
-                "name": "Sun glint on the Atlantic Ocean",
-                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_20240920085841.jpg",
-                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sun_glint_on_th_image_thumbnail_20240920085841.jpeg",
-                "credit": "NASA",
-                "license": {
-                  "id": 4,
-                  "name": "NASA Image and Media Guidelines",
-                  "priority": 0,
-                  "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                },
-                "single_use": true,
-                "variants": []
-              },
-              "successful_landings": 38,
-              "attempted_landings": 42,
-              "failed_landings": 4,
-              "celestial_body": {
-                "response_mode": "normal",
-                "id": 1,
-                "name": "Earth",
-                "type": {
-                  "id": 1,
-                  "name": "Planet"
-                },
-                "diameter": 12742000.0,
-                "mass": 5.972168e+24,
-                "gravity": 9.80655,
-                "length_of_day": "1 00:00:00",
-                "atmosphere": true,
-                "image": {
-                  "id": 2040,
-                  "name": "Earth (Apollo 17)",
-                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
-                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
-                  "credit": "NASA",
-                  "license": {
-                    "id": 4,
-                    "name": "NASA Image and Media Guidelines",
-                    "priority": 0,
-                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
-                  },
-                  "single_use": true,
-                  "variants": []
-                },
-                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
-                "wiki_url": "https://en.wikipedia.org/wiki/Earth"
-              }
-            },
-            "type": {
-              "id": 8,
-              "name": "Expended",
-              "abbrev": "EXP",
-              "description": "Vehicle did not perform any landing operations after launch"
-            }
-          },
-          "previous_flight": null
         },
         {
           "id": 989,
@@ -10535,7 +10535,7 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-10-08T14:13:10Z",
+    "last_updated": "2026-10-11T23:53:44Z",
     "net": "2026-10-12T23:00:00Z",
     "net_precision": {
       "id": 1,
@@ -12204,8 +12204,8 @@
           "name": "English",
           "code": "en"
         },
-        "start_time": "2026-10-12T22:50:00Z",
-        "end_time": "2026-10-13T22:50:00Z",
+        "start_time": "2026-10-13T00:01:00Z",
+        "end_time": "2026-10-14T00:01:00Z",
         "live": false
       }
     ],
@@ -12252,17 +12252,17 @@
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
@@ -14754,17 +14754,17 @@
       },
       {
         "type": {
-          "id": 7,
-          "abbrev": "Tank Press",
-          "description": "Fuel tanks are pressurized to flight levels"
+          "id": 6,
+          "abbrev": "Startup",
+          "description": "The onboard computer takes control over the countdown and runs last checks"
         },
         "relative_time": "-PT1M"
       },
       {
         "type": {
-          "id": 6,
-          "abbrev": "Startup",
-          "description": "The onboard computer takes control over the countdown and runs last checks"
+          "id": 7,
+          "abbrev": "Tank Press",
+          "description": "Fuel tanks are pressurized to flight levels"
         },
         "relative_time": "-PT1M"
       },
