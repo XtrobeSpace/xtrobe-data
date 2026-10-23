@@ -1,5 +1,558 @@
 [
   {
+    "id": "3ac1bd74-bf9a-4afe-ae00-3e1d180142dd",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/3ac1bd74-bf9a-4afe-ae00-3e1d180142dd/",
+    "name": "Astra Rocket 4 | Maiden Flight",
+    "response_mode": "detailed",
+    "slug": "astra-rocket-4-maiden-flight",
+    "launch_designator": null,
+    "status": {
+      "id": 2,
+      "name": "To Be Determined",
+      "abbrev": "TBD",
+      "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2026-09-16T12:51:16Z",
+    "net": "2027-01-31T00:00:00Z",
+    "net_precision": {
+      "id": 8,
+      "name": "Quarter 1",
+      "abbrev": "Q1",
+      "description": "The T-0 is expected in the first quarter of the given year."
+    },
+    "window_end": "2027-01-31T00:00:00Z",
+    "window_start": "2027-01-31T00:00:00Z",
+    "image": {
+      "id": 2479,
+      "name": "Astra Rocket 4",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_rocket_4_image_20250918165934.jpg",
+      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_rocket_4_image_thumbnail_20250918165934.jpeg",
+      "credit": "Astra Space",
+      "license": {
+        "id": 1,
+        "name": "Unknown",
+        "priority": 9,
+        "link": null
+      },
+      "single_use": false,
+      "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+      "response_mode": "normal",
+      "id": 285,
+      "url": "https://ll.thespacedevs.com/2.3.0/agencies/285/",
+      "name": "Astra Space",
+      "abbrev": "AS",
+      "type": {
+        "id": 3,
+        "name": "Commercial"
+      },
+      "featured": false,
+      "country": [
+        {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        }
+      ],
+      "description": "Astra Space is a launch vehicle company based in San Francisco, California, that develops pump-fed, liquid bipropellant propulsion engines for DARPA and NASA as well as their Astra Rocket launch vehicle.",
+      "administrator": "CEO: Chris Kemp",
+      "founding_year": 2005,
+      "launchers": "Rocket 3.3",
+      "spacecraft": "",
+      "parent": null,
+      "image": {
+        "id": 4,
+        "name": "[AUTO] Astra Space - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra2520space_image_20200216210038.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184549.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "logo": {
+        "id": 110,
+        "name": "[AUTO] Astra Space - logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra2520space_logo_20210828205410.png",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184912.png",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "social_logo": {
+        "id": 41,
+        "name": "Astra Space social logo",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_space_soc_image_20250918170503.jpg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_space_soc_image_thumbnail_20250918170503.jpeg",
+        "credit": "Astra Space",
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "total_launch_count": 7,
+      "consecutive_successful_launches": 0,
+      "successful_launches": 2,
+      "failed_launches": 5,
+      "pending_launches": 1,
+      "consecutive_successful_landings": 0,
+      "successful_landings": 0,
+      "failed_landings": 0,
+      "attempted_landings": 0,
+      "successful_landings_spacecraft": 0,
+      "failed_landings_spacecraft": 0,
+      "attempted_landings_spacecraft": 0,
+      "successful_landings_payload": 0,
+      "failed_landings_payload": 0,
+      "attempted_landings_payload": 0,
+      "info_url": "https://astra.com/",
+      "wiki_url": "https://en.wikipedia.org/wiki/Astra_Space",
+      "social_media_links": []
+    },
+    "rocket": {
+      "id": 8720,
+      "configuration": {
+        "response_mode": "detailed",
+        "id": 526,
+        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/526/",
+        "name": "Astra Rocket 4",
+        "families": [
+          {
+            "response_mode": "detailed",
+            "id": 64,
+            "name": "Astra Rocket",
+            "manufacturer": [
+              {
+                "response_mode": "normal",
+                "id": 285,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/285/",
+                "name": "Astra Space",
+                "abbrev": "AS",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                },
+                "featured": false,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "Astra Space is a launch vehicle company based in San Francisco, California, that develops pump-fed, liquid bipropellant propulsion engines for DARPA and NASA as well as their Astra Rocket launch vehicle.",
+                "administrator": "CEO: Chris Kemp",
+                "founding_year": 2005,
+                "launchers": "Rocket 3.3",
+                "spacecraft": "",
+                "parent": null,
+                "image": {
+                  "id": 4,
+                  "name": "[AUTO] Astra Space - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra2520space_image_20200216210038.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184549.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 110,
+                  "name": "[AUTO] Astra Space - logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra2520space_logo_20210828205410.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184912.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 41,
+                  "name": "Astra Space social logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_space_soc_image_20250918170503.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_space_soc_image_thumbnail_20250918170503.jpeg",
+                  "credit": "Astra Space",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 7,
+                "consecutive_successful_launches": 0,
+                "successful_launches": 2,
+                "failed_launches": 5,
+                "pending_launches": 1,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://astra.com/",
+                "wiki_url": "https://en.wikipedia.org/wiki/Astra_Space",
+                "social_media_links": []
+              }
+            ],
+            "parent": null,
+            "description": "",
+            "active": true,
+            "maiden_flight": "2020-09-12",
+            "total_launch_count": 7,
+            "consecutive_successful_launches": 0,
+            "successful_launches": 2,
+            "failed_launches": 5,
+            "pending_launches": 1,
+            "attempted_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "consecutive_successful_landings": 0
+          }
+        ],
+        "full_name": "Astra Rocket 4",
+        "variant": "4",
+        "active": true,
+        "is_placeholder": false,
+        "manufacturer": {
+          "response_mode": "normal",
+          "id": 285,
+          "url": "https://ll.thespacedevs.com/2.3.0/agencies/285/",
+          "name": "Astra Space",
+          "abbrev": "AS",
+          "type": {
+            "id": 3,
+            "name": "Commercial"
+          },
+          "featured": false,
+          "country": [
+            {
+              "id": 2,
+              "name": "United States of America",
+              "alpha_2_code": "US",
+              "alpha_3_code": "USA",
+              "nationality_name": "American",
+              "nationality_name_composed": "Americano"
+            }
+          ],
+          "description": "Astra Space is a launch vehicle company based in San Francisco, California, that develops pump-fed, liquid bipropellant propulsion engines for DARPA and NASA as well as their Astra Rocket launch vehicle.",
+          "administrator": "CEO: Chris Kemp",
+          "founding_year": 2005,
+          "launchers": "Rocket 3.3",
+          "spacecraft": "",
+          "parent": null,
+          "image": {
+            "id": 4,
+            "name": "[AUTO] Astra Space - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra2520space_image_20200216210038.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184549.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "logo": {
+            "id": 110,
+            "name": "[AUTO] Astra Space - logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra2520space_logo_20210828205410.png",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184912.png",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "social_logo": {
+            "id": 41,
+            "name": "Astra Space social logo",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_space_soc_image_20250918170503.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_space_soc_image_thumbnail_20250918170503.jpeg",
+            "credit": "Astra Space",
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "total_launch_count": 7,
+          "consecutive_successful_launches": 0,
+          "successful_launches": 2,
+          "failed_launches": 5,
+          "pending_launches": 1,
+          "consecutive_successful_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "attempted_landings": 0,
+          "successful_landings_spacecraft": 0,
+          "failed_landings_spacecraft": 0,
+          "attempted_landings_spacecraft": 0,
+          "successful_landings_payload": 0,
+          "failed_landings_payload": 0,
+          "attempted_landings_payload": 0,
+          "info_url": "https://astra.com/",
+          "wiki_url": "https://en.wikipedia.org/wiki/Astra_Space",
+          "social_media_links": []
+        },
+        "program": [],
+        "reusable": false,
+        "image": {
+          "id": 2479,
+          "name": "Astra Rocket 4",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_rocket_4_image_20250918165934.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/astra_rocket_4_image_thumbnail_20250918165934.jpeg",
+          "credit": "Astra Space",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "info_url": "https://astra.com/launch/",
+        "wiki_url": "https://en.wikipedia.org/wiki/Astra_Rocket#Rocket_4",
+        "description": "Astra Rocket 4 is the fourth version and second orbital version of Astra Space's small satellite launch vehicle. It is designed to carry 750kg in LEO.",
+        "alias": "",
+        "min_stage": 2,
+        "max_stage": 2,
+        "length": 18.9,
+        "diameter": 1.8,
+        "maiden_flight": null,
+        "launch_cost": 5000000,
+        "launch_mass": 30.0,
+        "leo_capacity": 750.0,
+        "gto_capacity": null,
+        "geo_capacity": null,
+        "sso_capacity": null,
+        "to_thrust": 310.0,
+        "apogee": null,
+        "total_launch_count": 0,
+        "consecutive_successful_launches": 0,
+        "successful_launches": 0,
+        "failed_launches": 0,
+        "pending_launches": 1,
+        "attempted_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "consecutive_successful_landings": 0,
+        "fastest_turnaround": null
+      },
+      "launcher_stage": [],
+      "spacecraft_stage": [],
+      "payloads": []
+    },
+    "mission": {
+      "id": 7312,
+      "name": "Maiden Flight",
+      "type": "Test Flight",
+      "description": "First flight of Astra Space's second generation small satellite launch vehicle.",
+      "image": null,
+      "orbit": {
+        "id": 8,
+        "name": "Low Earth Orbit",
+        "abbrev": "LEO",
+        "celestial_body": {
+          "response_mode": "list",
+          "id": 1,
+          "name": "Earth"
+        }
+      },
+      "agencies": [],
+      "info_urls": [],
+      "vid_urls": []
+    },
+    "pad": {
+      "id": 177,
+      "url": "https://ll.thespacedevs.com/2.3.0/pads/177/",
+      "active": true,
+      "agencies": [],
+      "name": "Unknown Pad",
+      "image": null,
+      "description": null,
+      "info_url": null,
+      "wiki_url": "https://en.wikipedia.org/wiki/Wallops_Flight_Facility",
+      "map_url": "https://www.google.com/maps?q=37.9386111,-75.4594162",
+      "latitude": 37.9386111,
+      "longitude": -75.4594162,
+      "country": {
+        "id": 2,
+        "name": "United States of America",
+        "alpha_2_code": "US",
+        "alpha_3_code": "USA",
+        "nationality_name": "American",
+        "nationality_name_composed": "Americano"
+      },
+      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_177_20200803143406.jpg",
+      "total_launch_count": 8,
+      "orbital_launch_attempt_count": 0,
+      "fastest_turnaround": "P150DT3H55M",
+      "location": {
+        "response_mode": "normal",
+        "id": 21,
+        "url": "https://ll.thespacedevs.com/2.3.0/locations/21/",
+        "name": "Wallops Flight Facility, Virginia, USA",
+        "celestial_body": {
+          "response_mode": "normal",
+          "id": 1,
+          "name": "Earth",
+          "type": {
+            "id": 1,
+            "name": "Planet"
+          },
+          "diameter": 12742000.0,
+          "mass": 5.972168e+24,
+          "gravity": 9.80655,
+          "length_of_day": "1 00:00:00",
+          "atmosphere": true,
+          "image": {
+            "id": 2040,
+            "name": "Earth (Apollo 17)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+          "total_attempted_launches": 7643,
+          "successful_launches": 7086,
+          "failed_launches": 557,
+          "total_attempted_landings": 1381,
+          "successful_landings": 1332,
+          "failed_landings": 49
+        },
+        "active": true,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "description": "Wallops Flight Facility is a rocket launch site on Wallops Island on the Eastern Shore of Virginia, United States, just east of the Delmarva Peninsula and north-northeast of Norfolk. The facility is operated by the Goddard Space Flight Center in Greenbelt, Maryland, and primarily serves to support science and exploration missions for NASA and other federal agencies. WFF includes an extensively instrumented range to support launches of more than a dozen types of sounding rockets; small expendable suborbital and orbital rockets; high-altitude balloon flights carrying scientific instruments for atmospheric and astronomical research; and, using its Research Airport, flight tests of aeronautical research aircraft, including uncrewed aerial vehicles.",
+        "image": {
+          "id": 2227,
+          "name": "Wallops Flight Facility",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/wallops_flight__image_20240920083715.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/wallops_flight__image_thumbnail_20240920083715.jpeg",
+          "credit": "NASA",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_21_20200803142423.jpg",
+        "longitude": -75.467778,
+        "latitude": 37.933333,
+        "timezone_name": "America/New_York",
+        "total_launch_count": 87,
+        "total_landing_count": 0
+      }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7542,
+    "location_launch_attempt_count": 91,
+    "pad_launch_attempt_count": 9,
+    "agency_launch_attempt_count": 8,
+    "orbital_launch_attempt_count_year": 7,
+    "location_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 1,
+    "flightclub_url": null,
+    "updates": [
+      {
+        "id": 16125,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+        "comment": "NET early Q1.",
+        "info_url": "https://x.com/jeff_foust/status/2100123979558056068",
+        "created_by": "Cosmic_Penguin",
+        "created_on": "2026-09-16T12:51:00Z"
+      },
+      {
+        "id": 12299,
+        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+        "comment": "Adding launch NET mid-2026",
+        "info_url": "https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/",
+        "created_by": "Nosu",
+        "created_on": "2025-09-18T17:07:00Z"
+      }
+    ],
+    "info_urls": [],
+    "vid_urls": [],
+    "timeline": [],
+    "pad_turnaround": "P21900DT18H8M",
+    "mission_patches": []
+  },
+  {
     "id": "5276b922-e440-466b-9b19-5851a2d67e75",
     "url": "https://ll.thespacedevs.com/2.3.0/launches/5276b922-e440-466b-9b19-5851a2d67e75/",
     "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer F",
