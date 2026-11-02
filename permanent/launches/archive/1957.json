@@ -661,7 +661,7 @@
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2023-06-14T03:48:36Z",
+    "last_updated": "2026-11-02T20:27:43Z",
     "net": "1957-11-03T02:30:00Z",
     "net_precision": null,
     "window_end": "1957-11-03T02:30:00Z",
@@ -684,7 +684,7 @@
     "infographic": null,
     "probability": null,
     "weather_concerns": null,
-    "failreason": null,
+    "failreason": "",
     "hashtag": null,
     "launch_service_provider": {
       "response_mode": "normal",
@@ -954,7 +954,261 @@
         "fastest_turnaround": "P29DT7H1M26S"
       },
       "launcher_stage": [],
-      "spacecraft_stage": [],
+      "spacecraft_stage": [
+        {
+          "id": 921,
+          "url": "https://ll.thespacedevs.com/2.3.0/spacecraft_flights/921/",
+          "destination": "LEO",
+          "mission_end": "1958-04-14T00:00:00Z",
+          "spacecraft": {
+            "response_mode": "normal",
+            "id": 634,
+            "url": "https://ll.thespacedevs.com/2.3.0/spacecraft/634/",
+            "name": "Sputnik 2",
+            "serial_number": null,
+            "is_placeholder": false,
+            "image": {
+              "id": 2811,
+              "name": "Model of Sputnik 2 at the Memorial Museum of Cosmonautics in Moscow",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/model_of_sputni_image_20261102201654.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/model_of_sputni_image_thumbnail_20261102201654.jpeg",
+              "credit": "Laika ac from USA",
+              "license": {
+                "id": 18,
+                "name": "CC BY-SA 2.0",
+                "priority": 3,
+                "link": "https://creativecommons.org/licenses/by-sa/2.0/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "in_space": false,
+            "time_in_space": "P161DT21H30M",
+            "time_docked": "P0D",
+            "flights_count": 1,
+            "mission_ends_count": 1,
+            "status": {
+              "id": 3,
+              "name": "Destroyed"
+            },
+            "description": "The Capsule that brought Laika into space.",
+            "spacecraft_config": {
+              "response_mode": "detailed",
+              "id": 48,
+              "url": "https://ll.thespacedevs.com/2.3.0/spacecraft_configurations/48/",
+              "name": "Sputnik 2",
+              "type": {
+                "id": 2,
+                "name": "Capsule"
+              },
+              "agency": {
+                "response_mode": "normal",
+                "id": 66,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
+                "name": "Soviet Space Program",
+                "abbrev": "CCCP",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                },
+                "featured": false,
+                "country": [
+                  {
+                    "id": 5,
+                    "name": "Russia",
+                    "alpha_2_code": "RU",
+                    "alpha_3_code": "RUS",
+                    "nationality_name": "Russian",
+                    "nationality_name_composed": "Russo"
+                  }
+                ],
+                "description": "The Soviet space program, was the national space program of the Union of Soviet Socialist Republics (USSR) actived from 1930s until disintegration of the Soviet Union in 1991.\r\n\r\nThe Soviet Union's space program was mainly based on the cosmonautic exploration of space and the development of the expandable launch vehicles, which had been split between many design bureaus competing against each other. Over its 60-years of history, the Russian program was responsible for a number of pioneering feats and accomplishments in the human space flight, including the first intercontinental ballistic missile (R-7), first satellite (Sputnik 1), first animal in Earth orbit (the dog Laika on Sputnik 2), first human in space and Earth orbit (cosmonaut Yuri Gagarin on Vostok 1), first woman in space and Earth orbit (cosmonaut Valentina Tereshkova on Vostok 6), first spacewalk (cosmonaut Alexei Leonov on Voskhod 2), first Moon impact (Luna 2), first image of the far side of the Moon (Luna 3) and unmanned lunar soft landing (Luna 9), first space rover (Lunokhod 1), first sample of lunar soil automatically extracted and brought to Earth (Luna 16), and first space station (Salyut 1). Further notable records included the first interplanetary probes: Venera 1 and Mars 1 to fly by Venus and Mars, respectively, Venera 3 and Mars 2 to impact the respective planet surface, and Venera 7 and Mars 3 to make soft landings on these planets.",
+                "administrator": null,
+                "founding_year": 1931,
+                "launchers": "",
+                "spacecraft": "",
+                "parent": null,
+                "image": {
+                  "id": 28,
+                  "name": "[AUTO] Soviet Space Program - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet2520space2520program_image_20191229081306.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184701.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 182,
+                  "name": "Soviet Space Program logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet2520space2520program_logo_20191229081307.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185129.png",
+                  "credit": "USSR",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 92,
+                  "name": "Soviet Space Program social logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet_space_pr_image_20251017113333.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soviet_space_pr_image_thumbnail_20251017113333.png",
+                  "credit": "USSR",
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                }
+              },
+              "family": [],
+              "in_use": true,
+              "image": {
+                "id": 2811,
+                "name": "Model of Sputnik 2 at the Memorial Museum of Cosmonautics in Moscow",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/model_of_sputni_image_20261102201654.jpeg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/model_of_sputni_image_thumbnail_20261102201654.jpeg",
+                "credit": "Laika ac from USA",
+                "license": {
+                  "id": 18,
+                  "name": "CC BY-SA 2.0",
+                  "priority": 3,
+                  "link": "https://creativecommons.org/licenses/by-sa/2.0/"
+                },
+                "single_use": true,
+                "variants": []
+              },
+              "capability": "LEO Orbit, no long term life support.",
+              "history": "Sputnik 2 was the second spacecraft launched into Earth orbit, and the first to carry an animal into orbit, a Soviet space dog named Laika.",
+              "details": "Sputnik 2, launched on the Soviet Union's last Sputnik PS flight, was a 500-kilogram conical capsule carrying scientific instruments, telemetry, and a sealed cabin for the dog Laika, which brought a total mass of 7.79 tonnes into orbit by remaining attached to its rocket core.",
+              "maiden_flight": null,
+              "height": 4.0,
+              "diameter": 2.0,
+              "human_rated": false,
+              "crew_capacity": 1,
+              "payload_capacity": 10,
+              "payload_return_capacity": 0,
+              "flight_life": "Few Hours",
+              "wiki_link": "https://en.wikipedia.org/wiki/Sputnik_2",
+              "info_link": "",
+              "spacecraft_flown": 0,
+              "total_launch_count": 0,
+              "successful_launches": 0,
+              "failed_launches": 0,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "fastest_turnaround": null
+            },
+            "fastest_turnaround": null
+          },
+          "landing": {
+            "id": 1976,
+            "url": "https://ll.thespacedevs.com/2.3.0/landings/1976/",
+            "attempt": false,
+            "success": null,
+            "description": "",
+            "downrange_distance": null,
+            "landing_location": null,
+            "type": {
+              "id": 7,
+              "name": "Destructive Reentry",
+              "abbrev": "ATM",
+              "description": "Spacecraft burned up in the atmosphere"
+            }
+          },
+          "duration": "P161DT21H30M",
+          "turn_around_time": null,
+          "response_mode": "detailed",
+          "launch_crew": [
+            {
+              "id": 5320,
+              "role": {
+                "id": 21,
+                "role": "Space Traveller",
+                "priority": 9
+              },
+              "astronaut": {
+                "id": 924,
+                "url": "https://ll.thespacedevs.com/2.3.0/astronauts/924/",
+                "name": "Laika",
+                "status": {
+                  "id": 11,
+                  "name": "Deceased"
+                },
+                "agency": {
+                  "response_mode": "list",
+                  "id": 66,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
+                  "name": "Soviet Space Program",
+                  "abbrev": "CCCP",
+                  "type": {
+                    "id": 1,
+                    "name": "Government"
+                  }
+                },
+                "image": {
+                  "id": 2810,
+                  "name": "Laika",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/laika_image_20261102201324.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/laika_image_thumbnail_20261102201325.jpeg",
+                  "credit": "Музей космонавтики / Главархив Москвы",
+                  "license": {
+                    "id": 30,
+                    "name": "CC BY 4.0",
+                    "priority": 4,
+                    "link": "https://creativecommons.org/licenses/by/4.0/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "response_mode": "list",
+                "type": {
+                  "id": 6,
+                  "name": "Non-Human"
+                },
+                "in_space": false,
+                "time_in_space": "P0D",
+                "eva_time": "P0D",
+                "age": 3,
+                "date_of_birth": "1954-01-01",
+                "date_of_death": "1957-11-03",
+                "nationality": [
+                  {
+                    "id": 5,
+                    "name": "Russia",
+                    "alpha_2_code": "RU",
+                    "alpha_3_code": "RUS",
+                    "nationality_name": "Russian",
+                    "nationality_name_composed": "Russo"
+                  }
+                ],
+                "bio": "Laika was a Soviet space dog who was one of the first animals in space and the first to orbit the Earth",
+                "wiki": "https://en.wikipedia.org/wiki/Laika",
+                "last_flight": null,
+                "first_flight": null,
+                "social_media_links": []
+              }
+            }
+          ],
+          "onboard_crew": [],
+          "landing_crew": [],
+          "docking_events": []
+        }
+      ],
       "payloads": []
     },
     "mission": {
