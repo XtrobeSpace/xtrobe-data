@@ -1,10 +1,10 @@
 [
   {
-    "id": "0dd110e8-afc2-4a91-b4b1-b7d2d1f5c1ee",
-    "url": "https://ll.thespacedevs.com/2.3.0/launches/0dd110e8-afc2-4a91-b4b1-b7d2d1f5c1ee/",
-    "name": "Vega-C | Sentinel CO2M-A",
+    "id": "eaff0f48-04b7-49fc-bee6-9afd9ec8cc5f",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/eaff0f48-04b7-49fc-bee6-9afd9ec8cc5f/",
+    "name": "Vega-C | IRIDE 2",
     "response_mode": "detailed",
-    "slug": "vega-c-sentinel-co2m-a",
+    "slug": "vega-c-iride-2",
     "launch_designator": null,
     "status": {
       "id": 2,
@@ -12,16 +12,16 @@
       "abbrev": "TBD",
       "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
     },
-    "last_updated": "2025-09-15T11:34:28Z",
-    "net": "2027-11-30T00:00:00Z",
+    "last_updated": "2026-11-16T12:46:37Z",
+    "net": "2027-12-31T00:00:00Z",
     "net_precision": {
-      "id": 7,
-      "name": "Month",
-      "abbrev": "M",
-      "description": "The T-0 is expected in the given month."
+      "id": 14,
+      "name": "Year",
+      "abbrev": "Y",
+      "description": "The T-0 is expected in the given year."
     },
-    "window_end": "2027-11-30T00:00:00Z",
-    "window_start": "2027-11-30T00:00:00Z",
+    "window_end": "2027-12-31T00:00:00Z",
+    "window_start": "2027-12-31T00:00:00Z",
     "image": {
       "id": 1861,
       "name": "Vega-C liftoff on its maiden flight (LARES-2)",
@@ -217,7 +217,7 @@
       ]
     },
     "rocket": {
-      "id": 7720,
+      "id": 7821,
       "configuration": {
         "response_mode": "detailed",
         "id": 127,
@@ -647,10 +647,10 @@
       "payloads": []
     },
     "mission": {
-      "id": 6239,
-      "name": "Sentinel CO2M-A",
+      "id": 6327,
+      "name": "IRIDE 2",
       "type": "Earth Science",
-      "description": "Sentinel CO2M-A carries a near-infrared and shortwave-infrared spectrometer to measure atmospheric carbon dioxide produced by human activity, providing the EU with a unique and independent source of information, to assess the effectiveness of policy measures, and to track their impact towards decarbonizing Europe and meeting national emission reduction targets.",
+      "description": "Second dedicated launch for the European Space Agency's IRIDE Earth observation constellation.",
       "image": null,
       "orbit": {
         "id": 17,
@@ -872,102 +872,38 @@
       }
     },
     "webcast_live": false,
-    "program": [
-      {
-        "response_mode": "normal",
-        "id": 22,
-        "url": "https://ll.thespacedevs.com/2.3.0/programs/22/",
-        "name": "Copernicus",
-        "image": {
-          "id": 1879,
-          "name": "[AUTO] Copernicus - image",
-          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/copernicus_program_20221129162831.png",
-          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194023.png",
-          "credit": null,
-          "license": {
-            "id": 1,
-            "name": "Unknown",
-            "priority": 9,
-            "link": null
-          },
-          "single_use": true,
-          "variants": []
-        },
-        "info_url": "https://www.copernicus.eu",
-        "wiki_url": "https://en.wikipedia.org/wiki/Copernicus_Programme",
-        "description": "Copernicus is the European Union's Earth observation programme coordinated and managed for the European Commission by the European Union Agency for the Space Programme in partnership with the European Space Agency (ESA), the EU Member States. It aims at achieving a global, continuous, autonomous, high quality, wide range Earth observation capacity. Providing accurate, timely and easily accessible information to, among other things, improve the management of the environment, understand and mitigate the effects of climate change, and ensure civil security.",
-        "agencies": [
-          {
-            "response_mode": "list",
-            "id": 27,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/27/",
-            "name": "European Space Agency",
-            "abbrev": "ESA",
-            "type": {
-              "id": 2,
-              "name": "Multinational"
-            }
-          },
-          {
-            "response_mode": "list",
-            "id": 1043,
-            "url": "https://ll.thespacedevs.com/2.3.0/agencies/1043/",
-            "name": "European Union Agency for the Space Programme",
-            "abbrev": "EUSPA",
-            "type": {
-              "id": 2,
-              "name": "Multinational"
-            }
-          }
-        ],
-        "start_date": "2014-04-03T00:00:00Z",
-        "end_date": null,
-        "mission_patches": [],
-        "type": {
-          "id": 8,
-          "name": "Earth Observation"
-        }
-      }
-    ],
-    "orbital_launch_attempt_count": 7598,
-    "location_launch_attempt_count": 348,
-    "pad_launch_attempt_count": 62,
-    "agency_launch_attempt_count": 8,
-    "orbital_launch_attempt_count_year": 68,
-    "location_launch_attempt_count_year": 8,
-    "pad_launch_attempt_count_year": 4,
-    "agency_launch_attempt_count_year": 4,
+    "program": [],
+    "orbital_launch_attempt_count": 7685,
+    "location_launch_attempt_count": 361,
+    "pad_launch_attempt_count": 66,
+    "agency_launch_attempt_count": 13,
+    "orbital_launch_attempt_count_year": 156,
+    "location_launch_attempt_count_year": 22,
+    "pad_launch_attempt_count_year": 9,
+    "agency_launch_attempt_count_year": 10,
     "flightclub_url": null,
     "updates": [
       {
-        "id": 12254,
+        "id": 16786,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "NET November 2027",
-        "info_url": "https://database.eohandbook.com/database/missionsummary.aspx?missionID=1033",
+        "comment": "NET 2027",
+        "info_url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
         "created_by": "Nosu",
-        "created_on": "2025-09-15T11:32:00Z"
+        "created_on": "2026-11-16T12:46:00Z"
       },
       {
-        "id": 7636,
+        "id": 3556,
         "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "NET 2026",
-        "info_url": "https://www.eumetsat.int/co2m",
+        "comment": "Adding launch NET Q4 2025",
+        "info_url": "https://newsroom.arianespace.com/arianespace-awarded-new-vega-c-launches-for-the-iride-programme/",
         "created_by": "Nosu",
-        "created_on": "2024-05-27T13:21:26Z"
-      },
-      {
-        "id": 2925,
-        "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
-        "comment": "Adding launch NET 2025",
-        "info_url": "https://www.arianespace.com/press-release/arianespace-supporting-the-european-unions-copernicus-programme-with-vega-c/",
-        "created_by": "Nosu",
-        "created_on": "2022-11-29T16:06:14Z"
+        "created_on": "2023-03-14T17:32:53Z"
       }
     ],
     "info_urls": [],
     "vid_urls": [],
     "timeline": [],
-    "pad_turnaround": "P153D",
+    "pad_turnaround": "P31D",
     "mission_patches": []
   },
   {
