@@ -8792,17 +8792,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
@@ -11327,7 +11327,7 @@
         "relative_time": "PT7M34S"
       }
     ],
-    "pad_turnaround": "P2DT9H30M",
+    "pad_turnaround": "P1DT9H44M",
     "mission_patches": [
       {
         "id": 1057,
@@ -11362,7 +11362,7 @@
       "abbrev": "Go",
       "description": "Current T-0 confirmed by official or reliable sources."
     },
-    "last_updated": "2026-11-17T19:49:30Z",
+    "last_updated": "2026-11-18T07:53:30Z",
     "net": "2026-11-23T11:09:00Z",
     "net_precision": {
       "id": 1,
@@ -12873,8 +12873,48 @@
         "created_on": "2026-07-03T12:23:00Z"
       }
     ],
-    "info_urls": [],
-    "vid_urls": [],
+    "info_urls": [
+      {
+        "priority": 10,
+        "source": "arianespace.com",
+        "title": "Flight VA271 - Amazon Leo LE-04",
+        "description": "Arianespace to launch 36 Amazon Leo satellites on November 23 at the earliest, for 10th Ariane 6 flight",
+        "feature_image": null,
+        "url": "https://www.arianespace.com/folders/flight-va271-amazon-leo-le-04/",
+        "type": {
+          "id": 1,
+          "name": "Official Page"
+        },
+        "language": {
+          "id": 1,
+          "name": "English",
+          "code": "en"
+        }
+      }
+    ],
+    "vid_urls": [
+      {
+        "priority": 10,
+        "source": "youtube.com",
+        "publisher": "CNES",
+        "title": "Lancement Ariane 6 pour la constellation Amazon LEO (VA271)",
+        "description": "Et de 10 ! Pour ce 10e lancement Ariane 6 depuis le Centre spatial guyanais, le lanceur européen emportera 36 satellites Amazon LEO. Ariane 6 décollera dans sa configuration à quatre boosters et sera équipée des propulseurs d'appoint à propergol solide P160C.\n\n🚀 *Zoom sur le lancement VA271*\n\nLe lancement doit intervenir le 23 novembre 2026 au plus tôt, précise son opérateur Arianespace dans un communiqué. La fenêtre de tir sera fixée à l'approche de la mission.\n\n🛰️ *Zoom sur le passager*\n\nCette mission marque le quatrième lancement pour soutenir le déploiement de la constellation Amazon LEO, avec 36 nouveaux satellites à bord. Amazon LEO est le réseau de satellites en orbite basse d'Amazon, dont la mission est de fournir un accès Internet rapide et fiable aux clients situés hors de p...",
+        "feature_image": "https://i.ytimg.com/vi/F4xjWb4OEs4/maxresdefault.jpg?v=6afb2712",
+        "url": "https://www.youtube.com/watch?v=F4xjWb4OEs4",
+        "type": {
+          "id": 1,
+          "name": "Official Webcast"
+        },
+        "language": {
+          "id": 4,
+          "name": "French",
+          "code": "fr"
+        },
+        "start_time": "2026-11-23T10:00:00Z",
+        "end_time": null,
+        "live": false
+      }
+    ],
     "timeline": [],
     "pad_turnaround": "P87DT14H58M",
     "mission_patches": [
