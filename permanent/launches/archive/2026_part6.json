@@ -7275,7 +7275,7 @@
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-11-20T02:38:17Z",
+    "last_updated": "2026-11-20T17:20:06Z",
     "net": "2026-10-13T10:33:44Z",
     "net_precision": {
       "id": 0,
@@ -8510,8 +8510,8 @@
               "variants": []
             },
             "in_space": true,
-            "time_in_space": "P312DT23H58M36S",
-            "time_docked": "P304DT14H27M53S",
+            "time_in_space": "P313DT14H48M5S",
+            "time_docked": "P305DT5H2M",
             "flights_count": 4,
             "mission_ends_count": 3,
             "status": {
@@ -8921,7 +8921,7 @@
               "id": 645,
               "url": "https://ll.thespacedevs.com/2.3.0/docking_events/645/",
               "docking": "2026-10-15T14:27:00Z",
-              "departure": null,
+              "departure": "2026-11-20T17:05:00Z",
               "docking_location": {
                 "id": 30,
                 "name": "Harmony zenith",
@@ -9692,17 +9692,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
