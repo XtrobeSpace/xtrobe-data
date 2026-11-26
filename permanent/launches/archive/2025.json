@@ -12,7 +12,7 @@
       "abbrev": "Success",
       "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
     },
-    "last_updated": "2026-11-25T15:38:37Z",
+    "last_updated": "2026-11-26T15:23:49Z",
     "net": "2025-08-22T03:50:00Z",
     "net_precision": {
       "id": 1,
@@ -1247,7 +1247,7 @@
               "variants": []
             },
             "in_space": true,
-            "time_in_space": "P2268DT16H39M36S",
+            "time_in_space": "P2269DT16H22M25S",
             "time_docked": "P0D",
             "flights_count": 4,
             "mission_ends_count": 3,
@@ -1424,7 +1424,7 @@
               "description": "Horizontal landing on a runway or flat surface."
             }
           },
-          "duration": "P460DT11H48M37.605405S",
+          "duration": "P461DT11H33M48.981816S",
           "turn_around_time": "P1013DT17H28M",
           "response_mode": "detailed",
           "launch_crew": [],
@@ -1681,8 +1681,8 @@
           },
           "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
           "wiki_url": "https://en.wikipedia.org/wiki/Earth",
-          "total_attempted_launches": 7672,
-          "successful_launches": 7114,
+          "total_attempted_launches": 7673,
+          "successful_launches": 7115,
           "failed_launches": 558,
           "total_attempted_landings": 1392,
           "successful_landings": 1342,
@@ -1922,17 +1922,17 @@
       },
       {
         "type": {
-          "id": 2,
-          "abbrev": "Prop Load",
-          "description": "Start of propelland loading"
+          "id": 3,
+          "abbrev": "Stage 1 LOX Load",
+          "description": "Start of liquid oxygen loading in the first stage"
         },
         "relative_time": "-PT35M"
       },
       {
         "type": {
-          "id": 3,
-          "abbrev": "Stage 1 LOX Load",
-          "description": "Start of liquid oxygen loading in the first stage"
+          "id": 2,
+          "abbrev": "Prop Load",
+          "description": "Start of propelland loading"
         },
         "relative_time": "-PT35M"
       },
